@@ -28,7 +28,7 @@ def transform(text):
 
 
 X = XML(
-    sourceVersion="nestle1904",
+    sourceVersion="",
     testSet=TEST_SET,
     generic=GENERIC,
     transform=transform,
