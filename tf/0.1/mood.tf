@@ -1,100 +1,114 @@
 @node
 @author=Evangelists and apostles
-@converters=Dirk Roorda et al. (Text-Fabric)
+@converters=Tony
 @description=this is XML attribute mood
 @descriptionTf=Nestle 1904 edition
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
-@language=nl
+@language=el
 @sourceFormat=XML
 @title=Greek New Testament
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-29T14:50:23Z
+@dateWritten=2023-03-30T09:35:09Z
 
-7231	participle
-7235	participle
-7243	optative
-7247	participle
+6796	indicative
+6808	participle
+6815	participle
+6821	indicative
+6825	indicative
+6846	indicative
+6849	indicative
+6854	participle
+6859	indicative
+6866	indicative
+6868	participle
+6876	indicative
+6880	subjunctive
+6884	indicative
+6888	subjunctive
+6896	indicative
+6898	indicative
+6904	subjunctive
+6906	indicative
+6914	participle
+6917	participle
+6921	indicative
+6927	imperative
+6931	subjunctive
+6933	indicative
+6937	subjunctive
+6940	participle
+6943	participle
+6951	indicative
+6953	participle
+6964	indicative
+6967	indicative
+6975	indicative
+6977	imperative
+6982	infinitive
+6985	imperative
+6988	participle
+6990	infinitive
+indicative
+6997	participle
+7000	infinitive
+7002	indicative
+7008	indicative
 infinitive
-7256	indicative
-infinitive
-7259	participle
-infinitive
-7263	participle
-7268	indicative
-7273	participle
-7284	participle
-7296	participle
-7298	indicative
+7016	infinitive
+7021	participle
+subjunctive
+indicative
+7039	indicative
+7045	indicative
+7047	infinitive
+7049	infinitive
+7051	indicative
+7056	indicative
+7058	participle
+7061	participle
+7069	indicative
+7074	indicative
+7076	subjunctive
+7083	participle
+7086	indicative
+7089	subjunctive
+7097	indicative
+7105	indicative
 participle
-7302	infinitive
-7310	participle
-7315	participle
-indicative
-7321	participle
-7326	participle
-7338	indicative
-7352	participle
-7354	participle
-7358	indicative
-7363	participle
-7368	participle
-7371	indicative
-7374	indicative
-7377	indicative
-7382	participle
-indicative
-7393	indicative
-7396	infinitive
-7398	indicative
-optative
-7407	indicative
-indicative
-7416	indicative
-7419	indicative
-7427	indicative
-7434	indicative
-7440	indicative
-7442	indicative
-7449	participle
-7452	participle
-7457	participle
-7462	participle
-participle
-7467	participle
-7480	indicative
-7482	indicative
-7489	participle
-imperative
-indicative
-7497	infinitive
-7502	infinitive
-7513	indicative
-7520	indicative
-7526	indicative
-7533	participle
-7538	indicative
-7540	participle
-7547	imperative
-7551	participle
-7561	indicative
-7567	indicative
-7569	participle
-7577	indicative
-7579	participle
-7583	participle
-7587	participle
-7596	participle
-7601	imperative
-participle
-7616	participle
-imperative
-imperative
-7621	participle
-7624	imperative
-7627	participle
-7633	participle
-7637	participle
+7114	indicative
+7116	participle
+7122	indicative
 infinitive
-7642	infinitive
+7128	subjunctive
+7131	indicative
+7137	participle
+7141	indicative
+7146	subjunctive
+indicative
+7152	indicative
+7155	participle
+7159	participle
+7164	indicative
+7169	participle
+indicative
+7175	indicative
+7178	imperative
+7185	participle
+7189	indicative
+7191	participle
+7193	indicative
+7197	indicative
+7208	indicative
+7210	indicative
+7216	indicative
+indicative
+7219	infinitive
+7223	indicative
+7229	infinitive
+7231	indicative
+7234	infinitive
+7239	indicative
+7242	indicative
+7246	imperative

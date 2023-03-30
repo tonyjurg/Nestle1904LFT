@@ -1,364 +1,344 @@
 @node
 @author=Evangelists and apostles
-@converters=Dirk Roorda et al. (Text-Fabric)
+@converters=Tony
 @description=this is XML attribute number
 @descriptionTf=Nestle 1904 edition
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
-@language=nl
+@language=el
 @sourceFormat=XML
 @title=Greek New Testament
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-29T14:50:23Z
+@dateWritten=2023-03-30T09:35:09Z
 
+6787	singular
+singular
+singular
+singular
+6792	plural
+plural
+singular
+plural
+singular
+6798	singular
+singular
+6802	singular
+singular
+6806	plural
+plural
+plural
+singular
+singular
+6812	singular
+singular
+singular
+singular
+6817	plural
+6820	plural
+singular
+6823	singular
+singular
+singular
+6827	plural
+singular
+singular
+singular
+6832	singular
+singular
+6836	singular
+singular
+singular
+singular
+singular
+singular
+6843	singular
+6845	singular
+singular
+6849	singular
+6851	plural
+plural
+singular
+plural
+6856	singular
+6858	singular
+plural
+6861	singular
+singular
+6864	singular
+6866	singular
+singular
+singular
+singular
+6872	singular
+singular
+6875	singular
+plural
+6878	singular
+6880	plural
+plural
+6883	singular
+singular
+singular
+singular
+6888	plural
+6890	plural
+plural
+singular
+singular
+singular
+singular
+singular
+6898	plural
+6900	singular
+6903	singular
+plural
+6906	plural
+6908	singular
+singular
+plural
+plural
+plural
+6914	plural
+singular
+singular
+singular
+6919	singular
+singular
+singular
+singular
+singular
+6925	singular
+singular
+plural
+plural
+6931	plural
+plural
+plural
+6935	singular
+singular
+plural
+singular
+singular
+singular
+6943	singular
+6945	singular
+singular
+singular
+singular
+singular
+6951	singular
+singular
+singular
+6955	singular
+singular
+singular
+6959	singular
+singular
+6962	singular
+singular
+singular
+6966	singular
+singular
+6969	plural
+6971	singular
+singular
+singular
+6975	singular
+6977	plural
+singular
+6980	singular
+6983	singular
+6985	plural
+6987	singular
+singular
+singular
+6991	singular
+plural
+plural
+singular
+plural
+plural
+singular
+plural
+plural
+7002	singular
+7004	singular
+7006	singular
+7008	singular
+7011	plural
+7013	singular
+7015	singular
+7018	singular
+singular
+plural
+singular
+singular
+singular
+singular
+plural
+plural
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+singular
+7041	singular
+singular
+7044	plural
+singular
+singular
+7051	singular
+singular
+singular
+singular
+7056	singular
+7058	plural
+plural
+7061	plural
+singular
+singular
+singular
+7066	singular
+7068	singular
+singular
+singular
+singular
+plural
+7074	singular
+7076	singular
+plural
+plural
+plural
+7081	singular
+singular
+plural
+singular
+singular
+singular
+7088	singular
+singular
+7091	plural
+plural
+7094	singular
+plural
+plural
+plural
+singular
+singular
+singular
+7102	singular
+plural
+7105	singular
+singular
+7108	singular
+singular
+7112	singular
+singular
+plural
+singular
+plural
+7118	plural
+plural
+7121	plural
+plural
+7124	plural
+plural
+7127	plural
+plural
+singular
+singular
+singular
+singular
+singular
+singular
+7136	singular
+singular
+plural
+singular
+7141	singular
+plural
+7144	singular
+7146	singular
+singular
+singular
+plural
+plural
+plural
+singular
+plural
+plural
+singular
+plural
+7159	singular
+7161	plural
+7163	singular
+singular
+plural
+plural
+7168	plural
+plural
+singular
+7173	singular
+singular
+singular
+singular
+7178	singular
+singular
+singular
+7182	singular
+singular
+singular
+singular
+7187	singular
+singular
+singular
+singular
+singular
+7193	singular
+singular
+singular
+singular
+singular
+7199	plural
+7202	singular
+singular
+singular
+7207	plural
+plural
+7210	singular
+7212	singular
+singular
+plural
+singular
+singular
+singular
+plural
 7220	singular
-singular
-singular
-singular
+7223	singular
 7225	singular
+7227	singular
 singular
-plural
-7229	singular
-singular
-plural
+7231	singular
 7233	singular
-singular
-plural
-plural
-plural
-singular
-7240	singular
-7242	singular
-singular
-plural
-singular
-singular
-singular
-7249	plural
-7251	singular
-singular
-plural
-singular
-singular
-singular
-7258	plural
-singular
-7261	singular
-7263	singular
-plural
-plural
-singular
-7268	plural
-plural
-plural
-plural
-7273	plural
-7275	singular
-singular
-singular
-plural
-singular
-singular
-singular
-plural
-singular
-plural
-7286	singular
-7288	singular
-singular
-singular
-7292	singular
-plural
-singular
-singular
-plural
-7298	singular
-plural
-7301	plural
-7303	plural
-7305	singular
-singular
-7308	singular
-singular
-singular
-singular
-singular
-plural
-7315	plural
-singular
-7318	plural
-plural
-7321	plural
-singular
-plural
-singular
-7326	plural
-singular
-singular
-singular
-7331	singular
-singular
-singular
-plural
-plural
-7337	singular
-singular
-7340	singular
-7342	singular
-7344	plural
-7346	plural
-plural
-singular
-singular
-singular
-plural
-plural
-7354	plural
-7356	singular
-singular
-plural
-singular
-singular
-singular
-singular
-plural
-7367	plural
-plural
-7370	singular
-plural
-7373	singular
-plural
-7376	plural
-plural
-7380	singular
-singular
-singular
-singular
-7385	singular
-singular
-singular
-7389	singular
-singular
-singular
-singular
-singular
-singular
-singular
-7398	singular
-singular
-singular
-singular
-7404	plural
-plural
-7407	plural
-plural
-7410	plural
-7413	plural
-plural
-plural
-plural
-7418	plural
-plural
-7421	plural
-7423	singular
-singular
-singular
-singular
-plural
-7429	singular
-singular
-singular
-singular
-singular
-plural
-7436	singular
-singular
-singular
-singular
-plural
-plural
-plural
-plural
-7445	plural
-plural
-plural
-plural
-plural
-7451	plural
-plural
-plural
-plural
-7456	plural
-plural
-plural
-plural
+7236	singular
+7238	singular
 plural
-7462	plural
-plural
-plural
-plural
-singular
-plural
-plural
-plural
-plural
-plural
-plural
-plural
-singular
-singular
-singular
-singular
-7479	singular
-singular
-7482	singular
-7484	plural
-singular
-7487	singular
-singular
-singular
-singular
-singular
-singular
-7494	plural
-plural
-singular
-7498	singular
-7500	plural
-7503	plural
-plural
-plural
-7507	plural
-plural
-plural
-singular
-plural
-plural
-plural
-7516	plural
-plural
-plural
-plural
-plural
-7522	singular
-plural
-plural
-plural
-plural
-plural
-plural
-7530	plural
-plural
-plural
-plural
-7535	singular
-singular
-plural
-singular
-plural
-plural
-plural
-singular
-7545	plural
-plural
-plural
-plural
-plural
-plural
-plural
-7553	plural
-plural
-singular
 singular
-plural
-singular
-singular
-7561	plural
-plural
-7564	singular
-singular
-singular
-plural
-plural
-plural
-7571	plural
-plural
-plural
-plural
-plural
-plural
-plural
-plural
-plural
-plural
-singular
-7583	plural
-7585	plural
-plural
-plural
-plural
-singular
-singular
-plural
-singular
-7594	singular
-singular
-plural
-plural
-7599	singular
-singular
-plural
-plural
-singular
-singular
-singular
-singular
-plural
-singular
-singular
-7611	singular
-singular
-7615	plural
-plural
-plural
-plural
-7620	singular
-plural
-7623	plural
-plural
-7626	singular
-plural
-7629	singular
-7631	singular
-singular
-singular
-singular
-7636	singular
 singular
-7639	plural
 plural
-7644	singular
-singular
-singular
-plural
-7649	singular
-singular
 singular
-singular
 plural
-7655	singular
-singular
-singular
-singular
 plural
-singular
-singular
-singular
-7664	singular
-7666	singular
-singular
 singular
-7673	plural
 plural
 plural
+7250	singular

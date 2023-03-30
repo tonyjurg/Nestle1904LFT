@@ -1,7 +1,7 @@
 @node
 @author=Evangelists and apostles
 @converters=Tony
-@description=this is XML attribute cltype
+@description=this is XML attribute book_short
 @descriptionTf=Nestle 1904 edition
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
 @language=el
@@ -12,14 +12,5 @@
 @writtenBy=Text-Fabric
 @dateWritten=2023-03-30T09:35:09Z
 
-7253	VerbElided
-7317	Minor
-7321	VerbElided
-7385	Minor
-7451	VerbElided
-7460	Minor
-7493	Minor
-7500	VerbElided
-7564	Minor
-7567	VerbElided
-7619	VerbElided
+6672	2JN
+3JN

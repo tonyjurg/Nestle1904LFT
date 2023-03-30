@@ -1,308 +1,248 @@
 @node
 @author=Evangelists and apostles
-@converters=Dirk Roorda et al. (Text-Fabric)
+@converters=Tony
 @description=this is XML attribute gender
 @descriptionTf=Nestle 1904 edition
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
-@language=nl
+@language=el
 @sourceFormat=XML
 @title=Greek New Testament
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-29T14:50:23Z
+@dateWritten=2023-03-30T09:35:09Z
 
-7220	masculine
+6787	masculine
+masculine
+feminine
+feminine
+6792	neuter
+neuter
+feminine
+masculine
+6798	feminine
+6803	masculine
+6806	masculine
+masculine
+masculine
+feminine
+feminine
+6812	feminine
+feminine
+feminine
+feminine
+6823	masculine
+masculine
+6828	feminine
+neuter
+feminine
+6832	masculine
+masculine
+6836	masculine
 masculine
 masculine
 masculine
-7225	masculine
 masculine
 masculine
-7229	masculine
+6843	feminine
+6845	feminine
+6851	neuter
+neuter
+6854	masculine
+6856	feminine
+6858	feminine
+6861	masculine
+masculine
+6864	feminine
+6868	masculine
+6872	feminine
+feminine
+6875	feminine
+6878	feminine
+6881	masculine
+6883	feminine
+6885	feminine
+feminine
+6890	feminine
+feminine
+masculine
+feminine
+feminine
+feminine
+6900	feminine
+6903	feminine
+6908	masculine
 masculine
 masculine
-7233	masculine
+masculine
+masculine
+6914	masculine
 masculine
 masculine
 masculine
+6919	feminine
+masculine
+6922	masculine
+masculine
+6925	masculine
+masculine
+6928	masculine
+6932	neuter
+6935	masculine
+masculine
+6938	masculine
+masculine
+masculine
+6943	masculine
+6945	feminine
+feminine
+masculine
+masculine
+masculine
+6952	masculine
+masculine
+6955	feminine
+feminine
+masculine
+6959	masculine
+masculine
+6962	masculine
+masculine
+6966	masculine
+6971	feminine
+feminine
+feminine
+6978	masculine
+6980	feminine
+6983	masculine
+6987	masculine
+masculine
+masculine
+6992	neuter
+neuter
+masculine
+neuter
+neuter
+masculine
+neuter
+7004	masculine
+7006	neuter
+7013	neuter
+7015	neuter
+7018	feminine
+feminine
+7021	feminine
+7025	neuter
+neuter
+feminine
+feminine
+7030	feminine
+feminine
+masculine
+masculine
+masculine
+masculine
+masculine
+masculine
+7041	feminine
+masculine
+7044	neuter
+7053	feminine
+feminine
+7058	masculine
+masculine
+7061	masculine
+7063	feminine
+feminine
+7068	feminine
+7070	feminine
+feminine
+neuter
+7077	neuter
+neuter
+neuter
+7081	feminine
+feminine
+neuter
+masculine
+neuter
+7088	neuter
+7091	masculine
+masculine
+7094	neuter
+masculine
+masculine
+7099	feminine
+feminine
+7102	feminine
+masculine
+7106	masculine
+7108	masculine
+masculine
+7112	neuter
+neuter
+7115	neuter
+masculine
+7118	masculine
+masculine
+7124	masculine
+masculine
+7127	masculine
+7129	feminine
+feminine
+7132	neuter
+feminine
+feminine
+7136	masculine
+masculine
+feminine
+masculine
+7144	neuter
+7148	masculine
+neuter
+neuter
+neuter
+7153	masculine
+masculine
+masculine
+7159	masculine
+7161	masculine
+7163	masculine
+7165	masculine
+masculine
+7168	masculine
+masculine
+7173	feminine
+feminine
+7176	masculine
+7179	neuter
+neuter
+7182	neuter
+neuter
+masculine
+masculine
+7187	masculine
+masculine
+7190	masculine
+masculine
+7194	masculine
+masculine
+masculine
+7199	masculine
+7202	feminine
+feminine
+feminine
+7212	feminine
+feminine
+7215	feminine
+7218	neuter
+7225	neuter
+7227	masculine
+7236	neuter
 7238	neuter
 7240	feminine
-7242	feminine
 7244	masculine
-feminine
-feminine
 masculine
-7251	feminine
-feminine
-7254	feminine
-feminine
-7259	masculine
-7261	feminine
-7263	feminine
+7247	masculine
 masculine
-masculine
-feminine
-7269	masculine
-masculine
-masculine
-7273	masculine
-7275	neuter
-neuter
-neuter
-masculine
-feminine
-masculine
-masculine
-7283	feminine
-masculine
-7286	feminine
-7288	masculine
-masculine
-masculine
-7292	masculine
-7294	masculine
-masculine
-masculine
-7299	masculine
-7301	neuter
-7305	masculine
-masculine
-7308	feminine
-feminine
-masculine
-neuter
-neuter
-masculine
-7315	masculine
-7318	masculine
-masculine
-7321	masculine
-feminine
-masculine
-feminine
-7326	masculine
-neuter
-neuter
-neuter
-7331	feminine
-feminine
-feminine
-masculine
-masculine
-7337	masculine
-7340	feminine
-7342	feminine
-7344	feminine
-7346	feminine
-feminine
-masculine
-masculine
-masculine
-masculine
-feminine
-7354	feminine
-7356	feminine
-feminine
-7359	neuter
-neuter
-neuter
-feminine
-feminine
-7367	masculine
-masculine
-7370	feminine
-7373	feminine
-7376	feminine
-7380	masculine
-masculine
-masculine
-7385	masculine
-masculine
-neuter
-7389	masculine
-masculine
-masculine
-masculine
-7394	feminine
-feminine
-7401	masculine
-7404	masculine
-neuter
-7410	neuter
-7413	neuter
-neuter
-neuter
-7418	neuter
-7421	masculine
-7423	feminine
-feminine
-masculine
-masculine
-7429	feminine
-feminine
-masculine
-masculine
-masculine
-7436	feminine
-feminine
-masculine
-masculine
-7441	masculine
-7443	masculine
-7445	feminine
-feminine
-7448	feminine
-masculine
-7451	masculine
-masculine
-feminine
-feminine
-7456	masculine
-feminine
-neuter
-neuter
-neuter
-7462	neuter
-neuter
-neuter
-neuter
-feminine
-neuter
-feminine
-neuter
-feminine
-masculine
-masculine
-masculine
-masculine
-masculine
-neuter
-neuter
-7479	masculine
-7484	masculine
-masculine
-7487	masculine
-masculine
-masculine
-7492	masculine
-7494	feminine
-feminine
-masculine
-7498	feminine
-7500	masculine
-7503	masculine
-masculine
-masculine
-7507	neuter
-neuter
-neuter
-feminine
-masculine
-neuter
-7516	neuter
-neuter
-neuter
-neuter
-7522	masculine
-masculine
-masculine
-masculine
-7527	masculine
-masculine
-7530	feminine
-feminine
-masculine
-masculine
-7535	neuter
-neuter
-masculine
-7539	neuter
-masculine
-neuter
-feminine
-7545	masculine
-7548	neuter
-neuter
-neuter
-neuter
-7553	masculine
-masculine
-masculine
-masculine
-7558	masculine
-masculine
-7564	masculine
-masculine
-masculine
-7568	masculine
-masculine
-7571	feminine
-masculine
-feminine
-feminine
-feminine
-masculine
-7578	masculine
-masculine
-masculine
-neuter
-7583	masculine
-7585	masculine
-7587	masculine
-masculine
-feminine
-feminine
-7592	feminine
-7594	neuter
-neuter
-masculine
-masculine
-7599	feminine
-masculine
-7602	masculine
-neuter
-neuter
-masculine
-masculine
-7608	masculine
-masculine
-7611	feminine
-feminine
-7615	masculine
-masculine
-7620	neuter
-masculine
-7623	masculine
-7626	masculine
-masculine
-7629	masculine
-7631	feminine
-feminine
-masculine
-masculine
-7636	masculine
-masculine
-7640	masculine
-7644	feminine
-feminine
-masculine
-masculine
-7649	feminine
-masculine
-masculine
-masculine
-7655	masculine
-masculine
-masculine
-masculine
-7660	feminine
-feminine
-neuter
-7664	feminine
-7666	masculine
-masculine
-masculine
-7673	masculine
-masculine
-masculine
+7250	neuter

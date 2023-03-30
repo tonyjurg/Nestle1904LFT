@@ -1,280 +1,303 @@
 @node
 @author=Evangelists and apostles
-@converters=Dirk Roorda et al. (Text-Fabric)
+@converters=Tony
 @description=this is XML attribute role
 @descriptionTf=Nestle 1904 edition
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
-@language=nl
+@language=el
 @sourceFormat=XML
 @title=Greek New Testament
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-29T14:50:23Z
+@dateWritten=2023-03-30T09:35:09Z
 
+6795	o
+v
+6808	v
+6815	v
+6821	vc
+6825	vc
+6846	v
+adv
+6849	v
+6854	v
+6858	o
+v
+6864	aux
+adv
+v
+o
+v
+io
+6875	o
+v
+6880	v
+o
+6883	p
+vc
+6888	v
+6893	p
+6896	vc
+6898	v
+6904	v
+6906	v
+6913	adv
+v
+6917	v
+6920	s
+vc
+6927	v
+o
+6931	v
+o
+v
+6937	v
+6940	v
+6942	adv
+v
+6949	o
+adv
+v
+6953	v
+6957	s
+6964	v
+6966	s
+v
+6974	adv
+v
+adv
+v
+o
+6982	v
+io
+adv
+v
+6988	v
+io
+v
+v
+6997	v
+o
+io
+v
+adv
+v
+7008	v
+vc
+7016	v
+7023	v
+o
+7037	o
+s
+v
+7042	aux
+7045	v
+s
+7051	v
+7056	v
+adv
+v
+s
+7061	v
+7066	s
+7069	v
+7072	adv
+adv
+v
+7076	v
+7083	v
+aux
+o
+v
+7088	o
+v
+7094	o
+7096	s
+v
+7103	adv
+adv
+v
+v
+adv
+7114	v
+o
+v
+7121	s
+v
+v
+7127	p
+vc
+7131	v
+o
+7137	v
+adv
+7140	adv
+v
+o
+7146	v
+v
+7151	o
+v
+7155	v
+o
+7158	adv
+v
+7163	s
+v
+7169	v
+v
+7175	v
+aux
+7178	v
+7185	v
+7189	vc
+7191	v
+adv
+v
+7196	adv
+v
+7208	v
+7210	v
+7215	p
+vc
+v
+o
+v
+io
+7222	adv
+v
+7228	io
+v
 7231	v
-7235	v
-7237	io
-7243	v
-aux
-7247	v
+adv
+o
 v
-io
-7255	o
-v
-v
+7239	v
+s
 io
 v
-v
+o
+7246	v
+7254	s
+io
 7262	adv
-v
-7268	v
-7272	adv
-v
-7284	v
-7296	v
-7298	v
-v
+s
+7271	o
 adv
+7277	adv
+7280	p
+adv
+7285	p
+s
+7298	adv
+7303	adv
+7305	o
+adv
+7309	adv
+adv
+7312	adv
+7318	adv
+adv
+7322	o
+7324	adv
+adv
+7330	s
 o
-v
+7333	adv
+7338	s
+adv
+7341	adv
 o
-7305	s
-o
-7310	v
-7314	adv
-v
-v
-7320	adv
-v
-7326	v
-7338	v
-7351	adv
-v
-7354	v
-7358	v
-o
-7363	v
+7344	adv
+7348	adv
+7350	s
+7354	o
+s
+adv
+7359	p
 7365	adv
-7368	v
+7368	o
 7370	o
-v
-7373	o
-v
-7376	o
-v
-7382	v
-v
-7393	v
-7396	v
-7398	v
-v
-o
-s
-7404	s
+7373	s
+7379	adv
+7386	aux
+7388	adv
+7390	o
+7400	adv
+7403	o
+7406	adv
+7409	o
+7413	s
+7415	o
+adv
+7423	adv
 o
 adv
-v
-v
-7410	o
-adv
-7416	v
-7419	v
-s
+7430	o
+7432	p
+7435	adv
+7437	adv
+7439	s
+7441	v
+7444	s
+7452	s
 io
-7427	v
-7434	v
-7440	v
-s
-vc
-7449	v
-adv
-o
-v
-7457	v
+7457	adv
 7461	adv
+o
 v
-v
-7467	v
-7473	io
-7480	v
-7482	v
-7489	v
-aux
-v
+7465	adv
+7467	s
+7472	o
+7476	adv
+7480	adv
+7483	o
+o
+7486	o
 s
-7497	v
-o
-7502	v
-7512	adv
-v
-7519	o
-v
-7525	s
-vc
-7533	v
-7538	v
-o
-v
-o
-7545	aux
-s
-v
-7551	v
-7561	v
-io
-7567	vc
-7569	v
-7576	s
-vc
-7579	v
-7581	o
+7489	adv
+7495	adv
+7497	adv
+7501	adv
+7504	adv
+7506	adv
+7508	adv
 adv
-v
-7585	aux
-s
-v
-o
-7596	v
-o
-7601	v
-v
-7616	v
-v
-v
-7621	v
-7623	o
-v
-7627	v
-7633	v
-7637	v
-v
-o
-o2
-7642	v
-7647	o2
-7676	aux
-7679	s
-apposition
-7685	io
-7689	adv
-7693	adv
-7696	s
-7702	adv
+7513	adv
+7515	adv
+adv
+7521	o
 o
 adv
+7525	adv
+7528	io
+7532	s
+7537	adv
 adv
-7709	adv
+7540	o
+7544	adv
 adv
-o
+7549	topic
 adv
-7715	io
-7719	s
-7722	apposition
-7724	adv
-7727	adv
-7729	o
-7733	adv
-7736	o
-7742	apposition
-7746	adv
-o
-7752	adv
+7553	o
+7556	o
+7560	adv
+7566	o
+7568	o
+7571	s
+7573	p
+7577	s
+7579	o
+7582	adv
+7592	s
+7595	o
+7597	s
+7602	o
+7605	o
 adv
-7755	adv
-o
-7760	o
-apposition
-7764	o
-7768	o
-7770	adv
-7773	adv
+7613	o
+7616	adv
+7622	s
+7625	o
 adv
-adv
-7777	s
-7783	adv
-7785	o
-7789	adv
-7791	adv
-o
-7797	s
-7800	v
-7812	adv
-adv
-adv
-7819	s
-7821	apposition
-o
-o
-7825	o
-7831	o
-7834	adv
-adv
-7837	s
-7839	adv
-7846	adv
-7851	adv
-7857	adv
-7862	p
-7867	adv
-7870	adv
-p
-7875	adv
-7886	o
-7890	apposition
-s
-7894	adv
-7898	io
-s
-7902	adv
-o
-adv
-7907	adv
-7909	adv
-7912	o
-7914	adv
-7921	apposition
-7927	apposition
-adv
-s
-7933	p
-7936	adv
-7941	s
-7943	adv
-adv
-7949	o
-7951	apposition
-7953	adv
-7959	apposition
-7963	o
-p
-7967	s
-7969	adv
-7976	p
-7984	adv
-adv
-7988	adv
-adv
-7991	adv
-7993	adv
-o
-7999	apposition
-adv
-8007	adv
-o
-8010	adv
-adv
-8014	adv
-adv
-o
-8020	adv
-8025	io
-8028	o
-8032	adv
-8035	adv
-apposition
-8038	apposition
-adv
-8042	apposition
-8044	s
-8046	adv

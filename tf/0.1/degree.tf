@@ -1,16 +1,17 @@
 @node
 @author=Evangelists and apostles
-@converters=Dirk Roorda et al. (Text-Fabric)
+@converters=Tony
 @description=this is XML attribute degree
 @descriptionTf=Nestle 1904 edition
 @institute=ETCBC (Eep Talstra Centre for Bible and Computer)
-@language=nl
+@language=el
 @sourceFormat=XML
 @title=Greek New Testament
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-03-29T14:50:23Z
+@dateWritten=2023-03-30T09:35:09Z
 
-7564	superlative
-7590	superlative
+6788	comparative
+7033	comparative
+7070	comparative
