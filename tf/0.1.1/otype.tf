@@ -9,13 +9,12 @@
 @valueType=str
 @version=0.1.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-03T15:19:34Z
+@dateWritten=2023-04-03T16:01:11Z
 
-1-518536	char
-518537-518563	book
-518564	error
-518565-518591	file
-518592	folder
-518593-526603	sentence
-526604-640053	wg
-640054-777832	word
+1-1756	char
+1757-1758	book
+1759-1760	file
+1761	folder
+1762-1797	sentence
+1798-2173	wg
+2174-2637	word
