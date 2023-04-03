@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="treedown.css"?>
 <?xml-stylesheet href="boxwood.css"?>
-<book lang="el" id="2JN">
+<book lang="el"  book_short="2JN">
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:1">2JN 1:1</milestone> 
-         <milestone unit="verse" id="2JN 1:2">2JN 1:2</milestone> Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν, διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="1"> </verse>
+ 
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="2"> </verse>
+ Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν, διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα.</p>
       <wg>
          <wg articular="true" rule="CLaCL">
             <wg class="cl"
@@ -15,7 +23,12 @@
                 junction="coordinate">
                <wg class="np" articular="true" rule="DetAdj" role="s">
                   <w ref="2JN 1:1!1"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="1" 
+                      after=" "
                      class="det"
                      xml:id="n63001001001"
                      lemma="ὁ"
@@ -30,7 +43,12 @@
                      morph="T-NSM"
                      unicode="Ὁ">Ὁ</w>
                   <w ref="2JN 1:1!2"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="2" 
+                      after=" "
                      class="adj"
                      xml:id="n63001001002"
                      lemma="πρεσβύτερος"
@@ -50,7 +68,12 @@
                   <wg rule="NpaNp">
                      <wg class="np" rule="AdjpNp">
                         <w ref="2JN 1:1!3"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="3" 
+                            after=" "
                            class="adj"
                            xml:id="n63001001003"
                            lemma="ἐκλεκτός"
@@ -65,7 +88,12 @@
                            morph="A-DSF"
                            unicode="ἐκλεκτῇ">ἐκλεκτῇ</w>
                         <w ref="2JN 1:1!4"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="4" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n63001001004"
@@ -83,7 +111,12 @@
                      </wg>
                      <wg type="group">
                         <w ref="2JN 1:1!5"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="5" 
+                            after=" "
                            class="conj"
                            xml:id="n63001001005"
                            lemma="καί"
@@ -94,7 +127,12 @@
                            unicode="καὶ">καὶ</w>
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="2JN 1:1!6"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="6" 
+                               after=" "
                               class="det"
                               xml:id="n63001001006"
                               lemma="ὁ"
@@ -110,7 +148,12 @@
                               unicode="τοῖς">τοῖς</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="2JN 1:1!7"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="7" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001001007"
@@ -126,7 +169,12 @@
                                  morph="N-DPN"
                                  unicode="τέκνοις">τέκνοις</w>
                               <w ref="2JN 1:1!8"
-                                 after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="8" 
+                                  after=","
                                  class="pron"
                                  type="personal"
                                  xml:id="n63001001008"
@@ -150,7 +198,12 @@
                       junction="apposition">
                      <w role="o"
                         ref="2JN 1:1!9"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="9" 
+                         after=" "
                         class="pron"
                         type="relative"
                         xml:id="n63001001009"
@@ -166,7 +219,12 @@
                         referent="n63001001004 n63001001007">οὓς</w>
                      <w role="v"
                         ref="2JN 1:1!11"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="11" 
+                         after=" "
                         class="verb"
                         xml:id="n63001001011"
                         lemma="ἀγαπάω"
@@ -185,7 +243,12 @@
                         frame="A1:n63001001009 A0:n63001001010;n63001001015;n63001001016;n63001001022">ἀγαπῶ</w>
                      <wg class="pp" rule="PrepNp" role="adv">
                         <w ref="2JN 1:1!12"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="12" 
+                            after=" "
                            class="prep"
                            xml:id="n63001001012"
                            lemma="ἐν"
@@ -197,7 +260,12 @@
                            morph="PREP"
                            unicode="ἐν">ἐν</w>
                         <w ref="2JN 1:1!13"
-                           after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="13" 
+                            after=","
                            class="noun"
                            type="common"
                            xml:id="n63001001013"
@@ -216,7 +284,12 @@
                      </wg>
                      <wg rule="NpaNp" role="s">
                         <w ref="2JN 1:1!10"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="10" 
+                            after=" "
                            class="pron"
                            type="personal"
                            xml:id="n63001001010"
@@ -233,7 +306,12 @@
                            referent="n63001001002">ἐγὼ</w>
                         <wg type="group">
                            <w ref="2JN 1:1!14"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="14" 
+                               after=" "
                               class="conj"
                               xml:id="n63001001014"
                               lemma="καί"
@@ -244,7 +322,12 @@
                               unicode="καὶ">καὶ</w>
                            <wg type="group" articular="true" rule="notNPbutNP">
                               <w ref="2JN 1:1!15"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="15" 
+                                  after=" "
                                  class="adv"
                                  xml:id="n63001001015"
                                  lemma="οὐ"
@@ -255,7 +338,12 @@
                                  unicode="οὐκ">οὐκ</w>
                               <wg class="np" rule="NpAdjp">
                                  <w ref="2JN 1:1!16"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="16" 
+                                     after=" "
                                     class="pron"
                                     type="personal"
                                     xml:id="n63001001016"
@@ -271,7 +359,12 @@
                                     unicode="ἐγὼ"
                                     referent="n63001001002">ἐγὼ</w>
                                  <w ref="2JN 1:1!17"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="17" 
+                                     after=" "
                                     class="adj"
                                     xml:id="n63001001017"
                                     lemma="μόνος"
@@ -287,7 +380,12 @@
                                     unicode="μόνος">μόνος</w>
                               </wg>
                               <w ref="2JN 1:1!18"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="18" 
+                                  after=" "
                                  class="conj"
                                  xml:id="n63001001018"
                                  lemma="ἀλλά"
@@ -300,7 +398,12 @@
                                  unicode="ἀλλὰ">ἀλλὰ</w>
                               <wg class="np" articular="true" rule="AdvpNp">
                                  <w ref="2JN 1:1!19"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="19" 
+                                     after=" "
                                     class="adv"
                                     xml:id="n63001001019"
                                     lemma="καί"
@@ -311,7 +414,12 @@
                                     unicode="καὶ">καὶ</w>
                                  <wg class="np" articular="true" rule="All-NP">
                                     <w ref="2JN 1:1!20"
-                                       after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="20" 
+                                        after=" "
                                        class="adj"
                                        xml:id="n63001001020"
                                        lemma="πᾶς"
@@ -327,7 +435,12 @@
                                        unicode="πάντες">πάντες</w>
                                     <wg articular="true" rule="DetCL">
                                        <w ref="2JN 1:1!21"
-                                          after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="21" 
+                                           after=" "
                                           class="det"
                                           xml:id="n63001001021"
                                           lemma="ὁ"
@@ -344,7 +457,12 @@
                                        <wg class="cl" clauseType="nominalized" rule="V-O">
                                           <w role="v"
                                              ref="2JN 1:1!22"
-                                             after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="22" 
+                                              after=" "
                                              class="verb"
                                              xml:id="n63001001022"
                                              lemma="γινώσκω"
@@ -364,7 +482,12 @@
                                              frame="A0:n00000000000 A1:n63001001024">ἐγνωκότες</w>
                                           <wg class="np" articular="true" rule="DetNP" role="o">
                                              <w ref="2JN 1:1!23"
-                                                after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="23" 
+                                                 after=" "
                                                 class="det"
                                                 xml:id="n63001001023"
                                                 lemma="ὁ"
@@ -379,7 +502,12 @@
                                                 morph="T-ASF"
                                                 unicode="τὴν">τὴν</w>
                                              <w ref="2JN 1:1!24"
-                                                after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="24" 
+                                                 after=","
                                                 class="noun"
                                                 type="common"
                                                 xml:id="n63001001024"
@@ -404,7 +532,12 @@
                      </wg>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
                         <w ref="2JN 1:2!1"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="1" 
+                            after=" "
                            class="prep"
                            xml:id="n63001002001"
                            lemma="διά"
@@ -418,7 +551,12 @@
                         <wg type="apposition" class="np" articular="true" rule="Np-Appos">
                            <wg class="np" articular="true" rule="DetNP">
                               <w ref="2JN 1:2!2"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="2" 
+                                  after=" "
                                  class="det"
                                  xml:id="n63001002002"
                                  lemma="ὁ"
@@ -433,7 +571,12 @@
                                  morph="T-ASF"
                                  unicode="τὴν">τὴν</w>
                               <w ref="2JN 1:2!3"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="3" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001002003"
@@ -451,7 +594,12 @@
                            </wg>
                            <wg junction="apposition" articular="true" rule="DetCL">
                               <w ref="2JN 1:2!4"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="4" 
+                                  after=" "
                                  class="det"
                                  xml:id="n63001002004"
                                  lemma="ὁ"
@@ -468,7 +616,12 @@
                               <wg class="cl" clauseType="nominalized" rule="V-ADV">
                                  <w role="v"
                                     ref="2JN 1:2!5"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="5" 
+                                     after=" "
                                     class="verb"
                                     xml:id="n63001002005"
                                     lemma="μένω"
@@ -489,7 +642,12 @@
                                     subjref="n63001002003">μένουσαν</w>
                                  <wg class="pp" rule="PrepNp" role="adv">
                                     <w ref="2JN 1:2!6"
-                                       after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="6" 
+                                        after=" "
                                        class="prep"
                                        xml:id="n63001002006"
                                        lemma="ἐν"
@@ -501,7 +659,12 @@
                                        morph="PREP"
                                        unicode="ἐν">ἐν</w>
                                     <w ref="2JN 1:2!7"
-                                       after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="7" 
+                                        after=","
                                        class="pron"
                                        type="personal"
                                        xml:id="n63001002007"
@@ -526,7 +689,12 @@
             </wg>
             <wg type="group">
                <w ref="2JN 1:2!8"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="8" 
+                   after=" "
                   class="conj"
                   xml:id="n63001002008"
                   lemma="καί"
@@ -538,7 +706,12 @@
                <wg class="cl" rule="P-VC-ADV" junction="coordinate">
                   <wg class="pp" rule="PrepNp" role="p">
                      <w ref="2JN 1:2!9"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="9" 
+                         after=" "
                         class="prep"
                         xml:id="n63001002009"
                         lemma="μετά"
@@ -550,7 +723,12 @@
                         morph="PREP"
                         unicode="μεθ’">μεθ’</w>
                      <w ref="2JN 1:2!10"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="10" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n63001002010"
@@ -568,7 +746,12 @@
                   </wg>
                   <w role="vc"
                      ref="2JN 1:2!11"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="11" 
+                      after=" "
                      class="verb"
                      xml:id="n63001002011"
                      lemma="εἰμί"
@@ -585,7 +768,12 @@
                      subjref="n63001002003">ἔσται</w>
                   <wg class="pp" articular="true" rule="PrepNp" role="adv">
                      <w ref="2JN 1:2!12"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="12" 
+                         after=" "
                         class="prep"
                         xml:id="n63001002012"
                         lemma="εἰς"
@@ -596,7 +784,12 @@
                         unicode="εἰς">εἰς</w>
                      <wg class="np" articular="true" rule="DetNP">
                         <w ref="2JN 1:2!13"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="13" 
+                            after=" "
                            class="det"
                            xml:id="n63001002013"
                            lemma="ὁ"
@@ -611,7 +804,12 @@
                            morph="T-ASM"
                            unicode="τὸν">τὸν</w>
                         <w ref="2JN 1:2!14"
-                           after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="14" 
+                            after="."
                            class="noun"
                            type="common"
                            xml:id="n63001002014"
@@ -635,12 +833,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:3">2JN 1:3</milestone> ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ Θεοῦ Πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ Υἱοῦ τοῦ Πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="3"> </verse>
+ ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ Θεοῦ Πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ Υἱοῦ τοῦ Πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.</p>
       <wg>
          <wg class="cl" rule="VC-P-S-ADV">
             <w role="vc"
                ref="2JN 1:3!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n63001003001"
                lemma="εἰμί"
@@ -658,7 +865,12 @@
                unicode="ἔσται">ἔσται</w>
             <wg class="pp" rule="PrepNp" role="p">
                <w ref="2JN 1:3!2"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="2" 
+                   after=" "
                   class="prep"
                   xml:id="n63001003002"
                   lemma="μετά"
@@ -670,7 +882,12 @@
                   morph="PREP"
                   unicode="μεθ’">μεθ’</w>
                <w ref="2JN 1:3!3"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="3" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n63001003003"
@@ -689,7 +906,12 @@
             <wg class="np" rule="NpPp" role="s">
                <wg type="group" rule="NpNpNp">
                   <w ref="2JN 1:3!4"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="4" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n63001003004"
@@ -705,7 +927,12 @@
                      morph="N-NSF"
                      unicode="χάρις">χάρις</w>
                   <w ref="2JN 1:3!5"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="5" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n63001003005"
@@ -721,7 +948,12 @@
                      morph="N-NSN"
                      unicode="ἔλεος">ἔλεος</w>
                   <w ref="2JN 1:3!6"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="6" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n63001003006"
@@ -740,7 +972,12 @@
                <wg rule="Conj2Pp">
                   <wg class="pp" rule="PrepNp">
                      <w ref="2JN 1:3!7"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="7" 
+                         after=" "
                         class="prep"
                         xml:id="n63001003007"
                         lemma="παρά"
@@ -753,7 +990,12 @@
                         unicode="παρὰ">παρὰ</w>
                      <wg type="apposition" class="np" rule="Np-Appos">
                         <w ref="2JN 1:3!8"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="8" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n63001003008"
@@ -769,7 +1011,12 @@
                            morph="N-GSM"
                            unicode="Θεοῦ">Θεοῦ</w>
                         <w ref="2JN 1:3!9"
-                           after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="9" 
+                            after=","
                            class="noun"
                            type="common"
                            xml:id="n63001003009"
@@ -788,7 +1035,12 @@
                   </wg>
                   <wg type="group">
                      <w ref="2JN 1:3!10"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="10" 
+                         after=" "
                         class="conj"
                         xml:id="n63001003010"
                         lemma="καί"
@@ -799,7 +1051,12 @@
                         unicode="καὶ">καὶ</w>
                      <wg class="pp" rule="PrepNp">
                         <w ref="2JN 1:3!11"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="11" 
+                            after=" "
                            class="prep"
                            xml:id="n63001003011"
                            lemma="παρά"
@@ -811,7 +1068,12 @@
                         <wg type="apposition" class="np" rule="Np-Appos">
                            <wg type="apposition" class="np" rule="Np-Appos">
                               <w ref="2JN 1:3!12"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="12" 
+                                  after=" "
                                  class="noun"
                                  type="proper"
                                  xml:id="n63001003012"
@@ -827,7 +1089,12 @@
                                  morph="N-GSM"
                                  unicode="Ἰησοῦ">Ἰησοῦ</w>
                               <w ref="2JN 1:3!13"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="13" 
+                                  after=" "
                                  class="noun"
                                  type="proper"
                                  xml:id="n63001003013"
@@ -845,7 +1112,12 @@
                            </wg>
                            <wg class="np" junction="apposition" articular="true" rule="DetNP">
                               <w ref="2JN 1:3!14"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="det"
                                  xml:id="n63001003014"
                                  lemma="ὁ"
@@ -861,7 +1133,12 @@
                                  unicode="τοῦ">τοῦ</w>
                               <wg class="np" rule="NPofNP">
                                  <w ref="2JN 1:3!15"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="15" 
+                                     after=" "
                                     class="noun"
                                     type="common"
                                     xml:id="n63001003015"
@@ -878,7 +1155,12 @@
                                     unicode="Υἱοῦ">Υἱοῦ</w>
                                  <wg class="np" articular="true" rule="DetNP">
                                     <w ref="2JN 1:3!16"
-                                       after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="16" 
+                                        after=" "
                                        class="det"
                                        xml:id="n63001003016"
                                        lemma="ὁ"
@@ -893,7 +1175,12 @@
                                        morph="T-GSM"
                                        unicode="τοῦ">τοῦ</w>
                                     <w ref="2JN 1:3!17"
-                                       after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="17" 
+                                        after=","
                                        class="noun"
                                        type="common"
                                        xml:id="n63001003017"
@@ -918,7 +1205,12 @@
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
                <w ref="2JN 1:3!18"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="18" 
+                   after=" "
                   class="prep"
                   xml:id="n63001003018"
                   lemma="ἐν"
@@ -931,7 +1223,12 @@
                   unicode="ἐν">ἐν</w>
                <wg rule="NpaNp">
                   <w ref="2JN 1:3!19"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="19" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n63001003019"
@@ -948,7 +1245,12 @@
                      unicode="ἀληθείᾳ">ἀληθείᾳ</w>
                   <wg type="group">
                      <w ref="2JN 1:3!20"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="20" 
+                         after=" "
                         class="conj"
                         xml:id="n63001003020"
                         lemma="καί"
@@ -958,7 +1260,12 @@
                         morph="CONJ"
                         unicode="καὶ">καὶ</w>
                      <w ref="2JN 1:3!21"
-                        after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="21" 
+                         after="."
                         class="noun"
                         type="common"
                         xml:id="n63001003021"
@@ -981,12 +1288,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:4">2JN 1:4</milestone> Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ Πατρός.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="4"> </verse>
+ Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ Πατρός.</p>
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="630010040010170">
             <w role="v"
                ref="2JN 1:4!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n63001004001"
                lemma="χαίρω"
@@ -1006,7 +1322,12 @@
                subjref="n63001001002">Ἐχάρην</w>
             <w role="adv"
                ref="2JN 1:4!2"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="2" 
+                after=" "
                class="adv"
                xml:id="n63001004002"
                lemma="λίαν"
@@ -1019,7 +1340,12 @@
                unicode="λίαν">λίαν</w>
             <wg rule="sub-CL" role="adv">
                <w ref="2JN 1:4!3"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="3" 
+                   after=" "
                   class="conj"
                   xml:id="n63001004003"
                   lemma="ὅτι"
@@ -1033,7 +1359,12 @@
                <wg class="cl" rule="V-O" junction="subordinate">
                   <w role="v"
                      ref="2JN 1:4!4"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="4" 
+                      after=" "
                      class="verb"
                      xml:id="n63001004004"
                      lemma="εὑρίσκω"
@@ -1054,7 +1385,12 @@
                   <wg Rule="ClCl" class="cl" nodeId="630010040050130" role="o">
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
                         <w ref="2JN 1:4!5"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="5" 
+                            after=" "
                            class="prep"
                            xml:id="n63001004005"
                            lemma="ἐκ"
@@ -1065,7 +1401,12 @@
                            unicode="ἐκ">ἐκ</w>
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="2JN 1:4!6"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="6" 
+                               after=" "
                               class="det"
                               xml:id="n63001004006"
                               lemma="ὁ"
@@ -1081,7 +1422,12 @@
                               unicode="τῶν">τῶν</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="2JN 1:4!7"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="7" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001004007"
@@ -1097,7 +1443,12 @@
                                  morph="N-GPN"
                                  unicode="τέκνων">τέκνων</w>
                               <w ref="2JN 1:4!8"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="8" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n63001004008"
@@ -1115,7 +1466,12 @@
                      </wg>
                      <w role="v"
                         ref="2JN 1:4!9"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="9" 
+                         after=" "
                         class="verb"
                         xml:id="n63001004009"
                         lemma="περιπατέω"
@@ -1135,7 +1491,12 @@
                         frame="A0:n00000000000">περιπατοῦντας</w>
                      <wg class="pp" rule="PrepNp" role="adv">
                         <w ref="2JN 1:4!10"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="10" 
+                            after=" "
                            class="prep"
                            xml:id="n63001004010"
                            lemma="ἐν"
@@ -1147,7 +1508,12 @@
                            morph="PREP"
                            unicode="ἐν">ἐν</w>
                         <w ref="2JN 1:4!11"
-                           after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="11" 
+                            after=","
                            class="noun"
                            type="common"
                            xml:id="n63001004011"
@@ -1165,7 +1531,12 @@
                      </wg>
                      <wg rule="sub-CL" role="adv">
                         <w ref="2JN 1:4!12"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="12" 
+                            after=" "
                            class="conj"
                            xml:id="n63001004012"
                            lemma="καθώς"
@@ -1179,7 +1550,12 @@
                         <wg class="cl" rule="O-V-ADV" junction="subordinate">
                            <w role="o"
                               ref="2JN 1:4!13"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="13" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n63001004013"
@@ -1196,7 +1572,12 @@
                               unicode="ἐντολὴν">ἐντολὴν</w>
                            <w role="v"
                               ref="2JN 1:4!14"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="14" 
+                               after=" "
                               class="verb"
                               xml:id="n63001004014"
                               lemma="λαμβάνω"
@@ -1216,7 +1597,12 @@
                               subjref="n63001001002 n63001001004 n63001001007 n63001001022">ἐλάβομεν</w>
                            <wg class="pp" articular="true" rule="PrepNp" role="adv">
                               <w ref="2JN 1:4!15"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="15" 
+                                  after=" "
                                  class="prep"
                                  xml:id="n63001004015"
                                  lemma="παρά"
@@ -1229,7 +1615,12 @@
                                  unicode="παρὰ">παρὰ</w>
                               <wg class="np" articular="true" rule="DetNP">
                                  <w ref="2JN 1:4!16"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="16" 
+                                     after=" "
                                     class="det"
                                     xml:id="n63001004016"
                                     lemma="ὁ"
@@ -1244,7 +1635,12 @@
                                     morph="T-GSM"
                                     unicode="τοῦ">τοῦ</w>
                                  <w ref="2JN 1:4!17"
-                                    after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="17" 
+                                     after="."
                                     class="noun"
                                     type="common"
                                     xml:id="n63001004017"
@@ -1271,11 +1667,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:5">2JN 1:5</milestone> καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινὴν, ἀλλὰ ἣν εἴχαμεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="5"> </verse>
+ καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινὴν, ἀλλὰ ἣν εἴχαμεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="2JN 1:5!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="1" 
+                after=" "
                class="conj"
                xml:id="n63001005001"
                lemma="καί"
@@ -1290,7 +1695,12 @@
                <wg rule="Np2CL" cltype="Minor">
                   <w role="aux"
                      ref="2JN 1:5!5"
-                     after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="5" 
+                      after=","
                      class="noun"
                      type="common"
                      xml:id="n63001005005"
@@ -1309,7 +1719,12 @@
                </wg>
                <w role="adv"
                   ref="2JN 1:5!2"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="2" 
+                   after=" "
                   class="adv"
                   xml:id="n63001005002"
                   lemma="νῦν"
@@ -1322,7 +1737,12 @@
                   unicode="νῦν">νῦν</w>
                <w role="v"
                   ref="2JN 1:5!3"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="3" 
+                   after=" "
                   class="verb"
                   xml:id="n63001005003"
                   lemma="ἐρωτάω"
@@ -1342,7 +1762,12 @@
                   subjref="n63001001002">ἐρωτῶ</w>
                <w role="o"
                   ref="2JN 1:5!4"
-                  after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="4" 
+                   after=","
                   class="pron"
                   type="personal"
                   xml:id="n63001005004"
@@ -1358,7 +1783,12 @@
                <wg class="cl" rule="V-IO-ADV" junction="subordinate" role="adv">
                   <w role="v"
                      ref="2JN 1:5!9"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="9" 
+                      after=" "
                      class="verb"
                      xml:id="n63001005009"
                      lemma="γράφω"
@@ -1379,7 +1809,12 @@
                      subjref="n63001001002">γράφων</w>
                   <w role="io"
                      ref="2JN 1:5!10"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="10" 
+                      after=" "
                      class="pron"
                      type="personal"
                      xml:id="n63001005010"
@@ -1398,7 +1833,12 @@
                       junction="subordinate"
                       role="adv">
                      <w ref="2JN 1:5!6"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="6" 
+                         after=" "
                         class="adv"
                         xml:id="n63001005006"
                         lemma="οὐ"
@@ -1409,7 +1849,12 @@
                         unicode="οὐχ">οὐχ</w>
                      <wg rule="sub-CL" junction="coordinate">
                         <w ref="2JN 1:5!7"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="7" 
+                            after=" "
                            class="conj"
                            xml:id="n63001005007"
                            lemma="ὡς"
@@ -1426,7 +1871,12 @@
                             junction="subordinate">
                            <wg class="np" rule="NpAdjp" role="o">
                               <w ref="2JN 1:5!8"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="8" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001005008"
@@ -1442,7 +1892,12 @@
                                  morph="N-ASF"
                                  unicode="ἐντολὴν">ἐντολὴν</w>
                               <w ref="2JN 1:5!11"
-                                 after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="11" 
+                                  after=","
                                  class="adj"
                                  xml:id="n63001005011"
                                  lemma="καινός"
@@ -1460,7 +1915,12 @@
                         </wg>
                      </wg>
                      <w ref="2JN 1:5!12"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="12" 
+                         after=" "
                         class="conj"
                         xml:id="n63001005012"
                         lemma="ἀλλά"
@@ -1477,7 +1937,12 @@
                          junction="coordinate">
                         <w role="o"
                            ref="2JN 1:5!13"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="13" 
+                            after=" "
                            class="pron"
                            type="relative"
                            xml:id="n63001005013"
@@ -1492,7 +1957,12 @@
                            unicode="ἣν">ἣν</w>
                         <w role="v"
                            ref="2JN 1:5!14"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="14" 
+                            after=" "
                            class="verb"
                            xml:id="n63001005014"
                            lemma="ἔχω"
@@ -1512,7 +1982,12 @@
                            subjref="n63001001002 n63001005005 n63001001007 n63001001022">εἴχαμεν</w>
                         <wg class="pp" rule="PrepNp" role="adv">
                            <w ref="2JN 1:5!15"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="15" 
+                               after=" "
                               class="prep"
                               xml:id="n63001005015"
                               lemma="ἀπό"
@@ -1524,7 +1999,12 @@
                               morph="PREP"
                               unicode="ἀπ’">ἀπ’</w>
                            <w ref="2JN 1:5!16"
-                              after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="16" 
+                               after=","
                               class="noun"
                               type="common"
                               xml:id="n63001005016"
@@ -1545,7 +2025,12 @@
                </wg>
                <wg rule="sub-CL" role="adv">
                   <w ref="2JN 1:5!17"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="17" 
+                      after=" "
                      class="conj"
                      xml:id="n63001005017"
                      lemma="ἵνα"
@@ -1559,7 +2044,12 @@
                   <wg class="cl" rule="V-O" junction="subordinate">
                      <w role="v"
                         ref="2JN 1:5!18"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="18" 
+                         after=" "
                         class="verb"
                         xml:id="n63001005018"
                         lemma="ἀγαπάω"
@@ -1579,7 +2069,12 @@
                         subjref="n63001001002 n63001005005 n63001001007 n63001001022">ἀγαπῶμεν</w>
                      <w role="o"
                         ref="2JN 1:5!19"
-                        after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="19" 
+                         after="."
                         class="pron"
                         type="personal"
                         xml:id="n63001005019"
@@ -1603,11 +2098,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:6">2JN 1:6</milestone> καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ·</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="6"> </verse>
+ καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ·</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="2JN 1:6!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="1" 
+                after=" "
                class="conj"
                xml:id="n63001006001"
                lemma="καί"
@@ -1621,7 +2125,12 @@
             <wg Rule="ClCl" class="cl" nodeId="630010060020100">
                <w role="p"
                   ref="2JN 1:6!2"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="2" 
+                   after=" "
                   class="pron"
                   type="demonstrative"
                   xml:id="n63001006002"
@@ -1637,7 +2146,12 @@
                   referent="n63001006007">αὕτη</w>
                <w role="vc"
                   ref="2JN 1:6!3"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="3" 
+                   after=" "
                   class="verb"
                   xml:id="n63001006003"
                   lemma="εἰμί"
@@ -1653,7 +2167,12 @@
                   unicode="ἐστὶν">ἐστὶν</w>
                <wg class="np" articular="true" rule="DetNP" role="s">
                   <w ref="2JN 1:6!4"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="4" 
+                      after=" "
                      class="det"
                      xml:id="n63001006004"
                      lemma="ὁ"
@@ -1668,7 +2187,12 @@
                      morph="T-NSF"
                      unicode="ἡ">ἡ</w>
                   <w ref="2JN 1:6!5"
-                     after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="5" 
+                      after=","
                      class="noun"
                      type="common"
                      xml:id="n63001006005"
@@ -1686,7 +2210,12 @@
                </wg>
                <wg rule="that-VP" role="o">
                   <w ref="2JN 1:6!6"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="6" 
+                      after=" "
                      class="adv"
                      xml:id="n63001006006"
                      lemma="ἵνα"
@@ -1700,7 +2229,12 @@
                   <wg class="cl" rule="V-ADV">
                      <w role="v"
                         ref="2JN 1:6!7"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="7" 
+                         after=" "
                         class="verb"
                         xml:id="n63001006007"
                         lemma="περιπατέω"
@@ -1720,7 +2254,12 @@
                         subjref="n63001001002 n63001005005 n63001001007 n63001001022">περιπατῶμεν</w>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
                         <w ref="2JN 1:6!8"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="8" 
+                            after=" "
                            class="prep"
                            xml:id="n63001006008"
                            lemma="κατά"
@@ -1733,7 +2272,12 @@
                            unicode="κατὰ">κατὰ</w>
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="2JN 1:6!9"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="9" 
+                               after=" "
                               class="det"
                               xml:id="n63001006009"
                               lemma="ὁ"
@@ -1749,7 +2293,12 @@
                               unicode="τὰς">τὰς</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="2JN 1:6!10"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="10" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001006010"
@@ -1765,7 +2314,12 @@
                                  morph="N-APF"
                                  unicode="ἐντολὰς">ἐντολὰς</w>
                               <w ref="2JN 1:6!11"
-                                 after="·"
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="11" 
+                                  after="·"
                                  class="pron"
                                  type="personal"
                                  xml:id="n63001006011"
@@ -1790,12 +2344,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:6">2JN 1:6</milestone> αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="6"> </verse>
+ αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.</p>
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="630010060120120">
             <w role="p"
                ref="2JN 1:6!12"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="12" 
+                after=" "
                class="pron"
                type="demonstrative"
                xml:id="n63001006012"
@@ -1811,7 +2374,12 @@
                referent="n63001006023">αὕτη</w>
             <wg class="np" articular="true" rule="DetNP" role="s">
                <w ref="2JN 1:6!13"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="13" 
+                   after=" "
                   class="det"
                   xml:id="n63001006013"
                   lemma="ὁ"
@@ -1826,7 +2394,12 @@
                   morph="T-NSF"
                   unicode="ἡ">ἡ</w>
                <w ref="2JN 1:6!14"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="14" 
+                   after=" "
                   class="noun"
                   type="common"
                   xml:id="n63001006014"
@@ -1844,7 +2417,12 @@
             </wg>
             <w role="vc"
                ref="2JN 1:6!15"
-               after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="15" 
+                after=","
                class="verb"
                xml:id="n63001006015"
                lemma="εἰμί"
@@ -1860,7 +2438,12 @@
                unicode="ἐστιν,">ἐστιν</w>
             <wg rule="sub-CL" role="adv">
                <w ref="2JN 1:6!16"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="16" 
+                   after=" "
                   class="conj"
                   xml:id="n63001006016"
                   lemma="καθώς"
@@ -1874,7 +2457,12 @@
                <wg class="cl" rule="V-ADV" junction="subordinate">
                   <w role="v"
                      ref="2JN 1:6!17"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="17" 
+                      after=" "
                      class="verb"
                      xml:id="n63001006017"
                      lemma="ἀκούω"
@@ -1894,7 +2482,12 @@
                      subjref="n63001005005 n63001001007">ἠκούσατε</w>
                   <wg class="pp" rule="PrepNp" role="adv">
                      <w ref="2JN 1:6!18"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="18" 
+                         after=" "
                         class="prep"
                         xml:id="n63001006018"
                         lemma="ἀπό"
@@ -1904,7 +2497,12 @@
                         morph="PREP"
                         unicode="ἀπ’">ἀπ’</w>
                      <w ref="2JN 1:6!19"
-                        after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="19" 
+                         after=","
                         class="noun"
                         type="common"
                         xml:id="n63001006019"
@@ -1924,7 +2522,12 @@
             </wg>
             <wg rule="that-VP" role="o">
                <w ref="2JN 1:6!20"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="20" 
+                   after=" "
                   class="adv"
                   xml:id="n63001006020"
                   lemma="ἵνα"
@@ -1938,7 +2541,12 @@
                <wg class="cl" rule="ADV-V">
                   <wg class="pp" rule="PrepNp" role="adv">
                      <w ref="2JN 1:6!21"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="21" 
+                         after=" "
                         class="prep"
                         xml:id="n63001006021"
                         lemma="ἐν"
@@ -1950,7 +2558,12 @@
                         morph="PREP"
                         unicode="ἐν">ἐν</w>
                      <w ref="2JN 1:6!22"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="22" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n63001006022"
@@ -1967,7 +2580,12 @@
                   </wg>
                   <w role="v"
                      ref="2JN 1:6!23"
-                     after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="23" 
+                      after="."
                      class="verb"
                      xml:id="n63001006023"
                      lemma="περιπατέω"
@@ -1992,11 +2610,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:7">2JN 1:7</milestone> ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί·</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="7"> </verse>
+ ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί·</p>
       <wg>
          <wg rule="sub-CL">
             <w ref="2JN 1:7!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="1" 
+                after=" "
                class="conj"
                xml:id="n63001007001"
                lemma="ὅτι"
@@ -2010,7 +2637,12 @@
             <wg class="cl" rule="V-ADV-S" junction="subordinate">
                <w role="v"
                   ref="2JN 1:7!4"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="4" 
+                   after=" "
                   class="verb"
                   xml:id="n63001007004"
                   lemma="ἐξέρχομαι"
@@ -2029,7 +2661,12 @@
                   frame="A0:n63001007003">ἐξῆλθον</w>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
                   <w ref="2JN 1:7!5"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="5" 
+                      after=" "
                      class="prep"
                      xml:id="n63001007005"
                      lemma="εἰς"
@@ -2042,7 +2679,12 @@
                      unicode="εἰς">εἰς</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="2JN 1:7!6"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="6" 
+                         after=" "
                         class="det"
                         xml:id="n63001007006"
                         lemma="ὁ"
@@ -2057,7 +2699,12 @@
                         morph="T-ASM"
                         unicode="τὸν">τὸν</w>
                      <w ref="2JN 1:7!7"
-                        after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="7" 
+                         after=","
                         class="noun"
                         type="common"
                         xml:id="n63001007007"
@@ -2078,7 +2725,12 @@
                <wg type="apposition" class="np" rule="Np-Appos" role="s">
                   <wg class="np" rule="AdjpNp">
                      <w ref="2JN 1:7!2"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="2" 
+                         after=" "
                         class="adj"
                         xml:id="n63001007002"
                         lemma="πολύς"
@@ -2093,7 +2745,12 @@
                         morph="A-NPM"
                         unicode="πολλοὶ">πολλοὶ</w>
                      <w ref="2JN 1:7!3"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="3" 
+                         after=" "
                         class="adj"
                         xml:id="n63001007003"
                         lemma="πλάνος"
@@ -2110,7 +2767,12 @@
                   </wg>
                   <wg junction="apposition" articular="true" rule="DetCL">
                      <w ref="2JN 1:7!8"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="8" 
+                         after=" "
                         class="det"
                         xml:id="n63001007008"
                         lemma="ὁ"
@@ -2127,7 +2789,12 @@
                      <wg class="cl" clauseType="nominalized" rule="ADV-V-O">
                         <w role="adv"
                            ref="2JN 1:7!9"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="9" 
+                            after=" "
                            class="adv"
                            xml:id="n63001007009"
                            lemma="μή"
@@ -2138,7 +2805,12 @@
                            unicode="μὴ">μὴ</w>
                         <w role="v"
                            ref="2JN 1:7!10"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="10" 
+                            after=" "
                            class="verb"
                            xml:id="n63001007010"
                            lemma="ὁμολογέω"
@@ -2160,7 +2832,12 @@
                         <wg class="cl" rule="S-V-ADV" junction="subordinate" role="o">
                            <wg type="apposition" class="np" rule="Np-Appos" role="s">
                               <w ref="2JN 1:7!11"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="11" 
+                                  after=" "
                                  class="noun"
                                  type="proper"
                                  xml:id="n63001007011"
@@ -2176,7 +2853,12 @@
                                  morph="N-ASM"
                                  unicode="Ἰησοῦν">Ἰησοῦν</w>
                               <w ref="2JN 1:7!12"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="12" 
+                                  after=" "
                                  class="noun"
                                  type="proper"
                                  xml:id="n63001007012"
@@ -2194,7 +2876,12 @@
                            </wg>
                            <w role="v"
                               ref="2JN 1:7!13"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="13" 
+                               after=" "
                               class="verb"
                               xml:id="n63001007013"
                               lemma="ἔρχομαι"
@@ -2214,7 +2901,12 @@
                               frame="A0:n63001007011">ἐρχόμενον</w>
                            <wg class="pp" rule="PrepNp" role="adv">
                               <w ref="2JN 1:7!14"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="prep"
                                  xml:id="n63001007014"
                                  lemma="ἐν"
@@ -2226,7 +2918,12 @@
                                  morph="PREP"
                                  unicode="ἐν">ἐν</w>
                               <w ref="2JN 1:7!15"
-                                 after="·"
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="15" 
+                                  after="·"
                                  class="noun"
                                  type="common"
                                  xml:id="n63001007015"
@@ -2252,12 +2949,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:7">2JN 1:7</milestone> οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="7"> </verse>
+ οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.</p>
       <wg>
          <wg class="cl" articular="true" rule="S-VC-P">
             <w role="s"
                ref="2JN 1:7!16"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="16" 
+                after=" "
                class="pron"
                type="demonstrative"
                xml:id="n63001007016"
@@ -2273,7 +2979,12 @@
                referent="n63001007003">οὗτός</w>
             <w role="vc"
                ref="2JN 1:7!17"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="17" 
+                after=" "
                class="verb"
                xml:id="n63001007017"
                lemma="εἰμί"
@@ -2290,7 +3001,12 @@
             <wg articular="true" rule="NpaNp" role="p">
                <wg class="np" articular="true" rule="DetAdj">
                   <w ref="2JN 1:7!18"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="18" 
+                      after=" "
                      class="det"
                      xml:id="n63001007018"
                      lemma="ὁ"
@@ -2305,7 +3021,12 @@
                      morph="T-NSM"
                      unicode="ὁ">ὁ</w>
                   <w ref="2JN 1:7!19"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="19" 
+                      after=" "
                      class="adj"
                      xml:id="n63001007019"
                      lemma="πλάνος"
@@ -2322,7 +3043,12 @@
                </wg>
                <wg type="group">
                   <w ref="2JN 1:7!20"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="20" 
+                      after=" "
                      class="conj"
                      xml:id="n63001007020"
                      lemma="καί"
@@ -2335,7 +3061,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="2JN 1:7!21"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="21" 
+                         after=" "
                         class="det"
                         xml:id="n63001007021"
                         lemma="ὁ"
@@ -2350,7 +3081,12 @@
                         morph="T-NSM"
                         unicode="ὁ">ὁ</w>
                      <w ref="2JN 1:7!22"
-                        after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="22" 
+                         after="."
                         class="noun"
                         type="common"
                         xml:id="n63001007022"
@@ -2373,12 +3109,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:8">2JN 1:8</milestone> βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ ἠργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="8"> </verse>
+ βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ ἠργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.</p>
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="630010080010110">
             <w role="v"
                ref="2JN 1:8!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n63001008001"
                lemma="βλέπω"
@@ -2398,7 +3143,12 @@
                subjref="n63001005005 n63001001007">βλέπετε</w>
             <w role="o"
                ref="2JN 1:8!2"
-               after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="2" 
+                after=","
                class="pron"
                type="personal"
                xml:id="n63001008002"
@@ -2414,7 +3164,12 @@
                referent="n63001005005 n63001001007">ἑαυτούς</w>
             <wg rule="sub-CL" role="adv">
                <w ref="2JN 1:8!3"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="3" 
+                   after=" "
                   class="conj"
                   xml:id="n63001008003"
                   lemma="ἵνα"
@@ -2427,7 +3182,12 @@
                   unicode="ἵνα">ἵνα</w>
                <wg type="group" rule="notCLbutCL2CL" junction="subordinate">
                   <w ref="2JN 1:8!4"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="4" 
+                      after=" "
                      class="adv"
                      xml:id="n63001008004"
                      lemma="μή"
@@ -2439,7 +3199,12 @@
                   <wg class="cl" rule="V-O" junction="coordinate">
                      <w role="v"
                         ref="2JN 1:8!5"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="5" 
+                         after=" "
                         class="verb"
                         xml:id="n63001008005"
                         lemma="ἀπόλλυμι"
@@ -2464,7 +3229,12 @@
                          role="o">
                         <w role="o"
                            ref="2JN 1:8!6"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="6" 
+                            after=" "
                            class="pron"
                            type="relative"
                            xml:id="n63001008006"
@@ -2479,7 +3249,12 @@
                            unicode="ἃ">ἃ</w>
                         <w role="v"
                            ref="2JN 1:8!7"
-                           after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="7" 
+                            after=","
                            class="verb"
                            xml:id="n63001008007"
                            lemma="ἐργάζομαι"
@@ -2500,7 +3275,12 @@
                      </wg>
                   </wg>
                   <w ref="2JN 1:8!8"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="8" 
+                      after=" "
                      class="conj"
                      xml:id="n63001008008"
                      lemma="ἀλλά"
@@ -2514,7 +3294,12 @@
                   <wg class="cl" rule="O-V" junction="coordinate">
                      <wg class="np" rule="NpAdjp" role="o">
                         <w ref="2JN 1:8!9"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="9" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n63001008009"
@@ -2530,7 +3315,12 @@
                            morph="N-ASM"
                            unicode="μισθὸν">μισθὸν</w>
                         <w ref="2JN 1:8!10"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="10" 
+                            after=" "
                            class="adj"
                            xml:id="n63001008010"
                            lemma="πλήρης"
@@ -2547,7 +3337,12 @@
                      </wg>
                      <w role="v"
                         ref="2JN 1:8!11"
-                        after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="11" 
+                         after="."
                         class="verb"
                         xml:id="n63001008011"
                         lemma="ἀπολαμβάνω"
@@ -2573,12 +3368,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:9">2JN 1:9</milestone> πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ Θεὸν οὐκ ἔχει·</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="9"> </verse>
+ πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ Θεὸν οὐκ ἔχει·</p>
       <wg>
          <wg class="cl" rule="S-O-ADV-V">
             <wg class="np" articular="true" rule="All-NP" role="s">
                <w ref="2JN 1:9!1"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="1" 
+                   after=" "
                   class="adj"
                   xml:id="n63001009001"
                   lemma="πᾶς"
@@ -2594,7 +3398,12 @@
                   unicode="πᾶς">πᾶς</w>
                <wg articular="true" rule="DetCL">
                   <w ref="2JN 1:9!2"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="2" 
+                      after=" "
                      class="det"
                      xml:id="n63001009002"
                      lemma="ὁ"
@@ -2612,7 +3421,12 @@
                      <wg class="cl" rule="V2CL" junction="coordinate">
                         <w role="v"
                            ref="2JN 1:9!3"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="3" 
+                            after=" "
                            class="verb"
                            xml:id="n63001009003"
                            lemma="προάγω"
@@ -2633,7 +3447,12 @@
                      </wg>
                      <wg type="group">
                         <w ref="2JN 1:9!4"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="4" 
+                            after=" "
                            class="conj"
                            xml:id="n63001009004"
                            lemma="καί"
@@ -2645,7 +3464,12 @@
                         <wg class="cl" rule="ADV-V-ADV" junction="coordinate">
                            <w role="adv"
                               ref="2JN 1:9!5"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="5" 
+                               after=" "
                               class="adv"
                               xml:id="n63001009005"
                               lemma="μή"
@@ -2656,7 +3480,12 @@
                               unicode="μὴ">μὴ</w>
                            <w role="v"
                               ref="2JN 1:9!6"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="6" 
+                               after=" "
                               class="verb"
                               xml:id="n63001009006"
                               lemma="μένω"
@@ -2676,7 +3505,12 @@
                               frame="A0:n00000000000">μένων</w>
                            <wg class="pp" articular="true" rule="PrepNp" role="adv">
                               <w ref="2JN 1:9!7"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="7" 
+                                  after=" "
                                  class="prep"
                                  xml:id="n63001009007"
                                  lemma="ἐν"
@@ -2687,7 +3521,12 @@
                                  unicode="ἐν">ἐν</w>
                               <wg class="np" articular="true" rule="DetNP">
                                  <w ref="2JN 1:9!8"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="8" 
+                                     after=" "
                                     class="det"
                                     xml:id="n63001009008"
                                     lemma="ὁ"
@@ -2703,7 +3542,12 @@
                                     unicode="τῇ">τῇ</w>
                                  <wg class="np" rule="NPofNP">
                                     <w ref="2JN 1:9!9"
-                                       after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="9" 
+                                        after=" "
                                        class="noun"
                                        type="common"
                                        xml:id="n63001009009"
@@ -2720,7 +3564,12 @@
                                        unicode="διδαχῇ">διδαχῇ</w>
                                     <wg class="np" articular="true" rule="DetNP">
                                        <w ref="2JN 1:9!10"
-                                          after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="10" 
+                                           after=" "
                                           class="det"
                                           xml:id="n63001009010"
                                           lemma="ὁ"
@@ -2735,7 +3584,12 @@
                                           morph="T-GSM"
                                           unicode="τοῦ">τοῦ</w>
                                        <w ref="2JN 1:9!11"
-                                          after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="11" 
+                                           after=" "
                                           class="noun"
                                           type="proper"
                                           xml:id="n63001009011"
@@ -2761,7 +3615,12 @@
             </wg>
             <w role="o"
                ref="2JN 1:9!12"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="12" 
+                after=" "
                class="noun"
                type="common"
                xml:id="n63001009012"
@@ -2778,7 +3637,12 @@
                unicode="Θεὸν">Θεὸν</w>
             <w role="adv"
                ref="2JN 1:9!13"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="13" 
+                after=" "
                class="adv"
                xml:id="n63001009013"
                lemma="οὐ"
@@ -2789,7 +3653,12 @@
                unicode="οὐκ">οὐκ</w>
             <w role="v"
                ref="2JN 1:9!14"
-               after="·"
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="14" 
+                after="·"
                class="verb"
                xml:id="n63001009014"
                lemma="ἔχω"
@@ -2811,13 +3680,22 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:9">2JN 1:9</milestone> ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν Πατέρα καὶ τὸν Υἱὸν ἔχει.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="9"> </verse>
+ ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν Πατέρα καὶ τὸν Υἱὸν ἔχει.</p>
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="630010090150130">
             <wg articular="true" rule="Np2CL" cltype="Minor">
                <wg articular="true" rule="DetCL" role="aux">
                   <w ref="2JN 1:9!15"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="15" 
+                      after=" "
                      class="det"
                      xml:id="n63001009015"
                      lemma="ὁ"
@@ -2834,7 +3712,12 @@
                   <wg class="cl" clauseType="nominalized" rule="V-ADV">
                      <w role="v"
                         ref="2JN 1:9!16"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="16" 
+                         after=" "
                         class="verb"
                         xml:id="n63001009016"
                         lemma="μένω"
@@ -2854,7 +3737,12 @@
                         frame="A0:n00000000000">μένων</w>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
                         <w ref="2JN 1:9!17"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="17" 
+                            after=" "
                            class="prep"
                            xml:id="n63001009017"
                            lemma="ἐν"
@@ -2865,7 +3753,12 @@
                            unicode="ἐν">ἐν</w>
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="2JN 1:9!18"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="18" 
+                               after=" "
                               class="det"
                               xml:id="n63001009018"
                               lemma="ὁ"
@@ -2880,7 +3773,12 @@
                               morph="T-DSF"
                               unicode="τῇ">τῇ</w>
                            <w ref="2JN 1:9!19"
-                              after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="19" 
+                               after=","
                               class="noun"
                               type="common"
                               xml:id="n63001009019"
@@ -2902,7 +3800,12 @@
             </wg>
             <w role="s"
                ref="2JN 1:9!20"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="20" 
+                after=" "
                class="pron"
                type="demonstrative"
                xml:id="n63001009020"
@@ -2919,7 +3822,12 @@
             <wg articular="true" rule="aNpaNp" role="o">
                <wg type="group">
                   <w ref="2JN 1:9!21"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="21" 
+                      after=" "
                      class="conj"
                      xml:id="n63001009021"
                      lemma="καί"
@@ -2932,7 +3840,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="2JN 1:9!22"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="22" 
+                         after=" "
                         class="det"
                         xml:id="n63001009022"
                         lemma="ὁ"
@@ -2947,7 +3860,12 @@
                         morph="T-ASM"
                         unicode="τὸν">τὸν</w>
                      <w ref="2JN 1:9!23"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="23" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n63001009023"
@@ -2966,7 +3884,12 @@
                </wg>
                <wg type="group">
                   <w ref="2JN 1:9!24"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="24" 
+                      after=" "
                      class="conj"
                      xml:id="n63001009024"
                      lemma="καί"
@@ -2977,7 +3900,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="2JN 1:9!25"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="25" 
+                         after=" "
                         class="det"
                         xml:id="n63001009025"
                         lemma="ὁ"
@@ -2992,7 +3920,12 @@
                         morph="T-ASM"
                         unicode="τὸν">τὸν</w>
                      <w ref="2JN 1:9!26"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="26" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n63001009026"
@@ -3012,7 +3945,12 @@
             </wg>
             <w role="v"
                ref="2JN 1:9!27"
-               after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="27" 
+                after="."
                class="verb"
                xml:id="n63001009027"
                lemma="ἔχω"
@@ -3032,12 +3970,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:10">2JN 1:10</milestone> εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="10"> </verse>
+ εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·</p>
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="630010100010210">
             <wg rule="sub-CL">
                <w ref="2JN 1:10!1"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="1" 
+                   after=" "
                   class="conj"
                   xml:id="n63001010001"
                   lemma="εἰ"
@@ -3052,7 +3999,12 @@
                   <wg class="cl" rule="S-V-ADV" junction="coordinate">
                      <w role="s"
                         ref="2JN 1:10!2"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="2" 
+                         after=" "
                         class="pron"
                         type="indefinite"
                         xml:id="n63001010002"
@@ -3067,7 +4019,12 @@
                         unicode="τις">τις</w>
                      <w role="v"
                         ref="2JN 1:10!3"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="3" 
+                         after=" "
                         class="verb"
                         xml:id="n63001010003"
                         lemma="ἔρχομαι"
@@ -3086,7 +4043,12 @@
                         frame="A0:n63001010002">ἔρχεται</w>
                      <wg class="pp" rule="PrepNp" role="adv">
                         <w ref="2JN 1:10!4"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="4" 
+                            after=" "
                            class="prep"
                            xml:id="n63001010004"
                            lemma="πρός"
@@ -3098,7 +4060,12 @@
                            morph="PREP"
                            unicode="πρὸς">πρὸς</w>
                         <w ref="2JN 1:10!5"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="5" 
+                            after=" "
                            class="pron"
                            type="personal"
                            xml:id="n63001010005"
@@ -3115,7 +4082,12 @@
                   </wg>
                   <wg type="group">
                      <w ref="2JN 1:10!6"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="6" 
+                         after=" "
                         class="conj"
                         xml:id="n63001010006"
                         lemma="καί"
@@ -3127,7 +4099,12 @@
                      <wg class="cl" rule="O-ADV-V" junction="coordinate">
                         <wg class="np" articular="true" rule="Demo-NP" role="o">
                            <w ref="2JN 1:10!7"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="7" 
+                               after=" "
                               class="pron"
                               type="demonstrative"
                               xml:id="n63001010007"
@@ -3142,7 +4119,12 @@
                               unicode="ταύτην">ταύτην</w>
                            <wg class="np" articular="true" rule="DetNP">
                               <w ref="2JN 1:10!8"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="8" 
+                                  after=" "
                                  class="det"
                                  xml:id="n63001010008"
                                  lemma="ὁ"
@@ -3157,7 +4139,12 @@
                                  morph="T-ASF"
                                  unicode="τὴν">τὴν</w>
                               <w ref="2JN 1:10!9"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="9" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001010009"
@@ -3176,7 +4163,12 @@
                         </wg>
                         <w role="adv"
                            ref="2JN 1:10!10"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="10" 
+                            after=" "
                            class="adv"
                            xml:id="n63001010010"
                            lemma="οὐ"
@@ -3187,7 +4179,12 @@
                            unicode="οὐ">οὐ</w>
                         <w role="v"
                            ref="2JN 1:10!11"
-                           after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="11" 
+                            after=","
                            class="verb"
                            xml:id="n63001010011"
                            lemma="φέρω"
@@ -3212,7 +4209,12 @@
             <wg class="cl" rule="ADV-V-O-ADV" junction="coordinate">
                <w role="adv"
                   ref="2JN 1:10!12"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="12" 
+                   after=" "
                   class="adv"
                   xml:id="n63001010012"
                   lemma="μή"
@@ -3223,7 +4225,12 @@
                   unicode="μὴ">μὴ</w>
                <w role="v"
                   ref="2JN 1:10!13"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="13" 
+                   after=" "
                   class="verb"
                   xml:id="n63001010013"
                   lemma="λαμβάνω"
@@ -3243,7 +4250,12 @@
                   subjref="n63001005005 n63001001007">λαμβάνετε</w>
                <w role="o"
                   ref="2JN 1:10!14"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="14" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n63001010014"
@@ -3259,7 +4271,12 @@
                   referent="n63001010002">αὐτὸν</w>
                <wg class="pp" rule="PrepNp" role="adv">
                   <w ref="2JN 1:10!15"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="15" 
+                      after=" "
                      class="prep"
                      xml:id="n63001010015"
                      lemma="εἰς"
@@ -3269,7 +4286,12 @@
                      morph="PREP"
                      unicode="εἰς">εἰς</w>
                   <w ref="2JN 1:10!16"
-                     after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="16" 
+                      after=","
                      class="noun"
                      type="common"
                      xml:id="n63001010016"
@@ -3288,7 +4310,12 @@
             </wg>
             <wg type="group">
                <w ref="2JN 1:10!17"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="17" 
+                   after=" "
                   class="conj"
                   xml:id="n63001010017"
                   lemma="καί"
@@ -3301,7 +4328,12 @@
                   <wg class="cl" rule="V2CL" junction="subordinate" role="o">
                      <w role="v"
                         ref="2JN 1:10!18"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="18" 
+                         after=" "
                         class="verb"
                         xml:id="n63001010018"
                         lemma="χαίρω"
@@ -3320,7 +4352,12 @@
                   </wg>
                   <w role="io"
                      ref="2JN 1:10!19"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="19" 
+                      after=" "
                      class="pron"
                      type="personal"
                      xml:id="n63001010019"
@@ -3336,7 +4373,12 @@
                      referent="n63001010002">αὐτῷ</w>
                   <w role="adv"
                      ref="2JN 1:10!20"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="20" 
+                      after=" "
                      class="adv"
                      xml:id="n63001010020"
                      lemma="μή"
@@ -3347,7 +4389,12 @@
                      unicode="μὴ">μὴ</w>
                   <w role="v"
                      ref="2JN 1:10!21"
-                     after="·"
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="21" 
+                      after="·"
                      class="verb"
                      xml:id="n63001010021"
                      lemma="λέγω"
@@ -3372,11 +4419,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:11">2JN 1:11</milestone> ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="11"> </verse>
+ ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="2JN 1:11!3"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="3" 
+                after=" "
                class="conj"
                xml:id="n63001011003"
                lemma="γάρ"
@@ -3391,7 +4447,12 @@
             <wg class="cl" rule="S-V-ADV">
                <wg articular="true" rule="DetCL" role="s">
                   <w ref="2JN 1:11!1"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="1" 
+                      after=" "
                      class="det"
                      xml:id="n63001011001"
                      lemma="ὁ"
@@ -3408,7 +4469,12 @@
                   <wg class="cl" clauseType="nominalized" rule="V-IO-O">
                      <w role="v"
                         ref="2JN 1:11!2"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="2" 
+                         after=" "
                         class="verb"
                         xml:id="n63001011002"
                         lemma="λέγω"
@@ -3428,7 +4494,12 @@
                         frame="A0:n00000000000 A2:n63001011004 A1:n63001011005">λέγων</w>
                      <w role="io"
                         ref="2JN 1:11!4"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="4" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n63001011004"
@@ -3445,7 +4516,12 @@
                      <wg class="cl" rule="V2CL" junction="subordinate" role="o">
                         <w role="v"
                            ref="2JN 1:11!5"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="5" 
+                            after=" "
                            class="verb"
                            xml:id="n63001011005"
                            lemma="χαίρω"
@@ -3466,7 +4542,12 @@
                </wg>
                <w role="v"
                   ref="2JN 1:11!6"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="6" 
+                   after=" "
                   class="verb"
                   xml:id="n63001011006"
                   lemma="κοινωνέω"
@@ -3485,7 +4566,12 @@
                   frame="A0:n63001011002">κοινωνεῖ</w>
                <wg class="np" articular="true" rule="DetNP" role="adv">
                   <w ref="2JN 1:11!7"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="7" 
+                      after=" "
                      class="det"
                      xml:id="n63001011007"
                      lemma="ὁ"
@@ -3502,7 +4588,12 @@
                   <wg class="np" rule="NPDetAdj">
                      <wg class="np" rule="NPofNP">
                         <w ref="2JN 1:11!8"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="8" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n63001011008"
@@ -3518,7 +4609,12 @@
                            morph="N-DPN"
                            unicode="ἔργοις">ἔργοις</w>
                         <w ref="2JN 1:11!9"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="9" 
+                            after=" "
                            class="pron"
                            type="personal"
                            xml:id="n63001011009"
@@ -3535,7 +4631,12 @@
                      </wg>
                      <wg class="np" articular="true" rule="DetAdj">
                         <w ref="2JN 1:11!10"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="10" 
+                            after=" "
                            class="det"
                            xml:id="n63001011010"
                            lemma="ὁ"
@@ -3550,7 +4651,12 @@
                            morph="T-DPN"
                            unicode="τοῖς">τοῖς</w>
                         <w ref="2JN 1:11!11"
-                           after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="11" 
+                            after="."
                            class="adj"
                            xml:id="n63001011011"
                            lemma="πονηρός"
@@ -3573,14 +4679,23 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:12">2JN 1:12</milestone> Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="12"> </verse>
+ Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.</p>
       <wg>
          <wg rule="CLaCL">
             <wg class="cl" rule="ADV-ADV-V-ADV" junction="coordinate">
                <wg class="cl" rule="V-O" junction="subordinate" role="adv">
                   <w role="v"
                      ref="2JN 1:12!2"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="2" 
+                      after=" "
                      class="verb"
                      xml:id="n63001012002"
                      lemma="ἔχω"
@@ -3601,7 +4716,12 @@
                   <wg class="cl" rule="O-IO-V" junction="subordinate" role="o">
                      <w role="o"
                         ref="2JN 1:12!1"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="1" 
+                         after=" "
                         class="adj"
                         xml:id="n63001012001"
                         lemma="πολύς"
@@ -3615,7 +4735,12 @@
                         unicode="Πολλὰ">Πολλὰ</w>
                      <w role="io"
                         ref="2JN 1:12!3"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="3" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n63001012003"
@@ -3630,7 +4755,12 @@
                         referent="n63001005005 n63001001007">ὑμῖν</w>
                      <w role="v"
                         ref="2JN 1:12!4"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="4" 
+                         after=" "
                         class="verb"
                         xml:id="n63001012004"
                         lemma="γράφω"
@@ -3650,7 +4780,12 @@
                </wg>
                <w role="adv"
                   ref="2JN 1:12!5"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="5" 
+                   after=" "
                   class="adv"
                   xml:id="n63001012005"
                   lemma="οὐ"
@@ -3661,7 +4796,12 @@
                   unicode="οὐκ">οὐκ</w>
                <w role="v"
                   ref="2JN 1:12!6"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="6" 
+                   after=" "
                   class="verb"
                   xml:id="n63001012006"
                   lemma="βούλομαι"
@@ -3681,7 +4821,12 @@
                   subjref="n63001001002">ἐβουλήθην</w>
                <wg class="pp" rule="PrepNp" role="adv">
                   <w ref="2JN 1:12!7"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="7" 
+                      after=" "
                      class="prep"
                      xml:id="n63001012007"
                      lemma="διά"
@@ -3694,7 +4839,12 @@
                      unicode="διὰ">διὰ</w>
                   <wg rule="NpaNp">
                      <w ref="2JN 1:12!8"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="8" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n63001012008"
@@ -3711,7 +4861,12 @@
                         unicode="χάρτου">χάρτου</w>
                      <wg type="group">
                         <w ref="2JN 1:12!9"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="9" 
+                            after=" "
                            class="conj"
                            xml:id="n63001012009"
                            lemma="καί"
@@ -3721,7 +4876,12 @@
                            morph="CONJ"
                            unicode="καὶ">καὶ</w>
                         <w ref="2JN 1:12!10"
-                           after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="10" 
+                            after=","
                            class="adj"
                            xml:id="n63001012010"
                            lemma="μέλας"
@@ -3741,7 +4901,12 @@
             </wg>
             <wg type="group">
                <w ref="2JN 1:12!11"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="11" 
+                   after=" "
                   class="conj"
                   xml:id="n63001012011"
                   lemma="ἀλλά"
@@ -3755,7 +4920,12 @@
                <wg Rule="ClCl" class="cl" nodeId="630010120120150">
                   <w role="v"
                      ref="2JN 1:12!12"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="12" 
+                      after=" "
                      class="verb"
                      xml:id="n63001012012"
                      lemma="ἐλπίζω"
@@ -3777,7 +4947,12 @@
                      <wg class="cl" rule="VC-P" junction="coordinate">
                         <w role="vc"
                            ref="2JN 1:12!13"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="13" 
+                            after=" "
                            class="verb"
                            xml:id="n63001012013"
                            lemma="γίνομαι"
@@ -3794,7 +4969,12 @@
                            subjref="n63001001002">γενέσθαι</w>
                         <wg class="pp" rule="PrepNp" role="p">
                            <w ref="2JN 1:12!14"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="14" 
+                               after=" "
                               class="prep"
                               xml:id="n63001012014"
                               lemma="πρός"
@@ -3804,7 +4984,12 @@
                               morph="PREP"
                               unicode="πρὸς">πρὸς</w>
                            <w ref="2JN 1:12!15"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="15" 
+                               after=" "
                               class="pron"
                               type="personal"
                               xml:id="n63001012015"
@@ -3821,7 +5006,12 @@
                      </wg>
                      <wg type="group">
                         <w ref="2JN 1:12!16"
-                           after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="16" 
+                            after=" "
                            class="conj"
                            xml:id="n63001012016"
                            lemma="καί"
@@ -3833,7 +5023,12 @@
                         <wg class="cl" rule="ADV-V" junction="coordinate">
                            <wg class="np" rule="NpPp" role="adv">
                               <w ref="2JN 1:12!17"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="17" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001012017"
@@ -3850,7 +5045,12 @@
                                  unicode="στόμα">στόμα</w>
                               <wg class="pp" rule="PrepNp">
                                  <w ref="2JN 1:12!18"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="18" 
+                                     after=" "
                                     class="prep"
                                     xml:id="n63001012018"
                                     lemma="πρός"
@@ -3860,7 +5060,12 @@
                                     morph="PREP"
                                     unicode="πρὸς">πρὸς</w>
                                  <w ref="2JN 1:12!19"
-                                    after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="19" 
+                                     after=" "
                                     class="noun"
                                     type="common"
                                     xml:id="n63001012019"
@@ -3879,7 +5084,12 @@
                            </wg>
                            <w role="v"
                               ref="2JN 1:12!20"
-                              after=","
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="20" 
+                               after=","
                               class="verb"
                               xml:id="n63001012020"
                               lemma="λαλέω"
@@ -3900,7 +5110,12 @@
                   </wg>
                   <wg rule="sub-CL" role="adv">
                      <w ref="2JN 1:12!21"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="21" 
+                         after=" "
                         class="conj"
                         xml:id="n63001012021"
                         lemma="ἵνα"
@@ -3914,7 +5129,12 @@
                      <wg class="cl" rule="S-V" junction="subordinate">
                         <wg class="np" articular="true" rule="DetNP" role="s">
                            <w ref="2JN 1:12!22"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="22" 
+                               after=" "
                               class="det"
                               xml:id="n63001012022"
                               lemma="ὁ"
@@ -3930,7 +5150,12 @@
                               unicode="ἡ">ἡ</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="2JN 1:12!23"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="23" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n63001012023"
@@ -3946,7 +5171,12 @@
                                  morph="N-NSF"
                                  unicode="χαρὰ">χαρὰ</w>
                               <w ref="2JN 1:12!24"
-                                 after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="24" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n63001012024"
@@ -3965,7 +5195,12 @@
                         </wg>
                         <wg class="vp" rule="VerbBe" role="v">
                            <w ref="2JN 1:12!25"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="25" 
+                               after=" "
                               class="verb"
                               xml:id="n63001012025"
                               lemma="πληρόω"
@@ -3984,7 +5219,12 @@
                               unicode="πεπληρωμένη"
                               frame="A1:n63001012023">πεπληρωμένη</w>
                            <w ref="2JN 1:12!26"
-                              after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="26" 
+                               after="."
                               class="verb"
                               xml:id="n63001012026"
                               lemma="εἰμί"
@@ -4008,12 +5248,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="2JN 1:13">2JN 1:13</milestone> Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.</p>
+          <verse 
+ book="2JN" 
+ chapter="1" 
+ verse="13"> </verse>
+ Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.</p>
       <wg>
          <wg class="cl" rule="V-O-S">
             <w role="v"
                ref="2JN 1:13!1"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n63001013001"
                lemma="ἀσπάζομαι"
@@ -4032,7 +5281,12 @@
                frame="A1:n63001013002 A0:n63001013004">Ἀσπάζεταί</w>
             <w role="o"
                ref="2JN 1:13!2"
-               after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="2" 
+                after=" "
                class="pron"
                type="personal"
                xml:id="n63001013002"
@@ -4047,7 +5301,12 @@
                referent="n63001005005">σε</w>
             <wg class="np" articular="true" rule="DetNP" role="s">
                <w ref="2JN 1:13!3"
-                  after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="3" 
+                   after=" "
                   class="det"
                   xml:id="n63001013003"
                   lemma="ὁ"
@@ -4063,7 +5322,12 @@
                   unicode="τὰ">τὰ</w>
                <wg class="np" rule="NPofNP">
                   <w ref="2JN 1:13!4"
-                     after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="4" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n63001013004"
@@ -4080,7 +5344,12 @@
                      unicode="τέκνα">τέκνα</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="2JN 1:13!5"
-                        after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="5" 
+                         after=" "
                         class="det"
                         xml:id="n63001013005"
                         lemma="ὁ"
@@ -4097,7 +5366,12 @@
                      <wg class="np" rule="NPDetAdj">
                         <wg class="np" rule="NPofNP">
                            <w ref="2JN 1:13!6"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="6" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n63001013006"
@@ -4113,7 +5387,12 @@
                               morph="N-GSF"
                               unicode="ἀδελφῆς">ἀδελφῆς</w>
                            <w ref="2JN 1:13!7"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="7" 
+                               after=" "
                               class="pron"
                               type="personal"
                               xml:id="n63001013007"
@@ -4129,7 +5408,12 @@
                         </wg>
                         <wg class="np" articular="true" rule="DetAdj">
                            <w ref="2JN 1:13!8"
-                              after=" "
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="8" 
+                               after=" "
                               class="det"
                               xml:id="n63001013008"
                               lemma="ὁ"
@@ -4144,7 +5428,12 @@
                               morph="T-GSF"
                               unicode="τῆς">τῆς</w>
                            <w ref="2JN 1:13!9"
-                              after="."
+ 
+ book="2JN" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="9" 
+                               after="."
                               class="adj"
                               xml:id="n63001013009"
                               lemma="ἐκλεκτός"

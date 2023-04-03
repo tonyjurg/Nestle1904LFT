@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="treedown.css"?>
 <?xml-stylesheet href="boxwood.css"?>
-<book lang="el" id="PHM">
+<book lang="el"  book_short="PHM">
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:1">PHM 1:1</milestone> 
-         <milestone unit="verse" id="PHM 1:2">PHM 1:2</milestone> Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ·</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="1"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="2"> </verse>
+ Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ·</p>
       <wg>
          <wg class="cl" rule="S-IO" cltype="VerbElided">
             <wg rule="NpaNp" role="s">
                <wg type="apposition" class="np" rule="Np-Appos">
                   <w ref="PHM 1:1!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="1" 
+                      after=" "
                      class="noun"
                      type="proper"
                      xml:id="n57001001001"
@@ -28,7 +41,12 @@
                      unicode="Παῦλος">Παῦλος</w>
                   <wg class="np" junction="apposition" rule="NPofNP">
                      <w ref="PHM 1:1!2"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="2" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001001002"
@@ -45,7 +63,12 @@
                         unicode="δέσμιος">δέσμιος</w>
                      <wg type="apposition" class="np" rule="Np-Appos">
                         <w ref="PHM 1:1!3"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="3" 
+                            after=" "
                            class="noun"
                            type="proper"
                            xml:id="n57001001003"
@@ -61,7 +84,12 @@
                            morph="N-GSM"
                            unicode="Χριστοῦ">Χριστοῦ</w>
                         <w ref="PHM 1:1!4"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="4" 
+                            after=" "
                            class="noun"
                            type="proper"
                            xml:id="n57001001004"
@@ -81,7 +109,12 @@
                </wg>
                <wg type="group">
                   <w ref="PHM 1:1!5"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="5" 
+                      after=" "
                      class="conj"
                      xml:id="n57001001005"
                      lemma="καί"
@@ -92,7 +125,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg type="apposition" class="np" rule="Np-Appos">
                      <w ref="PHM 1:1!6"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="6" 
+                         after=" "
                         class="noun"
                         type="proper"
                         xml:id="n57001001006"
@@ -109,7 +147,12 @@
                         unicode="Τιμόθεος">Τιμόθεος</w>
                      <wg class="np" junction="apposition" articular="true" rule="DetNP">
                         <w ref="PHM 1:1!7"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="7" 
+                            after=" "
                            class="det"
                            xml:id="n57001001007"
                            lemma="ὁ"
@@ -124,7 +167,12 @@
                            morph="T-NSM"
                            unicode="ὁ">ὁ</w>
                         <w ref="PHM 1:1!8"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="8" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001001008"
@@ -146,7 +194,12 @@
             <wg rule="Conj4Np" role="io">
                <wg type="apposition" class="np" rule="Np-Appos">
                   <w ref="PHM 1:1!9"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="9" 
+                      after=" "
                      class="noun"
                      type="proper"
                      xml:id="n57001001009"
@@ -163,7 +216,12 @@
                      unicode="Φιλήμονι">Φιλήμονι</w>
                   <wg class="np" junction="apposition" articular="true" rule="DetNP">
                      <w ref="PHM 1:1!10"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="10" 
+                         after=" "
                         class="det"
                         xml:id="n57001001010"
                         lemma="ὁ"
@@ -180,7 +238,12 @@
                      <wg class="np" rule="NPofNP">
                         <wg rule="AdjpaAdjp">
                            <w ref="PHM 1:1!11"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="11" 
+                               after=" "
                               class="adj"
                               xml:id="n57001001011"
                               lemma="ἀγαπητός"
@@ -196,7 +259,12 @@
                               unicode="ἀγαπητῷ">ἀγαπητῷ</w>
                            <wg type="group">
                               <w ref="PHM 1:1!12"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="12" 
+                                  after=" "
                                  class="conj"
                                  xml:id="n57001001012"
                                  lemma="καί"
@@ -206,7 +274,12 @@
                                  morph="CONJ"
                                  unicode="καὶ">καὶ</w>
                               <w ref="PHM 1:1!13"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="13" 
+                                  after=" "
                                  class="adj"
                                  xml:id="n57001001013"
                                  lemma="συνεργός"
@@ -223,7 +296,12 @@
                            </wg>
                         </wg>
                         <w ref="PHM 1:1!14"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="1" 
+ word_in_verse="14" 
+                            after=" "
                            class="pron"
                            type="personal"
                            xml:id="n57001001014"
@@ -243,7 +321,12 @@
                </wg>
                <wg type="group">
                   <w ref="PHM 1:2!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="1" 
+                      after=" "
                      class="conj"
                      xml:id="n57001002001"
                      lemma="καί"
@@ -254,7 +337,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg type="apposition" class="np" rule="Np-Appos">
                      <w ref="PHM 1:2!2"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="2" 
+                         after=" "
                         class="noun"
                         type="proper"
                         xml:id="n57001002002"
@@ -271,7 +359,12 @@
                         unicode="Ἀπφίᾳ">Ἀπφίᾳ</w>
                      <wg class="np" junction="apposition" articular="true" rule="DetNP">
                         <w ref="PHM 1:2!3"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="3" 
+                            after=" "
                            class="det"
                            xml:id="n57001002003"
                            lemma="ὁ"
@@ -286,7 +379,12 @@
                            morph="T-DSF"
                            unicode="τῇ">τῇ</w>
                         <w ref="PHM 1:2!4"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="4" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001002004"
@@ -306,7 +404,12 @@
                </wg>
                <wg type="group">
                   <w ref="PHM 1:2!5"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="5" 
+                      after=" "
                      class="conj"
                      xml:id="n57001002005"
                      lemma="καί"
@@ -317,7 +420,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg type="apposition" class="np" rule="Np-Appos">
                      <w ref="PHM 1:2!6"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="6" 
+                         after=" "
                         class="noun"
                         type="proper"
                         xml:id="n57001002006"
@@ -334,7 +442,12 @@
                         unicode="Ἀρχίππῳ">Ἀρχίππῳ</w>
                      <wg class="np" junction="apposition" articular="true" rule="DetNP">
                         <w ref="PHM 1:2!7"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="7" 
+                            after=" "
                            class="det"
                            xml:id="n57001002007"
                            lemma="ὁ"
@@ -350,7 +463,12 @@
                            unicode="τῷ">τῷ</w>
                         <wg class="np" rule="NPofNP">
                            <w ref="PHM 1:2!8"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="8" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n57001002008"
@@ -366,7 +484,12 @@
                               morph="N-DSM"
                               unicode="συστρατιώτῃ">συστρατιώτῃ</w>
                            <w ref="PHM 1:2!9"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="9" 
+                               after=" "
                               class="pron"
                               type="personal"
                               xml:id="n57001002009"
@@ -387,7 +510,12 @@
                </wg>
                <wg type="group">
                   <w ref="PHM 1:2!10"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="10" 
+                      after=" "
                      class="conj"
                      xml:id="n57001002010"
                      lemma="καί"
@@ -398,7 +526,12 @@
                      unicode="καὶ">καὶ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="PHM 1:2!11"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="11" 
+                         after=" "
                         class="det"
                         xml:id="n57001002011"
                         lemma="ὁ"
@@ -415,7 +548,12 @@
                      <wg class="np" rule="PpNp2Np">
                         <wg class="pp" rule="PrepNp">
                            <w ref="PHM 1:2!12"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="12" 
+                               after=" "
                               class="prep"
                               xml:id="n57001002012"
                               lemma="κατά"
@@ -428,7 +566,12 @@
                               unicode="κατ’">κατ’</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="PHM 1:2!13"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="13" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n57001002013"
@@ -444,7 +587,12 @@
                                  morph="N-ASM"
                                  unicode="οἶκόν">οἶκόν</w>
                               <w ref="PHM 1:2!14"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n57001002014"
@@ -460,7 +608,12 @@
                            </wg>
                         </wg>
                         <w ref="PHM 1:2!15"
-                           after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="2" 
+ word_in_verse="15" 
+                            after="·"
                            class="noun"
                            type="common"
                            xml:id="n57001002015"
@@ -484,12 +637,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:3">PHM 1:3</milestone> χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="3"> </verse>
+ χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.</p>
       <wg>
          <wg class="cl" rule="IO-S-ADV" cltype="VerbElided">
             <w role="io"
                ref="PHM 1:3!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="2" 
+                after=" "
                class="pron"
                type="personal"
                xml:id="n57001003002"
@@ -505,7 +667,12 @@
                referent="n57001001009 n57001002002 n57001002006 n57001002015">ὑμῖν</w>
             <wg rule="NpaNp" role="s">
                <w ref="PHM 1:3!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="1" 
+                   after=" "
                   class="noun"
                   type="common"
                   xml:id="n57001003001"
@@ -522,7 +689,12 @@
                   unicode="χάρις">χάρις</w>
                <wg type="group">
                   <w ref="PHM 1:3!3"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="3" 
+                      after=" "
                      class="conj"
                      xml:id="n57001003003"
                      lemma="καί"
@@ -532,7 +704,12 @@
                      morph="CONJ"
                      unicode="καὶ">καὶ</w>
                   <w ref="PHM 1:3!4"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="4" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n57001003004"
@@ -551,7 +728,12 @@
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
                <w ref="PHM 1:3!5"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="5" 
+                   after=" "
                   class="prep"
                   xml:id="n57001003005"
                   lemma="ἀπό"
@@ -563,7 +745,12 @@
                <wg rule="NpaNp">
                   <wg type="apposition" class="np" rule="Np-Appos">
                      <w ref="PHM 1:3!6"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="6" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001003006"
@@ -580,7 +767,12 @@
                         unicode="Θεοῦ">Θεοῦ</w>
                      <wg class="np" junction="apposition" rule="NPofNP">
                         <w ref="PHM 1:3!7"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="7" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001003007"
@@ -596,7 +788,12 @@
                            morph="N-GSM"
                            unicode="Πατρὸς">Πατρὸς</w>
                         <w ref="PHM 1:3!8"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="8" 
+                            after=" "
                            class="pron"
                            type="personal"
                            xml:id="n57001003008"
@@ -615,7 +812,12 @@
                   </wg>
                   <wg type="group">
                      <w ref="PHM 1:3!9"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="9" 
+                         after=" "
                         class="conj"
                         xml:id="n57001003009"
                         lemma="καί"
@@ -626,7 +828,12 @@
                         unicode="καὶ">καὶ</w>
                      <wg type="apposition" class="np" rule="Np-Appos">
                         <w ref="PHM 1:3!10"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="10" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001003010"
@@ -646,7 +853,12 @@
                             junction="apposition"
                             rule="Np-Appos">
                            <w ref="PHM 1:3!11"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="11" 
+                               after=" "
                               class="noun"
                               type="proper"
                               xml:id="n57001003011"
@@ -662,7 +874,12 @@
                               morph="N-GSM"
                               unicode="Ἰησοῦ">Ἰησοῦ</w>
                            <w ref="PHM 1:3!12"
-                              after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="3" 
+ word_in_verse="12" 
+                               after="."
                               class="noun"
                               type="proper"
                               xml:id="n57001003012"
@@ -687,14 +904,31 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:4">PHM 1:4</milestone> 
-         <milestone unit="verse" id="PHM 1:5">PHM 1:5</milestone> 
-         <milestone unit="verse" id="PHM 1:6">PHM 1:6</milestone> Εὐχαριστῶ τῷ Θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου, ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν Κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους, ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν·</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="4"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="5"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="6"> </verse>
+ Εὐχαριστῶ τῷ Θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου, ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν Κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους, ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν·</p>
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="570010040010470">
             <w role="v"
                ref="PHM 1:4!1"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n57001004001"
                lemma="εὐχαριστέω"
@@ -714,7 +948,12 @@
                subjref="n57001001001">Εὐχαριστῶ</w>
             <wg class="np" articular="true" rule="DetNP" role="o">
                <w ref="PHM 1:4!2"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="2" 
+                   after=" "
                   class="det"
                   xml:id="n57001004002"
                   lemma="ὁ"
@@ -730,7 +969,12 @@
                   unicode="τῷ">τῷ</w>
                <wg class="np" rule="NPofNP">
                   <w ref="PHM 1:4!3"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="3" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n57001004003"
@@ -746,7 +990,12 @@
                      morph="N-DSM"
                      unicode="Θεῷ">Θεῷ</w>
                   <w ref="PHM 1:4!4"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="4" 
+                      after=" "
                      class="pron"
                      type="personal"
                      xml:id="n57001004004"
@@ -765,7 +1014,12 @@
             </wg>
             <w role="adv"
                ref="PHM 1:4!5"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="5" 
+                after=" "
                class="adv"
                xml:id="n57001004005"
                lemma="πάντοτε"
@@ -779,7 +1033,12 @@
             <wg class="cl" rule="O-V-ADV" junction="subordinate" role="adv">
                <wg class="np" rule="NPofNP" role="o">
                   <w ref="PHM 1:4!6"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="6" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n57001004006"
@@ -795,7 +1054,12 @@
                      morph="N-ASF"
                      unicode="μνείαν">μνείαν</w>
                   <w ref="PHM 1:4!7"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="7" 
+                      after=" "
                      class="pron"
                      type="personal"
                      xml:id="n57001004007"
@@ -811,7 +1075,12 @@
                </wg>
                <w role="v"
                   ref="PHM 1:4!8"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="8" 
+                   after=" "
                   class="verb"
                   xml:id="n57001004008"
                   lemma="ποιέω"
@@ -832,7 +1101,12 @@
                   subjref="n57001001001">ποιούμενος</w>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
                   <w ref="PHM 1:4!9"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="9" 
+                      after=" "
                      class="prep"
                      xml:id="n57001004009"
                      lemma="ἐπί"
@@ -845,7 +1119,12 @@
                      unicode="ἐπὶ">ἐπὶ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="PHM 1:4!10"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="10" 
+                         after=" "
                         class="det"
                         xml:id="n57001004010"
                         lemma="ὁ"
@@ -861,7 +1140,12 @@
                         unicode="τῶν">τῶν</w>
                      <wg class="np" rule="NPofNP">
                         <w ref="PHM 1:4!11"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="11" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001004011"
@@ -877,7 +1161,12 @@
                            morph="N-GPF"
                            unicode="προσευχῶν">προσευχῶν</w>
                         <w ref="PHM 1:4!12"
-                           after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="4" 
+ word_in_verse="12" 
+                            after=","
                            class="pron"
                            type="personal"
                            xml:id="n57001004012"
@@ -899,7 +1188,12 @@
             <wg class="cl" rule="V-O" junction="subordinate" role="adv">
                <w role="v"
                   ref="PHM 1:5!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="1" 
+                   after=" "
                   class="verb"
                   xml:id="n57001005001"
                   lemma="ἀκούω"
@@ -925,7 +1219,12 @@
                    role="o">
                   <wg class="np" articular="true" rule="ofNPNP">
                      <w ref="PHM 1:5!2"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="2" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n57001005002"
@@ -941,7 +1240,12 @@
                      <wg articular="true" rule="NpaNp">
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="PHM 1:5!3"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="3" 
+                               after=" "
                               class="det"
                               xml:id="n57001005003"
                               lemma="ὁ"
@@ -956,7 +1260,12 @@
                               morph="T-ASF"
                               unicode="τὴν">τὴν</w>
                            <w ref="PHM 1:5!4"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="4" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n57001005004"
@@ -974,7 +1283,12 @@
                         </wg>
                         <wg type="group">
                            <w ref="PHM 1:5!5"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="5" 
+                               after=" "
                               class="conj"
                               xml:id="n57001005005"
                               lemma="καί"
@@ -985,7 +1299,12 @@
                               unicode="καὶ">καὶ</w>
                            <wg class="np" articular="true" rule="DetNP">
                               <w ref="PHM 1:5!6"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="6" 
+                                  after=" "
                                  class="det"
                                  xml:id="n57001005006"
                                  lemma="ὁ"
@@ -1000,7 +1319,12 @@
                                  morph="T-ASF"
                                  unicode="τὴν">τὴν</w>
                               <w ref="PHM 1:5!7"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="7" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n57001005007"
@@ -1025,7 +1349,12 @@
                       junction="apposition">
                      <w role="o"
                         ref="PHM 1:5!8"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="8" 
+                         after=" "
                         class="pron"
                         type="relative"
                         xml:id="n57001005008"
@@ -1041,7 +1370,12 @@
                         referent="n57001005004 n57001005007">ἣν</w>
                      <w role="v"
                         ref="PHM 1:5!9"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="9" 
+                         after=" "
                         class="verb"
                         xml:id="n57001005009"
                         lemma="ἔχω"
@@ -1060,7 +1394,12 @@
                      <wg articular="true" rule="Conj2Pp" role="adv">
                         <wg class="pp" articular="true" rule="PrepNp">
                            <w ref="PHM 1:5!10"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="10" 
+                               after=" "
                               class="prep"
                               xml:id="n57001005010"
                               lemma="πρός"
@@ -1074,7 +1413,12 @@
                            <wg type="apposition" class="np" articular="true" rule="Np-Appos">
                               <wg class="np" articular="true" rule="DetNP">
                                  <w ref="PHM 1:5!11"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="11" 
+                                     after=" "
                                     class="det"
                                     xml:id="n57001005011"
                                     lemma="ὁ"
@@ -1089,7 +1433,12 @@
                                     morph="T-ASM"
                                     unicode="τὸν">τὸν</w>
                                  <w ref="PHM 1:5!12"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="12" 
+                                     after=" "
                                     class="noun"
                                     type="common"
                                     xml:id="n57001005012"
@@ -1106,7 +1455,12 @@
                                     unicode="Κύριον">Κύριον</w>
                               </wg>
                               <w ref="PHM 1:5!13"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="13" 
+                                  after=" "
                                  class="noun"
                                  type="proper"
                                  xml:id="n57001005013"
@@ -1125,7 +1479,12 @@
                         </wg>
                         <wg type="group">
                            <w ref="PHM 1:5!14"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="14" 
+                               after=" "
                               class="conj"
                               xml:id="n57001005014"
                               lemma="καί"
@@ -1136,7 +1495,12 @@
                               unicode="καὶ">καὶ</w>
                            <wg class="pp" articular="true" rule="PrepNp">
                               <w ref="PHM 1:5!15"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="15" 
+                                  after=" "
                                  class="prep"
                                  xml:id="n57001005015"
                                  lemma="εἰς"
@@ -1149,7 +1513,12 @@
                                  unicode="εἰς">εἰς</w>
                               <wg class="np" articular="true" rule="All-NP">
                                  <w ref="PHM 1:5!16"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="16" 
+                                     after=" "
                                     class="adj"
                                     xml:id="n57001005016"
                                     lemma="πᾶς"
@@ -1165,7 +1534,12 @@
                                     unicode="πάντας">πάντας</w>
                                  <wg class="np" articular="true" rule="DetAdj">
                                     <w ref="PHM 1:5!17"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="17" 
+                                        after=" "
                                        class="det"
                                        xml:id="n57001005017"
                                        lemma="ὁ"
@@ -1180,7 +1554,12 @@
                                        morph="T-APM"
                                        unicode="τοὺς">τοὺς</w>
                                     <w ref="PHM 1:5!18"
-                                       after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="5" 
+ word_in_verse="18" 
+                                        after=","
                                        class="adj"
                                        xml:id="n57001005018"
                                        lemma="ἅγιος"
@@ -1204,7 +1583,12 @@
             </wg>
             <wg rule="sub-CL" role="adv">
                <w ref="PHM 1:6!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="1" 
+                   after=" "
                   class="conj"
                   xml:id="n57001006001"
                   lemma="ὅπως"
@@ -1218,7 +1602,12 @@
                <wg class="cl" rule="S-P-VC-ADV" junction="subordinate">
                   <wg class="np" articular="true" rule="DetNP" role="s">
                      <w ref="PHM 1:6!2"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="2" 
+                         after=" "
                         class="det"
                         xml:id="n57001006002"
                         lemma="ὁ"
@@ -1234,7 +1623,12 @@
                         unicode="ἡ">ἡ</w>
                      <wg class="np" rule="NPofNP">
                         <w ref="PHM 1:6!3"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="3" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001006003"
@@ -1251,7 +1645,12 @@
                            unicode="κοινωνία">κοινωνία</w>
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="PHM 1:6!4"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="4" 
+                               after=" "
                               class="det"
                               xml:id="n57001006004"
                               lemma="ὁ"
@@ -1267,7 +1666,12 @@
                               unicode="τῆς">τῆς</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="PHM 1:6!5"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="5" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n57001006005"
@@ -1283,7 +1687,12 @@
                                  morph="N-GSF"
                                  unicode="πίστεώς">πίστεώς</w>
                               <w ref="PHM 1:6!6"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="6" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n57001006006"
@@ -1302,7 +1711,12 @@
                   </wg>
                   <w role="p"
                      ref="PHM 1:6!7"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="7" 
+                      after=" "
                      class="adj"
                      xml:id="n57001006007"
                      lemma="ἐνεργής"
@@ -1318,7 +1732,12 @@
                      unicode="ἐνεργὴς">ἐνεργὴς</w>
                   <w role="vc"
                      ref="PHM 1:6!8"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="8" 
+                      after=" "
                      class="verb"
                      xml:id="n57001006008"
                      lemma="γίνομαι"
@@ -1336,7 +1755,12 @@
                      unicode="γένηται">γένηται</w>
                   <wg class="pp" rule="PrepNp" role="adv">
                      <w ref="PHM 1:6!9"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="9" 
+                         after=" "
                         class="prep"
                         xml:id="n57001006009"
                         lemma="ἐν"
@@ -1349,7 +1773,12 @@
                         unicode="ἐν">ἐν</w>
                      <wg class="np" rule="NPofNP">
                         <w ref="PHM 1:6!10"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="10" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001006010"
@@ -1366,7 +1795,12 @@
                            unicode="ἐπιγνώσει">ἐπιγνώσει</w>
                         <wg class="np" rule="All-NP">
                            <w ref="PHM 1:6!11"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="11" 
+                               after=" "
                               class="adj"
                               xml:id="n57001006011"
                               lemma="πᾶς"
@@ -1382,7 +1816,12 @@
                               unicode="παντὸς">παντὸς</w>
                            <wg type="apposition" class="np" rule="Np-Appos">
                               <w ref="PHM 1:6!12"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="12" 
+                                  after=" "
                                  class="adj"
                                  xml:id="n57001006012"
                                  lemma="ἀγαθός"
@@ -1398,7 +1837,12 @@
                                  unicode="ἀγαθοῦ">ἀγαθοῦ</w>
                               <wg class="np" junction="apposition" rule="NpPp">
                                  <w ref="PHM 1:6!13"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="13" 
+                                     after=" "
                                     class="det"
                                     xml:id="n57001006013"
                                     lemma="ὁ"
@@ -1415,7 +1859,12 @@
                                  <wg type="group" rule="2Pp">
                                     <wg class="pp" rule="PrepNp">
                                        <w ref="PHM 1:6!14"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="14" 
+                                           after=" "
                                           class="prep"
                                           xml:id="n57001006014"
                                           lemma="ἐν"
@@ -1427,7 +1876,12 @@
                                           morph="PREP"
                                           unicode="ἐν">ἐν</w>
                                        <w ref="PHM 1:6!15"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="15" 
+                                           after=" "
                                           class="pron"
                                           type="personal"
                                           xml:id="n57001006015"
@@ -1445,7 +1899,12 @@
                                     </wg>
                                     <wg class="pp" rule="PrepNp">
                                        <w ref="PHM 1:6!16"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="16" 
+                                           after=" "
                                           class="prep"
                                           xml:id="n57001006016"
                                           lemma="εἰς"
@@ -1457,7 +1916,12 @@
                                           morph="PREP"
                                           unicode="εἰς">εἰς</w>
                                        <w ref="PHM 1:6!17"
-                                          after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="6" 
+ word_in_verse="17" 
+                                           after="·"
                                           class="noun"
                                           type="proper"
                                           xml:id="n57001006017"
@@ -1486,11 +1950,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:7">PHM 1:7</milestone> χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="7"> </verse>
+ χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:7!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="2" 
+                after=" "
                class="conj"
                xml:id="n57001007002"
                lemma="γάρ"
@@ -1506,7 +1979,12 @@
                <wg rule="NpaNp" role="o">
                   <wg class="np" rule="NpAdjp">
                      <w ref="PHM 1:7!1"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="1" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001007001"
@@ -1522,7 +2000,12 @@
                         morph="N-ASF"
                         unicode="χαρὰν">χαρὰν</w>
                      <w ref="PHM 1:7!3"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="3" 
+                         after=" "
                         class="adj"
                         xml:id="n57001007003"
                         lemma="πολύς"
@@ -1537,7 +2020,12 @@
                   </wg>
                   <wg type="group">
                      <w ref="PHM 1:7!5"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="5" 
+                         after=" "
                         class="conj"
                         xml:id="n57001007005"
                         lemma="καί"
@@ -1547,7 +2035,12 @@
                         morph="CONJ"
                         unicode="καὶ">καὶ</w>
                      <w ref="PHM 1:7!6"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="6" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001007006"
@@ -1567,7 +2060,12 @@
                </wg>
                <w role="v"
                   ref="PHM 1:7!4"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="4" 
+                   after=" "
                   class="verb"
                   xml:id="n57001007004"
                   lemma="ἔχω"
@@ -1587,7 +2085,12 @@
                   subjref="n57001001001">ἔσχον</w>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
                   <w ref="PHM 1:7!7"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="7" 
+                      after=" "
                      class="prep"
                      xml:id="n57001007007"
                      lemma="ἐπί"
@@ -1600,7 +2103,12 @@
                      unicode="ἐπὶ">ἐπὶ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="PHM 1:7!8"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="8" 
+                         after=" "
                         class="det"
                         xml:id="n57001007008"
                         lemma="ὁ"
@@ -1616,7 +2124,12 @@
                         unicode="τῇ">τῇ</w>
                      <wg class="np" rule="NPofNP">
                         <w ref="PHM 1:7!9"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="9" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001007009"
@@ -1632,7 +2145,12 @@
                            morph="N-DSF"
                            unicode="ἀγάπῃ">ἀγάπῃ</w>
                         <w ref="PHM 1:7!10"
-                           after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="10" 
+                            after=","
                            class="pron"
                            type="personal"
                            xml:id="n57001007010"
@@ -1650,7 +2168,12 @@
                </wg>
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:7!11"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="11" 
+                      after=" "
                      class="conj"
                      xml:id="n57001007011"
                      lemma="ὅτι"
@@ -1664,7 +2187,12 @@
                   <wg class="cl" rule="S-V-ADV" junction="subordinate">
                      <wg class="np" articular="true" rule="DetNP" role="s">
                         <w ref="PHM 1:7!12"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="12" 
+                            after=" "
                            class="det"
                            xml:id="n57001007012"
                            lemma="ὁ"
@@ -1680,7 +2208,12 @@
                            unicode="τὰ">τὰ</w>
                         <wg class="np" rule="NPofNP">
                            <w ref="PHM 1:7!13"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="13" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n57001007013"
@@ -1697,7 +2230,12 @@
                               unicode="σπλάγχνα">σπλάγχνα</w>
                            <wg class="np" articular="true" rule="DetAdj">
                               <w ref="PHM 1:7!14"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="det"
                                  xml:id="n57001007014"
                                  lemma="ὁ"
@@ -1712,7 +2250,12 @@
                                  morph="T-GPM"
                                  unicode="τῶν">τῶν</w>
                               <w ref="PHM 1:7!15"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="15" 
+                                  after=" "
                                  class="adj"
                                  xml:id="n57001007015"
                                  lemma="ἅγιος"
@@ -1731,7 +2274,12 @@
                      </wg>
                      <w role="v"
                         ref="PHM 1:7!16"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="16" 
+                         after=" "
                         class="verb"
                         xml:id="n57001007016"
                         lemma="ἀναπαύω"
@@ -1750,7 +2298,12 @@
                         frame="A1:n57001007013">ἀναπέπαυται</w>
                      <wg class="pp" rule="PrepNp" role="adv">
                         <w ref="PHM 1:7!17"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="17" 
+                            after=" "
                            class="prep"
                            xml:id="n57001007017"
                            lemma="διά"
@@ -1762,7 +2315,12 @@
                            morph="PREP"
                            unicode="διὰ">διὰ</w>
                         <w ref="PHM 1:7!18"
-                           after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="18" 
+                            after=","
                            class="pron"
                            type="personal"
                            xml:id="n57001007018"
@@ -1781,7 +2339,12 @@
                <wg rule="Np2CL" cltype="Minor">
                   <w role="aux"
                      ref="PHM 1:7!19"
-                     after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="7" 
+ word_in_verse="19" 
+                      after="."
                      class="noun"
                      type="common"
                      xml:id="n57001007019"
@@ -1803,12 +2366,25 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:8">PHM 1:8</milestone> 
-         <milestone unit="verse" id="PHM 1:9">PHM 1:9</milestone> Διό, πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον, διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ,</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="8"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="9"> </verse>
+ Διό, πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον, διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ,</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:8!1"
-               after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="1" 
+                after=","
                class="conj"
                xml:id="n57001008001"
                lemma="διό"
@@ -1823,7 +2399,12 @@
                <wg class="cl" rule="O-V-ADV" junction="subordinate" role="adv">
                   <wg class="np" rule="AdjpNp" role="o">
                      <w ref="PHM 1:8!2"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="2" 
+                         after=" "
                         class="adj"
                         xml:id="n57001008002"
                         lemma="πολύς"
@@ -1838,7 +2419,12 @@
                      <wg class="np" rule="PpNp2Np">
                         <wg class="pp" rule="PrepNp">
                            <w ref="PHM 1:8!3"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="3" 
+                               after=" "
                               class="prep"
                               xml:id="n57001008003"
                               lemma="ἐν"
@@ -1850,7 +2436,12 @@
                               morph="PREP"
                               unicode="ἐν">ἐν</w>
                            <w ref="PHM 1:8!4"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="4" 
+                               after=" "
                               class="noun"
                               type="proper"
                               xml:id="n57001008004"
@@ -1867,7 +2458,12 @@
                               unicode="Χριστῷ">Χριστῷ</w>
                         </wg>
                         <w ref="PHM 1:8!5"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="5" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001008005"
@@ -1886,7 +2482,12 @@
                   </wg>
                   <w role="v"
                      ref="PHM 1:8!6"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="6" 
+                      after=" "
                      class="verb"
                      xml:id="n57001008006"
                      lemma="ἔχω"
@@ -1908,7 +2509,12 @@
                   <wg class="cl" rule="V-IO-O" junction="subordinate" role="adv">
                      <w role="v"
                         ref="PHM 1:8!7"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="7" 
+                         after=" "
                         class="verb"
                         xml:id="n57001008007"
                         lemma="ἐπιτάσσω"
@@ -1926,7 +2532,12 @@
                         subjref="n57001001001">ἐπιτάσσειν</w>
                      <w role="io"
                         ref="PHM 1:8!8"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="8" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n57001008008"
@@ -1941,7 +2552,12 @@
                         referent="n57001007019">σοι</w>
                      <wg articular="true" rule="DetCL" role="o">
                         <w ref="PHM 1:8!9"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="9" 
+                            after=" "
                            class="det"
                            xml:id="n57001008009"
                            lemma="ὁ"
@@ -1958,7 +2574,12 @@
                         <wg class="cl" clauseType="nominalized" rule="V2CL">
                            <w role="v"
                               ref="PHM 1:8!10"
-                              after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="8" 
+ word_in_verse="10" 
+                               after=","
                               class="verb"
                               xml:id="n57001008010"
                               lemma="ἀνήκω"
@@ -1982,7 +2603,12 @@
                </wg>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
                   <w ref="PHM 1:9!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="1" 
+                      after=" "
                      class="prep"
                      xml:id="n57001009001"
                      lemma="διά"
@@ -1995,7 +2621,12 @@
                      unicode="διὰ">διὰ</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="PHM 1:9!2"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="2" 
+                         after=" "
                         class="det"
                         xml:id="n57001009002"
                         lemma="ὁ"
@@ -2010,7 +2641,12 @@
                         morph="T-ASF"
                         unicode="τὴν">τὴν</w>
                      <w ref="PHM 1:9!3"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="3" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001009003"
@@ -2029,7 +2665,12 @@
                </wg>
                <w role="adv"
                   ref="PHM 1:9!4"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="4" 
+                   after=" "
                   class="adv"
                   xml:id="n57001009004"
                   lemma="μᾶλλον"
@@ -2042,7 +2683,12 @@
                   unicode="μᾶλλον">μᾶλλον</w>
                <w role="v"
                   ref="PHM 1:9!5"
-                  after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="5" 
+                   after=","
                   class="verb"
                   xml:id="n57001009005"
                   lemma="παρακαλέω"
@@ -2064,7 +2710,12 @@
                   <wg class="cl" rule="P-VC-ADV" junction="coordinate">
                      <w role="p"
                         ref="PHM 1:9!6"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="6" 
+                         after=" "
                         class="pron"
                         type="demonstrative"
                         xml:id="n57001009006"
@@ -2082,7 +2733,12 @@
                         referent="n57001009009">τοιοῦτος</w>
                      <w role="vc"
                         ref="PHM 1:9!7"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="7" 
+                         after=" "
                         class="verb"
                         xml:id="n57001009007"
                         lemma="εἰμί"
@@ -2100,7 +2756,12 @@
                         subjref="n57001001001">ὢν</w>
                      <wg class="pp" rule="PrepNp" role="adv">
                         <w ref="PHM 1:9!8"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="8" 
+                            after=" "
                            class="conj"
                            xml:id="n57001009008"
                            lemma="ὡς"
@@ -2113,7 +2774,12 @@
                            unicode="ὡς">ὡς</w>
                         <wg type="apposition" class="np" rule="Np-Appos">
                            <w ref="PHM 1:9!9"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="9" 
+                               after=" "
                               class="noun"
                               type="proper"
                               xml:id="n57001009009"
@@ -2129,7 +2795,12 @@
                               morph="N-NSM"
                               unicode="Παῦλος">Παῦλος</w>
                            <w ref="PHM 1:9!10"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="10" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n57001009010"
@@ -2149,7 +2820,12 @@
                   </wg>
                   <wg type="group">
                      <w ref="PHM 1:9!12"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="12" 
+                         after=" "
                         class="conj"
                         xml:id="n57001009012"
                         lemma="δέ"
@@ -2162,7 +2838,12 @@
                      <wg class="cl" rule="ADV-P" cltype="Verbless" junction="coordinate">
                         <w role="adv"
                            ref="PHM 1:9!11"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="11" 
+                            after=" "
                            class="adv"
                            xml:id="n57001009011"
                            lemma="νυνί"
@@ -2175,7 +2856,12 @@
                            unicode="νυνὶ">νυνὶ</w>
                         <wg class="np" rule="AdvpNp" role="p">
                            <w ref="PHM 1:9!13"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="13" 
+                               after=" "
                               class="adv"
                               xml:id="n57001009013"
                               lemma="καί"
@@ -2186,7 +2872,12 @@
                               unicode="καὶ">καὶ</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="PHM 1:9!14"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n57001009014"
@@ -2203,7 +2894,12 @@
                                  unicode="δέσμιος">δέσμιος</w>
                               <wg type="apposition" class="np" rule="Np-Appos">
                                  <w ref="PHM 1:9!15"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="15" 
+                                     after=" "
                                     class="noun"
                                     type="proper"
                                     xml:id="n57001009015"
@@ -2219,7 +2915,12 @@
                                     morph="N-GSM"
                                     unicode="Χριστοῦ">Χριστοῦ</w>
                                  <w ref="PHM 1:9!16"
-                                    after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="9" 
+ word_in_verse="16" 
+                                     after=","
                                     class="noun"
                                     type="proper"
                                     xml:id="n57001009016"
@@ -2246,15 +2947,36 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:10">PHM 1:10</milestone> 
-         <milestone unit="verse" id="PHM 1:11">PHM 1:11</milestone> 
-         <milestone unit="verse" id="PHM 1:12">PHM 1:12</milestone> 
-         <milestone unit="verse" id="PHM 1:13">PHM 1:13</milestone> παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου, ὃν ἐγέννησα ἐν τοῖς δεσμοῖς, Ὀνήσιμον, τόν ποτέ σοι ἄχρηστον νυνὶ δὲ καὶ σοὶ καὶ ἐμοὶ εὔχρηστον, ὃν ἀνέπεμψά σοι αὐτόν, τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα· ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν, ἵνα ὑπὲρ σοῦ μοι διακονῇ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου,</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="10"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="11"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="12"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="13"> </verse>
+ παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου, ὃν ἐγέννησα ἐν τοῖς δεσμοῖς, Ὀνήσιμον, τόν ποτέ σοι ἄχρηστον νυνὶ δὲ καὶ σοὶ καὶ ἐμοὶ εὔχρηστον, ὃν ἀνέπεμψά σοι αὐτόν, τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα· ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν, ἵνα ὑπὲρ σοῦ μοι διακονῇ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου,</p>
       <wg>
          <wg class="cl" rule="V-O-ADV">
             <w role="v"
                ref="PHM 1:10!1"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n57001010001"
                lemma="παρακαλέω"
@@ -2274,7 +2996,12 @@
                subjref="n57001009009">παρακαλῶ</w>
             <w role="o"
                ref="PHM 1:10!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="2" 
+                after=" "
                class="pron"
                type="personal"
                xml:id="n57001010002"
@@ -2289,7 +3016,12 @@
                referent="n57001007019">σε</w>
             <wg class="pp" articular="true" rule="PrepNp" role="adv">
                <w ref="PHM 1:10!3"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="3" 
+                   after=" "
                   class="prep"
                   xml:id="n57001010003"
                   lemma="περί"
@@ -2303,7 +3035,12 @@
                <wg class="np" type="apposition" articular="true" rule="NP-CL">
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="PHM 1:10!4"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="4" 
+                         after=" "
                         class="det"
                         xml:id="n57001010004"
                         lemma="ὁ"
@@ -2319,7 +3056,12 @@
                         unicode="τοῦ">τοῦ</w>
                      <wg class="np" rule="AdjpNp">
                         <w ref="PHM 1:10!5"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="5" 
+                            after=" "
                            class="adj"
                            xml:id="n57001010005"
                            lemma="ἐμός"
@@ -2335,7 +3077,12 @@
                            unicode="ἐμοῦ"
                            referent="n57001009009">ἐμοῦ</w>
                         <w ref="PHM 1:10!6"
-                           after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="6" 
+                            after=","
                            class="noun"
                            type="common"
                            xml:id="n57001010006"
@@ -2358,7 +3105,12 @@
                       junction="apposition">
                      <w role="v"
                         ref="PHM 1:10!8"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="8" 
+                         after=" "
                         class="verb"
                         xml:id="n57001010008"
                         lemma="γεννάω"
@@ -2378,7 +3130,12 @@
                         subjref="n57001009009">ἐγέννησα</w>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
                         <w ref="PHM 1:10!9"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="9" 
+                            after=" "
                            class="prep"
                            xml:id="n57001010009"
                            lemma="ἐν"
@@ -2391,7 +3148,12 @@
                            unicode="ἐν">ἐν</w>
                         <wg class="np" articular="true" rule="DetNP">
                            <w ref="PHM 1:10!10"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="10" 
+                               after=" "
                               class="det"
                               xml:id="n57001010010"
                               lemma="ὁ"
@@ -2406,7 +3168,12 @@
                               morph="T-DPM"
                               unicode="τοῖς">τοῖς</w>
                            <w ref="PHM 1:10!11"
-                              after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="11" 
+                               after=","
                               class="noun"
                               type="common"
                               xml:id="n57001010011"
@@ -2426,7 +3193,12 @@
                      </wg>
                      <wg class="np" rule="PronNP" role="o">
                         <w ref="PHM 1:10!7"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="7" 
+                            after=" "
                            class="pron"
                            type="relative"
                            xml:id="n57001010007"
@@ -2444,7 +3216,12 @@
                            <wg class="np" type="apposition" rule="NP-CL">
                               <wg type="apposition" class="np" rule="Np-Appos">
                                  <w ref="PHM 1:10!12"
-                                    after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="10" 
+ word_in_verse="12" 
+                                     after=","
                                     class="noun"
                                     type="proper"
                                     xml:id="n57001010012"
@@ -2461,7 +3238,12 @@
                                     unicode="Ὀνήσιμον,">Ὀνήσιμον</w>
                                  <wg class="np" junction="apposition" articular="true" rule="DetAdj">
                                     <w ref="PHM 1:11!1"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="1" 
+                                        after=" "
                                        class="det"
                                        xml:id="n57001011001"
                                        lemma="ὁ"
@@ -2478,7 +3260,12 @@
                                     <wg rule="AdjpaAdjp">
                                        <wg class="adjp" rule="AdvpAdjp">
                                           <w ref="PHM 1:11!2"
-                                             after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="2" 
+                                              after=" "
                                              class="adv"
                                              xml:id="n57001011002"
                                              lemma="ποτέ"
@@ -2491,7 +3278,12 @@
                                              unicode="ποτέ">ποτέ</w>
                                           <wg class="adjp" rule="DativeAdjp">
                                              <w ref="PHM 1:11!3"
-                                                after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="3" 
+                                                 after=" "
                                                 class="pron"
                                                 type="personal"
                                                 xml:id="n57001011003"
@@ -2505,7 +3297,12 @@
                                                 unicode="σοι"
                                                 referent="n57001007019">σοι</w>
                                              <w ref="PHM 1:11!4"
-                                                after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="4" 
+                                                 after=" "
                                                 class="adj"
                                                 xml:id="n57001011004"
                                                 lemma="ἄχρηστος"
@@ -2523,7 +3320,12 @@
                                        </wg>
                                        <wg type="group">
                                           <w ref="PHM 1:11!6"
-                                             after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="6" 
+                                              after=" "
                                              class="conj"
                                              xml:id="n57001011006"
                                              lemma="δέ"
@@ -2535,7 +3337,12 @@
                                              unicode="δὲ">δὲ</w>
                                           <wg class="adjp" rule="AdvpAdjp">
                                              <w ref="PHM 1:11!5"
-                                                after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="5" 
+                                                 after=" "
                                                 class="adv"
                                                 xml:id="n57001011005"
                                                 lemma="νυνί"
@@ -2550,7 +3357,12 @@
                                                 <wg rule="aNpaNp">
                                                    <wg type="group">
                                                       <w ref="PHM 1:11!7"
-                                                         after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="7" 
+                                                          after=" "
                                                          class="conj"
                                                          xml:id="n57001011007"
                                                          lemma="καί"
@@ -2560,7 +3372,12 @@
                                                          morph="CONJ"
                                                          unicode="καὶ">καὶ</w>
                                                       <w ref="PHM 1:11!8"
-                                                         after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="8" 
+                                                          after=" "
                                                          class="pron"
                                                          type="personal"
                                                          xml:id="n57001011008"
@@ -2576,7 +3393,12 @@
                                                    </wg>
                                                    <wg type="group">
                                                       <w ref="PHM 1:11!9"
-                                                         after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="9" 
+                                                          after=" "
                                                          class="conj"
                                                          xml:id="n57001011009"
                                                          lemma="καί"
@@ -2586,7 +3408,12 @@
                                                          morph="CONJ"
                                                          unicode="καὶ">καὶ</w>
                                                       <w ref="PHM 1:11!10"
-                                                         after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="10" 
+                                                          after=" "
                                                          class="pron"
                                                          type="personal"
                                                          xml:id="n57001011010"
@@ -2604,7 +3431,12 @@
                                                    </wg>
                                                 </wg>
                                                 <w ref="PHM 1:11!11"
-                                                   after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="11" 
+ word_in_verse="11" 
+                                                    after=","
                                                    class="adj"
                                                    xml:id="n57001011011"
                                                    lemma="εὔχρηστος"
@@ -2630,7 +3462,12 @@
                                   junction="apposition">
                                  <w role="v"
                                     ref="PHM 1:12!2"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="2" 
+                                     after=" "
                                     class="verb"
                                     xml:id="n57001012002"
                                     lemma="ἀναπέμπω"
@@ -2650,7 +3487,12 @@
                                     subjref="n57001009009">ἀνέπεμψά</w>
                                  <w role="io"
                                     ref="PHM 1:12!3"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="3" 
+                                     after=" "
                                     class="pron"
                                     type="personal"
                                     xml:id="n57001012003"
@@ -2666,7 +3508,12 @@
                                     referent="n57001007019">σοι</w>
                                  <wg class="np" rule="PronNP" role="o">
                                     <w ref="PHM 1:12!1"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="1" 
+                                        after=" "
                                        class="pron"
                                        type="relative"
                                        xml:id="n57001012001"
@@ -2682,7 +3529,12 @@
                                        referent="n57001010012">ὃν</w>
                                     <wg class="np" type="apposition" rule="NP-CL">
                                        <w ref="PHM 1:12!4"
-                                          after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="4" 
+                                           after=","
                                           class="pron"
                                           type="personal"
                                           xml:id="n57001012004"
@@ -2705,7 +3557,12 @@
                                            junction="apposition">
                                           <w role="s"
                                              ref="PHM 1:12!5"
-                                             after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="5" 
+                                              after=" "
                                              class="pron"
                                              type="demonstrative"
                                              xml:id="n57001012005"
@@ -2721,7 +3578,12 @@
                                              referent="n57001010012">τοῦτ’</w>
                                           <w role="vc"
                                              ref="PHM 1:12!6"
-                                             after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="6" 
+                                              after=" "
                                              class="verb"
                                              xml:id="n57001012006"
                                              lemma="εἰμί"
@@ -2737,7 +3599,12 @@
                                              unicode="ἔστιν">ἔστιν</w>
                                           <wg class="np" articular="true" rule="DetNP" role="p">
                                              <w ref="PHM 1:12!7"
-                                                after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="7" 
+                                                 after=" "
                                                 class="det"
                                                 xml:id="n57001012007"
                                                 lemma="ὁ"
@@ -2753,7 +3620,12 @@
                                                 unicode="τὰ">τὰ</w>
                                              <wg class="np" rule="AdjpNp">
                                                 <w ref="PHM 1:12!8"
-                                                   after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="8" 
+                                                    after=" "
                                                    class="adj"
                                                    xml:id="n57001012008"
                                                    lemma="ἐμός"
@@ -2769,7 +3641,12 @@
                                                    unicode="ἐμὰ"
                                                    referent="n57001009009">ἐμὰ</w>
                                                 <w ref="PHM 1:12!9"
-                                                   after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="12" 
+ word_in_verse="9" 
+                                                    after="·"
                                                    class="noun"
                                                    type="common"
                                                    xml:id="n57001012009"
@@ -2797,7 +3674,12 @@
                                junction="apposition">
                               <w role="s"
                                  ref="PHM 1:13!2"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="2" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n57001013002"
@@ -2814,7 +3696,12 @@
                                  referent="n57001009009">ἐγὼ</w>
                               <w role="v"
                                  ref="PHM 1:13!3"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="3" 
+                                  after=" "
                                  class="verb"
                                  xml:id="n57001013003"
                                  lemma="βούλομαι"
@@ -2839,7 +3726,12 @@
                                   role="o">
                                  <w role="o"
                                     ref="PHM 1:13!1"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="1" 
+                                     after=" "
                                     class="pron"
                                     type="relative"
                                     xml:id="n57001013001"
@@ -2855,7 +3747,12 @@
                                     referent="n57001010012">ὃν</w>
                                  <wg class="pp" rule="PrepNp" role="adv">
                                     <w ref="PHM 1:13!4"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="4" 
+                                        after=" "
                                        class="prep"
                                        xml:id="n57001013004"
                                        lemma="πρός"
@@ -2865,7 +3762,12 @@
                                        morph="PREP"
                                        unicode="πρὸς">πρὸς</w>
                                     <w ref="PHM 1:13!5"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="5" 
+                                        after=" "
                                        class="pron"
                                        type="personal"
                                        xml:id="n57001013005"
@@ -2884,7 +3786,12 @@
                                  </wg>
                                  <w role="v"
                                     ref="PHM 1:13!6"
-                                    after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="6" 
+                                     after=","
                                     class="verb"
                                     xml:id="n57001013006"
                                     lemma="κατέχω"
@@ -2903,7 +3810,12 @@
                               </wg>
                               <wg rule="sub-CL" role="adv">
                                  <w ref="PHM 1:13!7"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="7" 
+                                     after=" "
                                     class="conj"
                                     xml:id="n57001013007"
                                     lemma="ἵνα"
@@ -2917,7 +3829,12 @@
                                  <wg class="cl" rule="ADV-O-V-ADV" junction="subordinate">
                                     <wg class="pp" rule="PrepNp" role="adv">
                                        <w ref="PHM 1:13!8"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="8" 
+                                           after=" "
                                           class="prep"
                                           xml:id="n57001013008"
                                           lemma="ὑπέρ"
@@ -2929,7 +3846,12 @@
                                           morph="PREP"
                                           unicode="ὑπὲρ">ὑπὲρ</w>
                                        <w ref="PHM 1:13!9"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="9" 
+                                           after=" "
                                           class="pron"
                                           type="personal"
                                           xml:id="n57001013009"
@@ -2945,7 +3867,12 @@
                                     </wg>
                                     <w role="o"
                                        ref="PHM 1:13!10"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="10" 
+                                        after=" "
                                        class="pron"
                                        type="personal"
                                        xml:id="n57001013010"
@@ -2962,7 +3889,12 @@
                                        referent="n57001009009">μοι</w>
                                     <w role="v"
                                        ref="PHM 1:13!11"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="11" 
+                                        after=" "
                                        class="verb"
                                        xml:id="n57001013011"
                                        lemma="διακονέω"
@@ -2982,7 +3914,12 @@
                                        subjref="n57001010012">διακονῇ</w>
                                     <wg class="pp" articular="true" rule="PrepNp" role="adv">
                                        <w ref="PHM 1:13!12"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="12" 
+                                           after=" "
                                           class="prep"
                                           xml:id="n57001013012"
                                           lemma="ἐν"
@@ -2993,7 +3930,12 @@
                                           unicode="ἐν">ἐν</w>
                                        <wg class="np" articular="true" rule="DetNP">
                                           <w ref="PHM 1:13!13"
-                                             after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="13" 
+                                              after=" "
                                              class="det"
                                              xml:id="n57001013013"
                                              lemma="ὁ"
@@ -3009,7 +3951,12 @@
                                              unicode="τοῖς">τοῖς</w>
                                           <wg class="np" rule="NPofNP">
                                              <w ref="PHM 1:13!14"
-                                                after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="14" 
+                                                 after=" "
                                                 class="noun"
                                                 type="common"
                                                 xml:id="n57001013014"
@@ -3026,7 +3973,12 @@
                                                 unicode="δεσμοῖς">δεσμοῖς</w>
                                              <wg class="np" articular="true" rule="DetNP">
                                                 <w ref="PHM 1:13!15"
-                                                   after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="15" 
+                                                    after=" "
                                                    class="det"
                                                    xml:id="n57001013015"
                                                    lemma="ὁ"
@@ -3041,7 +3993,12 @@
                                                    morph="T-GSN"
                                                    unicode="τοῦ">τοῦ</w>
                                                 <w ref="PHM 1:13!16"
-                                                   after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="13" 
+ word_in_verse="16" 
+                                                    after=","
                                                    class="noun"
                                                    type="common"
                                                    xml:id="n57001013016"
@@ -3073,11 +4030,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:14">PHM 1:14</milestone> χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="14"> </verse>
+ χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:14!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="2" 
+                after=" "
                class="conj"
                xml:id="n57001014002"
                lemma="δέ"
@@ -3092,7 +4058,12 @@
             <wg Rule="ClCl" class="cl" nodeId="570010140010190">
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
                   <w ref="PHM 1:14!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="1" 
+                      after=" "
                      class="prep"
                      xml:id="n57001014001"
                      lemma="χωρίς"
@@ -3105,7 +4076,12 @@
                      unicode="χωρὶς">χωρὶς</w>
                   <wg class="np" articular="true" rule="DetNP">
                      <w ref="PHM 1:14!3"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="3" 
+                         after=" "
                         class="det"
                         xml:id="n57001014003"
                         lemma="ὁ"
@@ -3121,7 +4097,12 @@
                         unicode="τῆς">τῆς</w>
                      <wg class="np" rule="AdjpNp">
                         <w ref="PHM 1:14!4"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="4" 
+                            after=" "
                            class="adj"
                            xml:id="n57001014004"
                            lemma="σός"
@@ -3137,7 +4118,12 @@
                            unicode="σῆς"
                            referent="n57001007019">σῆς</w>
                         <w ref="PHM 1:14!5"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="5" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001014005"
@@ -3158,7 +4144,12 @@
                <wg class="cl" rule="O-V" junction="subordinate" role="o">
                   <w role="o"
                      ref="PHM 1:14!6"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="6" 
+                      after=" "
                      class="adj"
                      xml:id="n57001014006"
                      lemma="οὐδείς"
@@ -3174,7 +4165,12 @@
                      unicode="οὐδὲν">οὐδὲν</w>
                   <w role="v"
                      ref="PHM 1:14!8"
-                     after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="8" 
+                      after=","
                      class="verb"
                      xml:id="n57001014008"
                      lemma="ποιέω"
@@ -3194,7 +4190,12 @@
                </wg>
                <w role="v"
                   ref="PHM 1:14!7"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="7" 
+                   after=" "
                   class="verb"
                   xml:id="n57001014007"
                   lemma="θέλω"
@@ -3214,7 +4215,12 @@
                   subjref="n57001009009">ἠθέλησα</w>
                <wg rule="sub-CL" role="o">
                   <w ref="PHM 1:14!9"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="9" 
+                      after=" "
                      class="conj"
                      xml:id="n57001014009"
                      lemma="ἵνα"
@@ -3227,7 +4233,12 @@
                      unicode="ἵνα">ἵνα</w>
                   <wg type="group" rule="notCLbutCL2CL" junction="subordinate">
                      <w ref="PHM 1:14!10"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="10" 
+                         after=" "
                         class="adv"
                         xml:id="n57001014010"
                         lemma="μή"
@@ -3239,7 +4250,12 @@
                      <wg class="cl" rule="P-S-VC" junction="coordinate">
                         <wg class="pp" rule="AdvPp" role="p">
                            <w ref="PHM 1:14!11"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="11" 
+                               after=" "
                               class="conj"
                               xml:id="n57001014011"
                               lemma="ὡς"
@@ -3252,7 +4268,12 @@
                               unicode="ὡς">ὡς</w>
                            <wg class="pp" rule="PrepNp">
                               <w ref="PHM 1:14!12"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="12" 
+                                  after=" "
                                  class="prep"
                                  xml:id="n57001014012"
                                  lemma="κατά"
@@ -3264,7 +4285,12 @@
                                  morph="PREP"
                                  unicode="κατὰ">κατὰ</w>
                               <w ref="PHM 1:14!13"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="13" 
+                                  after=" "
                                  class="noun"
                                  type="common"
                                  xml:id="n57001014013"
@@ -3283,7 +4309,12 @@
                         </wg>
                         <wg class="np" articular="true" rule="DetNP" role="s">
                            <w ref="PHM 1:14!14"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="14" 
+                               after=" "
                               class="det"
                               xml:id="n57001014014"
                               lemma="ὁ"
@@ -3299,7 +4330,12 @@
                               unicode="τὸ">τὸ</w>
                            <wg class="np" rule="NPofNP">
                               <w ref="PHM 1:14!15"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="15" 
+                                  after=" "
                                  class="adj"
                                  xml:id="n57001014015"
                                  lemma="ἀγαθός"
@@ -3314,7 +4350,12 @@
                                  morph="A-NSN"
                                  unicode="ἀγαθόν">ἀγαθόν</w>
                               <w ref="PHM 1:14!16"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="16" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n57001014016"
@@ -3331,7 +4372,12 @@
                         </wg>
                         <w role="vc"
                            ref="PHM 1:14!17"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="17" 
+                            after=" "
                            class="verb"
                            xml:id="n57001014017"
                            lemma="εἰμί"
@@ -3347,7 +4393,12 @@
                            unicode="ᾖ">ᾖ</w>
                      </wg>
                      <w ref="PHM 1:14!18"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="18" 
+                         after=" "
                         class="conj"
                         xml:id="n57001014018"
                         lemma="ἀλλά"
@@ -3361,7 +4412,12 @@
                      <wg class="cl" rule="P2CL" cltype="Verbless" junction="coordinate">
                         <wg class="pp" rule="PrepNp" role="p">
                            <w ref="PHM 1:14!19"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="19" 
+                               after=" "
                               class="prep"
                               xml:id="n57001014019"
                               lemma="κατά"
@@ -3371,7 +4427,12 @@
                               morph="PREP"
                               unicode="κατὰ">κατὰ</w>
                            <w ref="PHM 1:14!20"
-                              after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="14" 
+ word_in_verse="20" 
+                               after="."
                               class="adj"
                               xml:id="n57001014020"
                               lemma="ἑκούσιος"
@@ -3395,12 +4456,25 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:15">PHM 1:15</milestone> 
-         <milestone unit="verse" id="PHM 1:16">PHM 1:16</milestone> τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν, ἵνα αἰώνιον αὐτὸν ἀπέχῃς, οὐκέτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν Κυρίῳ.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="15"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="16"> </verse>
+ τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν, ἵνα αἰώνιον αὐτὸν ἀπέχῃς, οὐκέτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν Κυρίῳ.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:15!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="2" 
+                after=" "
                class="conj"
                xml:id="n57001015002"
                lemma="γάρ"
@@ -3415,7 +4489,12 @@
             <wg Rule="ClCl" class="cl" nodeId="570010150010300">
                <w role="adv"
                   ref="PHM 1:15!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="1" 
+                   after=" "
                   class="adv"
                   xml:id="n57001015001"
                   lemma="τάχα"
@@ -3428,7 +4507,12 @@
                   unicode="τάχα">τάχα</w>
                <wg class="pp" rule="PrepNp" role="adv">
                   <w ref="PHM 1:15!3"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="3" 
+                      after=" "
                      class="prep"
                      xml:id="n57001015003"
                      lemma="διά"
@@ -3440,7 +4524,12 @@
                      morph="PREP"
                      unicode="διὰ">διὰ</w>
                   <w ref="PHM 1:15!4"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="4" 
+                      after=" "
                      class="pron"
                      type="demonstrative"
                      xml:id="n57001015004"
@@ -3456,7 +4545,12 @@
                </wg>
                <w role="v"
                   ref="PHM 1:15!5"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="5" 
+                   after=" "
                   class="verb"
                   xml:id="n57001015005"
                   lemma="χωρίζω"
@@ -3476,7 +4570,12 @@
                   subjref="n57001010012">ἐχωρίσθη</w>
                <wg class="pp" rule="PrepNp" role="adv">
                   <w ref="PHM 1:15!6"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="6" 
+                      after=" "
                      class="prep"
                      xml:id="n57001015006"
                      lemma="πρός"
@@ -3486,7 +4585,12 @@
                      morph="PREP"
                      unicode="πρὸς">πρὸς</w>
                   <w ref="PHM 1:15!7"
-                     after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="7" 
+                      after=","
                      class="noun"
                      type="common"
                      xml:id="n57001015007"
@@ -3504,7 +4608,12 @@
                </wg>
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:15!8"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="8" 
+                      after=" "
                      class="conj"
                      xml:id="n57001015008"
                      lemma="ἵνα"
@@ -3518,7 +4627,12 @@
                   <wg Rule="ClCl" class="cl" nodeId="570010150090230">
                      <w role="adv"
                         ref="PHM 1:15!9"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="9" 
+                         after=" "
                         class="adj"
                         xml:id="n57001015009"
                         lemma="αἰώνιος"
@@ -3534,7 +4648,12 @@
                         unicode="αἰώνιον">αἰώνιον</w>
                      <w role="o"
                         ref="PHM 1:15!10"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="10" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n57001015010"
@@ -3552,7 +4671,12 @@
                         referent="n57001010012">αὐτὸν</w>
                      <w role="v"
                         ref="PHM 1:15!11"
-                        after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="15" 
+ word_in_verse="11" 
+                         after=","
                         class="verb"
                         xml:id="n57001015011"
                         lemma="ἀπέχω"
@@ -3572,7 +4696,12 @@
                         subjref="n57001007019">ἀπέχῃς</w>
                      <wg type="group" rule="notPPbutPP" role="adv">
                         <w ref="PHM 1:16!1"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="1" 
+                            after=" "
                            class="adv"
                            xml:id="n57001016001"
                            lemma="οὐκέτι"
@@ -3585,7 +4714,12 @@
                            unicode="οὐκέτι">οὐκέτι</w>
                         <wg class="pp" rule="PrepNp">
                            <w ref="PHM 1:16!2"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="2" 
+                               after=" "
                               class="conj"
                               xml:id="n57001016002"
                               lemma="ὡς"
@@ -3597,7 +4731,12 @@
                               morph="ADV"
                               unicode="ὡς">ὡς</w>
                            <w ref="PHM 1:16!3"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="3" 
+                               after=" "
                               class="noun"
                               type="common"
                               xml:id="n57001016003"
@@ -3614,7 +4753,12 @@
                               unicode="δοῦλον">δοῦλον</w>
                         </wg>
                         <w ref="PHM 1:16!4"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="4" 
+                            after=" "
                            class="conj"
                            xml:id="n57001016004"
                            lemma="ἀλλά"
@@ -3627,7 +4771,12 @@
                            unicode="ἀλλὰ">ἀλλὰ</w>
                         <wg class="pp" rule="PrepNp">
                            <w ref="PHM 1:16!5"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="5" 
+                               after=" "
                               class="prep"
                               xml:id="n57001016005"
                               lemma="ὑπέρ"
@@ -3639,7 +4788,12 @@
                               morph="PREP"
                               unicode="ὑπὲρ">ὑπὲρ</w>
                            <w ref="PHM 1:16!6"
-                              after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="6" 
+                               after=","
                               class="noun"
                               type="common"
                               xml:id="n57001016006"
@@ -3658,7 +4812,12 @@
                      </wg>
                      <wg class="np" rule="NpAdjp" role="o2">
                         <w ref="PHM 1:16!7"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="7" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001016007"
@@ -3674,7 +4833,12 @@
                            morph="N-ASM"
                            unicode="ἀδελφὸν">ἀδελφὸν</w>
                         <w ref="PHM 1:16!8"
-                           after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="8" 
+                            after=","
                            class="adj"
                            xml:id="n57001016008"
                            lemma="ἀγαπητός"
@@ -3696,7 +4860,12 @@
                             junction="coordinate">
                            <w role="adv"
                               ref="PHM 1:16!9"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="9" 
+                               after=" "
                               class="adv"
                               xml:id="n57001016009"
                               lemma="μάλιστα"
@@ -3709,7 +4878,12 @@
                               unicode="μάλιστα">μάλιστα</w>
                            <w role="io"
                               ref="PHM 1:16!10"
-                              after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="10" 
+                               after=","
                               class="pron"
                               type="personal"
                               xml:id="n57001016010"
@@ -3727,7 +4901,12 @@
                         </wg>
                         <wg type="group">
                            <w ref="PHM 1:16!12"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="12" 
+                               after=" "
                               class="conj"
                               xml:id="n57001016012"
                               lemma="δέ"
@@ -3745,7 +4924,12 @@
                                junction="coordinate">
                               <wg class="advp" rule="2Advp_h2" role="adv">
                                  <w ref="PHM 1:16!11"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="11" 
+                                     after=" "
                                     class="pron"
                                     type="interrogative"
                                     xml:id="n57001016011"
@@ -3761,7 +4945,12 @@
                                     morph="Q-DSN"
                                     unicode="πόσῳ">πόσῳ</w>
                                  <w ref="PHM 1:16!13"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="13" 
+                                     after=" "
                                     class="adv"
                                     xml:id="n57001016013"
                                     lemma="μᾶλλον"
@@ -3775,7 +4964,12 @@
                               </wg>
                               <w role="io"
                                  ref="PHM 1:16!14"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n57001016014"
@@ -3791,7 +4985,12 @@
                               <wg rule="aPpaPp" role="adv">
                                  <wg type="group">
                                     <w ref="PHM 1:16!15"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="15" 
+                                        after=" "
                                        class="conj"
                                        xml:id="n57001016015"
                                        lemma="καί"
@@ -3802,7 +5001,12 @@
                                        unicode="καὶ">καὶ</w>
                                     <wg class="pp" rule="PrepNp">
                                        <w ref="PHM 1:16!16"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="16" 
+                                           after=" "
                                           class="prep"
                                           xml:id="n57001016016"
                                           lemma="ἐν"
@@ -3814,7 +5018,12 @@
                                           morph="PREP"
                                           unicode="ἐν">ἐν</w>
                                        <w ref="PHM 1:16!17"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="17" 
+                                           after=" "
                                           class="noun"
                                           type="common"
                                           xml:id="n57001016017"
@@ -3833,7 +5042,12 @@
                                  </wg>
                                  <wg type="group">
                                     <w ref="PHM 1:16!18"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="18" 
+                                        after=" "
                                        class="conj"
                                        xml:id="n57001016018"
                                        lemma="καί"
@@ -3844,7 +5058,12 @@
                                        unicode="καὶ">καὶ</w>
                                     <wg class="pp" rule="PrepNp">
                                        <w ref="PHM 1:16!19"
-                                          after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="19" 
+                                           after=" "
                                           class="prep"
                                           xml:id="n57001016019"
                                           lemma="ἐν"
@@ -3854,7 +5073,12 @@
                                           morph="PREP"
                                           unicode="ἐν">ἐν</w>
                                        <w ref="PHM 1:16!20"
-                                          after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="16" 
+ word_in_verse="20" 
+                                           after="."
                                           class="noun"
                                           type="common"
                                           xml:id="n57001016020"
@@ -3883,11 +5107,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:17">PHM 1:17</milestone> εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="17"> </verse>
+ εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:17!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="2" 
+                after=" "
                class="conj"
                xml:id="n57001017002"
                lemma="οὖν"
@@ -3902,7 +5135,12 @@
             <wg Rule="ClCl2" class="cl" nodeId="570010170010080">
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:17!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="1" 
+                      after=" "
                      class="conj"
                      xml:id="n57001017001"
                      lemma="εἰ"
@@ -3914,7 +5152,12 @@
                   <wg class="cl" rule="O-V-O2" junction="subordinate">
                      <w role="o"
                         ref="PHM 1:17!3"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="3" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n57001017003"
@@ -3931,7 +5174,12 @@
                         referent="n57001009009">με</w>
                      <w role="v"
                         ref="PHM 1:17!4"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="4" 
+                         after=" "
                         class="verb"
                         xml:id="n57001017004"
                         lemma="ἔχω"
@@ -3951,7 +5199,12 @@
                         subjref="n57001007019">ἔχεις</w>
                      <w role="o2"
                         ref="PHM 1:17!5"
-                        after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="5" 
+                         after=","
                         class="noun"
                         type="common"
                         xml:id="n57001017005"
@@ -3970,7 +5223,12 @@
                </wg>
                <w role="v"
                   ref="PHM 1:17!6"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="6" 
+                   after=" "
                   class="verb"
                   xml:id="n57001017006"
                   lemma="προσλαμβάνω"
@@ -3990,7 +5248,12 @@
                   subjref="n57001007019">προσλαβοῦ</w>
                <w role="o"
                   ref="PHM 1:17!7"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="7" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n57001017007"
@@ -4008,7 +5271,12 @@
                   referent="n57001010012">αὐτὸν</w>
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:17!8"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="8" 
+                      after=" "
                      class="conj"
                      xml:id="n57001017008"
                      lemma="ὡς"
@@ -4025,7 +5293,12 @@
                       junction="subordinate">
                      <w role="o"
                         ref="PHM 1:17!9"
-                        after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="17" 
+ word_in_verse="9" 
+                         after="."
                         class="pron"
                         type="personal"
                         xml:id="n57001017009"
@@ -4048,11 +5321,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:18">PHM 1:18</milestone> εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, τοῦτο ἐμοὶ ἐλλόγα·</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="18"> </verse>
+ εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, τοῦτο ἐμοὶ ἐλλόγα·</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:18!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="2" 
+                after=" "
                class="conj"
                xml:id="n57001018002"
                lemma="δέ"
@@ -4067,7 +5349,12 @@
             <wg Rule="ClCl2" class="cl" nodeId="570010180010090">
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:18!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="1" 
+                      after=" "
                      class="conj"
                      xml:id="n57001018001"
                      lemma="εἰ"
@@ -4080,7 +5367,12 @@
                      <wg class="cl" rule="ADV-O-V" junction="coordinate">
                         <w role="adv"
                            ref="PHM 1:18!3"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="3" 
+                            after=" "
                            class="pron"
                            type="indefinite"
                            xml:id="n57001018003"
@@ -4097,7 +5389,12 @@
                            unicode="τι">τι</w>
                         <w role="o"
                            ref="PHM 1:18!5"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="5" 
+                            after=" "
                            class="pron"
                            type="personal"
                            xml:id="n57001018005"
@@ -4113,7 +5410,12 @@
                            referent="n57001007019">σε</w>
                         <w role="v"
                            ref="PHM 1:18!4"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="4" 
+                            after=" "
                            class="verb"
                            xml:id="n57001018004"
                            lemma="ἀδικέω"
@@ -4134,7 +5436,12 @@
                      </wg>
                      <wg type="group">
                         <w ref="PHM 1:18!6"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="6" 
+                            after=" "
                            class="conj"
                            xml:id="n57001018006"
                            lemma="ἤ"
@@ -4146,7 +5453,12 @@
                         <wg class="cl" rule="V2CL" junction="coordinate">
                            <w role="v"
                               ref="PHM 1:18!7"
-                              after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="7" 
+                               after=","
                               class="verb"
                               xml:id="n57001018007"
                               lemma="ὀφείλω"
@@ -4170,7 +5482,12 @@
                </wg>
                <w role="o"
                   ref="PHM 1:18!8"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="8" 
+                   after=" "
                   class="pron"
                   type="demonstrative"
                   xml:id="n57001018008"
@@ -4186,7 +5503,12 @@
                   referent="n57001018004">τοῦτο</w>
                <w role="io"
                   ref="PHM 1:18!9"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="9" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n57001018009"
@@ -4203,7 +5525,12 @@
                   referent="n57001009009">ἐμοὶ</w>
                <w role="v"
                   ref="PHM 1:18!10"
-                  after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="18" 
+ word_in_verse="10" 
+                   after="·"
                   class="verb"
                   xml:id="n57001018010"
                   lemma="ἐλλογέω"
@@ -4227,12 +5554,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:19">PHM 1:19</milestone> ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="19"> </verse>
+ ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις.</p>
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="570010190010170">
             <wg type="apposition" class="np" rule="Np-Appos" role="s">
                <w ref="PHM 1:19!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="1" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n57001019001"
@@ -4248,7 +5584,12 @@
                   unicode="ἐγὼ"
                   referent="n57001009009">ἐγὼ</w>
                <w ref="PHM 1:19!2"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="2" 
+                   after=" "
                   class="noun"
                   type="proper"
                   xml:id="n57001019002"
@@ -4266,7 +5607,12 @@
             </wg>
             <w role="v"
                ref="PHM 1:19!3"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="3" 
+                after=" "
                class="verb"
                xml:id="n57001019003"
                lemma="γράφω"
@@ -4285,7 +5631,12 @@
                frame="A0:n57001019001">ἔγραψα</w>
             <wg class="np" articular="true" rule="DetNP" role="adv">
                <w ref="PHM 1:19!4"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="4" 
+                   after=" "
                   class="det"
                   xml:id="n57001019004"
                   lemma="ὁ"
@@ -4301,7 +5652,12 @@
                   unicode="τῇ">τῇ</w>
                <wg class="np" rule="AdjpNp">
                   <w ref="PHM 1:19!5"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="5" 
+                      after=" "
                      class="adj"
                      xml:id="n57001019005"
                      lemma="ἐμός"
@@ -4317,7 +5673,12 @@
                      unicode="ἐμῇ"
                      referent="n57001019002">ἐμῇ</w>
                   <w ref="PHM 1:19!6"
-                     after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="6" 
+                      after=","
                      class="noun"
                      type="common"
                      xml:id="n57001019006"
@@ -4337,7 +5698,12 @@
             <wg Rule="ClCl" class="cl" nodeId="570010190070110" role="o">
                <w role="s"
                   ref="PHM 1:19!7"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="7" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n57001019007"
@@ -4354,7 +5720,12 @@
                   referent="n57001019002">ἐγὼ</w>
                <w role="v"
                   ref="PHM 1:19!8"
-                  after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="8" 
+                   after="·"
                   class="verb"
                   xml:id="n57001019008"
                   lemma="ἀποτίνω"
@@ -4373,7 +5744,12 @@
                   frame="A0:n57001019007">ἀποτίσω</w>
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:19!9"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="9" 
+                      after=" "
                      class="conj"
                      xml:id="n57001019009"
                      lemma="ἵνα"
@@ -4385,7 +5761,12 @@
                   <wg Rule="ClCl" class="cl" nodeId="570010190100080">
                      <w role="adv"
                         ref="PHM 1:19!10"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="10" 
+                         after=" "
                         class="adv"
                         xml:id="n57001019010"
                         lemma="μή"
@@ -4396,7 +5777,12 @@
                         unicode="μὴ">μὴ</w>
                      <w role="v"
                         ref="PHM 1:19!11"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="11" 
+                         after=" "
                         class="verb"
                         xml:id="n57001019011"
                         lemma="λέγω"
@@ -4416,7 +5802,12 @@
                         subjref="n57001019002">λέγω</w>
                      <w role="io"
                         ref="PHM 1:19!12"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="12" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n57001019012"
@@ -4431,7 +5822,12 @@
                         referent="n57001007019">σοι</w>
                      <wg rule="that-VP" role="o">
                         <w ref="PHM 1:19!13"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="13" 
+                            after=" "
                            class="conj"
                            xml:id="n57001019013"
                            lemma="ὅτι"
@@ -4443,7 +5839,12 @@
                         <wg class="cl" rule="O-IO-V">
                            <wg class="np" rule="AdvpNp" role="o">
                               <w ref="PHM 1:19!14"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="14" 
+                                  after=" "
                                  class="adv"
                                  xml:id="n57001019014"
                                  lemma="καί"
@@ -4453,7 +5854,12 @@
                                  morph="CONJ"
                                  unicode="καὶ">καὶ</w>
                               <w ref="PHM 1:19!15"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="15" 
+                                  after=" "
                                  class="pron"
                                  type="personal"
                                  xml:id="n57001019015"
@@ -4472,7 +5878,12 @@
                            </wg>
                            <w role="io"
                               ref="PHM 1:19!16"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="16" 
+                               after=" "
                               class="pron"
                               type="personal"
                               xml:id="n57001019016"
@@ -4489,7 +5900,12 @@
                               referent="n57001019002">μοι</w>
                            <w role="v"
                               ref="PHM 1:19!17"
-                              after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="19" 
+ word_in_verse="17" 
+                               after="."
                               class="verb"
                               xml:id="n57001019017"
                               lemma="προσοφείλω"
@@ -4517,13 +5933,22 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:20">PHM 1:20</milestone> ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν Κυρίῳ·</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="20"> </verse>
+ ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν Κυρίῳ·</p>
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="570010200010070">
             <wg rule="Intj2CL" cltype="Minor">
                <w role="aux"
                   ref="PHM 1:20!1"
-                  after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="1" 
+                   after=","
                   class="ptcl"
                   xml:id="n57001020001"
                   lemma="ναί"
@@ -4538,7 +5963,12 @@
             <wg rule="Np2CL" cltype="Minor">
                <w role="aux"
                   ref="PHM 1:20!2"
-                  after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="2" 
+                   after=","
                   class="noun"
                   type="common"
                   xml:id="n57001020002"
@@ -4556,7 +5986,12 @@
             </wg>
             <w role="s"
                ref="PHM 1:20!3"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="3" 
+                after=" "
                class="pron"
                type="personal"
                xml:id="n57001020003"
@@ -4573,7 +6008,12 @@
                referent="n57001019002">ἐγώ</w>
             <w role="adv"
                ref="PHM 1:20!4"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="4" 
+                after=" "
                class="pron"
                type="personal"
                xml:id="n57001020004"
@@ -4588,7 +6028,12 @@
                referent="n57001020002">σου</w>
             <w role="v"
                ref="PHM 1:20!5"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="5" 
+                after=" "
                class="verb"
                xml:id="n57001020005"
                lemma="ὀνίνημι"
@@ -4607,7 +6052,12 @@
                frame="A0:n57001020003">ὀναίμην</w>
             <wg class="pp" rule="PrepNp" role="adv">
                <w ref="PHM 1:20!6"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="6" 
+                   after=" "
                   class="prep"
                   xml:id="n57001020006"
                   lemma="ἐν"
@@ -4619,7 +6069,12 @@
                   morph="PREP"
                   unicode="ἐν">ἐν</w>
                <w ref="PHM 1:20!7"
-                  after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="7" 
+                   after="·"
                   class="noun"
                   type="common"
                   xml:id="n57001020007"
@@ -4640,12 +6095,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:20">PHM 1:20</milestone> ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="20"> </verse>
+ ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ.</p>
       <wg>
          <wg class="cl" rule="V-O-ADV">
             <w role="v"
                ref="PHM 1:20!8"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="8" 
+                after=" "
                class="verb"
                xml:id="n57001020008"
                lemma="ἀναπαύω"
@@ -4665,7 +6129,12 @@
                subjref="n57001020002">ἀνάπαυσόν</w>
             <wg class="np" articular="true" rule="ofNPNP" role="o">
                <w ref="PHM 1:20!9"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="9" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n57001020009"
@@ -4682,7 +6151,12 @@
                   referent="n57001019002">μου</w>
                <wg class="np" articular="true" rule="DetNP">
                   <w ref="PHM 1:20!10"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="10" 
+                      after=" "
                      class="det"
                      xml:id="n57001020010"
                      lemma="ὁ"
@@ -4697,7 +6171,12 @@
                      morph="T-APN"
                      unicode="τὰ">τὰ</w>
                   <w ref="PHM 1:20!11"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="11" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n57001020011"
@@ -4716,7 +6195,12 @@
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
                <w ref="PHM 1:20!12"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="12" 
+                   after=" "
                   class="prep"
                   xml:id="n57001020012"
                   lemma="ἐν"
@@ -4728,7 +6212,12 @@
                   morph="PREP"
                   unicode="ἐν">ἐν</w>
                <w ref="PHM 1:20!13"
-                  after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="20" 
+ word_in_verse="13" 
+                   after="."
                   class="noun"
                   type="proper"
                   xml:id="n57001020013"
@@ -4749,13 +6238,22 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:21">PHM 1:21</milestone> Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι, εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="21"> </verse>
+ Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι, εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις.</p>
       <wg>
          <wg class="cl" rule="ADV-V-IO-ADV">
             <wg class="cl" rule="V-ADV" junction="subordinate" role="adv">
                <w role="v"
                   ref="PHM 1:21!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="1" 
+                   after=" "
                   class="verb"
                   xml:id="n57001021001"
                   lemma="πείθω"
@@ -4776,7 +6274,12 @@
                   subjref="n57001019002">Πεποιθὼς</w>
                <wg class="np" articular="true" rule="DetNP" role="adv">
                   <w ref="PHM 1:21!2"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="2" 
+                      after=" "
                      class="det"
                      xml:id="n57001021002"
                      lemma="ὁ"
@@ -4792,7 +6295,12 @@
                      unicode="τῇ">τῇ</w>
                   <wg class="np" rule="NPofNP">
                      <w ref="PHM 1:21!3"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="3" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001021003"
@@ -4808,7 +6316,12 @@
                         morph="N-DSF"
                         unicode="ὑπακοῇ">ὑπακοῇ</w>
                      <w ref="PHM 1:21!4"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="4" 
+                         after=" "
                         class="pron"
                         type="personal"
                         xml:id="n57001021004"
@@ -4826,7 +6339,12 @@
             </wg>
             <w role="v"
                ref="PHM 1:21!5"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="5" 
+                after=" "
                class="verb"
                xml:id="n57001021005"
                lemma="γράφω"
@@ -4846,7 +6364,12 @@
                subjref="n57001019002">ἔγραψά</w>
             <w role="io"
                ref="PHM 1:21!6"
-               after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="6" 
+                after=","
                class="pron"
                type="personal"
                xml:id="n57001021006"
@@ -4862,7 +6385,12 @@
             <wg Rule="ClCl" class="cl" nodeId="570010210070070" role="adv">
                <w role="v"
                   ref="PHM 1:21!7"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="7" 
+                   after=" "
                   class="verb"
                   xml:id="n57001021007"
                   lemma="οἶδα"
@@ -4883,7 +6411,12 @@
                   subjref="n57001019002">εἰδὼς</w>
                <wg rule="that-VP" role="o">
                   <w ref="PHM 1:21!8"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="8" 
+                      after=" "
                      class="conj"
                      xml:id="n57001021008"
                      lemma="ὅτι"
@@ -4895,7 +6428,12 @@
                   <wg class="cl" clauseType="nominalized" rule="ADV-V">
                      <wg class="pp" rule="AdvPp" role="adv">
                         <w ref="PHM 1:21!9"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="9" 
+                            after=" "
                            class="adv"
                            xml:id="n57001021009"
                            lemma="καί"
@@ -4908,7 +6446,12 @@
                            unicode="καὶ">καὶ</w>
                         <wg class="pp" rule="PrepNp">
                            <w ref="PHM 1:21!10"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="10" 
+                               after=" "
                               class="prep"
                               xml:id="n57001021010"
                               lemma="ὑπέρ"
@@ -4925,7 +6468,12 @@
                                junction="subordinate">
                               <w role="o"
                                  ref="PHM 1:21!11"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="11" 
+                                  after=" "
                                  class="pron"
                                  type="relative"
                                  xml:id="n57001021011"
@@ -4940,7 +6488,12 @@
                                  unicode="ἃ">ἃ</w>
                               <w role="v"
                                  ref="PHM 1:21!12"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="12" 
+                                  after=" "
                                  class="verb"
                                  xml:id="n57001021012"
                                  lemma="λέγω"
@@ -4963,7 +6516,12 @@
                      </wg>
                      <w role="v"
                         ref="PHM 1:21!13"
-                        after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="21" 
+ word_in_verse="13" 
+                         after="."
                         class="verb"
                         xml:id="n57001021013"
                         lemma="ποιέω"
@@ -4989,11 +6547,20 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:22">PHM 1:22</milestone> ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν· ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="22"> </verse>
+ ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν· ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.</p>
       <wg>
          <wg rule="Conj-CL">
             <w ref="PHM 1:22!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="2" 
+                after=" "
                class="conj"
                xml:id="n57001022002"
                lemma="δέ"
@@ -5008,7 +6575,12 @@
             <wg Rule="ClCl" class="cl" nodeId="570010220010140">
                <wg class="advp" rule="2Advp_h1" role="adv">
                   <w ref="PHM 1:22!1"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="1" 
+                      after=" "
                      class="adv"
                      xml:id="n57001022001"
                      lemma="ἅμα"
@@ -5020,7 +6592,12 @@
                      morph="ADV"
                      unicode="ἅμα">ἅμα</w>
                   <w ref="PHM 1:22!3"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="3" 
+                      after=" "
                      class="adv"
                      xml:id="n57001022003"
                      lemma="καί"
@@ -5034,7 +6611,12 @@
                </wg>
                <w role="v"
                   ref="PHM 1:22!4"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="4" 
+                   after=" "
                   class="verb"
                   xml:id="n57001022004"
                   lemma="ἑτοιμάζω"
@@ -5054,7 +6636,12 @@
                   subjref="n57001020002">ἑτοίμαζέ</w>
                <w role="io"
                   ref="PHM 1:22!5"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="5" 
+                   after=" "
                   class="pron"
                   type="personal"
                   xml:id="n57001022005"
@@ -5071,7 +6658,12 @@
                   referent="n57001019002">μοι</w>
                <w role="o"
                   ref="PHM 1:22!6"
-                  after="·"
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="6" 
+                   after="·"
                   class="noun"
                   type="common"
                   xml:id="n57001022006"
@@ -5088,7 +6680,12 @@
                   unicode="ξενίαν·">ξενίαν</w>
                <wg rule="sub-CL" role="adv">
                   <w ref="PHM 1:22!8"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="8" 
+                      after=" "
                      class="conj"
                      xml:id="n57001022008"
                      lemma="γάρ"
@@ -5103,7 +6700,12 @@
                   <wg Rule="ClCl" class="cl" nodeId="570010220070080">
                      <w role="v"
                         ref="PHM 1:22!7"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="7" 
+                         after=" "
                         class="verb"
                         xml:id="n57001022007"
                         lemma="ἐλπίζω"
@@ -5123,7 +6725,12 @@
                         subjref="n57001019002">ἐλπίζω</w>
                      <wg rule="that-VP" role="o">
                         <w ref="PHM 1:22!9"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="9" 
+                            after=" "
                            class="conj"
                            xml:id="n57001022009"
                            lemma="ὅτι"
@@ -5135,7 +6742,12 @@
                         <wg class="cl" rule="ADV-V-IO">
                            <wg class="pp" articular="true" rule="PrepNp" role="adv">
                               <w ref="PHM 1:22!10"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="10" 
+                                  after=" "
                                  class="prep"
                                  xml:id="n57001022010"
                                  lemma="διά"
@@ -5148,7 +6760,12 @@
                                  unicode="διὰ">διὰ</w>
                               <wg class="np" articular="true" rule="DetNP">
                                  <w ref="PHM 1:22!11"
-                                    after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="11" 
+                                     after=" "
                                     class="det"
                                     xml:id="n57001022011"
                                     lemma="ὁ"
@@ -5164,7 +6781,12 @@
                                     unicode="τῶν">τῶν</w>
                                  <wg class="np" rule="NPofNP">
                                     <w ref="PHM 1:22!12"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="12" 
+                                        after=" "
                                        class="noun"
                                        type="common"
                                        xml:id="n57001022012"
@@ -5180,7 +6802,12 @@
                                        morph="N-GPF"
                                        unicode="προσευχῶν">προσευχῶν</w>
                                     <w ref="PHM 1:22!13"
-                                       after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="13" 
+                                        after=" "
                                        class="pron"
                                        type="personal"
                                        xml:id="n57001022013"
@@ -5198,7 +6825,12 @@
                            </wg>
                            <w role="v"
                               ref="PHM 1:22!14"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="14" 
+                               after=" "
                               class="verb"
                               xml:id="n57001022014"
                               lemma="χαρίζομαι"
@@ -5218,7 +6850,12 @@
                               subjref="n57001019002">χαρισθήσομαι</w>
                            <w role="io"
                               ref="PHM 1:22!15"
-                              after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="22" 
+ word_in_verse="15" 
+                               after="."
                               class="pron"
                               type="personal"
                               xml:id="n57001022015"
@@ -5241,13 +6878,26 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:23">PHM 1:23</milestone> 
-         <milestone unit="verse" id="PHM 1:24">PHM 1:24</milestone> Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ, Μᾶρκος, Ἀρίσταρχος, Δημᾶς, Λουκᾶς, οἱ συνεργοί μου.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="23"> </verse>
+ 
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="24"> </verse>
+ Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ, Μᾶρκος, Ἀρίσταρχος, Δημᾶς, Λουκᾶς, οἱ συνεργοί μου.</p>
       <wg>
          <wg class="cl" rule="V-O-S">
             <w role="v"
                ref="PHM 1:23!1"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="1" 
+                after=" "
                class="verb"
                xml:id="n57001023001"
                lemma="ἀσπάζομαι"
@@ -5266,7 +6916,12 @@
                frame="A1:n57001023002 A0:n57001023003;n57001024001;n57001024002;n57001024003;n57001024004">Ἀσπάζεταί</w>
             <w role="o"
                ref="PHM 1:23!2"
-               after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="2" 
+                after=" "
                class="pron"
                type="personal"
                xml:id="n57001023002"
@@ -5282,7 +6937,12 @@
             <wg type="group" rule="2Np" role="s">
                <wg type="apposition" class="np" rule="Np-Appos">
                   <w ref="PHM 1:23!3"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="3" 
+                      after=" "
                      class="noun"
                      type="proper"
                      xml:id="n57001023003"
@@ -5299,7 +6959,12 @@
                      unicode="Ἐπαφρᾶς">Ἐπαφρᾶς</w>
                   <wg class="np" junction="apposition" articular="true" rule="DetNP">
                      <w ref="PHM 1:23!4"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="4" 
+                         after=" "
                         class="det"
                         xml:id="n57001023004"
                         lemma="ὁ"
@@ -5316,7 +6981,12 @@
                      <wg class="np" rule="NpPp">
                         <wg class="np" rule="NPofNP">
                            <w ref="PHM 1:23!5"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="5" 
+                               after=" "
                               class="adj"
                               type="common"
                               xml:id="n57001023005"
@@ -5332,7 +7002,12 @@
                               morph="A-NSM"
                               unicode="συναιχμάλωτός">συναιχμάλωτός</w>
                            <w ref="PHM 1:23!6"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="6" 
+                               after=" "
                               class="pron"
                               type="personal"
                               xml:id="n57001023006"
@@ -5350,7 +7025,12 @@
                         </wg>
                         <wg class="pp" rule="PrepNp">
                            <w ref="PHM 1:23!7"
-                              after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="7" 
+                               after=" "
                               class="prep"
                               xml:id="n57001023007"
                               lemma="ἐν"
@@ -5363,7 +7043,12 @@
                               unicode="ἐν">ἐν</w>
                            <wg type="apposition" class="np" rule="Np-Appos">
                               <w ref="PHM 1:23!8"
-                                 after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="8" 
+                                  after=" "
                                  class="noun"
                                  type="proper"
                                  xml:id="n57001023008"
@@ -5379,7 +7064,12 @@
                                  morph="N-DSM"
                                  unicode="Χριστῷ">Χριστῷ</w>
                               <w ref="PHM 1:23!9"
-                                 after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="23" 
+ word_in_verse="9" 
+                                  after=","
                                  class="noun"
                                  type="proper"
                                  xml:id="n57001023009"
@@ -5402,7 +7092,12 @@
                <wg type="apposition" class="np" rule="Np-Appos">
                   <wg type="group" rule="NpNpNpNp">
                      <w ref="PHM 1:24!1"
-                        after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="1" 
+                         after=","
                         class="noun"
                         type="proper"
                         xml:id="n57001024001"
@@ -5418,7 +7113,12 @@
                         morph="N-NSM"
                         unicode="Μᾶρκος,">Μᾶρκος</w>
                      <w ref="PHM 1:24!2"
-                        after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="2" 
+                         after=","
                         class="noun"
                         type="proper"
                         xml:id="n57001024002"
@@ -5434,7 +7134,12 @@
                         morph="N-NSM"
                         unicode="Ἀρίσταρχος,">Ἀρίσταρχος</w>
                      <w ref="PHM 1:24!3"
-                        after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="3" 
+                         after=","
                         class="noun"
                         type="proper"
                         xml:id="n57001024003"
@@ -5450,7 +7155,12 @@
                         morph="N-NSM"
                         unicode="Δημᾶς,">Δημᾶς</w>
                      <w ref="PHM 1:24!4"
-                        after=","
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="4" 
+                         after=","
                         class="noun"
                         type="proper"
                         xml:id="n57001024004"
@@ -5468,7 +7178,12 @@
                   </wg>
                   <wg class="np" junction="apposition" articular="true" rule="DetNP">
                      <w ref="PHM 1:24!5"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="5" 
+                         after=" "
                         class="det"
                         xml:id="n57001024005"
                         lemma="ὁ"
@@ -5484,7 +7199,12 @@
                         unicode="οἱ">οἱ</w>
                      <wg class="np" rule="NPofNP">
                         <w ref="PHM 1:24!6"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="6" 
+                            after=" "
                            class="adj"
                            xml:id="n57001024006"
                            lemma="συνεργός"
@@ -5499,7 +7219,12 @@
                            morph="A-NPM"
                            unicode="συνεργοί">συνεργοί</w>
                         <w ref="PHM 1:24!7"
-                           after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="24" 
+ word_in_verse="7" 
+                            after="."
                            class="pron"
                            type="personal"
                            xml:id="n57001024007"
@@ -5523,12 +7248,21 @@
    </sentence>
    <sentence>
       <p>
-         <milestone unit="verse" id="PHM 1:25">PHM 1:25</milestone> Ἠ χάρις τοῦ Κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν.</p>
+          <verse 
+ book="PHM" 
+ chapter="1" 
+ verse="25"> </verse>
+ Ἠ χάρις τοῦ Κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν.</p>
       <wg>
          <wg class="cl" articular="true" rule="S-P" cltype="Verbless">
             <wg class="np" articular="true" rule="DetNP" role="s">
                <w ref="PHM 1:25!1"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="1" 
+                   after=" "
                   class="det"
                   xml:id="n57001025001"
                   lemma="ὁ"
@@ -5544,7 +7278,12 @@
                   unicode="Ἠ">Ἠ</w>
                <wg class="np" rule="NPofNP">
                   <w ref="PHM 1:25!2"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="2" 
+                      after=" "
                      class="noun"
                      type="common"
                      xml:id="n57001025002"
@@ -5562,7 +7301,12 @@
                   <wg type="apposition" class="np" articular="true" rule="Np-Appos">
                      <wg class="np" articular="true" rule="DetNP">
                         <w ref="PHM 1:25!3"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="3" 
+                            after=" "
                            class="det"
                            xml:id="n57001025003"
                            lemma="ὁ"
@@ -5577,7 +7321,12 @@
                            morph="T-GSM"
                            unicode="τοῦ">τοῦ</w>
                         <w ref="PHM 1:25!4"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="4" 
+                            after=" "
                            class="noun"
                            type="common"
                            xml:id="n57001025004"
@@ -5598,7 +7347,12 @@
                          junction="apposition"
                          rule="Np-Appos">
                         <w ref="PHM 1:25!5"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="5" 
+                            after=" "
                            class="noun"
                            type="proper"
                            xml:id="n57001025005"
@@ -5614,7 +7368,12 @@
                            morph="N-GSM"
                            unicode="Ἰησοῦ">Ἰησοῦ</w>
                         <w ref="PHM 1:25!6"
-                           after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="6" 
+                            after=" "
                            class="noun"
                            type="proper"
                            xml:id="n57001025006"
@@ -5635,7 +7394,12 @@
             </wg>
             <wg class="pp" articular="true" rule="PrepNp" role="p">
                <w ref="PHM 1:25!7"
-                  after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="7" 
+                   after=" "
                   class="prep"
                   xml:id="n57001025007"
                   lemma="μετά"
@@ -5648,7 +7412,12 @@
                   unicode="μετὰ">μετὰ</w>
                <wg class="np" articular="true" rule="DetNP">
                   <w ref="PHM 1:25!8"
-                     after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="8" 
+                      after=" "
                      class="det"
                      xml:id="n57001025008"
                      lemma="ὁ"
@@ -5664,7 +7433,12 @@
                      unicode="τοῦ">τοῦ</w>
                   <wg class="np" rule="NPofNP">
                      <w ref="PHM 1:25!9"
-                        after=" "
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="9" 
+                         after=" "
                         class="noun"
                         type="common"
                         xml:id="n57001025009"
@@ -5680,7 +7454,12 @@
                         morph="N-GSN"
                         unicode="πνεύματος">πνεύματος</w>
                      <w ref="PHM 1:25!10"
-                        after="."
+ 
+ book="PHM" 
+ chapter="1" 
+ verse="25" 
+ word_in_verse="10" 
+                         after="."
                         class="pron"
                         type="personal"
                         xml:id="n57001025010"

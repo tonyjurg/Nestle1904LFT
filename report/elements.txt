@@ -2,7 +2,7 @@ Inventory of tags and attributes in the source XML file(s).
 
 
 
-	<book>       id=              1x ACT
+	<book>       book_short=      1x ACT
 	             "                1x COL
 	             "                1x EPH
 	             "                1x GAL
@@ -27,71 +27,35 @@ Inventory of tags and attributes in the source XML file(s).
 
 	<error>      role=            1x err_clause-complex-met-no-conditionsClClN
 
-	<milestone>  id=             94x ACT N:N
-	             "              287x ACT N:NN
-	             "              186x ACT NN:N
-	             "              559x ACT NN:NN
-	             "               38x COL N:N
-	             "               67x COL N:NN
-	             "               56x EPH N:N
-	             "              103x EPH N:NN
-	             "               61x GAL N:N
-	             "              116x GAL N:NN
-	             "               87x HEB N:N
-	             "               98x HEB N:NN
-	             "               43x HEB NN:N
-	             "              105x HEB NN:NN
-	             "               63x JAS N:N
-	             "               83x JAS N:NN
-	             "               96x JHN N:N
-	             "              438x JHN N:NN
-	             "              144x JHN NN:N
-	             "              445x JHN NN:NN
-	             "                9x JUD N:N
-	             "               16x JUD N:NN
-	             "               93x LUK N:N
-	             "              475x LUK N:NN
-	             "              161x LUK NN:N
-	             "              636x LUK NN:NN
-	             "               94x MAT N:N
-	             "              246x MAT N:NN
-	             "              196x MAT NN:N
-	             "              749x MAT NN:NN
-	             "              100x MRK N:N
-	             "              349x MRK N:NN
-	             "               83x MRK NN:N
-	             "              294x MRK NN:NN
-	             "              202x NCO N:N
-	             "              292x NCO N:NN
-	             "              120x NCO NN:N
-	             "              288x NCO NN:NN
-	             "               87x NJN N:N
-	             "              101x NJN N:NN
-	             "               78x NPE N:N
-	             "              105x NPE N:NN
-	             "               78x NTH N:N
-	             "               71x NTH N:NN
-	             "              101x NTI N:N
-	             "              122x NTI N:NN
-	             "                9x PHM N:N
-	             "               17x PHM N:NN
-	             "               42x PHP N:N
-	             "               77x PHP N:NN
-	             "              107x REV N:N
-	             "              110x REV N:NN
-	             "              156x REV NN:N
-	             "              161x REV NN:NN
-	             "              106x ROM N:N
-	             "              217x ROM N:NN
-	             "               84x ROM NN:N
-	             "              150x ROM NN:NN
-	             "               30x TIT N:N
-	             "               24x TIT N:NN
-	             unit=         9605x verse
-
 	<p>                        8011x 
 
 	<sentence>                 8011x 
+
+	<verse>      book=         1126x ACT
+	             "              105x COL
+	             "              159x EPH
+	             "              177x GAL
+	             "              333x HEB
+	             "              146x JAS
+	             "             1123x JHN
+	             "               25x JUD
+	             "             1365x LUK
+	             "             1285x MAT
+	             "              826x MRK
+	             "              902x NCO
+	             "              188x NJN
+	             "              183x NPE
+	             "              149x NTH
+	             "              223x NTI
+	             "               26x PHM
+	             "              119x PHP
+	             "              534x REV
+	             "              557x ROM
+	             "               54x TIT
+	             chapter=      5045x N
+	             "             4560x NN
+	             verse=        2804x N
+	             "             6801x NN
 
 	<w>          after=       119271x  
 	             "             9443x ,
@@ -110,11 +74,34 @@ Inventory of tags and attributes in the source XML file(s).
 	             "                2x ὶ
 	             "                1x ὸ
 	             "                7x —
+	             book=        18393x ACT
+	             "             1575x COL
+	             "             2419x EPH
+	             "             2228x GAL
+	             "             4955x HEB
+	             "             1739x JAS
+	             "            15643x JHN
+	             "              457x JUD
+	             "            19456x LUK
+	             "            18299x MAT
+	             "            11277x MRK
+	             "            11289x NCO
+	             "             2600x NJN
+	             "             2774x NPE
+	             "             2295x NTH
+	             "             2825x NTI
+	             "              335x PHM
+	             "             1630x PHP
+	             "             9832x REV
+	             "             7100x ROM
+	             "              658x TIT
 	             case=        23031x accusative
 	             "            12126x dative
 	             "            19515x genitive
 	             "            24197x nominative
 	             "              649x vocative
+	             chapter=     71983x N
+	             "            65796x NN
 	             class=        8452x adj
 	             "             6147x adv
 	             "            18227x conj
@@ -70462,10 +70449,14 @@ Inventory of tags and attributes in the source XML file(s).
 	             "                1x —ἁρπαγέντα
 	             "                1x —ὁ
 	             "                1x —ὁποῖοί
+	             verse=       40374x N
+	             "            97405x NN
 	             voice=       20742x active
 	             "             2408x middle
 	             "             1714x middlepassive
 	             "             3493x passive
+	             word_in_verse= 70446x N
+	             "            67333x NN
 
 	<wg>                       8011x 
 	             Rule=         4940x ClCl
