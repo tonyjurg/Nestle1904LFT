@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="treedown.css"?>
 <?xml-stylesheet href="boxwood.css"?>
-<book lang="el"  book_short="PHM">
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="1"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="2"> </verse>
- Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ·</p>
+<book  book_num="5" book_short="PHM">
+   <sentence sentence_number="1" 
+      
+          sentence-text=" Παῦλος δέσμιος Χριστοῦ Ἰησοῦ καὶ Τιμόθεος ὁ ἀδελφὸς Φιλήμονι τῷ ἀγαπητῷ καὶ συνεργῷ ἡμῶν καὶ Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ τῷ συστρατιώτῃ ἡμῶν καὶ τῇ κατ’ οἶκόν σου ἐκκλησίᾳ·">
       <wg>
          <wg class="cl" rule="S-IO" cltype="VerbElided">
             <wg rule="NpaNp" role="s">
                <wg type="apposition" class="np" rule="Np-Appos">
-                  <w ref="PHM 1:1!1"
+                   <word ref="PHM 1:1!1"
  
  book="PHM" 
  chapter="1" 
@@ -38,9 +29,10 @@
                      domain="093001"
                      ln="93.294a"
                      morph="N-NSM"
-                     unicode="Παῦλος">Παῦλος</w>
+                     unicode="Παῦλος" word="Παῦλος"> 
+</word>
                   <wg class="np" junction="apposition" rule="NPofNP">
-                     <w ref="PHM 1:1!2"
+                      <word ref="PHM 1:1!2"
  
  book="PHM" 
  chapter="1" 
@@ -60,9 +52,10 @@
                         domain="037008"
                         ln="37.117"
                         morph="N-NSM"
-                        unicode="δέσμιος">δέσμιος</w>
+                        unicode="δέσμιος" word="δέσμιος"> 
+</word>
                      <wg type="apposition" class="np" rule="Np-Appos">
-                        <w ref="PHM 1:1!3"
+                         <word ref="PHM 1:1!3"
  
  book="PHM" 
  chapter="1" 
@@ -82,8 +75,9 @@
                            domain="093001"
                            ln="93.387"
                            morph="N-GSM"
-                           unicode="Χριστοῦ">Χριστοῦ</w>
-                        <w ref="PHM 1:1!4"
+                           unicode="Χριστοῦ" word="Χριστοῦ"> 
+</word>
+                         <word ref="PHM 1:1!4"
  
  book="PHM" 
  chapter="1" 
@@ -103,12 +97,13 @@
                            domain="093001"
                            ln="93.169a"
                            morph="N-GSM"
-                           unicode="Ἰησοῦ">Ἰησοῦ</w>
+                           unicode="Ἰησοῦ" word="Ἰησοῦ"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="PHM 1:1!5"
+                   <word ref="PHM 1:1!5"
  
  book="PHM" 
  chapter="1" 
@@ -122,9 +117,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg type="apposition" class="np" rule="Np-Appos">
-                     <w ref="PHM 1:1!6"
+                      <word ref="PHM 1:1!6"
  
  book="PHM" 
  chapter="1" 
@@ -144,9 +140,10 @@
                         domain="093001"
                         ln="93.361"
                         morph="N-NSM"
-                        unicode="Τιμόθεος">Τιμόθεος</w>
+                        unicode="Τιμόθεος" word="Τιμόθεος"> 
+</word>
                      <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                        <w ref="PHM 1:1!7"
+                         <word ref="PHM 1:1!7"
  
  book="PHM" 
  chapter="1" 
@@ -165,8 +162,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-NSM"
-                           unicode="ὁ">ὁ</w>
-                        <w ref="PHM 1:1!8"
+                           unicode="ὁ" word="ὁ"> 
+</word>
+                         <word ref="PHM 1:1!8"
  
  book="PHM" 
  chapter="1" 
@@ -186,14 +184,15 @@
                            domain="011002"
                            ln="11.23"
                            morph="N-NSM"
-                           unicode="ἀδελφὸς">ἀδελφὸς</w>
+                           unicode="ἀδελφὸς" word="ἀδελφὸς"> 
+</word>
                      </wg>
                   </wg>
                </wg>
             </wg>
             <wg rule="Conj4Np" role="io">
                <wg type="apposition" class="np" rule="Np-Appos">
-                  <w ref="PHM 1:1!9"
+                   <word ref="PHM 1:1!9"
  
  book="PHM" 
  chapter="1" 
@@ -213,9 +212,10 @@
                      domain="093001"
                      ln="93.377"
                      morph="N-DSM"
-                     unicode="Φιλήμονι">Φιλήμονι</w>
+                     unicode="Φιλήμονι" word="Φιλήμονι"> 
+</word>
                   <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                     <w ref="PHM 1:1!10"
+                      <word ref="PHM 1:1!10"
  
  book="PHM" 
  chapter="1" 
@@ -234,10 +234,11 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-DSM"
-                        unicode="τῷ">τῷ</w>
+                        unicode="τῷ" word="τῷ"> 
+</word>
                      <wg class="np" rule="NPofNP">
                         <wg rule="AdjpaAdjp">
-                           <w ref="PHM 1:1!11"
+                            <word ref="PHM 1:1!11"
  
  book="PHM" 
  chapter="1" 
@@ -256,9 +257,10 @@
                               domain="025003"
                               ln="25.45"
                               morph="A-DSM"
-                              unicode="ἀγαπητῷ">ἀγαπητῷ</w>
+                              unicode="ἀγαπητῷ" word="ἀγαπητῷ"> 
+</word>
                            <wg type="group">
-                              <w ref="PHM 1:1!12"
+                               <word ref="PHM 1:1!12"
  
  book="PHM" 
  chapter="1" 
@@ -272,8 +274,9 @@
                                  strong="2532"
                                  gloss="and"
                                  morph="CONJ"
-                                 unicode="καὶ">καὶ</w>
-                              <w ref="PHM 1:1!13"
+                                 unicode="καὶ" word="καὶ"> 
+</word>
+                               <word ref="PHM 1:1!13"
  
  book="PHM" 
  chapter="1" 
@@ -292,10 +295,11 @@
                                  domain="042004"
                                  ln="42.44"
                                  morph="A-DSM"
-                                 unicode="συνεργῷ">συνεργῷ</w>
+                                 unicode="συνεργῷ" word="συνεργῷ"> 
+</word>
                            </wg>
                         </wg>
-                        <w ref="PHM 1:1!14"
+                         <word ref="PHM 1:1!14"
  
  book="PHM" 
  chapter="1" 
@@ -315,12 +319,13 @@
                            ln="92.4"
                            morph="P-1GP"
                            unicode="ἡμῶν"
-                           referent="n57001001001 n57001001006">ἡμῶν</w>
+                           referent="n57001001001 n57001001006" word="ἡμῶν"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="PHM 1:2!1"
+                   <word ref="PHM 1:2!1"
  
  book="PHM" 
  chapter="1" 
@@ -334,9 +339,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg type="apposition" class="np" rule="Np-Appos">
-                     <w ref="PHM 1:2!2"
+                      <word ref="PHM 1:2!2"
  
  book="PHM" 
  chapter="1" 
@@ -356,9 +362,10 @@
                         domain="093001"
                         ln="93.34"
                         morph="N-DSF"
-                        unicode="Ἀπφίᾳ">Ἀπφίᾳ</w>
+                        unicode="Ἀπφίᾳ" word="Ἀπφίᾳ"> 
+</word>
                      <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                        <w ref="PHM 1:2!3"
+                         <word ref="PHM 1:2!3"
  
  book="PHM" 
  chapter="1" 
@@ -377,8 +384,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-DSF"
-                           unicode="τῇ">τῇ</w>
-                        <w ref="PHM 1:2!4"
+                           unicode="τῇ" word="τῇ"> 
+</word>
+                         <word ref="PHM 1:2!4"
  
  book="PHM" 
  chapter="1" 
@@ -398,12 +406,13 @@
                            domain="011002"
                            ln="11.24"
                            morph="N-DSF"
-                           unicode="ἀδελφῇ">ἀδελφῇ</w>
+                           unicode="ἀδελφῇ" word="ἀδελφῇ"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="PHM 1:2!5"
+                   <word ref="PHM 1:2!5"
  
  book="PHM" 
  chapter="1" 
@@ -417,9 +426,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg type="apposition" class="np" rule="Np-Appos">
-                     <w ref="PHM 1:2!6"
+                      <word ref="PHM 1:2!6"
  
  book="PHM" 
  chapter="1" 
@@ -439,9 +449,10 @@
                         domain="093001"
                         ln="93.46"
                         morph="N-DSM"
-                        unicode="Ἀρχίππῳ">Ἀρχίππῳ</w>
+                        unicode="Ἀρχίππῳ" word="Ἀρχίππῳ"> 
+</word>
                      <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                        <w ref="PHM 1:2!7"
+                         <word ref="PHM 1:2!7"
  
  book="PHM" 
  chapter="1" 
@@ -460,9 +471,10 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-DSM"
-                           unicode="τῷ">τῷ</w>
+                           unicode="τῷ" word="τῷ"> 
+</word>
                         <wg class="np" rule="NPofNP">
-                           <w ref="PHM 1:2!8"
+                            <word ref="PHM 1:2!8"
  
  book="PHM" 
  chapter="1" 
@@ -482,8 +494,9 @@
                               domain="034001"
                               ln="34.19"
                               morph="N-DSM"
-                              unicode="συστρατιώτῃ">συστρατιώτῃ</w>
-                           <w ref="PHM 1:2!9"
+                              unicode="συστρατιώτῃ" word="συστρατιώτῃ"> 
+</word>
+                            <word ref="PHM 1:2!9"
  
  book="PHM" 
  chapter="1" 
@@ -503,13 +516,14 @@
                               ln="92.4"
                               morph="P-1GP"
                               unicode="ἡμῶν"
-                              referent="n57001001001 n57001001006">ἡμῶν</w>
+                              referent="n57001001001 n57001001006" word="ἡμῶν"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="PHM 1:2!10"
+                   <word ref="PHM 1:2!10"
  
  book="PHM" 
  chapter="1" 
@@ -523,9 +537,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="PHM 1:2!11"
+                      <word ref="PHM 1:2!11"
  
  book="PHM" 
  chapter="1" 
@@ -544,10 +559,11 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-DSF"
-                        unicode="τῇ">τῇ</w>
+                        unicode="τῇ" word="τῇ"> 
+</word>
                      <wg class="np" rule="PpNp2Np">
                         <wg class="pp" rule="PrepNp">
-                           <w ref="PHM 1:2!12"
+                            <word ref="PHM 1:2!12"
  
  book="PHM" 
  chapter="1" 
@@ -563,9 +579,10 @@
                               domain="089004"
                               ln="89.4"
                               morph="PREP"
-                              unicode="κατ’">κατ’</w>
+                              unicode="κατ’" word="κατ’"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="PHM 1:2!13"
+                               <word ref="PHM 1:2!13"
  
  book="PHM" 
  chapter="1" 
@@ -585,8 +602,9 @@
                                  domain="007002"
                                  ln="7.2"
                                  morph="N-ASM"
-                                 unicode="οἶκόν">οἶκόν</w>
-                              <w ref="PHM 1:2!14"
+                                 unicode="οἶκόν" word="οἶκόν"> 
+</word>
+                               <word ref="PHM 1:2!14"
  
  book="PHM" 
  chapter="1" 
@@ -604,10 +622,11 @@
                                  gloss="of you"
                                  morph="P-2GS"
                                  unicode="σου"
-                                 referent="n57001001009">σου</w>
+                                 referent="n57001001009" word="σου"> 
+</word>
                            </wg>
                         </wg>
-                        <w ref="PHM 1:2!15"
+                         <word ref="PHM 1:2!15"
  
  book="PHM" 
  chapter="1" 
@@ -627,7 +646,8 @@
                            domain="011002"
                            ln="11.32"
                            morph="N-DSF"
-                           unicode="ἐκκλησίᾳ·">ἐκκλησίᾳ</w>
+                           unicode="ἐκκλησίᾳ·" word="ἐκκλησίᾳ"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -635,16 +655,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="3"> </verse>
- χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.</p>
+   <sentence sentence_number="2" 
+      
+          sentence-text=" χάρις ὑμῖν καὶ εἰρήνη ἀπὸ Θεοῦ Πατρὸς ἡμῶν καὶ Κυρίου Ἰησοῦ Χριστοῦ.">
       <wg>
          <wg class="cl" rule="IO-S-ADV" cltype="VerbElided">
-            <w role="io"
+             <word role="io"
                ref="PHM 1:3!2"
  
  book="PHM" 
@@ -664,9 +680,10 @@
                gloss="to you"
                morph="P-2DP"
                unicode="ὑμῖν"
-               referent="n57001001009 n57001002002 n57001002006 n57001002015">ὑμῖν</w>
+               referent="n57001001009 n57001002002 n57001002006 n57001002015" word="ὑμῖν"> 
+</word>
             <wg rule="NpaNp" role="s">
-               <w ref="PHM 1:3!1"
+                <word ref="PHM 1:3!1"
  
  book="PHM" 
  chapter="1" 
@@ -686,9 +703,10 @@
                   domain="088009"
                   ln="88.66"
                   morph="N-NSF"
-                  unicode="χάρις">χάρις</w>
+                  unicode="χάρις" word="χάρις"> 
+</word>
                <wg type="group">
-                  <w ref="PHM 1:3!3"
+                   <word ref="PHM 1:3!3"
  
  book="PHM" 
  chapter="1" 
@@ -702,8 +720,9 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
-                  <w ref="PHM 1:3!4"
+                     unicode="καὶ" word="καὶ"> 
+</word>
+                   <word ref="PHM 1:3!4"
  
  book="PHM" 
  chapter="1" 
@@ -723,11 +742,12 @@
                      domain="022007"
                      ln="22.42"
                      morph="N-NSF"
-                     unicode="εἰρήνη">εἰρήνη</w>
+                     unicode="εἰρήνη" word="εἰρήνη"> 
+</word>
                </wg>
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="PHM 1:3!5"
+                <word ref="PHM 1:3!5"
  
  book="PHM" 
  chapter="1" 
@@ -741,10 +761,11 @@
                   strong="575"
                   gloss="from"
                   morph="PREP"
-                  unicode="ἀπὸ">ἀπὸ</w>
+                  unicode="ἀπὸ" word="ἀπὸ"> 
+</word>
                <wg rule="NpaNp">
                   <wg type="apposition" class="np" rule="Np-Appos">
-                     <w ref="PHM 1:3!6"
+                      <word ref="PHM 1:3!6"
  
  book="PHM" 
  chapter="1" 
@@ -764,9 +785,10 @@
                         domain="012001"
                         ln="12.1"
                         morph="N-GSM"
-                        unicode="Θεοῦ">Θεοῦ</w>
+                        unicode="Θεοῦ" word="Θεοῦ"> 
+</word>
                      <wg class="np" junction="apposition" rule="NPofNP">
-                        <w ref="PHM 1:3!7"
+                         <word ref="PHM 1:3!7"
  
  book="PHM" 
  chapter="1" 
@@ -786,8 +808,9 @@
                            domain="012001"
                            ln="12.12"
                            morph="N-GSM"
-                           unicode="Πατρὸς">Πατρὸς</w>
-                        <w ref="PHM 1:3!8"
+                           unicode="Πατρὸς" word="Πατρὸς"> 
+</word>
+                         <word ref="PHM 1:3!8"
  
  book="PHM" 
  chapter="1" 
@@ -807,11 +830,12 @@
                            ln="92.4"
                            morph="P-1GP"
                            unicode="ἡμῶν"
-                           referent="n57001001001 n57001001006 n57001001009 n57001002002 n57001002006 n57001002015">ἡμῶν</w>
+                           referent="n57001001001 n57001001006 n57001001009 n57001002002 n57001002006 n57001002015" word="ἡμῶν"> 
+</word>
                      </wg>
                   </wg>
                   <wg type="group">
-                     <w ref="PHM 1:3!9"
+                      <word ref="PHM 1:3!9"
  
  book="PHM" 
  chapter="1" 
@@ -825,9 +849,10 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
+                        unicode="καὶ" word="καὶ"> 
+</word>
                      <wg type="apposition" class="np" rule="Np-Appos">
-                        <w ref="PHM 1:3!10"
+                         <word ref="PHM 1:3!10"
  
  book="PHM" 
  chapter="1" 
@@ -847,12 +872,13 @@
                            domain="012001"
                            ln="12.9{N:001}"
                            morph="N-GSM"
-                           unicode="Κυρίου">Κυρίου</w>
+                           unicode="Κυρίου" word="Κυρίου"> 
+</word>
                         <wg type="apposition"
                             class="np"
                             junction="apposition"
                             rule="Np-Appos">
-                           <w ref="PHM 1:3!11"
+                            <word ref="PHM 1:3!11"
  
  book="PHM" 
  chapter="1" 
@@ -872,8 +898,9 @@
                               domain="093001"
                               ln="93.169a"
                               morph="N-GSM"
-                              unicode="Ἰησοῦ">Ἰησοῦ</w>
-                           <w ref="PHM 1:3!12"
+                              unicode="Ἰησοῦ" word="Ἰησοῦ"> 
+</word>
+                            <word ref="PHM 1:3!12"
  
  book="PHM" 
  chapter="1" 
@@ -893,7 +920,8 @@
                               domain="093001"
                               ln="93.387"
                               morph="N-GSM"
-                              unicode="Χριστοῦ.">Χριστοῦ</w>
+                              unicode="Χριστοῦ." word="Χριστοῦ"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -902,26 +930,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="4"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="5"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="6"> </verse>
- Εὐχαριστῶ τῷ Θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου, ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν Κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους, ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν·</p>
+   <sentence sentence_number="3" 
+      
+          sentence-text=" Εὐχαριστῶ τῷ Θεῷ μου πάντοτε μνείαν σου ποιούμενος ἐπὶ τῶν προσευχῶν μου, ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν Κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους, ὅπως ἡ κοινωνία τῆς πίστεώς σου ἐνεργὴς γένηται ἐν ἐπιγνώσει παντὸς ἀγαθοῦ τοῦ ἐν ἡμῖν εἰς Χριστόν·">
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="570010040010470">
-            <w role="v"
+             <word role="v"
                ref="PHM 1:4!1"
  
  book="PHM" 
@@ -945,9 +959,10 @@
                morph="V-PAI-1S"
                unicode="Εὐχαριστῶ"
                frame="A0:n57001001001 A1:n57001004003"
-               subjref="n57001001001">Εὐχαριστῶ</w>
+               subjref="n57001001001" word="Εὐχαριστῶ"> 
+</word>
             <wg class="np" articular="true" rule="DetNP" role="o">
-               <w ref="PHM 1:4!2"
+                <word ref="PHM 1:4!2"
  
  book="PHM" 
  chapter="1" 
@@ -966,9 +981,10 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-DSM"
-                  unicode="τῷ">τῷ</w>
+                  unicode="τῷ" word="τῷ"> 
+</word>
                <wg class="np" rule="NPofNP">
-                  <w ref="PHM 1:4!3"
+                   <word ref="PHM 1:4!3"
  
  book="PHM" 
  chapter="1" 
@@ -988,8 +1004,9 @@
                      domain="012001"
                      ln="12.1"
                      morph="N-DSM"
-                     unicode="Θεῷ">Θεῷ</w>
-                  <w ref="PHM 1:4!4"
+                     unicode="Θεῷ" word="Θεῷ"> 
+</word>
+                   <word ref="PHM 1:4!4"
  
  book="PHM" 
  chapter="1" 
@@ -1009,10 +1026,11 @@
                      ln="92.1"
                      morph="P-1GS"
                      unicode="μου"
-                     referent="n57001001001">μου</w>
+                     referent="n57001001001" word="μου"> 
+</word>
                </wg>
             </wg>
-            <w role="adv"
+             <word role="adv"
                ref="PHM 1:4!5"
  
  book="PHM" 
@@ -1029,10 +1047,11 @@
                domain="067005"
                ln="67.88"
                morph="ADV"
-               unicode="πάντοτε">πάντοτε</w>
+               unicode="πάντοτε" word="πάντοτε"> 
+</word>
             <wg class="cl" rule="O-V-ADV" junction="subordinate" role="adv">
                <wg class="np" rule="NPofNP" role="o">
-                  <w ref="PHM 1:4!6"
+                   <word ref="PHM 1:4!6"
  
  book="PHM" 
  chapter="1" 
@@ -1052,8 +1071,9 @@
                      domain="029004"
                      ln="29.18"
                      morph="N-ASF"
-                     unicode="μνείαν">μνείαν</w>
-                  <w ref="PHM 1:4!7"
+                     unicode="μνείαν" word="μνείαν"> 
+</word>
+                   <word ref="PHM 1:4!7"
  
  book="PHM" 
  chapter="1" 
@@ -1071,9 +1091,10 @@
                      gloss="of you"
                      morph="P-2GS"
                      unicode="σου"
-                     referent="n57001001009">σου</w>
+                     referent="n57001001009" word="σου"> 
+</word>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:4!8"
  
  book="PHM" 
@@ -1098,9 +1119,10 @@
                   morph="V-PMP-NSM"
                   unicode="ποιούμενος"
                   frame="A0:n57001001001 A1:n57001004006"
-                  subjref="n57001001001">ποιούμενος</w>
+                  subjref="n57001001001" word="ποιούμενος"> 
+</word>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                  <w ref="PHM 1:4!9"
+                   <word ref="PHM 1:4!9"
  
  book="PHM" 
  chapter="1" 
@@ -1116,9 +1138,10 @@
                      domain="067007"
                      ln="67.136"
                      morph="PREP"
-                     unicode="ἐπὶ">ἐπὶ</w>
+                     unicode="ἐπὶ" word="ἐπὶ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="PHM 1:4!10"
+                      <word ref="PHM 1:4!10"
  
  book="PHM" 
  chapter="1" 
@@ -1137,9 +1160,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-GPF"
-                        unicode="τῶν">τῶν</w>
+                        unicode="τῶν" word="τῶν"> 
+</word>
                      <wg class="np" rule="NPofNP">
-                        <w ref="PHM 1:4!11"
+                         <word ref="PHM 1:4!11"
  
  book="PHM" 
  chapter="1" 
@@ -1159,8 +1183,9 @@
                            domain="033013"
                            ln="33.178"
                            morph="N-GPF"
-                           unicode="προσευχῶν">προσευχῶν</w>
-                        <w ref="PHM 1:4!12"
+                           unicode="προσευχῶν" word="προσευχῶν"> 
+</word>
+                         <word ref="PHM 1:4!12"
  
  book="PHM" 
  chapter="1" 
@@ -1180,13 +1205,14 @@
                            ln="92.1"
                            morph="P-1GS"
                            unicode="μου,"
-                           referent="n57001001001">μου</w>
+                           referent="n57001001001" word="μου"> 
+</word>
                      </wg>
                   </wg>
                </wg>
             </wg>
             <wg class="cl" rule="V-O" junction="subordinate" role="adv">
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:5!1"
  
  book="PHM" 
@@ -1211,14 +1237,15 @@
                   morph="V-PAP-NSM"
                   unicode="ἀκούων"
                   frame="A0:n57001001001 A1:n57001005004;n57001005007"
-                  subjref="n57001001001">ἀκούων</w>
+                  subjref="n57001001001" word="ἀκούων"> 
+</word>
                <wg class="np"
                    type="apposition"
                    articular="true"
                    rule="NP-CL"
                    role="o">
                   <wg class="np" articular="true" rule="ofNPNP">
-                     <w ref="PHM 1:5!2"
+                      <word ref="PHM 1:5!2"
  
  book="PHM" 
  chapter="1" 
@@ -1236,10 +1263,11 @@
                         gloss="of your"
                         morph="P-2GS"
                         unicode="σου"
-                        referent="n57001001009">σου</w>
+                        referent="n57001001009" word="σου"> 
+</word>
                      <wg articular="true" rule="NpaNp">
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="PHM 1:5!3"
+                            <word ref="PHM 1:5!3"
  
  book="PHM" 
  chapter="1" 
@@ -1258,8 +1286,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-ASF"
-                              unicode="τὴν">τὴν</w>
-                           <w ref="PHM 1:5!4"
+                              unicode="τὴν" word="τὴν"> 
+</word>
+                            <word ref="PHM 1:5!4"
  
  book="PHM" 
  chapter="1" 
@@ -1279,10 +1308,11 @@
                               domain="025003"
                               ln="25.43"
                               morph="N-ASF"
-                              unicode="ἀγάπην">ἀγάπην</w>
+                              unicode="ἀγάπην" word="ἀγάπην"> 
+</word>
                         </wg>
                         <wg type="group">
-                           <w ref="PHM 1:5!5"
+                            <word ref="PHM 1:5!5"
  
  book="PHM" 
  chapter="1" 
@@ -1296,9 +1326,10 @@
                               strong="2532"
                               gloss="and"
                               morph="CONJ"
-                              unicode="καὶ">καὶ</w>
+                              unicode="καὶ" word="καὶ"> 
+</word>
                            <wg class="np" articular="true" rule="DetNP">
-                              <w ref="PHM 1:5!6"
+                               <word ref="PHM 1:5!6"
  
  book="PHM" 
  chapter="1" 
@@ -1317,8 +1348,9 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-ASF"
-                                 unicode="τὴν">τὴν</w>
-                              <w ref="PHM 1:5!7"
+                                 unicode="τὴν" word="τὴν"> 
+</word>
+                               <word ref="PHM 1:5!7"
  
  book="PHM" 
  chapter="1" 
@@ -1338,7 +1370,8 @@
                                  domain="031009"
                                  ln="31.85"
                                  morph="N-ASF"
-                                 unicode="πίστιν">πίστιν</w>
+                                 unicode="πίστιν" word="πίστιν"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -1347,7 +1380,7 @@
                       clauseType="nominalized"
                       rule="O-V-ADV"
                       junction="apposition">
-                     <w role="o"
+                      <word role="o"
                         ref="PHM 1:5!8"
  
  book="PHM" 
@@ -1367,8 +1400,9 @@
                         gloss="that"
                         morph="R-ASF"
                         unicode="ἣν"
-                        referent="n57001005004 n57001005007">ἣν</w>
-                     <w role="v"
+                        referent="n57001005004 n57001005007" word="ἣν"> 
+</word>
+                      <word role="v"
                         ref="PHM 1:5!9"
  
  book="PHM" 
@@ -1390,10 +1424,11 @@
                         morph="V-PAI-2S"
                         unicode="ἔχεις"
                         frame="A0:n57001001009 A1:n57001005008"
-                        subjref="n57001001009">ἔχεις</w>
+                        subjref="n57001001009" word="ἔχεις"> 
+</word>
                      <wg articular="true" rule="Conj2Pp" role="adv">
                         <wg class="pp" articular="true" rule="PrepNp">
-                           <w ref="PHM 1:5!10"
+                            <word ref="PHM 1:5!10"
  
  book="PHM" 
  chapter="1" 
@@ -1409,10 +1444,11 @@
                               domain="090013"
                               ln="90.58"
                               morph="PREP"
-                              unicode="πρὸς">πρὸς</w>
+                              unicode="πρὸς" word="πρὸς"> 
+</word>
                            <wg type="apposition" class="np" articular="true" rule="Np-Appos">
                               <wg class="np" articular="true" rule="DetNP">
-                                 <w ref="PHM 1:5!11"
+                                  <word ref="PHM 1:5!11"
  
  book="PHM" 
  chapter="1" 
@@ -1431,8 +1467,9 @@
                                     domain="092004"
                                     ln="92.24"
                                     morph="T-ASM"
-                                    unicode="τὸν">τὸν</w>
-                                 <w ref="PHM 1:5!12"
+                                    unicode="τὸν" word="τὸν"> 
+</word>
+                                  <word ref="PHM 1:5!12"
  
  book="PHM" 
  chapter="1" 
@@ -1452,9 +1489,10 @@
                                     domain="012001"
                                     ln="12.9{N:001}"
                                     morph="N-ASM"
-                                    unicode="Κύριον">Κύριον</w>
+                                    unicode="Κύριον" word="Κύριον"> 
+</word>
                               </wg>
-                              <w ref="PHM 1:5!13"
+                               <word ref="PHM 1:5!13"
  
  book="PHM" 
  chapter="1" 
@@ -1474,11 +1512,12 @@
                                  domain="093001"
                                  ln="93.169a"
                                  morph="N-ASM"
-                                 unicode="Ἰησοῦν">Ἰησοῦν</w>
+                                 unicode="Ἰησοῦν" word="Ἰησοῦν"> 
+</word>
                            </wg>
                         </wg>
                         <wg type="group">
-                           <w ref="PHM 1:5!14"
+                            <word ref="PHM 1:5!14"
  
  book="PHM" 
  chapter="1" 
@@ -1492,9 +1531,10 @@
                               strong="2532"
                               gloss="and"
                               morph="CONJ"
-                              unicode="καὶ">καὶ</w>
+                              unicode="καὶ" word="καὶ"> 
+</word>
                            <wg class="pp" articular="true" rule="PrepNp">
-                              <w ref="PHM 1:5!15"
+                               <word ref="PHM 1:5!15"
  
  book="PHM" 
  chapter="1" 
@@ -1510,9 +1550,10 @@
                                  domain="090013"
                                  ln="90.59"
                                  morph="PREP"
-                                 unicode="εἰς">εἰς</w>
+                                 unicode="εἰς" word="εἰς"> 
+</word>
                               <wg class="np" articular="true" rule="All-NP">
-                                 <w ref="PHM 1:5!16"
+                                  <word ref="PHM 1:5!16"
  
  book="PHM" 
  chapter="1" 
@@ -1531,9 +1572,10 @@
                                     domain="059003"
                                     ln="59.23"
                                     morph="A-APM"
-                                    unicode="πάντας">πάντας</w>
+                                    unicode="πάντας" word="πάντας"> 
+</word>
                                  <wg class="np" articular="true" rule="DetAdj">
-                                    <w ref="PHM 1:5!17"
+                                     <word ref="PHM 1:5!17"
  
  book="PHM" 
  chapter="1" 
@@ -1552,8 +1594,9 @@
                                        domain="092004"
                                        ln="92.24"
                                        morph="T-APM"
-                                       unicode="τοὺς">τοὺς</w>
-                                    <w ref="PHM 1:5!18"
+                                       unicode="τοὺς" word="τοὺς"> 
+</word>
+                                     <word ref="PHM 1:5!18"
  
  book="PHM" 
  chapter="1" 
@@ -1572,7 +1615,8 @@
                                        domain="011002"
                                        ln="11.27"
                                        morph="A-APM"
-                                       unicode="ἁγίους,">ἁγίους</w>
+                                       unicode="ἁγίους," word="ἁγίους"> 
+</word>
                                  </wg>
                               </wg>
                            </wg>
@@ -1582,7 +1626,7 @@
                </wg>
             </wg>
             <wg rule="sub-CL" role="adv">
-               <w ref="PHM 1:6!1"
+                <word ref="PHM 1:6!1"
  
  book="PHM" 
  chapter="1" 
@@ -1598,10 +1642,11 @@
                   domain="089009"
                   ln="89.59"
                   morph="ADV"
-                  unicode="ὅπως">ὅπως</w>
+                  unicode="ὅπως" word="ὅπως"> 
+</word>
                <wg class="cl" rule="S-P-VC-ADV" junction="subordinate">
                   <wg class="np" articular="true" rule="DetNP" role="s">
-                     <w ref="PHM 1:6!2"
+                      <word ref="PHM 1:6!2"
  
  book="PHM" 
  chapter="1" 
@@ -1620,9 +1665,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-NSF"
-                        unicode="ἡ">ἡ</w>
+                        unicode="ἡ" word="ἡ"> 
+</word>
                      <wg class="np" rule="NPofNP">
-                        <w ref="PHM 1:6!3"
+                         <word ref="PHM 1:6!3"
  
  book="PHM" 
  chapter="1" 
@@ -1642,9 +1688,10 @@
                            domain="034001"
                            ln="34.5"
                            morph="N-NSF"
-                           unicode="κοινωνία">κοινωνία</w>
+                           unicode="κοινωνία" word="κοινωνία"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="PHM 1:6!4"
+                            <word ref="PHM 1:6!4"
  
  book="PHM" 
  chapter="1" 
@@ -1663,9 +1710,10 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-GSF"
-                              unicode="τῆς">τῆς</w>
+                              unicode="τῆς" word="τῆς"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="PHM 1:6!5"
+                               <word ref="PHM 1:6!5"
  
  book="PHM" 
  chapter="1" 
@@ -1685,8 +1733,9 @@
                                  domain="031009 031010"
                                  ln="31.102 31.104 31.85"
                                  morph="N-GSF"
-                                 unicode="πίστεώς">πίστεώς</w>
-                              <w ref="PHM 1:6!6"
+                                 unicode="πίστεώς" word="πίστεώς"> 
+</word>
+                               <word ref="PHM 1:6!6"
  
  book="PHM" 
  chapter="1" 
@@ -1704,12 +1753,13 @@
                                  gloss="of you"
                                  morph="P-2GS"
                                  unicode="σου"
-                                 referent="n57001001009">σου</w>
+                                 referent="n57001001009" word="σου"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
                   </wg>
-                  <w role="p"
+                   <word role="p"
                      ref="PHM 1:6!7"
  
  book="PHM" 
@@ -1729,8 +1779,9 @@
                      domain="013004"
                      ln="13.124"
                      morph="A-NSF"
-                     unicode="ἐνεργὴς">ἐνεργὴς</w>
-                  <w role="vc"
+                     unicode="ἐνεργὴς" word="ἐνεργὴς"> 
+</word>
+                   <word role="vc"
                      ref="PHM 1:6!8"
  
  book="PHM" 
@@ -1752,9 +1803,10 @@
                      domain="013002"
                      ln="13.48"
                      morph="V-2ADS-3S"
-                     unicode="γένηται">γένηται</w>
+                     unicode="γένηται" word="γένηται"> 
+</word>
                   <wg class="pp" rule="PrepNp" role="adv">
-                     <w ref="PHM 1:6!9"
+                      <word ref="PHM 1:6!9"
  
  book="PHM" 
  chapter="1" 
@@ -1770,9 +1822,10 @@
                         domain="089004 089008 090006"
                         ln="89.48 89.5 90.23"
                         morph="PREP"
-                        unicode="ἐν">ἐν</w>
+                        unicode="ἐν" word="ἐν"> 
+</word>
                      <wg class="np" rule="NPofNP">
-                        <w ref="PHM 1:6!10"
+                         <word ref="PHM 1:6!10"
  
  book="PHM" 
  chapter="1" 
@@ -1792,9 +1845,10 @@
                            domain="028001"
                            ln="28.2"
                            morph="N-DSF"
-                           unicode="ἐπιγνώσει">ἐπιγνώσει</w>
+                           unicode="ἐπιγνώσει" word="ἐπιγνώσει"> 
+</word>
                         <wg class="np" rule="All-NP">
-                           <w ref="PHM 1:6!11"
+                            <word ref="PHM 1:6!11"
  
  book="PHM" 
  chapter="1" 
@@ -1813,9 +1867,10 @@
                               domain="059003"
                               ln="59.23"
                               morph="A-GSN"
-                              unicode="παντὸς">παντὸς</w>
+                              unicode="παντὸς" word="παντὸς"> 
+</word>
                            <wg type="apposition" class="np" rule="Np-Appos">
-                              <w ref="PHM 1:6!12"
+                               <word ref="PHM 1:6!12"
  
  book="PHM" 
  chapter="1" 
@@ -1834,9 +1889,10 @@
                                  domain="088001"
                                  ln="88.1"
                                  morph="A-GSN"
-                                 unicode="ἀγαθοῦ">ἀγαθοῦ</w>
+                                 unicode="ἀγαθοῦ" word="ἀγαθοῦ"> 
+</word>
                               <wg class="np" junction="apposition" rule="NpPp">
-                                 <w ref="PHM 1:6!13"
+                                  <word ref="PHM 1:6!13"
  
  book="PHM" 
  chapter="1" 
@@ -1855,10 +1911,11 @@
                                     domain="092004"
                                     ln="92.24"
                                     morph="T-GSN"
-                                    unicode="τοῦ">τοῦ</w>
+                                    unicode="τοῦ" word="τοῦ"> 
+</word>
                                  <wg type="group" rule="2Pp">
                                     <wg class="pp" rule="PrepNp">
-                                       <w ref="PHM 1:6!14"
+                                        <word ref="PHM 1:6!14"
  
  book="PHM" 
  chapter="1" 
@@ -1874,8 +1931,9 @@
                                           domain="083003"
                                           ln="83.13 83.9"
                                           morph="PREP"
-                                          unicode="ἐν">ἐν</w>
-                                       <w ref="PHM 1:6!15"
+                                          unicode="ἐν" word="ἐν"> 
+</word>
+                                        <word ref="PHM 1:6!15"
  
  book="PHM" 
  chapter="1" 
@@ -1895,10 +1953,11 @@
                                           ln="92.4"
                                           morph="P-1DP"
                                           unicode="ἡμῖν"
-                                          referent="n57001001001 n57001001006 n57001001009 n57001002002 n57001002006 n57001002015">ἡμῖν</w>
+                                          referent="n57001001001 n57001001006 n57001001009 n57001002002 n57001002006 n57001002015" word="ἡμῖν"> 
+</word>
                                     </wg>
                                     <wg class="pp" rule="PrepNp">
-                                       <w ref="PHM 1:6!16"
+                                        <word ref="PHM 1:6!16"
  
  book="PHM" 
  chapter="1" 
@@ -1914,8 +1973,9 @@
                                           domain="089009 090006"
                                           ln="89.57 90.23"
                                           morph="PREP"
-                                          unicode="εἰς">εἰς</w>
-                                       <w ref="PHM 1:6!17"
+                                          unicode="εἰς" word="εἰς"> 
+</word>
+                                        <word ref="PHM 1:6!17"
  
  book="PHM" 
  chapter="1" 
@@ -1935,7 +1995,8 @@
                                           domain="093001"
                                           ln="93.387"
                                           morph="N-ASM"
-                                          unicode="Χριστόν·">Χριστόν</w>
+                                          unicode="Χριστόν·" word="Χριστόν"> 
+</word>
                                     </wg>
                                  </wg>
                               </wg>
@@ -1948,16 +2009,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="7"> </verse>
- χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.</p>
+   <sentence sentence_number="4" 
+      
+          sentence-text=" χαρὰν γὰρ πολλὴν ἔσχον καὶ παράκλησιν ἐπὶ τῇ ἀγάπῃ σου, ὅτι τὰ σπλάγχνα τῶν ἁγίων ἀναπέπαυται διὰ σοῦ, ἀδελφέ.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:7!2"
+             <word ref="PHM 1:7!2"
  
  book="PHM" 
  chapter="1" 
@@ -1974,11 +2031,12 @@
                domain="089007"
                ln="89.23"
                morph="CONJ"
-               unicode="γὰρ">γὰρ</w>
+               unicode="γὰρ" word="γὰρ"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="570010070010180">
                <wg rule="NpaNp" role="o">
                   <wg class="np" rule="NpAdjp">
-                     <w ref="PHM 1:7!1"
+                      <word ref="PHM 1:7!1"
  
  book="PHM" 
  chapter="1" 
@@ -1998,8 +2056,9 @@
                         domain="025011"
                         ln="25.123"
                         morph="N-ASF"
-                        unicode="χαρὰν">χαρὰν</w>
-                     <w ref="PHM 1:7!3"
+                        unicode="χαρὰν" word="χαρὰν"> 
+</word>
+                      <word ref="PHM 1:7!3"
  
  book="PHM" 
  chapter="1" 
@@ -2016,10 +2075,11 @@
                         case="accusative"
                         gloss="great"
                         morph="A-ASF"
-                        unicode="πολλὴν">πολλὴν</w>
+                        unicode="πολλὴν" word="πολλὴν"> 
+</word>
                   </wg>
                   <wg type="group">
-                     <w ref="PHM 1:7!5"
+                      <word ref="PHM 1:7!5"
  
  book="PHM" 
  chapter="1" 
@@ -2033,8 +2093,9 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
-                     <w ref="PHM 1:7!6"
+                        unicode="καὶ" word="καὶ"> 
+</word>
+                      <word ref="PHM 1:7!6"
  
  book="PHM" 
  chapter="1" 
@@ -2055,10 +2116,11 @@
                         domain="025013"
                         ln="25.150"
                         morph="N-ASF"
-                        unicode="παράκλησιν">παράκλησιν</w>
+                        unicode="παράκλησιν" word="παράκλησιν"> 
+</word>
                   </wg>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:7!4"
  
  book="PHM" 
@@ -2082,9 +2144,10 @@
                   morph="V-2AAI-1S"
                   unicode="ἔσχον"
                   frame="A0:n57001001001 A1:n57001007001;n57001007006"
-                  subjref="n57001001001">ἔσχον</w>
+                  subjref="n57001001001" word="ἔσχον"> 
+</word>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                  <w ref="PHM 1:7!7"
+                   <word ref="PHM 1:7!7"
  
  book="PHM" 
  chapter="1" 
@@ -2100,9 +2163,10 @@
                      domain="089006 089007 090002"
                      ln="89.13 89.27 90.9"
                      morph="PREP"
-                     unicode="ἐπὶ">ἐπὶ</w>
+                     unicode="ἐπὶ" word="ἐπὶ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="PHM 1:7!8"
+                      <word ref="PHM 1:7!8"
  
  book="PHM" 
  chapter="1" 
@@ -2121,9 +2185,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-DSF"
-                        unicode="τῇ">τῇ</w>
+                        unicode="τῇ" word="τῇ"> 
+</word>
                      <wg class="np" rule="NPofNP">
-                        <w ref="PHM 1:7!9"
+                         <word ref="PHM 1:7!9"
  
  book="PHM" 
  chapter="1" 
@@ -2143,8 +2208,9 @@
                            domain="025003"
                            ln="25.43"
                            morph="N-DSF"
-                           unicode="ἀγάπῃ">ἀγάπῃ</w>
-                        <w ref="PHM 1:7!10"
+                           unicode="ἀγάπῃ" word="ἀγάπῃ"> 
+</word>
+                         <word ref="PHM 1:7!10"
  
  book="PHM" 
  chapter="1" 
@@ -2162,12 +2228,13 @@
                            gloss="of you"
                            morph="P-2GS"
                            unicode="σου,"
-                           referent="n57001001009">σου</w>
+                           referent="n57001001009" word="σου"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:7!11"
+                   <word ref="PHM 1:7!11"
  
  book="PHM" 
  chapter="1" 
@@ -2183,10 +2250,11 @@
                      domain="089007 090006"
                      ln="89.33 90.21"
                      morph="CONJ"
-                     unicode="ὅτι">ὅτι</w>
+                     unicode="ὅτι" word="ὅτι"> 
+</word>
                   <wg class="cl" rule="S-V-ADV" junction="subordinate">
                      <wg class="np" articular="true" rule="DetNP" role="s">
-                        <w ref="PHM 1:7!12"
+                         <word ref="PHM 1:7!12"
  
  book="PHM" 
  chapter="1" 
@@ -2205,9 +2273,10 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-NPN"
-                           unicode="τὰ">τὰ</w>
+                           unicode="τὰ" word="τὰ"> 
+</word>
                         <wg class="np" rule="NPofNP">
-                           <w ref="PHM 1:7!13"
+                            <word ref="PHM 1:7!13"
  
  book="PHM" 
  chapter="1" 
@@ -2227,9 +2296,10 @@
                               domain="026"
                               ln="26.11"
                               morph="N-NPN"
-                              unicode="σπλάγχνα">σπλάγχνα</w>
+                              unicode="σπλάγχνα" word="σπλάγχνα"> 
+</word>
                            <wg class="np" articular="true" rule="DetAdj">
-                              <w ref="PHM 1:7!14"
+                               <word ref="PHM 1:7!14"
  
  book="PHM" 
  chapter="1" 
@@ -2248,8 +2318,9 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-GPM"
-                                 unicode="τῶν">τῶν</w>
-                              <w ref="PHM 1:7!15"
+                                 unicode="τῶν" word="τῶν"> 
+</word>
+                               <word ref="PHM 1:7!15"
  
  book="PHM" 
  chapter="1" 
@@ -2268,11 +2339,12 @@
                                  domain="011002"
                                  ln="11.27"
                                  morph="A-GPM"
-                                 unicode="ἁγίων">ἁγίων</w>
+                                 unicode="ἁγίων" word="ἁγίων"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="PHM 1:7!16"
  
  book="PHM" 
@@ -2295,9 +2367,10 @@
                         ln="23.80"
                         morph="V-RPI-3S"
                         unicode="ἀναπέπαυται"
-                        frame="A1:n57001007013">ἀναπέπαυται</w>
+                        frame="A1:n57001007013" word="ἀναπέπαυται"> 
+</word>
                      <wg class="pp" rule="PrepNp" role="adv">
-                        <w ref="PHM 1:7!17"
+                         <word ref="PHM 1:7!17"
  
  book="PHM" 
  chapter="1" 
@@ -2313,8 +2386,9 @@
                            domain="090001"
                            ln="90.4"
                            morph="PREP"
-                           unicode="διὰ">διὰ</w>
-                        <w ref="PHM 1:7!18"
+                           unicode="διὰ" word="διὰ"> 
+</word>
+                         <word ref="PHM 1:7!18"
  
  book="PHM" 
  chapter="1" 
@@ -2332,12 +2406,13 @@
                            gloss="you"
                            morph="P-2GS"
                            unicode="σοῦ,"
-                           referent="n57001001009">σοῦ</w>
+                           referent="n57001001009" word="σοῦ"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg rule="Np2CL" cltype="Minor">
-                  <w role="aux"
+                   <word role="aux"
                      ref="PHM 1:7!19"
  
  book="PHM" 
@@ -2358,27 +2433,19 @@
                      domain="011002"
                      ln="11.23"
                      morph="N-VSM"
-                     unicode="ἀδελφέ.">ἀδελφέ</w>
+                     unicode="ἀδελφέ." word="ἀδελφέ"> 
+</word>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="8"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="9"> </verse>
- Διό, πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον, διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ,</p>
+   <sentence sentence_number="5" 
+      
+          sentence-text=" Διό, πολλὴν ἐν Χριστῷ παρρησίαν ἔχων ἐπιτάσσειν σοι τὸ ἀνῆκον, διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ,">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:8!1"
+             <word ref="PHM 1:8!1"
  
  book="PHM" 
  chapter="1" 
@@ -2394,11 +2461,12 @@
                domain="089008"
                ln="89.47"
                morph="CONJ"
-               unicode="Διό,">Διό</w>
+               unicode="Διό," word="Διό"> 
+</word>
             <wg class="cl" rule="ADV-ADV-ADV-V-ADV">
                <wg class="cl" rule="O-V-ADV" junction="subordinate" role="adv">
                   <wg class="np" rule="AdjpNp" role="o">
-                     <w ref="PHM 1:8!2"
+                      <word ref="PHM 1:8!2"
  
  book="PHM" 
  chapter="1" 
@@ -2415,10 +2483,11 @@
                         case="accusative"
                         gloss="much"
                         morph="A-ASF"
-                        unicode="πολλὴν">πολλὴν</w>
+                        unicode="πολλὴν" word="πολλὴν"> 
+</word>
                      <wg class="np" rule="PpNp2Np">
                         <wg class="pp" rule="PrepNp">
-                           <w ref="PHM 1:8!3"
+                            <word ref="PHM 1:8!3"
  
  book="PHM" 
  chapter="1" 
@@ -2434,8 +2503,9 @@
                               domain="089020"
                               ln="89.119"
                               morph="PREP"
-                              unicode="ἐν">ἐν</w>
-                           <w ref="PHM 1:8!4"
+                              unicode="ἐν" word="ἐν"> 
+</word>
+                            <word ref="PHM 1:8!4"
  
  book="PHM" 
  chapter="1" 
@@ -2455,9 +2525,10 @@
                               domain="093001"
                               ln="93.387"
                               morph="N-DSM"
-                              unicode="Χριστῷ">Χριστῷ</w>
+                              unicode="Χριστῷ" word="Χριστῷ"> 
+</word>
                         </wg>
-                        <w ref="PHM 1:8!5"
+                         <word ref="PHM 1:8!5"
  
  book="PHM" 
  chapter="1" 
@@ -2477,10 +2548,11 @@
                            domain="025014"
                            ln="25.158"
                            morph="N-ASF"
-                           unicode="παρρησίαν">παρρησίαν</w>
+                           unicode="παρρησίαν" word="παρρησίαν"> 
+</word>
                      </wg>
                   </wg>
-                  <w role="v"
+                   <word role="v"
                      ref="PHM 1:8!6"
  
  book="PHM" 
@@ -2505,9 +2577,10 @@
                      morph="V-PAP-NSM"
                      unicode="ἔχων"
                      frame="A0:n57001001001 A1:n57001008005"
-                     subjref="n57001001001">ἔχων</w>
+                     subjref="n57001001001" word="ἔχων"> 
+</word>
                   <wg class="cl" rule="V-IO-O" junction="subordinate" role="adv">
-                     <w role="v"
+                      <word role="v"
                         ref="PHM 1:8!7"
  
  book="PHM" 
@@ -2529,8 +2602,9 @@
                         morph="V-PAN"
                         unicode="ἐπιτάσσειν"
                         frame="A0:n57001001001 A2:n57001008008 A1:n57001008010"
-                        subjref="n57001001001">ἐπιτάσσειν</w>
-                     <w role="io"
+                        subjref="n57001001001" word="ἐπιτάσσειν"> 
+</word>
+                      <word role="io"
                         ref="PHM 1:8!8"
  
  book="PHM" 
@@ -2549,9 +2623,10 @@
                         gloss="you"
                         morph="P-2DS"
                         unicode="σοι"
-                        referent="n57001007019">σοι</w>
+                        referent="n57001007019" word="σοι"> 
+</word>
                      <wg articular="true" rule="DetCL" role="o">
-                        <w ref="PHM 1:8!9"
+                         <word ref="PHM 1:8!9"
  
  book="PHM" 
  chapter="1" 
@@ -2570,9 +2645,10 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-ASN"
-                           unicode="τὸ">τὸ</w>
+                           unicode="τὸ" word="τὸ"> 
+</word>
                         <wg class="cl" clauseType="nominalized" rule="V2CL">
-                           <w role="v"
+                            <word role="v"
                               ref="PHM 1:8!10"
  
  book="PHM" 
@@ -2596,13 +2672,14 @@
                               ln="66.1"
                               morph="V-PAP-ASN"
                               unicode="ἀνῆκον,"
-                              frame="A0:n00000000000">ἀνῆκον</w>
+                              frame="A0:n00000000000" word="ἀνῆκον"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                </wg>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                  <w ref="PHM 1:9!1"
+                   <word ref="PHM 1:9!1"
  
  book="PHM" 
  chapter="1" 
@@ -2618,9 +2695,10 @@
                      domain="089007"
                      ln="89.26"
                      morph="PREP"
-                     unicode="διὰ">διὰ</w>
+                     unicode="διὰ" word="διὰ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="PHM 1:9!2"
+                      <word ref="PHM 1:9!2"
  
  book="PHM" 
  chapter="1" 
@@ -2639,8 +2717,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-ASF"
-                        unicode="τὴν">τὴν</w>
-                     <w ref="PHM 1:9!3"
+                        unicode="τὴν" word="τὴν"> 
+</word>
+                      <word ref="PHM 1:9!3"
  
  book="PHM" 
  chapter="1" 
@@ -2660,10 +2739,11 @@
                         domain="025003"
                         ln="25.43"
                         morph="N-ASF"
-                        unicode="ἀγάπην">ἀγάπην</w>
+                        unicode="ἀγάπην" word="ἀγάπην"> 
+</word>
                   </wg>
                </wg>
-               <w role="adv"
+                <word role="adv"
                   ref="PHM 1:9!4"
  
  book="PHM" 
@@ -2680,8 +2760,9 @@
                   domain="089023"
                   ln="89.126"
                   morph="ADV"
-                  unicode="μᾶλλον">μᾶλλον</w>
-               <w role="v"
+                  unicode="μᾶλλον" word="μᾶλλον"> 
+</word>
+                <word role="v"
                   ref="PHM 1:9!5"
  
  book="PHM" 
@@ -2705,10 +2786,11 @@
                   morph="V-PAI-1S"
                   unicode="παρακαλῶ,"
                   frame="A0:n57001001001"
-                  subjref="n57001001001">παρακαλῶ</w>
+                  subjref="n57001001001" word="παρακαλῶ"> 
+</word>
                <wg rule="CLaCL" junction="subordinate" role="adv">
                   <wg class="cl" rule="P-VC-ADV" junction="coordinate">
-                     <w role="p"
+                      <word role="p"
                         ref="PHM 1:9!6"
  
  book="PHM" 
@@ -2730,8 +2812,9 @@
                         ln="64.2"
                         morph="D-NSM"
                         unicode="τοιοῦτος"
-                        referent="n57001009009">τοιοῦτος</w>
-                     <w role="vc"
+                        referent="n57001009009" word="τοιοῦτος"> 
+</word>
+                      <word role="vc"
                         ref="PHM 1:9!7"
  
  book="PHM" 
@@ -2753,9 +2836,10 @@
                         gloss="being"
                         morph="V-PAP-NSM"
                         unicode="ὢν"
-                        subjref="n57001001001">ὢν</w>
+                        subjref="n57001001001" word="ὢν"> 
+</word>
                      <wg class="pp" rule="PrepNp" role="adv">
-                        <w ref="PHM 1:9!8"
+                         <word ref="PHM 1:9!8"
  
  book="PHM" 
  chapter="1" 
@@ -2771,9 +2855,10 @@
                            domain="064"
                            ln="64.12"
                            morph="ADV"
-                           unicode="ὡς">ὡς</w>
+                           unicode="ὡς" word="ὡς"> 
+</word>
                         <wg type="apposition" class="np" rule="Np-Appos">
-                           <w ref="PHM 1:9!9"
+                            <word ref="PHM 1:9!9"
  
  book="PHM" 
  chapter="1" 
@@ -2793,8 +2878,9 @@
                               domain="093001"
                               ln="93.294a"
                               morph="N-NSM"
-                              unicode="Παῦλος">Παῦλος</w>
-                           <w ref="PHM 1:9!10"
+                              unicode="Παῦλος" word="Παῦλος"> 
+</word>
+                            <word ref="PHM 1:9!10"
  
  book="PHM" 
  chapter="1" 
@@ -2814,12 +2900,13 @@
                               domain="009002"
                               ln="9.31"
                               morph="N-NSM"
-                              unicode="πρεσβύτης">πρεσβύτης</w>
+                              unicode="πρεσβύτης" word="πρεσβύτης"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                   <wg type="group">
-                     <w ref="PHM 1:9!12"
+                      <word ref="PHM 1:9!12"
  
  book="PHM" 
  chapter="1" 
@@ -2834,9 +2921,10 @@
                         discontinuous="true"
                         gloss="then"
                         morph="CONJ"
-                        unicode="δὲ">δὲ</w>
+                        unicode="δὲ" word="δὲ"> 
+</word>
                      <wg class="cl" rule="ADV-P" cltype="Verbless" junction="coordinate">
-                        <w role="adv"
+                         <word role="adv"
                            ref="PHM 1:9!11"
  
  book="PHM" 
@@ -2853,9 +2941,10 @@
                            domain="067002"
                            ln="67.38"
                            morph="ADV"
-                           unicode="νυνὶ">νυνὶ</w>
+                           unicode="νυνὶ" word="νυνὶ"> 
+</word>
                         <wg class="np" rule="AdvpNp" role="p">
-                           <w ref="PHM 1:9!13"
+                            <word ref="PHM 1:9!13"
  
  book="PHM" 
  chapter="1" 
@@ -2869,9 +2958,10 @@
                               strong="2532"
                               gloss="also"
                               morph="CONJ"
-                              unicode="καὶ">καὶ</w>
+                              unicode="καὶ" word="καὶ"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="PHM 1:9!14"
+                               <word ref="PHM 1:9!14"
  
  book="PHM" 
  chapter="1" 
@@ -2891,9 +2981,10 @@
                                  domain="037008"
                                  ln="37.117"
                                  morph="N-NSM"
-                                 unicode="δέσμιος">δέσμιος</w>
+                                 unicode="δέσμιος" word="δέσμιος"> 
+</word>
                               <wg type="apposition" class="np" rule="Np-Appos">
-                                 <w ref="PHM 1:9!15"
+                                  <word ref="PHM 1:9!15"
  
  book="PHM" 
  chapter="1" 
@@ -2913,8 +3004,9 @@
                                     domain="093001"
                                     ln="93.387"
                                     morph="N-GSM"
-                                    unicode="Χριστοῦ">Χριστοῦ</w>
-                                 <w ref="PHM 1:9!16"
+                                    unicode="Χριστοῦ" word="Χριστοῦ"> 
+</word>
+                                  <word ref="PHM 1:9!16"
  
  book="PHM" 
  chapter="1" 
@@ -2934,7 +3026,8 @@
                                     domain="093001"
                                     ln="93.169a"
                                     morph="N-GSM"
-                                    unicode="Ἰησοῦ,">Ἰησοῦ</w>
+                                    unicode="Ἰησοῦ," word="Ἰησοῦ"> 
+</word>
                               </wg>
                            </wg>
                         </wg>
@@ -2945,31 +3038,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="10"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="11"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="12"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="13"> </verse>
- παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου, ὃν ἐγέννησα ἐν τοῖς δεσμοῖς, Ὀνήσιμον, τόν ποτέ σοι ἄχρηστον νυνὶ δὲ καὶ σοὶ καὶ ἐμοὶ εὔχρηστον, ὃν ἀνέπεμψά σοι αὐτόν, τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα· ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν, ἵνα ὑπὲρ σοῦ μοι διακονῇ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου,</p>
+   <sentence sentence_number="6" 
+      
+          sentence-text=" παρακαλῶ σε περὶ τοῦ ἐμοῦ τέκνου, ὃν ἐγέννησα ἐν τοῖς δεσμοῖς, Ὀνήσιμον, τόν ποτέ σοι ἄχρηστον νυνὶ δὲ καὶ σοὶ καὶ ἐμοὶ εὔχρηστον, ὃν ἀνέπεμψά σοι αὐτόν, τοῦτ’ ἔστιν τὰ ἐμὰ σπλάγχνα· ὃν ἐγὼ ἐβουλόμην πρὸς ἐμαυτὸν κατέχειν, ἵνα ὑπὲρ σοῦ μοι διακονῇ ἐν τοῖς δεσμοῖς τοῦ εὐαγγελίου,">
       <wg>
          <wg class="cl" rule="V-O-ADV">
-            <w role="v"
+             <word role="v"
                ref="PHM 1:10!1"
  
  book="PHM" 
@@ -2993,8 +3067,9 @@
                morph="V-PAI-1S"
                unicode="παρακαλῶ"
                frame="A0:n57001009009 A1:n57001010002"
-               subjref="n57001009009">παρακαλῶ</w>
-            <w role="o"
+               subjref="n57001009009" word="παρακαλῶ"> 
+</word>
+             <word role="o"
                ref="PHM 1:10!2"
  
  book="PHM" 
@@ -3013,9 +3088,10 @@
                gloss="you"
                morph="P-2AS"
                unicode="σε"
-               referent="n57001007019">σε</w>
+               referent="n57001007019" word="σε"> 
+</word>
             <wg class="pp" articular="true" rule="PrepNp" role="adv">
-               <w ref="PHM 1:10!3"
+                <word ref="PHM 1:10!3"
  
  book="PHM" 
  chapter="1" 
@@ -3031,10 +3107,11 @@
                   domain="089004 090009"
                   ln="89.6 90.39"
                   morph="PREP"
-                  unicode="περὶ">περὶ</w>
+                  unicode="περὶ" word="περὶ"> 
+</word>
                <wg class="np" type="apposition" articular="true" rule="NP-CL">
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="PHM 1:10!4"
+                      <word ref="PHM 1:10!4"
  
  book="PHM" 
  chapter="1" 
@@ -3053,9 +3130,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-GSN"
-                        unicode="τοῦ">τοῦ</w>
+                        unicode="τοῦ" word="τοῦ"> 
+</word>
                      <wg class="np" rule="AdjpNp">
-                        <w ref="PHM 1:10!5"
+                         <word ref="PHM 1:10!5"
  
  book="PHM" 
  chapter="1" 
@@ -3075,8 +3153,9 @@
                            ln="92.2"
                            morph="S-1SGSN"
                            unicode="ἐμοῦ"
-                           referent="n57001009009">ἐμοῦ</w>
-                        <w ref="PHM 1:10!6"
+                           referent="n57001009009" word="ἐμοῦ"> 
+</word>
+                         <word ref="PHM 1:10!6"
  
  book="PHM" 
  chapter="1" 
@@ -3096,14 +3175,15 @@
                            domain="036004"
                            ln="36.40"
                            morph="N-GSN"
-                           unicode="τέκνου,">τέκνου</w>
+                           unicode="τέκνου," word="τέκνου"> 
+</word>
                      </wg>
                   </wg>
                   <wg class="cl"
                       clauseType="nominalized"
                       rule="V-ADV-O"
                       junction="apposition">
-                     <w role="v"
+                      <word role="v"
                         ref="PHM 1:10!8"
  
  book="PHM" 
@@ -3127,9 +3207,10 @@
                         morph="V-AAI-1S"
                         unicode="ἐγέννησα"
                         frame="A0:n57001009009 A1:n57001010012"
-                        subjref="n57001009009">ἐγέννησα</w>
+                        subjref="n57001009009" word="ἐγέννησα"> 
+</word>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="PHM 1:10!9"
+                         <word ref="PHM 1:10!9"
  
  book="PHM" 
  chapter="1" 
@@ -3145,9 +3226,10 @@
                            domain="013001 083003"
                            ln="13.8 83.13"
                            morph="PREP"
-                           unicode="ἐν">ἐν</w>
+                           unicode="ἐν" word="ἐν"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="PHM 1:10!10"
+                            <word ref="PHM 1:10!10"
  
  book="PHM" 
  chapter="1" 
@@ -3166,8 +3248,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-DPM"
-                              unicode="τοῖς">τοῖς</w>
-                           <w ref="PHM 1:10!11"
+                              unicode="τοῖς" word="τοῖς"> 
+</word>
+                            <word ref="PHM 1:10!11"
  
  book="PHM" 
  chapter="1" 
@@ -3188,11 +3271,12 @@
                               domain="037008"
                               ln="37.115"
                               morph="N-DPM"
-                              unicode="δεσμοῖς,">δεσμοῖς</w>
+                              unicode="δεσμοῖς," word="δεσμοῖς"> 
+</word>
                         </wg>
                      </wg>
                      <wg class="np" rule="PronNP" role="o">
-                        <w ref="PHM 1:10!7"
+                         <word ref="PHM 1:10!7"
  
  book="PHM" 
  chapter="1" 
@@ -3211,11 +3295,12 @@
                            gloss="whom"
                            morph="R-ASM"
                            unicode="ὃν"
-                           referent="n57001010012">ὃν</w>
+                           referent="n57001010012" word="ὃν"> 
+</word>
                         <wg class="np" type="apposition" rule="NP-CL">
                            <wg class="np" type="apposition" rule="NP-CL">
                               <wg type="apposition" class="np" rule="Np-Appos">
-                                 <w ref="PHM 1:10!12"
+                                  <word ref="PHM 1:10!12"
  
  book="PHM" 
  chapter="1" 
@@ -3235,9 +3320,10 @@
                                     domain="093001"
                                     ln="93.288"
                                     morph="N-ASM"
-                                    unicode="Ὀνήσιμον,">Ὀνήσιμον</w>
+                                    unicode="Ὀνήσιμον," word="Ὀνήσιμον"> 
+</word>
                                  <wg class="np" junction="apposition" articular="true" rule="DetAdj">
-                                    <w ref="PHM 1:11!1"
+                                     <word ref="PHM 1:11!1"
  
  book="PHM" 
  chapter="1" 
@@ -3256,10 +3342,11 @@
                                        domain="092004"
                                        ln="92.24"
                                        morph="T-ASM"
-                                       unicode="τόν">τόν</w>
+                                       unicode="τόν" word="τόν"> 
+</word>
                                     <wg rule="AdjpaAdjp">
                                        <wg class="adjp" rule="AdvpAdjp">
-                                          <w ref="PHM 1:11!2"
+                                           <word ref="PHM 1:11!2"
  
  book="PHM" 
  chapter="1" 
@@ -3275,9 +3362,10 @@
                                              domain="067001"
                                              ln="67.9"
                                              morph="PRT"
-                                             unicode="ποτέ">ποτέ</w>
+                                             unicode="ποτέ" word="ποτέ"> 
+</word>
                                           <wg class="adjp" rule="DativeAdjp">
-                                             <w ref="PHM 1:11!3"
+                                              <word ref="PHM 1:11!3"
  
  book="PHM" 
  chapter="1" 
@@ -3295,8 +3383,9 @@
                                                 gloss="to you"
                                                 morph="P-2DS"
                                                 unicode="σοι"
-                                                referent="n57001007019">σοι</w>
-                                             <w ref="PHM 1:11!4"
+                                                referent="n57001007019" word="σοι"> 
+</word>
+                                              <word ref="PHM 1:11!4"
  
  book="PHM" 
  chapter="1" 
@@ -3315,11 +3404,12 @@
                                                 domain="065004"
                                                 ln="65.33"
                                                 morph="A-ASM"
-                                                unicode="ἄχρηστον">ἄχρηστον</w>
+                                                unicode="ἄχρηστον" word="ἄχρηστον"> 
+</word>
                                           </wg>
                                        </wg>
                                        <wg type="group">
-                                          <w ref="PHM 1:11!6"
+                                           <word ref="PHM 1:11!6"
  
  book="PHM" 
  chapter="1" 
@@ -3334,9 +3424,10 @@
                                              discontinuous="true"
                                              gloss="however"
                                              morph="CONJ"
-                                             unicode="δὲ">δὲ</w>
+                                             unicode="δὲ" word="δὲ"> 
+</word>
                                           <wg class="adjp" rule="AdvpAdjp">
-                                             <w ref="PHM 1:11!5"
+                                              <word ref="PHM 1:11!5"
  
  book="PHM" 
  chapter="1" 
@@ -3352,11 +3443,12 @@
                                                 domain="067002"
                                                 ln="67.38"
                                                 morph="ADV"
-                                                unicode="νυνὶ">νυνὶ</w>
+                                                unicode="νυνὶ" word="νυνὶ"> 
+</word>
                                              <wg class="adjp" rule="DativeAdjp">
                                                 <wg rule="aNpaNp">
                                                    <wg type="group">
-                                                      <w ref="PHM 1:11!7"
+                                                       <word ref="PHM 1:11!7"
  
  book="PHM" 
  chapter="1" 
@@ -3370,8 +3462,9 @@
                                                          strong="2532"
                                                          gloss="both"
                                                          morph="CONJ"
-                                                         unicode="καὶ">καὶ</w>
-                                                      <w ref="PHM 1:11!8"
+                                                         unicode="καὶ" word="καὶ"> 
+</word>
+                                                       <word ref="PHM 1:11!8"
  
  book="PHM" 
  chapter="1" 
@@ -3389,10 +3482,11 @@
                                                          gloss="to you"
                                                          morph="P-2DS"
                                                          unicode="σοὶ"
-                                                         referent="n57001007019">σοὶ</w>
+                                                         referent="n57001007019" word="σοὶ"> 
+</word>
                                                    </wg>
                                                    <wg type="group">
-                                                      <w ref="PHM 1:11!9"
+                                                       <word ref="PHM 1:11!9"
  
  book="PHM" 
  chapter="1" 
@@ -3406,8 +3500,9 @@
                                                          strong="2532"
                                                          gloss="and"
                                                          morph="CONJ"
-                                                         unicode="καὶ">καὶ</w>
-                                                      <w ref="PHM 1:11!10"
+                                                         unicode="καὶ" word="καὶ"> 
+</word>
+                                                       <word ref="PHM 1:11!10"
  
  book="PHM" 
  chapter="1" 
@@ -3427,10 +3522,11 @@
                                                          ln="92.1"
                                                          morph="P-1DS"
                                                          unicode="ἐμοὶ"
-                                                         referent="n57001009009">ἐμοὶ</w>
+                                                         referent="n57001009009" word="ἐμοὶ"> 
+</word>
                                                    </wg>
                                                 </wg>
-                                                <w ref="PHM 1:11!11"
+                                                 <word ref="PHM 1:11!11"
  
  book="PHM" 
  chapter="1" 
@@ -3449,7 +3545,8 @@
                                                    domain="065004"
                                                    ln="65.31"
                                                    morph="A-ASM"
-                                                   unicode="εὔχρηστον,">εὔχρηστον</w>
+                                                   unicode="εὔχρηστον," word="εὔχρηστον"> 
+</word>
                                              </wg>
                                           </wg>
                                        </wg>
@@ -3460,7 +3557,7 @@
                                   clauseType="nominalized"
                                   rule="V-IO-O"
                                   junction="apposition">
-                                 <w role="v"
+                                  <word role="v"
                                     ref="PHM 1:12!2"
  
  book="PHM" 
@@ -3484,8 +3581,9 @@
                                     morph="V-AAI-1S"
                                     unicode="ἀνέπεμψά"
                                     frame="A0:n57001009009 A2:n57001012003 A1:n57001012004"
-                                    subjref="n57001009009">ἀνέπεμψά</w>
-                                 <w role="io"
+                                    subjref="n57001009009" word="ἀνέπεμψά"> 
+</word>
+                                  <word role="io"
                                     ref="PHM 1:12!3"
  
  book="PHM" 
@@ -3505,9 +3603,10 @@
                                     gloss="to you"
                                     morph="P-2DS"
                                     unicode="σοι"
-                                    referent="n57001007019">σοι</w>
+                                    referent="n57001007019" word="σοι"> 
+</word>
                                  <wg class="np" rule="PronNP" role="o">
-                                    <w ref="PHM 1:12!1"
+                                     <word ref="PHM 1:12!1"
  
  book="PHM" 
  chapter="1" 
@@ -3526,9 +3625,10 @@
                                        gloss="whom"
                                        morph="R-ASM"
                                        unicode="ὃν"
-                                       referent="n57001010012">ὃν</w>
+                                       referent="n57001010012" word="ὃν"> 
+</word>
                                     <wg class="np" type="apposition" rule="NP-CL">
-                                       <w ref="PHM 1:12!4"
+                                        <word ref="PHM 1:12!4"
  
  book="PHM" 
  chapter="1" 
@@ -3549,13 +3649,14 @@
                                           ln="92.11"
                                           morph="P-ASM"
                                           unicode="αὐτόν,"
-                                          referent="n57001010012">αὐτόν</w>
+                                          referent="n57001010012" word="αὐτόν"> 
+</word>
                                        <wg class="cl"
                                            clauseType="nominalized"
                                            articular="true"
                                            rule="S-VC-P"
                                            junction="apposition">
-                                          <w role="s"
+                                           <word role="s"
                                              ref="PHM 1:12!5"
  
  book="PHM" 
@@ -3575,8 +3676,9 @@
                                              gloss="he who"
                                              morph="D-NSN"
                                              unicode="τοῦτ’"
-                                             referent="n57001010012">τοῦτ’</w>
-                                          <w role="vc"
+                                             referent="n57001010012" word="τοῦτ’"> 
+</word>
+                                           <word role="vc"
                                              ref="PHM 1:12!6"
  
  book="PHM" 
@@ -3596,9 +3698,10 @@
                                              mood="indicative"
                                              gloss="is"
                                              morph="V-PAI-3S"
-                                             unicode="ἔστιν">ἔστιν</w>
+                                             unicode="ἔστιν" word="ἔστιν"> 
+</word>
                                           <wg class="np" articular="true" rule="DetNP" role="p">
-                                             <w ref="PHM 1:12!7"
+                                              <word ref="PHM 1:12!7"
  
  book="PHM" 
  chapter="1" 
@@ -3617,9 +3720,10 @@
                                                 domain="092004"
                                                 ln="92.24"
                                                 morph="T-NPN"
-                                                unicode="τὰ">τὰ</w>
+                                                unicode="τὰ" word="τὰ"> 
+</word>
                                              <wg class="np" rule="AdjpNp">
-                                                <w ref="PHM 1:12!8"
+                                                 <word ref="PHM 1:12!8"
  
  book="PHM" 
  chapter="1" 
@@ -3639,8 +3743,9 @@
                                                    ln="92.2"
                                                    morph="S-1SNPN"
                                                    unicode="ἐμὰ"
-                                                   referent="n57001009009">ἐμὰ</w>
-                                                <w ref="PHM 1:12!9"
+                                                   referent="n57001009009" word="ἐμὰ"> 
+</word>
+                                                 <word ref="PHM 1:12!9"
  
  book="PHM" 
  chapter="1" 
@@ -3660,7 +3765,8 @@
                                                    domain="025003"
                                                    ln="25.50"
                                                    morph="N-NPN"
-                                                   unicode="σπλάγχνα·">σπλάγχνα</w>
+                                                   unicode="σπλάγχνα·" word="σπλάγχνα"> 
+</word>
                                              </wg>
                                           </wg>
                                        </wg>
@@ -3672,7 +3778,7 @@
                                class="cl"
                                nodeId="570010130020160"
                                junction="apposition">
-                              <w role="s"
+                               <word role="s"
                                  ref="PHM 1:13!2"
  
  book="PHM" 
@@ -3693,8 +3799,9 @@
                                  ln="92.1"
                                  morph="P-1NS"
                                  unicode="ἐγὼ"
-                                 referent="n57001009009">ἐγὼ</w>
-                              <w role="v"
+                                 referent="n57001009009" word="ἐγὼ"> 
+</word>
+                               <word role="v"
                                  ref="PHM 1:13!3"
  
  book="PHM" 
@@ -3718,13 +3825,14 @@
                                  ln="25.3"
                                  morph="V-INI-1S"
                                  unicode="ἐβουλόμην"
-                                 frame="A0:n57001013002 A1:n57001013006">ἐβουλόμην</w>
+                                 frame="A0:n57001013002 A1:n57001013006" word="ἐβουλόμην"> 
+</word>
                               <wg class="cl"
                                   clauseType="nominalized"
                                   rule="O-ADV-V"
                                   junction="subordinate"
                                   role="o">
-                                 <w role="o"
+                                  <word role="o"
                                     ref="PHM 1:13!1"
  
  book="PHM" 
@@ -3744,9 +3852,10 @@
                                     gloss="whom"
                                     morph="R-ASM"
                                     unicode="ὃν"
-                                    referent="n57001010012">ὃν</w>
+                                    referent="n57001010012" word="ὃν"> 
+</word>
                                  <wg class="pp" rule="PrepNp" role="adv">
-                                    <w ref="PHM 1:13!4"
+                                     <word ref="PHM 1:13!4"
  
  book="PHM" 
  chapter="1" 
@@ -3760,8 +3869,9 @@
                                        strong="4314"
                                        gloss="with"
                                        morph="PREP"
-                                       unicode="πρὸς">πρὸς</w>
-                                    <w ref="PHM 1:13!5"
+                                       unicode="πρὸς" word="πρὸς"> 
+</word>
+                                     <word ref="PHM 1:13!5"
  
  book="PHM" 
  chapter="1" 
@@ -3782,9 +3892,10 @@
                                        ln="92.3"
                                        morph="F-1ASM"
                                        unicode="ἐμαυτὸν"
-                                       referent="n57001009009">ἐμαυτὸν</w>
+                                       referent="n57001009009" word="ἐμαυτὸν"> 
+</word>
                                  </wg>
-                                 <w role="v"
+                                  <word role="v"
                                     ref="PHM 1:13!6"
  
  book="PHM" 
@@ -3806,10 +3917,11 @@
                                     morph="V-PAN"
                                     unicode="κατέχειν,"
                                     frame="A0:n57001009009 A1:n57001013001"
-                                    subjref="n57001009009">κατέχειν</w>
+                                    subjref="n57001009009" word="κατέχειν"> 
+</word>
                               </wg>
                               <wg rule="sub-CL" role="adv">
-                                 <w ref="PHM 1:13!7"
+                                  <word ref="PHM 1:13!7"
  
  book="PHM" 
  chapter="1" 
@@ -3825,10 +3937,11 @@
                                     domain="089009"
                                     ln="89.59"
                                     morph="CONJ"
-                                    unicode="ἵνα">ἵνα</w>
+                                    unicode="ἵνα" word="ἵνα"> 
+</word>
                                  <wg class="cl" rule="ADV-O-V-ADV" junction="subordinate">
                                     <wg class="pp" rule="PrepNp" role="adv">
-                                       <w ref="PHM 1:13!8"
+                                        <word ref="PHM 1:13!8"
  
  book="PHM" 
  chapter="1" 
@@ -3844,8 +3957,9 @@
                                           domain="090009"
                                           ln="90.36"
                                           morph="PREP"
-                                          unicode="ὑπὲρ">ὑπὲρ</w>
-                                       <w ref="PHM 1:13!9"
+                                          unicode="ὑπὲρ" word="ὑπὲρ"> 
+</word>
+                                        <word ref="PHM 1:13!9"
  
  book="PHM" 
  chapter="1" 
@@ -3863,9 +3977,10 @@
                                           gloss="you"
                                           morph="P-2GS"
                                           unicode="σοῦ"
-                                          referent="n57001007019">σοῦ</w>
+                                          referent="n57001007019" word="σοῦ"> 
+</word>
                                     </wg>
-                                    <w role="o"
+                                     <word role="o"
                                        ref="PHM 1:13!10"
  
  book="PHM" 
@@ -3886,8 +4001,9 @@
                                        ln="92.1"
                                        morph="P-1DS"
                                        unicode="μοι"
-                                       referent="n57001009009">μοι</w>
-                                    <w role="v"
+                                       referent="n57001009009" word="μοι"> 
+</word>
+                                     <word role="v"
                                        ref="PHM 1:13!11"
  
  book="PHM" 
@@ -3911,9 +4027,10 @@
                                        morph="V-PAS-3S"
                                        unicode="διακονῇ"
                                        frame="A0:n57001010012 A1:n57001013010"
-                                       subjref="n57001010012">διακονῇ</w>
+                                       subjref="n57001010012" word="διακονῇ"> 
+</word>
                                     <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                                       <w ref="PHM 1:13!12"
+                                        <word ref="PHM 1:13!12"
  
  book="PHM" 
  chapter="1" 
@@ -3927,9 +4044,10 @@
                                           strong="1722"
                                           gloss="in"
                                           morph="PREP"
-                                          unicode="ἐν">ἐν</w>
+                                          unicode="ἐν" word="ἐν"> 
+</word>
                                        <wg class="np" articular="true" rule="DetNP">
-                                          <w ref="PHM 1:13!13"
+                                           <word ref="PHM 1:13!13"
  
  book="PHM" 
  chapter="1" 
@@ -3948,9 +4066,10 @@
                                              domain="092004"
                                              ln="92.24"
                                              morph="T-DPM"
-                                             unicode="τοῖς">τοῖς</w>
+                                             unicode="τοῖς" word="τοῖς"> 
+</word>
                                           <wg class="np" rule="NPofNP">
-                                             <w ref="PHM 1:13!14"
+                                              <word ref="PHM 1:13!14"
  
  book="PHM" 
  chapter="1" 
@@ -3970,9 +4089,10 @@
                                                 domain="037008"
                                                 ln="37.115"
                                                 morph="N-DPM"
-                                                unicode="δεσμοῖς">δεσμοῖς</w>
+                                                unicode="δεσμοῖς" word="δεσμοῖς"> 
+</word>
                                              <wg class="np" articular="true" rule="DetNP">
-                                                <w ref="PHM 1:13!15"
+                                                 <word ref="PHM 1:13!15"
  
  book="PHM" 
  chapter="1" 
@@ -3991,8 +4111,9 @@
                                                    domain="092004"
                                                    ln="92.24"
                                                    morph="T-GSN"
-                                                   unicode="τοῦ">τοῦ</w>
-                                                <w ref="PHM 1:13!16"
+                                                   unicode="τοῦ" word="τοῦ"> 
+</word>
+                                                 <word ref="PHM 1:13!16"
  
  book="PHM" 
  chapter="1" 
@@ -4012,7 +4133,8 @@
                                                    domain="033015"
                                                    ln="33.217"
                                                    morph="N-GSN"
-                                                   unicode="εὐαγγελίου,">εὐαγγελίου</w>
+                                                   unicode="εὐαγγελίου," word="εὐαγγελίου"> 
+</word>
                                              </wg>
                                           </wg>
                                        </wg>
@@ -4028,16 +4150,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="14"> </verse>
- χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον.</p>
+   <sentence sentence_number="7" 
+      
+          sentence-text=" χωρὶς δὲ τῆς σῆς γνώμης οὐδὲν ἠθέλησα ποιῆσαι, ἵνα μὴ ὡς κατὰ ἀνάγκην τὸ ἀγαθόν σου ᾖ ἀλλὰ κατὰ ἑκούσιον.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:14!2"
+             <word ref="PHM 1:14!2"
  
  book="PHM" 
  chapter="1" 
@@ -4054,10 +4172,11 @@
                domain="089023"
                ln="89.124"
                morph="CONJ"
-               unicode="δὲ">δὲ</w>
+               unicode="δὲ" word="δὲ"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="570010140010190">
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                  <w ref="PHM 1:14!1"
+                   <word ref="PHM 1:14!1"
  
  book="PHM" 
  chapter="1" 
@@ -4073,9 +4192,10 @@
                      domain="089021"
                      ln="89.120"
                      morph="ADV"
-                     unicode="χωρὶς">χωρὶς</w>
+                     unicode="χωρὶς" word="χωρὶς"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="PHM 1:14!3"
+                      <word ref="PHM 1:14!3"
  
  book="PHM" 
  chapter="1" 
@@ -4094,9 +4214,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-GSF"
-                        unicode="τῆς">τῆς</w>
+                        unicode="τῆς" word="τῆς"> 
+</word>
                      <wg class="np" rule="AdjpNp">
-                        <w ref="PHM 1:14!4"
+                         <word ref="PHM 1:14!4"
  
  book="PHM" 
  chapter="1" 
@@ -4116,8 +4237,9 @@
                            ln="92.8"
                            morph="S-2SGSF"
                            unicode="σῆς"
-                           referent="n57001007019">σῆς</w>
-                        <w ref="PHM 1:14!5"
+                           referent="n57001007019" word="σῆς"> 
+</word>
+                         <word ref="PHM 1:14!5"
  
  book="PHM" 
  chapter="1" 
@@ -4137,12 +4259,13 @@
                            domain="031001 031003"
                            ln="31.14 31.3"
                            morph="N-GSF"
-                           unicode="γνώμης">γνώμης</w>
+                           unicode="γνώμης" word="γνώμης"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg class="cl" rule="O-V" junction="subordinate" role="o">
-                  <w role="o"
+                   <word role="o"
                      ref="PHM 1:14!6"
  
  book="PHM" 
@@ -4162,8 +4285,9 @@
                      domain="092004"
                      ln="92.23"
                      morph="A-ASN-N"
-                     unicode="οὐδὲν">οὐδὲν</w>
-                  <w role="v"
+                     unicode="οὐδὲν" word="οὐδὲν"> 
+</word>
+                   <word role="v"
                      ref="PHM 1:14!8"
  
  book="PHM" 
@@ -4186,9 +4310,10 @@
                      morph="V-AAN"
                      unicode="ποιῆσαι,"
                      frame="A0:n57001009009 A1:n57001014006"
-                     subjref="n57001009009">ποιῆσαι</w>
+                     subjref="n57001009009" word="ποιῆσαι"> 
+</word>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:14!7"
  
  book="PHM" 
@@ -4212,9 +4337,10 @@
                   morph="V-AAI-1S"
                   unicode="ἠθέλησα"
                   frame="A0:n57001009009 A1:n57001014008"
-                  subjref="n57001009009">ἠθέλησα</w>
+                  subjref="n57001009009" word="ἠθέλησα"> 
+</word>
                <wg rule="sub-CL" role="o">
-                  <w ref="PHM 1:14!9"
+                   <word ref="PHM 1:14!9"
  
  book="PHM" 
  chapter="1" 
@@ -4230,9 +4356,10 @@
                      domain="089009"
                      ln="89.59"
                      morph="CONJ"
-                     unicode="ἵνα">ἵνα</w>
+                     unicode="ἵνα" word="ἵνα"> 
+</word>
                   <wg type="group" rule="notCLbutCL2CL" junction="subordinate">
-                     <w ref="PHM 1:14!10"
+                      <word ref="PHM 1:14!10"
  
  book="PHM" 
  chapter="1" 
@@ -4246,10 +4373,11 @@
                         strong="3361"
                         gloss="not"
                         morph="PRT-N"
-                        unicode="μὴ">μὴ</w>
+                        unicode="μὴ" word="μὴ"> 
+</word>
                      <wg class="cl" rule="P-S-VC" junction="coordinate">
                         <wg class="pp" rule="AdvPp" role="p">
-                           <w ref="PHM 1:14!11"
+                            <word ref="PHM 1:14!11"
  
  book="PHM" 
  chapter="1" 
@@ -4265,9 +4393,10 @@
                               domain="089007"
                               ln="89.37"
                               morph="ADV"
-                              unicode="ὡς">ὡς</w>
+                              unicode="ὡς" word="ὡς"> 
+</word>
                            <wg class="pp" rule="PrepNp">
-                              <w ref="PHM 1:14!12"
+                               <word ref="PHM 1:14!12"
  
  book="PHM" 
  chapter="1" 
@@ -4283,8 +4412,9 @@
                                  domain="089004 089005"
                                  ln="89.4 89.8"
                                  morph="PREP"
-                                 unicode="κατὰ">κατὰ</w>
-                              <w ref="PHM 1:14!13"
+                                 unicode="κατὰ" word="κατὰ"> 
+</word>
+                               <word ref="PHM 1:14!13"
  
  book="PHM" 
  chapter="1" 
@@ -4304,11 +4434,12 @@
                                  domain="071004"
                                  ln="71.30"
                                  morph="N-ASF"
-                                 unicode="ἀνάγκην">ἀνάγκην</w>
+                                 unicode="ἀνάγκην" word="ἀνάγκην"> 
+</word>
                            </wg>
                         </wg>
                         <wg class="np" articular="true" rule="DetNP" role="s">
-                           <w ref="PHM 1:14!14"
+                            <word ref="PHM 1:14!14"
  
  book="PHM" 
  chapter="1" 
@@ -4327,9 +4458,10 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-NSN"
-                              unicode="τὸ">τὸ</w>
+                              unicode="τὸ" word="τὸ"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="PHM 1:14!15"
+                               <word ref="PHM 1:14!15"
  
  book="PHM" 
  chapter="1" 
@@ -4348,8 +4480,9 @@
                                  domain="065003"
                                  ln="65.20"
                                  morph="A-NSN"
-                                 unicode="ἀγαθόν">ἀγαθόν</w>
-                              <w ref="PHM 1:14!16"
+                                 unicode="ἀγαθόν" word="ἀγαθόν"> 
+</word>
+                               <word ref="PHM 1:14!16"
  
  book="PHM" 
  chapter="1" 
@@ -4367,10 +4500,11 @@
                                  gloss="of you"
                                  morph="P-2GS"
                                  unicode="σου"
-                                 referent="n57001007019">σου</w>
+                                 referent="n57001007019" word="σου"> 
+</word>
                            </wg>
                         </wg>
-                        <w role="vc"
+                         <word role="vc"
                            ref="PHM 1:14!17"
  
  book="PHM" 
@@ -4390,9 +4524,10 @@
                            mood="subjunctive"
                            gloss="may be"
                            morph="V-PAS-3S"
-                           unicode="ᾖ">ᾖ</w>
+                           unicode="ᾖ" word="ᾖ"> 
+</word>
                      </wg>
-                     <w ref="PHM 1:14!18"
+                      <word ref="PHM 1:14!18"
  
  book="PHM" 
  chapter="1" 
@@ -4408,10 +4543,11 @@
                         domain="089023"
                         ln="89.125"
                         morph="CONJ"
-                        unicode="ἀλλὰ">ἀλλὰ</w>
+                        unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
                      <wg class="cl" rule="P2CL" cltype="Verbless" junction="coordinate">
                         <wg class="pp" rule="PrepNp" role="p">
-                           <w ref="PHM 1:14!19"
+                            <word ref="PHM 1:14!19"
  
  book="PHM" 
  chapter="1" 
@@ -4425,8 +4561,9 @@
                               strong="2596"
                               gloss="according to"
                               morph="PREP"
-                              unicode="κατὰ">κατὰ</w>
-                           <w ref="PHM 1:14!20"
+                              unicode="κατὰ" word="κατὰ"> 
+</word>
+                            <word ref="PHM 1:14!20"
  
  book="PHM" 
  chapter="1" 
@@ -4445,7 +4582,8 @@
                               domain="025005"
                               ln="25.65"
                               morph="A-ASN"
-                              unicode="ἑκούσιον.">ἑκούσιον</w>
+                              unicode="ἑκούσιον." word="ἑκούσιον"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -4454,21 +4592,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="15"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="16"> </verse>
- τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν, ἵνα αἰώνιον αὐτὸν ἀπέχῃς, οὐκέτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν Κυρίῳ.</p>
+   <sentence sentence_number="8" 
+      
+          sentence-text=" τάχα γὰρ διὰ τοῦτο ἐχωρίσθη πρὸς ὥραν, ἵνα αἰώνιον αὐτὸν ἀπέχῃς, οὐκέτι ὡς δοῦλον ἀλλὰ ὑπὲρ δοῦλον, ἀδελφὸν ἀγαπητόν, μάλιστα ἐμοί, πόσῳ δὲ μᾶλλον σοὶ καὶ ἐν σαρκὶ καὶ ἐν Κυρίῳ.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:15!2"
+             <word ref="PHM 1:15!2"
  
  book="PHM" 
  chapter="1" 
@@ -4485,9 +4614,10 @@
                domain="089007"
                ln="89.23"
                morph="CONJ"
-               unicode="γὰρ">γὰρ</w>
+               unicode="γὰρ" word="γὰρ"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="570010150010300">
-               <w role="adv"
+                <word role="adv"
                   ref="PHM 1:15!1"
  
  book="PHM" 
@@ -4504,9 +4634,10 @@
                   domain="071002"
                   ln="71.12"
                   morph="ADV"
-                  unicode="τάχα">τάχα</w>
+                  unicode="τάχα" word="τάχα"> 
+</word>
                <wg class="pp" rule="PrepNp" role="adv">
-                  <w ref="PHM 1:15!3"
+                   <word ref="PHM 1:15!3"
  
  book="PHM" 
  chapter="1" 
@@ -4522,8 +4653,9 @@
                      domain="090010"
                      ln="90.44"
                      morph="PREP"
-                     unicode="διὰ">διὰ</w>
-                  <w ref="PHM 1:15!4"
+                     unicode="διὰ" word="διὰ"> 
+</word>
+                   <word ref="PHM 1:15!4"
  
  book="PHM" 
  chapter="1" 
@@ -4541,9 +4673,10 @@
                      case="accusative"
                      gloss="this"
                      morph="D-ASN"
-                     unicode="τοῦτο">τοῦτο</w>
+                     unicode="τοῦτο" word="τοῦτο"> 
+</word>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:15!5"
  
  book="PHM" 
@@ -4567,9 +4700,10 @@
                   morph="V-API-3S"
                   unicode="ἐχωρίσθη"
                   frame="A1:n57001010012"
-                  subjref="n57001010012">ἐχωρίσθη</w>
+                  subjref="n57001010012" word="ἐχωρίσθη"> 
+</word>
                <wg class="pp" rule="PrepNp" role="adv">
-                  <w ref="PHM 1:15!6"
+                   <word ref="PHM 1:15!6"
  
  book="PHM" 
  chapter="1" 
@@ -4583,8 +4717,9 @@
                      strong="4314"
                      gloss="for"
                      morph="PREP"
-                     unicode="πρὸς">πρὸς</w>
-                  <w ref="PHM 1:15!7"
+                     unicode="πρὸς" word="πρὸς"> 
+</word>
+                   <word ref="PHM 1:15!7"
  
  book="PHM" 
  chapter="1" 
@@ -4604,10 +4739,11 @@
                      domain="067008"
                      ln="67.148"
                      morph="N-ASF"
-                     unicode="ὥραν,">ὥραν</w>
+                     unicode="ὥραν," word="ὥραν"> 
+</word>
                </wg>
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:15!8"
+                   <word ref="PHM 1:15!8"
  
  book="PHM" 
  chapter="1" 
@@ -4623,9 +4759,10 @@
                      domain="089009"
                      ln="89.59"
                      morph="CONJ"
-                     unicode="ἵνα">ἵνα</w>
+                     unicode="ἵνα" word="ἵνα"> 
+</word>
                   <wg Rule="ClCl" class="cl" nodeId="570010150090230">
-                     <w role="adv"
+                      <word role="adv"
                         ref="PHM 1:15!9"
  
  book="PHM" 
@@ -4645,8 +4782,9 @@
                         domain="067005"
                         ln="67.96"
                         morph="A-ASM"
-                        unicode="αἰώνιον">αἰώνιον</w>
-                     <w role="o"
+                        unicode="αἰώνιον" word="αἰώνιον"> 
+</word>
+                      <word role="o"
                         ref="PHM 1:15!10"
  
  book="PHM" 
@@ -4668,8 +4806,9 @@
                         ln="92.11"
                         morph="P-ASM"
                         unicode="αὐτὸν"
-                        referent="n57001010012">αὐτὸν</w>
-                     <w role="v"
+                        referent="n57001010012" word="αὐτὸν"> 
+</word>
+                      <word role="v"
                         ref="PHM 1:15!11"
  
  book="PHM" 
@@ -4693,9 +4832,10 @@
                         morph="V-PAS-2S"
                         unicode="ἀπέχῃς,"
                         frame="A0:n57001007019 A1:n57001015010"
-                        subjref="n57001007019">ἀπέχῃς</w>
+                        subjref="n57001007019" word="ἀπέχῃς"> 
+</word>
                      <wg type="group" rule="notPPbutPP" role="adv">
-                        <w ref="PHM 1:16!1"
+                         <word ref="PHM 1:16!1"
  
  book="PHM" 
  chapter="1" 
@@ -4711,9 +4851,10 @@
                            domain="067006"
                            ln="67.130"
                            morph="ADV-N"
-                           unicode="οὐκέτι">οὐκέτι</w>
+                           unicode="οὐκέτι" word="οὐκέτι"> 
+</word>
                         <wg class="pp" rule="PrepNp">
-                           <w ref="PHM 1:16!2"
+                            <word ref="PHM 1:16!2"
  
  book="PHM" 
  chapter="1" 
@@ -4729,8 +4870,9 @@
                               domain="064"
                               ln="64.12"
                               morph="ADV"
-                              unicode="ὡς">ὡς</w>
-                           <w ref="PHM 1:16!3"
+                              unicode="ὡς" word="ὡς"> 
+</word>
+                            <word ref="PHM 1:16!3"
  
  book="PHM" 
  chapter="1" 
@@ -4750,9 +4892,10 @@
                               domain="087005"
                               ln="87.76"
                               morph="N-ASM"
-                              unicode="δοῦλον">δοῦλον</w>
+                              unicode="δοῦλον" word="δοῦλον"> 
+</word>
                         </wg>
-                        <w ref="PHM 1:16!4"
+                         <word ref="PHM 1:16!4"
  
  book="PHM" 
  chapter="1" 
@@ -4768,9 +4911,10 @@
                            domain="089023"
                            ln="89.125"
                            morph="CONJ"
-                           unicode="ἀλλὰ">ἀλλὰ</w>
+                           unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
                         <wg class="pp" rule="PrepNp">
-                           <w ref="PHM 1:16!5"
+                            <word ref="PHM 1:16!5"
  
  book="PHM" 
  chapter="1" 
@@ -4786,8 +4930,9 @@
                               domain="087003"
                               ln="87.30"
                               morph="PREP"
-                              unicode="ὑπὲρ">ὑπὲρ</w>
-                           <w ref="PHM 1:16!6"
+                              unicode="ὑπὲρ" word="ὑπὲρ"> 
+</word>
+                            <word ref="PHM 1:16!6"
  
  book="PHM" 
  chapter="1" 
@@ -4807,11 +4952,12 @@
                               domain="087005"
                               ln="87.76"
                               morph="N-ASM"
-                              unicode="δοῦλον,">δοῦλον</w>
+                              unicode="δοῦλον," word="δοῦλον"> 
+</word>
                         </wg>
                      </wg>
                      <wg class="np" rule="NpAdjp" role="o2">
-                        <w ref="PHM 1:16!7"
+                         <word ref="PHM 1:16!7"
  
  book="PHM" 
  chapter="1" 
@@ -4831,8 +4977,9 @@
                            domain="011002"
                            ln="11.23"
                            morph="N-ASM"
-                           unicode="ἀδελφὸν">ἀδελφὸν</w>
-                        <w ref="PHM 1:16!8"
+                           unicode="ἀδελφὸν" word="ἀδελφὸν"> 
+</word>
+                         <word ref="PHM 1:16!8"
  
  book="PHM" 
  chapter="1" 
@@ -4851,14 +4998,15 @@
                            domain="025003"
                            ln="25.45"
                            morph="A-ASM"
-                           unicode="ἀγαπητόν,">ἀγαπητόν</w>
+                           unicode="ἀγαπητόν," word="ἀγαπητόν"> 
+</word>
                      </wg>
                      <wg rule="CLaCL" role="o">
                         <wg class="cl"
                             rule="ADV-IO"
                             cltype="VerbElided"
                             junction="coordinate">
-                           <w role="adv"
+                            <word role="adv"
                               ref="PHM 1:16!9"
  
  book="PHM" 
@@ -4875,8 +5023,9 @@
                               domain="078001"
                               ln="78.7"
                               morph="ADV-S"
-                              unicode="μάλιστα">μάλιστα</w>
-                           <w role="io"
+                              unicode="μάλιστα" word="μάλιστα"> 
+</word>
+                            <word role="io"
                               ref="PHM 1:16!10"
  
  book="PHM" 
@@ -4897,10 +5046,11 @@
                               ln="92.1"
                               morph="P-1DS"
                               unicode="ἐμοί,"
-                              referent="n57001009009">ἐμοί</w>
+                              referent="n57001009009" word="ἐμοί"> 
+</word>
                         </wg>
                         <wg type="group">
-                           <w ref="PHM 1:16!12"
+                            <word ref="PHM 1:16!12"
  
  book="PHM" 
  chapter="1" 
@@ -4917,13 +5067,14 @@
                               domain="089017 089023"
                               ln="89.124 89.94"
                               morph="CONJ"
-                              unicode="δὲ">δὲ</w>
+                              unicode="δὲ" word="δὲ"> 
+</word>
                            <wg class="cl"
                                rule="ADV-IO-ADV"
                                cltype="VerbElided"
                                junction="coordinate">
                               <wg class="advp" rule="2Advp_h2" role="adv">
-                                 <w ref="PHM 1:16!11"
+                                  <word ref="PHM 1:16!11"
  
  book="PHM" 
  chapter="1" 
@@ -4943,8 +5094,9 @@
                                     domain="059002"
                                     ln="59.17"
                                     morph="Q-DSN"
-                                    unicode="πόσῳ">πόσῳ</w>
-                                 <w ref="PHM 1:16!13"
+                                    unicode="πόσῳ" word="πόσῳ"> 
+</word>
+                                  <word ref="PHM 1:16!13"
  
  book="PHM" 
  chapter="1" 
@@ -4960,9 +5112,10 @@
                                     domain="078002"
                                     ln="78.28"
                                     morph="ADV"
-                                    unicode="μᾶλλον">μᾶλλον</w>
+                                    unicode="μᾶλλον" word="μᾶλλον"> 
+</word>
                               </wg>
-                              <w role="io"
+                               <word role="io"
                                  ref="PHM 1:16!14"
  
  book="PHM" 
@@ -4981,10 +5134,11 @@
                                  gloss="to you"
                                  morph="P-2DS"
                                  unicode="σοὶ"
-                                 referent="n57001007019">σοὶ</w>
+                                 referent="n57001007019" word="σοὶ"> 
+</word>
                               <wg rule="aPpaPp" role="adv">
                                  <wg type="group">
-                                    <w ref="PHM 1:16!15"
+                                     <word ref="PHM 1:16!15"
  
  book="PHM" 
  chapter="1" 
@@ -4998,9 +5152,10 @@
                                        strong="2532"
                                        gloss="both"
                                        morph="CONJ"
-                                       unicode="καὶ">καὶ</w>
+                                       unicode="καὶ" word="καὶ"> 
+</word>
                                     <wg class="pp" rule="PrepNp">
-                                       <w ref="PHM 1:16!16"
+                                        <word ref="PHM 1:16!16"
  
  book="PHM" 
  chapter="1" 
@@ -5016,8 +5171,9 @@
                                           domain="013001 089020"
                                           ln="13.8 89.119"
                                           morph="PREP"
-                                          unicode="ἐν">ἐν</w>
-                                       <w ref="PHM 1:16!17"
+                                          unicode="ἐν" word="ἐν"> 
+</word>
+                                        <word ref="PHM 1:16!17"
  
  book="PHM" 
  chapter="1" 
@@ -5037,11 +5193,12 @@
                                           domain="026"
                                           ln="26.7"
                                           morph="N-DSF"
-                                          unicode="σαρκὶ">σαρκὶ</w>
+                                          unicode="σαρκὶ" word="σαρκὶ"> 
+</word>
                                     </wg>
                                  </wg>
                                  <wg type="group">
-                                    <w ref="PHM 1:16!18"
+                                     <word ref="PHM 1:16!18"
  
  book="PHM" 
  chapter="1" 
@@ -5055,9 +5212,10 @@
                                        strong="2532"
                                        gloss="and"
                                        morph="CONJ"
-                                       unicode="καὶ">καὶ</w>
+                                       unicode="καὶ" word="καὶ"> 
+</word>
                                     <wg class="pp" rule="PrepNp">
-                                       <w ref="PHM 1:16!19"
+                                        <word ref="PHM 1:16!19"
  
  book="PHM" 
  chapter="1" 
@@ -5071,8 +5229,9 @@
                                           strong="1722"
                                           gloss="in"
                                           morph="PREP"
-                                          unicode="ἐν">ἐν</w>
-                                       <w ref="PHM 1:16!20"
+                                          unicode="ἐν" word="ἐν"> 
+</word>
+                                        <word ref="PHM 1:16!20"
  
  book="PHM" 
  chapter="1" 
@@ -5092,7 +5251,8 @@
                                           domain="012001"
                                           ln="12.9{N:001}"
                                           morph="N-DSM"
-                                          unicode="Κυρίῳ.">Κυρίῳ</w>
+                                          unicode="Κυρίῳ." word="Κυρίῳ"> 
+</word>
                                     </wg>
                                  </wg>
                               </wg>
@@ -5105,16 +5265,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="17"> </verse>
- εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.</p>
+   <sentence sentence_number="9" 
+      
+          sentence-text=" εἰ οὖν με ἔχεις κοινωνόν, προσλαβοῦ αὐτὸν ὡς ἐμέ.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:17!2"
+             <word ref="PHM 1:17!2"
  
  book="PHM" 
  chapter="1" 
@@ -5131,10 +5287,11 @@
                domain="089008"
                ln="89.50"
                morph="CONJ"
-               unicode="οὖν">οὖν</w>
+               unicode="οὖν" word="οὖν"> 
+</word>
             <wg Rule="ClCl2" class="cl" nodeId="570010170010080">
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:17!1"
+                   <word ref="PHM 1:17!1"
  
  book="PHM" 
  chapter="1" 
@@ -5148,9 +5305,10 @@
                      strong="1487"
                      gloss="If"
                      morph="COND"
-                     unicode="εἰ">εἰ</w>
+                     unicode="εἰ" word="εἰ"> 
+</word>
                   <wg class="cl" rule="O-V-O2" junction="subordinate">
-                     <w role="o"
+                      <word role="o"
                         ref="PHM 1:17!3"
  
  book="PHM" 
@@ -5171,8 +5329,9 @@
                         ln="92.1"
                         morph="P-1AS"
                         unicode="με"
-                        referent="n57001009009">με</w>
-                     <w role="v"
+                        referent="n57001009009" word="με"> 
+</word>
+                      <word role="v"
                         ref="PHM 1:17!4"
  
  book="PHM" 
@@ -5196,8 +5355,9 @@
                         morph="V-PAI-2S"
                         unicode="ἔχεις"
                         frame="A0:n57001007019 A1:n57001017003"
-                        subjref="n57001007019">ἔχεις</w>
-                     <w role="o2"
+                        subjref="n57001007019" word="ἔχεις"> 
+</word>
+                      <word role="o2"
                         ref="PHM 1:17!5"
  
  book="PHM" 
@@ -5218,10 +5378,11 @@
                         domain="034001"
                         ln="34.6"
                         morph="N-ASM"
-                        unicode="κοινωνόν,">κοινωνόν</w>
+                        unicode="κοινωνόν," word="κοινωνόν"> 
+</word>
                   </wg>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:17!6"
  
  book="PHM" 
@@ -5245,8 +5406,9 @@
                   morph="V-2AMM-2S"
                   unicode="προσλαβοῦ"
                   frame="A0:n57001007019 A1:n57001017007"
-                  subjref="n57001007019">προσλαβοῦ</w>
-               <w role="o"
+                  subjref="n57001007019" word="προσλαβοῦ"> 
+</word>
+                <word role="o"
                   ref="PHM 1:17!7"
  
  book="PHM" 
@@ -5268,9 +5430,10 @@
                   ln="92.11"
                   morph="P-ASM"
                   unicode="αὐτὸν"
-                  referent="n57001010012">αὐτὸν</w>
+                  referent="n57001010012" word="αὐτὸν"> 
+</word>
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:17!8"
+                   <word ref="PHM 1:17!8"
  
  book="PHM" 
  chapter="1" 
@@ -5286,12 +5449,13 @@
                      domain="064"
                      ln="64.12"
                      morph="ADV"
-                     unicode="ὡς">ὡς</w>
+                     unicode="ὡς" word="ὡς"> 
+</word>
                   <wg class="cl"
                       rule="O2CL"
                       cltype="VerbElided"
                       junction="subordinate">
-                     <w role="o"
+                      <word role="o"
                         ref="PHM 1:17!9"
  
  book="PHM" 
@@ -5312,23 +5476,20 @@
                         ln="92.1"
                         morph="P-1AS"
                         unicode="ἐμέ."
-                        referent="n57001009009">ἐμέ</w>
+                        referent="n57001009009" word="ἐμέ"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="18"> </verse>
- εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, τοῦτο ἐμοὶ ἐλλόγα·</p>
+   <sentence sentence_number="10" 
+      
+          sentence-text=" εἰ δέ τι ἠδίκησέν σε ἢ ὀφείλει, τοῦτο ἐμοὶ ἐλλόγα·">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:18!2"
+             <word ref="PHM 1:18!2"
  
  book="PHM" 
  chapter="1" 
@@ -5345,10 +5506,11 @@
                domain="089017 089023"
                ln="89.124 89.94"
                morph="CONJ"
-               unicode="δέ">δέ</w>
+               unicode="δέ" word="δέ"> 
+</word>
             <wg Rule="ClCl2" class="cl" nodeId="570010180010090">
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:18!1"
+                   <word ref="PHM 1:18!1"
  
  book="PHM" 
  chapter="1" 
@@ -5362,10 +5524,11 @@
                      strong="1487"
                      gloss="If"
                      morph="COND"
-                     unicode="εἰ">εἰ</w>
+                     unicode="εἰ" word="εἰ"> 
+</word>
                   <wg rule="CLaCL" junction="subordinate">
                      <wg class="cl" rule="ADV-O-V" junction="coordinate">
-                        <w role="adv"
+                         <word role="adv"
                            ref="PHM 1:18!3"
  
  book="PHM" 
@@ -5386,8 +5549,9 @@
                            domain="092004"
                            ln="92.12"
                            morph="X-ASN"
-                           unicode="τι">τι</w>
-                        <w role="o"
+                           unicode="τι" word="τι"> 
+</word>
+                         <word role="o"
                            ref="PHM 1:18!5"
  
  book="PHM" 
@@ -5407,8 +5571,9 @@
                            gloss="you"
                            morph="P-2AS"
                            unicode="σε"
-                           referent="n57001007019">σε</w>
-                        <w role="v"
+                           referent="n57001007019" word="σε"> 
+</word>
+                         <word role="v"
                            ref="PHM 1:18!4"
  
  book="PHM" 
@@ -5432,10 +5597,11 @@
                            morph="V-AAI-3S"
                            unicode="ἠδίκησέν"
                            frame="A0:n57001010012 A1:n57001018005"
-                           subjref="n57001010012">ἠδίκησέν</w>
+                           subjref="n57001010012" word="ἠδίκησέν"> 
+</word>
                      </wg>
                      <wg type="group">
-                        <w ref="PHM 1:18!6"
+                         <word ref="PHM 1:18!6"
  
  book="PHM" 
  chapter="1" 
@@ -5449,9 +5615,10 @@
                            strong="2228"
                            gloss="or"
                            morph="PRT"
-                           unicode="ἢ">ἢ</w>
+                           unicode="ἢ" word="ἢ"> 
+</word>
                         <wg class="cl" rule="V2CL" junction="coordinate">
-                           <w role="v"
+                            <word role="v"
                               ref="PHM 1:18!7"
  
  book="PHM" 
@@ -5475,12 +5642,13 @@
                               morph="V-PAI-3S"
                               unicode="ὀφείλει,"
                               frame="A0:n57001010012"
-                              subjref="n57001010012">ὀφείλει</w>
+                              subjref="n57001010012" word="ὀφείλει"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                </wg>
-               <w role="o"
+                <word role="o"
                   ref="PHM 1:18!8"
  
  book="PHM" 
@@ -5500,8 +5668,9 @@
                   gloss="this"
                   morph="D-ASN"
                   unicode="τοῦτο"
-                  referent="n57001018004">τοῦτο</w>
-               <w role="io"
+                  referent="n57001018004" word="τοῦτο"> 
+</word>
+                <word role="io"
                   ref="PHM 1:18!9"
  
  book="PHM" 
@@ -5522,8 +5691,9 @@
                   ln="92.1"
                   morph="P-1DS"
                   unicode="ἐμοὶ"
-                  referent="n57001009009">ἐμοὶ</w>
-               <w role="v"
+                  referent="n57001009009" word="ἐμοὶ"> 
+</word>
+                <word role="v"
                   ref="PHM 1:18!10"
  
  book="PHM" 
@@ -5547,22 +5717,19 @@
                   morph="V-PAM-2S"
                   unicode="ἐλλόγα·"
                   frame="A0:n57001007019 A1:n57001018008 A2:n57001018009"
-                  subjref="n57001007019">ἐλλόγα</w>
+                  subjref="n57001007019" word="ἐλλόγα"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="19"> </verse>
- ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις.</p>
+   <sentence sentence_number="11" 
+      
+          sentence-text=" ἐγὼ Παῦλος ἔγραψα τῇ ἐμῇ χειρί, ἐγὼ ἀποτίσω· ἵνα μὴ λέγω σοι ὅτι καὶ σεαυτόν μοι προσοφείλεις.">
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="570010190010170">
             <wg type="apposition" class="np" rule="Np-Appos" role="s">
-               <w ref="PHM 1:19!1"
+                <word ref="PHM 1:19!1"
  
  book="PHM" 
  chapter="1" 
@@ -5582,8 +5749,9 @@
                   ln="92.1"
                   morph="P-1NS"
                   unicode="ἐγὼ"
-                  referent="n57001009009">ἐγὼ</w>
-               <w ref="PHM 1:19!2"
+                  referent="n57001009009" word="ἐγὼ"> 
+</word>
+                <word ref="PHM 1:19!2"
  
  book="PHM" 
  chapter="1" 
@@ -5603,9 +5771,10 @@
                   domain="093001"
                   ln="93.294a"
                   morph="N-NSM"
-                  unicode="Παῦλος">Παῦλος</w>
+                  unicode="Παῦλος" word="Παῦλος"> 
+</word>
             </wg>
-            <w role="v"
+             <word role="v"
                ref="PHM 1:19!3"
  
  book="PHM" 
@@ -5628,9 +5797,10 @@
                ln="33.61"
                morph="V-AAI-1S"
                unicode="ἔγραψα"
-               frame="A0:n57001019001">ἔγραψα</w>
+               frame="A0:n57001019001" word="ἔγραψα"> 
+</word>
             <wg class="np" articular="true" rule="DetNP" role="adv">
-               <w ref="PHM 1:19!4"
+                <word ref="PHM 1:19!4"
  
  book="PHM" 
  chapter="1" 
@@ -5649,9 +5819,10 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-DSF"
-                  unicode="τῇ">τῇ</w>
+                  unicode="τῇ" word="τῇ"> 
+</word>
                <wg class="np" rule="AdjpNp">
-                  <w ref="PHM 1:19!5"
+                   <word ref="PHM 1:19!5"
  
  book="PHM" 
  chapter="1" 
@@ -5671,8 +5842,9 @@
                      ln="92.2"
                      morph="S-1SDSF"
                      unicode="ἐμῇ"
-                     referent="n57001019002">ἐμῇ</w>
-                  <w ref="PHM 1:19!6"
+                     referent="n57001019002" word="ἐμῇ"> 
+</word>
+                   <word ref="PHM 1:19!6"
  
  book="PHM" 
  chapter="1" 
@@ -5692,11 +5864,12 @@
                      domain="008002"
                      ln="8.30"
                      morph="N-DSF"
-                     unicode="χειρί,">χειρί</w>
+                     unicode="χειρί," word="χειρί"> 
+</word>
                </wg>
             </wg>
             <wg Rule="ClCl" class="cl" nodeId="570010190070110" role="o">
-               <w role="s"
+                <word role="s"
                   ref="PHM 1:19!7"
  
  book="PHM" 
@@ -5717,8 +5890,9 @@
                   ln="92.1"
                   morph="P-1NS"
                   unicode="ἐγὼ"
-                  referent="n57001019002">ἐγὼ</w>
-               <w role="v"
+                  referent="n57001019002" word="ἐγὼ"> 
+</word>
+                <word role="v"
                   ref="PHM 1:19!8"
  
  book="PHM" 
@@ -5741,9 +5915,10 @@
                   ln="57.156"
                   morph="V-FAI-1S"
                   unicode="ἀποτίσω·"
-                  frame="A0:n57001019007">ἀποτίσω</w>
+                  frame="A0:n57001019007" word="ἀποτίσω"> 
+</word>
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:19!9"
+                   <word ref="PHM 1:19!9"
  
  book="PHM" 
  chapter="1" 
@@ -5757,9 +5932,10 @@
                      strong="2443"
                      gloss="that"
                      morph="CONJ"
-                     unicode="ἵνα">ἵνα</w>
+                     unicode="ἵνα" word="ἵνα"> 
+</word>
                   <wg Rule="ClCl" class="cl" nodeId="570010190100080">
-                     <w role="adv"
+                      <word role="adv"
                         ref="PHM 1:19!10"
  
  book="PHM" 
@@ -5774,8 +5950,9 @@
                         strong="3361"
                         gloss="not"
                         morph="PRT-N"
-                        unicode="μὴ">μὴ</w>
-                     <w role="v"
+                        unicode="μὴ" word="μὴ"> 
+</word>
+                      <word role="v"
                         ref="PHM 1:19!11"
  
  book="PHM" 
@@ -5799,8 +5976,9 @@
                         morph="V-PAS-1S"
                         unicode="λέγω"
                         frame="A0:n57001019002 A2:n57001019012"
-                        subjref="n57001019002">λέγω</w>
-                     <w role="io"
+                        subjref="n57001019002" word="λέγω"> 
+</word>
+                      <word role="io"
                         ref="PHM 1:19!12"
  
  book="PHM" 
@@ -5819,9 +5997,10 @@
                         gloss="to you"
                         morph="P-2DS"
                         unicode="σοι"
-                        referent="n57001007019">σοι</w>
+                        referent="n57001007019" word="σοι"> 
+</word>
                      <wg rule="that-VP" role="o">
-                        <w ref="PHM 1:19!13"
+                         <word ref="PHM 1:19!13"
  
  book="PHM" 
  chapter="1" 
@@ -5835,10 +6014,11 @@
                            strong="3754"
                            gloss="that"
                            morph="CONJ"
-                           unicode="ὅτι">ὅτι</w>
+                           unicode="ὅτι" word="ὅτι"> 
+</word>
                         <wg class="cl" rule="O-IO-V">
                            <wg class="np" rule="AdvpNp" role="o">
-                              <w ref="PHM 1:19!14"
+                               <word ref="PHM 1:19!14"
  
  book="PHM" 
  chapter="1" 
@@ -5852,8 +6032,9 @@
                                  strong="2532"
                                  gloss="even"
                                  morph="CONJ"
-                                 unicode="καὶ">καὶ</w>
-                              <w ref="PHM 1:19!15"
+                                 unicode="καὶ" word="καὶ"> 
+</word>
+                               <word ref="PHM 1:19!15"
  
  book="PHM" 
  chapter="1" 
@@ -5874,9 +6055,10 @@
                                  ln="92.10"
                                  morph="F-2ASM"
                                  unicode="σεαυτόν"
-                                 referent="n57001007019">σεαυτόν</w>
+                                 referent="n57001007019" word="σεαυτόν"> 
+</word>
                            </wg>
-                           <w role="io"
+                            <word role="io"
                               ref="PHM 1:19!16"
  
  book="PHM" 
@@ -5897,8 +6079,9 @@
                               ln="92.1"
                               morph="P-1DS"
                               unicode="μοι"
-                              referent="n57001019002">μοι</w>
-                           <w role="v"
+                              referent="n57001019002" word="μοι"> 
+</word>
+                            <word role="v"
                               ref="PHM 1:19!17"
  
  book="PHM" 
@@ -5922,7 +6105,8 @@
                               morph="V-PAI-2S"
                               unicode="προσοφείλεις."
                               frame="A0:n57001007019 A1:n57001019015 A2:n57001019016"
-                              subjref="n57001007019">προσοφείλεις</w>
+                              subjref="n57001007019" word="προσοφείλεις"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -5931,17 +6115,13 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="20"> </verse>
- ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν Κυρίῳ·</p>
+   <sentence sentence_number="12" 
+      
+          sentence-text=" ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν Κυρίῳ·">
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="570010200010070">
             <wg rule="Intj2CL" cltype="Minor">
-               <w role="aux"
+                <word role="aux"
                   ref="PHM 1:20!1"
  
  book="PHM" 
@@ -5958,10 +6138,11 @@
                   domain="069001"
                   ln="69.1"
                   morph="PRT"
-                  unicode="ναί,">ναί</w>
+                  unicode="ναί," word="ναί"> 
+</word>
             </wg>
             <wg rule="Np2CL" cltype="Minor">
-               <w role="aux"
+                <word role="aux"
                   ref="PHM 1:20!2"
  
  book="PHM" 
@@ -5982,9 +6163,10 @@
                   domain="011002"
                   ln="11.23"
                   morph="N-VSM"
-                  unicode="ἀδελφέ,">ἀδελφέ</w>
+                  unicode="ἀδελφέ," word="ἀδελφέ"> 
+</word>
             </wg>
-            <w role="s"
+             <word role="s"
                ref="PHM 1:20!3"
  
  book="PHM" 
@@ -6005,8 +6187,9 @@
                ln="92.1"
                morph="P-1NS"
                unicode="ἐγώ"
-               referent="n57001019002">ἐγώ</w>
-            <w role="adv"
+               referent="n57001019002" word="ἐγώ"> 
+</word>
+             <word role="adv"
                ref="PHM 1:20!4"
  
  book="PHM" 
@@ -6025,8 +6208,9 @@
                gloss="from you"
                morph="P-2GS"
                unicode="σου"
-               referent="n57001020002">σου</w>
-            <w role="v"
+               referent="n57001020002" word="σου"> 
+</word>
+             <word role="v"
                ref="PHM 1:20!5"
  
  book="PHM" 
@@ -6049,9 +6233,10 @@
                ln="35.4"
                morph="V-2ADO-1S"
                unicode="ὀναίμην"
-               frame="A0:n57001020003">ὀναίμην</w>
+               frame="A0:n57001020003" word="ὀναίμην"> 
+</word>
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="PHM 1:20!6"
+                <word ref="PHM 1:20!6"
  
  book="PHM" 
  chapter="1" 
@@ -6067,8 +6252,9 @@
                   domain="089020"
                   ln="89.119"
                   morph="PREP"
-                  unicode="ἐν">ἐν</w>
-               <w ref="PHM 1:20!7"
+                  unicode="ἐν" word="ἐν"> 
+</word>
+                <word ref="PHM 1:20!7"
  
  book="PHM" 
  chapter="1" 
@@ -6088,21 +6274,18 @@
                   domain="012001"
                   ln="12.9{N:001}"
                   morph="N-DSM"
-                  unicode="Κυρίῳ·">Κυρίῳ</w>
+                  unicode="Κυρίῳ·" word="Κυρίῳ"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="20"> </verse>
- ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ.</p>
+   <sentence sentence_number="13" 
+      
+          sentence-text=" ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ.">
       <wg>
          <wg class="cl" rule="V-O-ADV">
-            <w role="v"
+             <word role="v"
                ref="PHM 1:20!8"
  
  book="PHM" 
@@ -6126,9 +6309,10 @@
                morph="V-AAM-2S"
                unicode="ἀνάπαυσόν"
                frame="A0:n57001020002 A1:n57001020011"
-               subjref="n57001020002">ἀνάπαυσόν</w>
+               subjref="n57001020002" word="ἀνάπαυσόν"> 
+</word>
             <wg class="np" articular="true" rule="ofNPNP" role="o">
-               <w ref="PHM 1:20!9"
+                <word ref="PHM 1:20!9"
  
  book="PHM" 
  chapter="1" 
@@ -6148,9 +6332,10 @@
                   ln="92.1"
                   morph="P-1GS"
                   unicode="μου"
-                  referent="n57001019002">μου</w>
+                  referent="n57001019002" word="μου"> 
+</word>
                <wg class="np" articular="true" rule="DetNP">
-                  <w ref="PHM 1:20!10"
+                   <word ref="PHM 1:20!10"
  
  book="PHM" 
  chapter="1" 
@@ -6169,8 +6354,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-APN"
-                     unicode="τὰ">τὰ</w>
-                  <w ref="PHM 1:20!11"
+                     unicode="τὰ" word="τὰ"> 
+</word>
+                   <word ref="PHM 1:20!11"
  
  book="PHM" 
  chapter="1" 
@@ -6190,11 +6376,12 @@
                      domain="026"
                      ln="26.11"
                      morph="N-APN"
-                     unicode="σπλάγχνα">σπλάγχνα</w>
+                     unicode="σπλάγχνα" word="σπλάγχνα"> 
+</word>
                </wg>
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="PHM 1:20!12"
+                <word ref="PHM 1:20!12"
  
  book="PHM" 
  chapter="1" 
@@ -6210,8 +6397,9 @@
                   domain="013001 089020"
                   ln="13.8 89.119"
                   morph="PREP"
-                  unicode="ἐν">ἐν</w>
-               <w ref="PHM 1:20!13"
+                  unicode="ἐν" word="ἐν"> 
+</word>
+                <word ref="PHM 1:20!13"
  
  book="PHM" 
  chapter="1" 
@@ -6231,22 +6419,19 @@
                   domain="093001"
                   ln="93.387"
                   morph="N-DSM"
-                  unicode="Χριστῷ.">Χριστῷ</w>
+                  unicode="Χριστῷ." word="Χριστῷ"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="21"> </verse>
- Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι, εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις.</p>
+   <sentence sentence_number="14" 
+      
+          sentence-text=" Πεποιθὼς τῇ ὑπακοῇ σου ἔγραψά σοι, εἰδὼς ὅτι καὶ ὑπὲρ ἃ λέγω ποιήσεις.">
       <wg>
          <wg class="cl" rule="ADV-V-IO-ADV">
             <wg class="cl" rule="V-ADV" junction="subordinate" role="adv">
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:21!1"
  
  book="PHM" 
@@ -6271,9 +6456,10 @@
                   morph="V-2RAP-NSM"
                   unicode="Πεποιθὼς"
                   frame="A0:n57001019002"
-                  subjref="n57001019002">Πεποιθὼς</w>
+                  subjref="n57001019002" word="Πεποιθὼς"> 
+</word>
                <wg class="np" articular="true" rule="DetNP" role="adv">
-                  <w ref="PHM 1:21!2"
+                   <word ref="PHM 1:21!2"
  
  book="PHM" 
  chapter="1" 
@@ -6292,9 +6478,10 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-DSF"
-                     unicode="τῇ">τῇ</w>
+                     unicode="τῇ" word="τῇ"> 
+</word>
                   <wg class="np" rule="NPofNP">
-                     <w ref="PHM 1:21!3"
+                      <word ref="PHM 1:21!3"
  
  book="PHM" 
  chapter="1" 
@@ -6314,8 +6501,9 @@
                         domain="036003"
                         ln="36.15"
                         morph="N-DSF"
-                        unicode="ὑπακοῇ">ὑπακοῇ</w>
-                     <w ref="PHM 1:21!4"
+                        unicode="ὑπακοῇ" word="ὑπακοῇ"> 
+</word>
+                      <word ref="PHM 1:21!4"
  
  book="PHM" 
  chapter="1" 
@@ -6333,11 +6521,12 @@
                         gloss="of you"
                         morph="P-2GS"
                         unicode="σου"
-                        referent="n57001020002">σου</w>
+                        referent="n57001020002" word="σου"> 
+</word>
                   </wg>
                </wg>
             </wg>
-            <w role="v"
+             <word role="v"
                ref="PHM 1:21!5"
  
  book="PHM" 
@@ -6361,8 +6550,9 @@
                morph="V-AAI-1S"
                unicode="ἔγραψά"
                frame="A0:n57001019002 A2:n57001021006"
-               subjref="n57001019002">ἔγραψά</w>
-            <w role="io"
+               subjref="n57001019002" word="ἔγραψά"> 
+</word>
+             <word role="io"
                ref="PHM 1:21!6"
  
  book="PHM" 
@@ -6381,9 +6571,10 @@
                gloss="to you"
                morph="P-2DS"
                unicode="σοι,"
-               referent="n57001020002">σοι</w>
+               referent="n57001020002" word="σοι"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="570010210070070" role="adv">
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:21!7"
  
  book="PHM" 
@@ -6408,9 +6599,10 @@
                   morph="V-RAP-NSM"
                   unicode="εἰδὼς"
                   frame="A0:n57001019002"
-                  subjref="n57001019002">εἰδὼς</w>
+                  subjref="n57001019002" word="εἰδὼς"> 
+</word>
                <wg rule="that-VP" role="o">
-                  <w ref="PHM 1:21!8"
+                   <word ref="PHM 1:21!8"
  
  book="PHM" 
  chapter="1" 
@@ -6424,10 +6616,11 @@
                      strong="3754"
                      gloss="that"
                      morph="CONJ"
-                     unicode="ὅτι">ὅτι</w>
+                     unicode="ὅτι" word="ὅτι"> 
+</word>
                   <wg class="cl" clauseType="nominalized" rule="ADV-V">
                      <wg class="pp" rule="AdvPp" role="adv">
-                        <w ref="PHM 1:21!9"
+                         <word ref="PHM 1:21!9"
  
  book="PHM" 
  chapter="1" 
@@ -6443,9 +6636,10 @@
                            domain="089017 091002"
                            ln="89.93 91.12"
                            morph="CONJ"
-                           unicode="καὶ">καὶ</w>
+                           unicode="καὶ" word="καὶ"> 
+</word>
                         <wg class="pp" rule="PrepNp">
-                           <w ref="PHM 1:21!10"
+                            <word ref="PHM 1:21!10"
  
  book="PHM" 
  chapter="1" 
@@ -6461,12 +6655,13 @@
                               domain="078002"
                               ln="78.29"
                               morph="PREP"
-                              unicode="ὑπὲρ">ὑπὲρ</w>
+                              unicode="ὑπὲρ" word="ὑπὲρ"> 
+</word>
                            <wg class="cl"
                                clauseType="nominalized"
                                rule="O-V"
                                junction="subordinate">
-                              <w role="o"
+                               <word role="o"
                                  ref="PHM 1:21!11"
  
  book="PHM" 
@@ -6485,8 +6680,9 @@
                                  case="accusative"
                                  gloss="what"
                                  morph="R-APN"
-                                 unicode="ἃ">ἃ</w>
-                              <w role="v"
+                                 unicode="ἃ" word="ἃ"> 
+</word>
+                               <word role="v"
                                  ref="PHM 1:21!12"
  
  book="PHM" 
@@ -6510,11 +6706,12 @@
                                  morph="V-PAI-1S"
                                  unicode="λέγω"
                                  frame="A0:n57001019002 A1:n57001021011"
-                                 subjref="n57001019002">λέγω</w>
+                                 subjref="n57001019002" word="λέγω"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="PHM 1:21!13"
  
  book="PHM" 
@@ -6538,23 +6735,20 @@
                         morph="V-FAI-2S"
                         unicode="ποιήσεις."
                         frame="A0:n57001020002"
-                        subjref="n57001020002">ποιήσεις</w>
+                        subjref="n57001020002" word="ποιήσεις"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="22"> </verse>
- ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν· ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.</p>
+   <sentence sentence_number="15" 
+      
+          sentence-text=" ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν· ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="PHM 1:22!2"
+             <word ref="PHM 1:22!2"
  
  book="PHM" 
  chapter="1" 
@@ -6571,10 +6765,11 @@
                domain="089017"
                ln="89.94"
                morph="CONJ"
-               unicode="δὲ">δὲ</w>
+               unicode="δὲ" word="δὲ"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="570010220010140">
                <wg class="advp" rule="2Advp_h1" role="adv">
-                  <w ref="PHM 1:22!1"
+                   <word ref="PHM 1:22!1"
  
  book="PHM" 
  chapter="1" 
@@ -6590,8 +6785,9 @@
                      domain="067002"
                      ln="67.34"
                      morph="ADV"
-                     unicode="ἅμα">ἅμα</w>
-                  <w ref="PHM 1:22!3"
+                     unicode="ἅμα" word="ἅμα"> 
+</word>
+                   <word ref="PHM 1:22!3"
  
  book="PHM" 
  chapter="1" 
@@ -6607,9 +6803,10 @@
                      domain="089017"
                      ln="89.93"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="PHM 1:22!4"
  
  book="PHM" 
@@ -6633,8 +6830,9 @@
                   morph="V-PAM-2S"
                   unicode="ἑτοίμαζέ"
                   frame="A0:n57001020002 A2:n57001022005 A1:n57001022006"
-                  subjref="n57001020002">ἑτοίμαζέ</w>
-               <w role="io"
+                  subjref="n57001020002" word="ἑτοίμαζέ"> 
+</word>
+                <word role="io"
                   ref="PHM 1:22!5"
  
  book="PHM" 
@@ -6655,8 +6853,9 @@
                   ln="92.1"
                   morph="P-1DS"
                   unicode="μοι"
-                  referent="n57001019002">μοι</w>
-               <w role="o"
+                  referent="n57001019002" word="μοι"> 
+</word>
+                <word role="o"
                   ref="PHM 1:22!6"
  
  book="PHM" 
@@ -6677,9 +6876,10 @@
                   domain="007003 034008"
                   ln="34.57 7.31"
                   morph="N-ASF"
-                  unicode="ξενίαν·">ξενίαν</w>
+                  unicode="ξενίαν·" word="ξενίαν"> 
+</word>
                <wg rule="sub-CL" role="adv">
-                  <w ref="PHM 1:22!8"
+                   <word ref="PHM 1:22!8"
  
  book="PHM" 
  chapter="1" 
@@ -6696,9 +6896,10 @@
                      domain="089007"
                      ln="89.23"
                      morph="CONJ"
-                     unicode="γὰρ">γὰρ</w>
+                     unicode="γὰρ" word="γὰρ"> 
+</word>
                   <wg Rule="ClCl" class="cl" nodeId="570010220070080">
-                     <w role="v"
+                      <word role="v"
                         ref="PHM 1:22!7"
  
  book="PHM" 
@@ -6722,9 +6923,10 @@
                         morph="V-PAI-1S"
                         unicode="ἐλπίζω"
                         frame="A0:n57001019002"
-                        subjref="n57001019002">ἐλπίζω</w>
+                        subjref="n57001019002" word="ἐλπίζω"> 
+</word>
                      <wg rule="that-VP" role="o">
-                        <w ref="PHM 1:22!9"
+                         <word ref="PHM 1:22!9"
  
  book="PHM" 
  chapter="1" 
@@ -6738,10 +6940,11 @@
                            strong="3754"
                            gloss="that"
                            morph="CONJ"
-                           unicode="ὅτι">ὅτι</w>
+                           unicode="ὅτι" word="ὅτι"> 
+</word>
                         <wg class="cl" rule="ADV-V-IO">
                            <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                              <w ref="PHM 1:22!10"
+                               <word ref="PHM 1:22!10"
  
  book="PHM" 
  chapter="1" 
@@ -6757,9 +6960,10 @@
                                  domain="089012"
                                  ln="89.76"
                                  morph="PREP"
-                                 unicode="διὰ">διὰ</w>
+                                 unicode="διὰ" word="διὰ"> 
+</word>
                               <wg class="np" articular="true" rule="DetNP">
-                                 <w ref="PHM 1:22!11"
+                                  <word ref="PHM 1:22!11"
  
  book="PHM" 
  chapter="1" 
@@ -6778,9 +6982,10 @@
                                     domain="092004"
                                     ln="92.24"
                                     morph="T-GPF"
-                                    unicode="τῶν">τῶν</w>
+                                    unicode="τῶν" word="τῶν"> 
+</word>
                                  <wg class="np" rule="NPofNP">
-                                    <w ref="PHM 1:22!12"
+                                     <word ref="PHM 1:22!12"
  
  book="PHM" 
  chapter="1" 
@@ -6800,8 +7005,9 @@
                                        domain="033013"
                                        ln="33.178"
                                        morph="N-GPF"
-                                       unicode="προσευχῶν">προσευχῶν</w>
-                                    <w ref="PHM 1:22!13"
+                                       unicode="προσευχῶν" word="προσευχῶν"> 
+</word>
+                                     <word ref="PHM 1:22!13"
  
  book="PHM" 
  chapter="1" 
@@ -6819,11 +7025,12 @@
                                        gloss="of you"
                                        morph="P-2GP"
                                        unicode="ὑμῶν"
-                                       referent="n57001020002 n57001002002 n57001002006 n57001002015">ὑμῶν</w>
+                                       referent="n57001020002 n57001002002 n57001002006 n57001002015" word="ὑμῶν"> 
+</word>
                                  </wg>
                               </wg>
                            </wg>
-                           <w role="v"
+                            <word role="v"
                               ref="PHM 1:22!14"
  
  book="PHM" 
@@ -6847,8 +7054,9 @@
                               morph="V-FPI-1S"
                               unicode="χαρισθήσομαι"
                               frame="A1:n57001019002 A2:n57001022015"
-                              subjref="n57001019002">χαρισθήσομαι</w>
-                           <w role="io"
+                              subjref="n57001019002" word="χαρισθήσομαι"> 
+</word>
+                            <word role="io"
                               ref="PHM 1:22!15"
  
  book="PHM" 
@@ -6867,7 +7075,8 @@
                               gloss="to you"
                               morph="P-2DP"
                               unicode="ὑμῖν."
-                              referent="n57001020002 n57001002002 n57001002006 n57001002015">ὑμῖν</w>
+                              referent="n57001020002 n57001002002 n57001002006 n57001002015" word="ὑμῖν"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -6876,21 +7085,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="23"> </verse>
- 
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="24"> </verse>
- Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ, Μᾶρκος, Ἀρίσταρχος, Δημᾶς, Λουκᾶς, οἱ συνεργοί μου.</p>
+   <sentence sentence_number="16" 
+      
+          sentence-text=" Ἀσπάζεταί σε Ἐπαφρᾶς ὁ συναιχμάλωτός μου ἐν Χριστῷ Ἰησοῦ, Μᾶρκος, Ἀρίσταρχος, Δημᾶς, Λουκᾶς, οἱ συνεργοί μου.">
       <wg>
          <wg class="cl" rule="V-O-S">
-            <w role="v"
+             <word role="v"
                ref="PHM 1:23!1"
  
  book="PHM" 
@@ -6913,8 +7113,9 @@
                ln="33.20"
                morph="V-PNI-3S"
                unicode="Ἀσπάζεταί"
-               frame="A1:n57001023002 A0:n57001023003;n57001024001;n57001024002;n57001024003;n57001024004">Ἀσπάζεταί</w>
-            <w role="o"
+               frame="A1:n57001023002 A0:n57001023003;n57001024001;n57001024002;n57001024003;n57001024004" word="Ἀσπάζεταί"> 
+</word>
+             <word role="o"
                ref="PHM 1:23!2"
  
  book="PHM" 
@@ -6933,10 +7134,11 @@
                gloss="you"
                morph="P-2AS"
                unicode="σε"
-               referent="n57001020002">σε</w>
+               referent="n57001020002" word="σε"> 
+</word>
             <wg type="group" rule="2Np" role="s">
                <wg type="apposition" class="np" rule="Np-Appos">
-                  <w ref="PHM 1:23!3"
+                   <word ref="PHM 1:23!3"
  
  book="PHM" 
  chapter="1" 
@@ -6956,9 +7158,10 @@
                      domain="093001"
                      ln="93.120"
                      morph="N-NSM"
-                     unicode="Ἐπαφρᾶς">Ἐπαφρᾶς</w>
+                     unicode="Ἐπαφρᾶς" word="Ἐπαφρᾶς"> 
+</word>
                   <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                     <w ref="PHM 1:23!4"
+                      <word ref="PHM 1:23!4"
  
  book="PHM" 
  chapter="1" 
@@ -6977,10 +7180,11 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-NSM"
-                        unicode="ὁ">ὁ</w>
+                        unicode="ὁ" word="ὁ"> 
+</word>
                      <wg class="np" rule="NpPp">
                         <wg class="np" rule="NPofNP">
-                           <w ref="PHM 1:23!5"
+                            <word ref="PHM 1:23!5"
  
  book="PHM" 
  chapter="1" 
@@ -7000,8 +7204,9 @@
                               domain="037008"
                               ln="37.118"
                               morph="A-NSM"
-                              unicode="συναιχμάλωτός">συναιχμάλωτός</w>
-                           <w ref="PHM 1:23!6"
+                              unicode="συναιχμάλωτός" word="συναιχμάλωτός"> 
+</word>
+                            <word ref="PHM 1:23!6"
  
  book="PHM" 
  chapter="1" 
@@ -7021,10 +7226,11 @@
                               ln="92.1"
                               morph="P-1GS"
                               unicode="μου"
-                              referent="n57001019002">μου</w>
+                              referent="n57001019002" word="μου"> 
+</word>
                         </wg>
                         <wg class="pp" rule="PrepNp">
-                           <w ref="PHM 1:23!7"
+                            <word ref="PHM 1:23!7"
  
  book="PHM" 
  chapter="1" 
@@ -7040,9 +7246,10 @@
                               domain="089020"
                               ln="89.119"
                               morph="PREP"
-                              unicode="ἐν">ἐν</w>
+                              unicode="ἐν" word="ἐν"> 
+</word>
                            <wg type="apposition" class="np" rule="Np-Appos">
-                              <w ref="PHM 1:23!8"
+                               <word ref="PHM 1:23!8"
  
  book="PHM" 
  chapter="1" 
@@ -7062,8 +7269,9 @@
                                  domain="093001"
                                  ln="93.387"
                                  morph="N-DSM"
-                                 unicode="Χριστῷ">Χριστῷ</w>
-                              <w ref="PHM 1:23!9"
+                                 unicode="Χριστῷ" word="Χριστῷ"> 
+</word>
+                               <word ref="PHM 1:23!9"
  
  book="PHM" 
  chapter="1" 
@@ -7083,7 +7291,8 @@
                                  domain="093001"
                                  ln="93.169a"
                                  morph="N-DSM"
-                                 unicode="Ἰησοῦ,">Ἰησοῦ</w>
+                                 unicode="Ἰησοῦ," word="Ἰησοῦ"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -7091,7 +7300,7 @@
                </wg>
                <wg type="apposition" class="np" rule="Np-Appos">
                   <wg type="group" rule="NpNpNpNp">
-                     <w ref="PHM 1:24!1"
+                      <word ref="PHM 1:24!1"
  
  book="PHM" 
  chapter="1" 
@@ -7111,8 +7320,9 @@
                         domain="093001"
                         ln="93.255"
                         morph="N-NSM"
-                        unicode="Μᾶρκος,">Μᾶρκος</w>
-                     <w ref="PHM 1:24!2"
+                        unicode="Μᾶρκος," word="Μᾶρκος"> 
+</word>
+                      <word ref="PHM 1:24!2"
  
  book="PHM" 
  chapter="1" 
@@ -7132,8 +7342,9 @@
                         domain="093001"
                         ln="93.38"
                         morph="N-NSM"
-                        unicode="Ἀρίσταρχος,">Ἀρίσταρχος</w>
-                     <w ref="PHM 1:24!3"
+                        unicode="Ἀρίσταρχος," word="Ἀρίσταρχος"> 
+</word>
+                      <word ref="PHM 1:24!3"
  
  book="PHM" 
  chapter="1" 
@@ -7153,8 +7364,9 @@
                         domain="093001"
                         ln="93.92"
                         morph="N-NSM"
-                        unicode="Δημᾶς,">Δημᾶς</w>
-                     <w ref="PHM 1:24!4"
+                        unicode="Δημᾶς," word="Δημᾶς"> 
+</word>
+                      <word ref="PHM 1:24!4"
  
  book="PHM" 
  chapter="1" 
@@ -7174,10 +7386,11 @@
                         domain="093001"
                         ln="93.234"
                         morph="N-NSM"
-                        unicode="Λουκᾶς,">Λουκᾶς</w>
+                        unicode="Λουκᾶς," word="Λουκᾶς"> 
+</word>
                   </wg>
                   <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                     <w ref="PHM 1:24!5"
+                      <word ref="PHM 1:24!5"
  
  book="PHM" 
  chapter="1" 
@@ -7196,9 +7409,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-NPM"
-                        unicode="οἱ">οἱ</w>
+                        unicode="οἱ" word="οἱ"> 
+</word>
                      <wg class="np" rule="NPofNP">
-                        <w ref="PHM 1:24!6"
+                         <word ref="PHM 1:24!6"
  
  book="PHM" 
  chapter="1" 
@@ -7217,8 +7431,9 @@
                            domain="042004"
                            ln="42.44"
                            morph="A-NPM"
-                           unicode="συνεργοί">συνεργοί</w>
-                        <w ref="PHM 1:24!7"
+                           unicode="συνεργοί" word="συνεργοί"> 
+</word>
+                         <word ref="PHM 1:24!7"
  
  book="PHM" 
  chapter="1" 
@@ -7238,7 +7453,8 @@
                            ln="92.1"
                            morph="P-1GS"
                            unicode="μου."
-                           referent="n57001019002">μου</w>
+                           referent="n57001019002" word="μου"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -7246,17 +7462,13 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="PHM" 
- chapter="1" 
- verse="25"> </verse>
- Ἠ χάρις τοῦ Κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν.</p>
+   <sentence sentence_number="17" 
+      
+          sentence-text=" Ἠ χάρις τοῦ Κυρίου Ἰησοῦ Χριστοῦ μετὰ τοῦ πνεύματος ὑμῶν.">
       <wg>
          <wg class="cl" articular="true" rule="S-P" cltype="Verbless">
             <wg class="np" articular="true" rule="DetNP" role="s">
-               <w ref="PHM 1:25!1"
+                <word ref="PHM 1:25!1"
  
  book="PHM" 
  chapter="1" 
@@ -7275,9 +7487,10 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NSF"
-                  unicode="Ἠ">Ἠ</w>
+                  unicode="Ἠ" word="Ἠ"> 
+</word>
                <wg class="np" rule="NPofNP">
-                  <w ref="PHM 1:25!2"
+                   <word ref="PHM 1:25!2"
  
  book="PHM" 
  chapter="1" 
@@ -7297,10 +7510,11 @@
                      domain="088009"
                      ln="88.66"
                      morph="N-NSF"
-                     unicode="χάρις">χάρις</w>
+                     unicode="χάρις" word="χάρις"> 
+</word>
                   <wg type="apposition" class="np" articular="true" rule="Np-Appos">
                      <wg class="np" articular="true" rule="DetNP">
-                        <w ref="PHM 1:25!3"
+                         <word ref="PHM 1:25!3"
  
  book="PHM" 
  chapter="1" 
@@ -7319,8 +7533,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-GSM"
-                           unicode="τοῦ">τοῦ</w>
-                        <w ref="PHM 1:25!4"
+                           unicode="τοῦ" word="τοῦ"> 
+</word>
+                         <word ref="PHM 1:25!4"
  
  book="PHM" 
  chapter="1" 
@@ -7340,13 +7555,14 @@
                            domain="012001"
                            ln="12.9{N:001}"
                            morph="N-GSM"
-                           unicode="Κυρίου">Κυρίου</w>
+                           unicode="Κυρίου" word="Κυρίου"> 
+</word>
                      </wg>
                      <wg type="apposition"
                          class="np"
                          junction="apposition"
                          rule="Np-Appos">
-                        <w ref="PHM 1:25!5"
+                         <word ref="PHM 1:25!5"
  
  book="PHM" 
  chapter="1" 
@@ -7366,8 +7582,9 @@
                            domain="093001"
                            ln="93.169a"
                            morph="N-GSM"
-                           unicode="Ἰησοῦ">Ἰησοῦ</w>
-                        <w ref="PHM 1:25!6"
+                           unicode="Ἰησοῦ" word="Ἰησοῦ"> 
+</word>
+                         <word ref="PHM 1:25!6"
  
  book="PHM" 
  chapter="1" 
@@ -7387,13 +7604,14 @@
                            domain="093001"
                            ln="93.387"
                            morph="N-GSM"
-                           unicode="Χριστοῦ">Χριστοῦ</w>
+                           unicode="Χριστοῦ" word="Χριστοῦ"> 
+</word>
                      </wg>
                   </wg>
                </wg>
             </wg>
             <wg class="pp" articular="true" rule="PrepNp" role="p">
-               <w ref="PHM 1:25!7"
+                <word ref="PHM 1:25!7"
  
  book="PHM" 
  chapter="1" 
@@ -7409,9 +7627,10 @@
                   domain="089020"
                   ln="89.108"
                   morph="PREP"
-                  unicode="μετὰ">μετὰ</w>
+                  unicode="μετὰ" word="μετὰ"> 
+</word>
                <wg class="np" articular="true" rule="DetNP">
-                  <w ref="PHM 1:25!8"
+                   <word ref="PHM 1:25!8"
  
  book="PHM" 
  chapter="1" 
@@ -7430,9 +7649,10 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-GSN"
-                     unicode="τοῦ">τοῦ</w>
+                     unicode="τοῦ" word="τοῦ"> 
+</word>
                   <wg class="np" rule="NPofNP">
-                     <w ref="PHM 1:25!9"
+                      <word ref="PHM 1:25!9"
  
  book="PHM" 
  chapter="1" 
@@ -7452,8 +7672,9 @@
                         domain="026"
                         ln="26.9"
                         morph="N-GSN"
-                        unicode="πνεύματος">πνεύματος</w>
-                     <w ref="PHM 1:25!10"
+                        unicode="πνεύματος" word="πνεύματος"> 
+</word>
+                      <word ref="PHM 1:25!10"
  
  book="PHM" 
  chapter="1" 
@@ -7471,7 +7692,8 @@
                         gloss="of you"
                         morph="P-2GP"
                         unicode="ὑμῶν."
-                        referent="n57001020002 n57001002002 n57001002006 n57001002015">ὑμῶν</w>
+                        referent="n57001020002 n57001002002 n57001002006 n57001002015" word="ὑμῶν"> 
+</word>
                   </wg>
                </wg>
             </wg>

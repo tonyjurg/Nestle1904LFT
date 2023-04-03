@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-03T13:29:20Z
+@dateWritten=2023-04-03T15:19:33Z
 
-1952973	[The] book
+640054	[The] book
 of [the] genealogy
 of Jesus
 Christ

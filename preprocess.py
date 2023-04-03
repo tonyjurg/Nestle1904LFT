@@ -35,10 +35,14 @@ SET = set(
     """.strip().split()
 )
 
+bookcounter=0
+
 
 for files in SET:
 	inputfile=basedir+"input_raw_xml/"+files
 	outputfile=basedir+"xml/input_xml/"+files
+	sentencecounter=0
+	bookcounter+=1
 	#print ('trying to open: '+inputfile)
 	#print ('output file:'+outputfile)
 	try: 
@@ -57,6 +61,28 @@ for files in SET:
 		for line in lines:
 			final=line
 			
+			if 'milestone ' in line:
+				final=re.sub(r'<mile.*stone>'," sentence-text=\"", line)
+				if len(final)<=30: final=''
+			
+			if '<p>' in line:
+				# the <p> tag signals a sentence
+				final=final.replace('<p>','')
+				startgreeksentence=True
+				
+			if '</p>' in line:
+				final=final.replace('</p>','\">')
+				startgreeksentence=False
+				
+			if '<sentence>' in line:
+				sentencecounter+=1
+				final=final.replace('<sentence>','<sentence sentence_number=\"{}\" '.format(sentencecounter))
+			
+			if '</w>' in line:
+				final=line.replace('\">',"\" word=\"")
+				final=final.replace('</w>','\"> \n</word>')
+			
+
 			if ' ref=' in line:
 				parts = re.sub(r'[!: ]'," ", line).split()
 				j=0
@@ -65,20 +91,14 @@ for files in SET:
 						final= line+" \n book=\""+parts[j][5:]+"\" \n chapter=\""+parts[j+1]+"\" \n verse=\""+parts[j+2]+"\" \n word_in_verse=\""+parts[j+3]+" \n "
 					j+=1
 					
+			if '<w ' in line:
+				final=final.replace('<w '," <word ")
 					
-			if 'milestone ' in line:
-				fullline=line
-				parts = re.sub(r'[!: \"]'," ", line).split()
-				j=0
-				for items in parts:
-					if 'id=' in items: 
-						section= " <verse \n book=\""+parts[j+1]+"\" \n chapter=\""+parts[j+2]+"\" \n verse=\""+parts[j+3]+"\"> </verse>\n"
-						break
-					j+=1
-				final=re.sub('<mile.*stone>',section,line)
-				#print ('milestone:',final)
+
+
+				
 			if 'book ' in line:
-				final=line.replace('id=',' book_short=')
+				final=line.replace('lang=\"el\" id=',' book_num=\"{}\" book_short='.format(bookcounter))
 			output.write(final)
 
 	input.close()

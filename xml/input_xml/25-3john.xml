@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="treedown.css"?>
 <?xml-stylesheet href="boxwood.css"?>
-<book lang="el"  book_short="3JN">
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="1"> </verse>
- Ὁ πρεσβύτερος Γαΐῳ τῷ ἀγαπητῷ, ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ.</p>
+<book  book_num="22" book_short="3JN">
+   <sentence sentence_number="1" 
+      
+          sentence-text=" Ὁ πρεσβύτερος Γαΐῳ τῷ ἀγαπητῷ, ὃν ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ.">
       <wg>
          <wg class="cl" articular="true" rule="S-IO" cltype="VerbElided">
             <wg class="np" articular="true" rule="DetAdj" role="s">
-               <w ref="3JN 1:1!1"
+                <word ref="3JN 1:1!1"
  
  book="3JN" 
  chapter="1" 
@@ -31,8 +27,9 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NSM"
-                  unicode="Ὁ">Ὁ</w>
-               <w ref="3JN 1:1!2"
+                  unicode="Ὁ" word="Ὁ"> 
+</word>
+                <word ref="3JN 1:1!2"
  
  book="3JN" 
  chapter="1" 
@@ -52,11 +49,12 @@
                   domain="053009"
                   ln="53.77"
                   morph="A-NSM-C"
-                  unicode="πρεσβύτερος">πρεσβύτερος</w>
+                  unicode="πρεσβύτερος" word="πρεσβύτερος"> 
+</word>
             </wg>
             <wg class="np" type="apposition" rule="NP-CL" role="io">
                <wg class="np" rule="NPDetAdj">
-                  <w ref="3JN 1:1!3"
+                   <word ref="3JN 1:1!3"
  
  book="3JN" 
  chapter="1" 
@@ -76,9 +74,10 @@
                      domain="093001"
                      ln="93.83d"
                      morph="N-DSM"
-                     unicode="Γαΐῳ">Γαΐῳ</w>
+                     unicode="Γαΐῳ" word="Γαΐῳ"> 
+</word>
                   <wg class="np" articular="true" rule="DetAdj">
-                     <w ref="3JN 1:1!4"
+                      <word ref="3JN 1:1!4"
  
  book="3JN" 
  chapter="1" 
@@ -97,8 +96,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-DSM"
-                        unicode="τῷ">τῷ</w>
-                     <w ref="3JN 1:1!5"
+                        unicode="τῷ" word="τῷ"> 
+</word>
+                      <word ref="3JN 1:1!5"
  
  book="3JN" 
  chapter="1" 
@@ -117,14 +117,15 @@
                         domain="025003"
                         ln="25.45"
                         morph="A-DSM"
-                        unicode="ἀγαπητῷ,">ἀγαπητῷ</w>
+                        unicode="ἀγαπητῷ," word="ἀγαπητῷ"> 
+</word>
                   </wg>
                </wg>
                <wg class="cl"
                    clauseType="nominalized"
                    rule="O-S-V-ADV"
                    junction="apposition">
-                  <w role="o"
+                   <word role="o"
                      ref="3JN 1:1!6"
  
  book="3JN" 
@@ -144,8 +145,9 @@
                      gloss="whom"
                      morph="R-ASM"
                      unicode="ὃν"
-                     referent="n64001001003">ὃν</w>
-                  <w role="s"
+                     referent="n64001001003" word="ὃν"> 
+</word>
+                   <word role="s"
                      ref="3JN 1:1!7"
  
  book="3JN" 
@@ -166,8 +168,9 @@
                      ln="92.1"
                      morph="P-1NS"
                      unicode="ἐγὼ"
-                     referent="n64001001002">ἐγὼ</w>
-                  <w role="v"
+                     referent="n64001001002" word="ἐγὼ"> 
+</word>
+                   <word role="v"
                      ref="3JN 1:1!8"
  
  book="3JN" 
@@ -190,9 +193,10 @@
                      ln="25.43"
                      morph="V-PAI-1S"
                      unicode="ἀγαπῶ"
-                     frame="A1:n64001001006 A0:n64001001007">ἀγαπῶ</w>
+                     frame="A1:n64001001006 A0:n64001001007" word="ἀγαπῶ"> 
+</word>
                   <wg class="pp" rule="PrepNp" role="adv">
-                     <w ref="3JN 1:1!9"
+                      <word ref="3JN 1:1!9"
  
  book="3JN" 
  chapter="1" 
@@ -208,8 +212,9 @@
                         domain="070"
                         ln="70.4"
                         morph="PREP"
-                        unicode="ἐν">ἐν</w>
-                     <w ref="3JN 1:1!10"
+                        unicode="ἐν" word="ἐν"> 
+</word>
+                      <word ref="3JN 1:1!10"
  
  book="3JN" 
  chapter="1" 
@@ -229,24 +234,21 @@
                         domain="070"
                         ln="70.4"
                         morph="N-DSF"
-                        unicode="ἀληθείᾳ.">ἀληθείᾳ</w>
+                        unicode="ἀληθείᾳ." word="ἀληθείᾳ"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="2"> </verse>
- Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή.</p>
+   <sentence sentence_number="2" 
+      
+          sentence-text=" Ἀγαπητέ, περὶ πάντων εὔχομαί σε εὐοδοῦσθαι καὶ ὑγιαίνειν, καθὼς εὐοδοῦταί σου ἡ ψυχή.">
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="640010020010130">
             <wg rule="Np2CL" cltype="Minor">
-               <w role="aux"
+                <word role="aux"
                   ref="3JN 1:2!1"
  
  book="3JN" 
@@ -266,10 +268,11 @@
                   domain="025003"
                   ln="25.45"
                   morph="A-VSM"
-                  unicode="Ἀγαπητέ,">Ἀγαπητέ</w>
+                  unicode="Ἀγαπητέ," word="Ἀγαπητέ"> 
+</word>
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="3JN 1:2!2"
+                <word ref="3JN 1:2!2"
  
  book="3JN" 
  chapter="1" 
@@ -285,8 +288,9 @@
                   domain="089004"
                   ln="89.6"
                   morph="PREP"
-                  unicode="περὶ">περὶ</w>
-               <w ref="3JN 1:2!3"
+                  unicode="περὶ" word="περὶ"> 
+</word>
+                <word ref="3JN 1:2!3"
  
  book="3JN" 
  chapter="1" 
@@ -305,9 +309,10 @@
                   domain="059003"
                   ln="59.23"
                   morph="A-GPN"
-                  unicode="πάντων">πάντων</w>
+                  unicode="πάντων" word="πάντων"> 
+</word>
             </wg>
-            <w role="v"
+             <word role="v"
                ref="3JN 1:2!4"
  
  book="3JN" 
@@ -331,9 +336,10 @@
                morph="V-PNI-1S"
                unicode="εὔχομαί"
                frame="A0:n64001001002 A1:n64001002006;n64001002008"
-               subjref="n64001001002">εὔχομαί</w>
+               subjref="n64001001002" word="εὔχομαί"> 
+</word>
             <wg class="cl" rule="S-V" junction="subordinate" role="o">
-               <w role="s"
+                <word role="s"
                   ref="3JN 1:2!5"
  
  book="3JN" 
@@ -352,9 +358,10 @@
                   gloss="you"
                   morph="P-2AS"
                   unicode="σε"
-                  referent="n64001002001">σε</w>
+                  referent="n64001002001" word="σε"> 
+</word>
                <wg rule="Conj2VP" role="v">
-                  <w ref="3JN 1:2!6"
+                   <word ref="3JN 1:2!6"
  
  book="3JN" 
  chapter="1" 
@@ -374,9 +381,10 @@
                      ln="22.47"
                      morph="V-PPN"
                      unicode="εὐοδοῦσθαι"
-                     frame="A0:n64001002005">εὐοδοῦσθαι</w>
+                     frame="A0:n64001002005" word="εὐοδοῦσθαι"> 
+</word>
                   <wg type="group">
-                     <w ref="3JN 1:2!7"
+                      <word ref="3JN 1:2!7"
  
  book="3JN" 
  chapter="1" 
@@ -390,8 +398,9 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
-                     <w ref="3JN 1:2!8"
+                        unicode="καὶ" word="καὶ"> 
+</word>
+                      <word ref="3JN 1:2!8"
  
  book="3JN" 
  chapter="1" 
@@ -411,12 +420,13 @@
                         ln="23.129"
                         morph="V-PAN"
                         unicode="ὑγιαίνειν,"
-                        frame="A0:n64001002005">ὑγιαίνειν</w>
+                        frame="A0:n64001002005" word="ὑγιαίνειν"> 
+</word>
                   </wg>
                </wg>
             </wg>
             <wg rule="sub-CL" role="adv">
-               <w ref="3JN 1:2!9"
+                <word ref="3JN 1:2!9"
  
  book="3JN" 
  chapter="1" 
@@ -432,9 +442,10 @@
                   domain="078005"
                   ln="78.53"
                   morph="ADV"
-                  unicode="καθὼς">καθὼς</w>
+                  unicode="καθὼς" word="καθὼς"> 
+</word>
                <wg class="cl" rule="V-S" junction="subordinate">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:2!10"
  
  book="3JN" 
@@ -457,9 +468,10 @@
                      ln="22.47"
                      morph="V-PPI-3S"
                      unicode="εὐοδοῦταί"
-                     frame="A0:n64001002013">εὐοδοῦταί</w>
+                     frame="A0:n64001002013" word="εὐοδοῦταί"> 
+</word>
                   <wg class="np" articular="true" rule="ofNPNP" role="s">
-                     <w ref="3JN 1:2!11"
+                      <word ref="3JN 1:2!11"
  
  book="3JN" 
  chapter="1" 
@@ -477,9 +489,10 @@
                         gloss="your"
                         morph="P-2GS"
                         unicode="σου"
-                        referent="n64001002001">σου</w>
+                        referent="n64001002001" word="σου"> 
+</word>
                      <wg class="np" articular="true" rule="DetNP">
-                        <w ref="3JN 1:2!12"
+                         <word ref="3JN 1:2!12"
  
  book="3JN" 
  chapter="1" 
@@ -498,8 +511,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-NSF"
-                           unicode="ἡ">ἡ</w>
-                        <w ref="3JN 1:2!13"
+                           unicode="ἡ" word="ἡ"> 
+</word>
+                         <word ref="3JN 1:2!13"
  
  book="3JN" 
  chapter="1" 
@@ -519,7 +533,8 @@
                            domain="026"
                            ln="26.4"
                            morph="N-NSF"
-                           unicode="ψυχή.">ψυχή</w>
+                           unicode="ψυχή." word="ψυχή"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -527,16 +542,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="3"> </verse>
- ἐχάρην γὰρ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ, καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.</p>
+   <sentence sentence_number="3" 
+      
+          sentence-text=" ἐχάρην γὰρ λίαν ἐρχομένων ἀδελφῶν καὶ μαρτυρούντων σου τῇ ἀληθείᾳ, καθὼς σὺ ἐν ἀληθείᾳ περιπατεῖς.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:3!2"
+             <word ref="3JN 1:3!2"
  
  book="3JN" 
  chapter="1" 
@@ -553,9 +564,10 @@
                domain="089007"
                ln="89.23"
                morph="CONJ"
-               unicode="γὰρ">γὰρ</w>
+               unicode="γὰρ" word="γὰρ"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="640010030010140">
-               <w role="v"
+                <word role="v"
                   ref="3JN 1:3!1"
  
  book="3JN" 
@@ -579,8 +591,9 @@
                   morph="V-2AOI-1S"
                   unicode="ἐχάρην"
                   frame="A1:n64001001002"
-                  subjref="n64001001002">ἐχάρην</w>
-               <w role="adv"
+                  subjref="n64001001002" word="ἐχάρην"> 
+</word>
+                <word role="adv"
                   ref="3JN 1:3!3"
  
  book="3JN" 
@@ -597,10 +610,11 @@
                   domain="078001"
                   ln="78.1"
                   morph="ADV"
-                  unicode="λίαν">λίαν</w>
+                  unicode="λίαν" word="λίαν"> 
+</word>
                <wg Rule="ClCl" class="cl" nodeId="640010030040120" role="o">
                   <wg class="cl" rule="V-S" junction="coordinate">
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:3!4"
  
  book="3JN" 
@@ -624,8 +638,9 @@
                         ln="15.81"
                         morph="V-PNP-GPM"
                         unicode="ἐρχομένων"
-                        frame="A0:n64001003005">ἐρχομένων</w>
-                     <w role="s"
+                        frame="A0:n64001003005" word="ἐρχομένων"> 
+</word>
+                      <word role="s"
                         ref="3JN 1:3!5"
  
  book="3JN" 
@@ -646,10 +661,11 @@
                         domain="011002"
                         ln="11.23"
                         morph="N-GPM"
-                        unicode="ἀδελφῶν">ἀδελφῶν</w>
+                        unicode="ἀδελφῶν" word="ἀδελφῶν"> 
+</word>
                   </wg>
                   <wg type="group">
-                     <w ref="3JN 1:3!6"
+                      <word ref="3JN 1:3!6"
  
  book="3JN" 
  chapter="1" 
@@ -663,9 +679,10 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
+                        unicode="καὶ" word="καὶ"> 
+</word>
                      <wg class="cl" rule="V-ADV" junction="coordinate">
-                        <w role="v"
+                         <word role="v"
                            ref="3JN 1:3!7"
  
  book="3JN" 
@@ -690,9 +707,10 @@
                            morph="V-PAP-GPM"
                            unicode="μαρτυρούντων"
                            frame="A0:n64001003005 A2:n64001003010"
-                           subjref="n64001003005">μαρτυρούντων</w>
+                           subjref="n64001003005" word="μαρτυρούντων"> 
+</word>
                         <wg class="np" articular="true" rule="ofNPNP" role="adv">
-                           <w ref="3JN 1:3!8"
+                            <word ref="3JN 1:3!8"
  
  book="3JN" 
  chapter="1" 
@@ -710,9 +728,10 @@
                               gloss="of your"
                               morph="P-2GS"
                               unicode="σου"
-                              referent="n64001002001">σου</w>
+                              referent="n64001002001" word="σου"> 
+</word>
                            <wg class="np" articular="true" rule="DetNP">
-                              <w ref="3JN 1:3!9"
+                               <word ref="3JN 1:3!9"
  
  book="3JN" 
  chapter="1" 
@@ -731,8 +750,9 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-DSF"
-                                 unicode="τῇ">τῇ</w>
-                              <w ref="3JN 1:3!10"
+                                 unicode="τῇ" word="τῇ"> 
+</word>
+                               <word ref="3JN 1:3!10"
  
  book="3JN" 
  chapter="1" 
@@ -752,13 +772,14 @@
                                  domain="072001"
                                  ln="72.2"
                                  morph="N-DSF"
-                                 unicode="ἀληθείᾳ,">ἀληθείᾳ</w>
+                                 unicode="ἀληθείᾳ," word="ἀληθείᾳ"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
                   </wg>
                   <wg rule="sub-CL">
-                     <w ref="3JN 1:3!11"
+                      <word ref="3JN 1:3!11"
  
  book="3JN" 
  chapter="1" 
@@ -774,9 +795,10 @@
                         domain="089014"
                         ln="89.86"
                         morph="ADV"
-                        unicode="καθὼς">καθὼς</w>
+                        unicode="καθὼς" word="καθὼς"> 
+</word>
                      <wg class="cl" rule="S-ADV-V" junction="subordinate">
-                        <w role="s"
+                         <word role="s"
                            ref="3JN 1:3!12"
  
  book="3JN" 
@@ -795,9 +817,10 @@
                            gloss="you"
                            morph="P-2NS"
                            unicode="σὺ"
-                           referent="n64001002001">σὺ</w>
+                           referent="n64001002001" word="σὺ"> 
+</word>
                         <wg class="pp" rule="PrepNp" role="adv">
-                           <w ref="3JN 1:3!13"
+                            <word ref="3JN 1:3!13"
  
  book="3JN" 
  chapter="1" 
@@ -811,8 +834,9 @@
                               strong="1722"
                               gloss="in"
                               morph="PREP"
-                              unicode="ἐν">ἐν</w>
-                           <w ref="3JN 1:3!14"
+                              unicode="ἐν" word="ἐν"> 
+</word>
+                            <word ref="3JN 1:3!14"
  
  book="3JN" 
  chapter="1" 
@@ -832,9 +856,10 @@
                               domain="072001"
                               ln="72.2"
                               morph="N-DSF"
-                              unicode="ἀληθείᾳ">ἀληθείᾳ</w>
+                              unicode="ἀληθείᾳ" word="ἀληθείᾳ"> 
+</word>
                         </wg>
-                        <w role="v"
+                         <word role="v"
                            ref="3JN 1:3!15"
  
  book="3JN" 
@@ -857,7 +882,8 @@
                            ln="41.11"
                            morph="V-PAI-2S"
                            unicode="περιπατεῖς."
-                           frame="A0:n64001003012">περιπατεῖς</w>
+                           frame="A0:n64001003012" word="περιπατεῖς"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -865,17 +891,13 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="4"> </verse>
- μειζοτέραν τούτων οὐκ ἔχω χαράν, ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν τῇ ἀληθείᾳ περιπατοῦντα.</p>
+   <sentence sentence_number="4" 
+      
+          sentence-text=" μειζοτέραν τούτων οὐκ ἔχω χαράν, ἵνα ἀκούω τὰ ἐμὰ τέκνα ἐν τῇ ἀληθείᾳ περιπατοῦντα.">
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="640010040010140">
             <wg class="np" rule="AdjpNp" role="o">
-               <w ref="3JN 1:4!1"
+                <word ref="3JN 1:4!1"
  
  book="3JN" 
  chapter="1" 
@@ -895,8 +917,9 @@
                   domain="078001"
                   ln="78.2"
                   morph="A-ASF-C"
-                  unicode="μειζοτέραν">μειζοτέραν</w>
-               <w ref="3JN 1:4!5"
+                  unicode="μειζοτέραν" word="μειζοτέραν"> 
+</word>
+                <word ref="3JN 1:4!5"
  
  book="3JN" 
  chapter="1" 
@@ -917,9 +940,10 @@
                   domain="025011"
                   ln="25.123"
                   morph="N-ASF"
-                  unicode="χαράν,">χαράν</w>
+                  unicode="χαράν," word="χαράν"> 
+</word>
             </wg>
-            <w role="adv"
+             <word role="adv"
                ref="3JN 1:4!2"
  
  book="3JN" 
@@ -939,8 +963,9 @@
                gloss="than these things"
                morph="D-GPN"
                unicode="τούτων"
-               referent="n64001004007">τούτων</w>
-            <w role="adv"
+               referent="n64001004007" word="τούτων"> 
+</word>
+             <word role="adv"
                ref="3JN 1:4!3"
  
  book="3JN" 
@@ -955,8 +980,9 @@
                strong="3756"
                gloss="not"
                morph="PRT-N"
-               unicode="οὐκ">οὐκ</w>
-            <w role="v"
+               unicode="οὐκ" word="οὐκ"> 
+</word>
+             <word role="v"
                ref="3JN 1:4!4"
  
  book="3JN" 
@@ -978,9 +1004,10 @@
                morph="V-PAI-1S"
                unicode="ἔχω"
                frame="A0:n64001001002 A1:n64001004005"
-               subjref="n64001001002">ἔχω</w>
+               subjref="n64001001002" word="ἔχω"> 
+</word>
             <wg rule="that-VP" role="o">
-               <w ref="3JN 1:4!6"
+                <word ref="3JN 1:4!6"
  
  book="3JN" 
  chapter="1" 
@@ -994,9 +1021,10 @@
                   strong="2443"
                   gloss="that"
                   morph="CONJ"
-                  unicode="ἵνα">ἵνα</w>
+                  unicode="ἵνα" word="ἵνα"> 
+</word>
                <wg class="cl" rule="V-O">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:4!7"
  
  book="3JN" 
@@ -1020,10 +1048,11 @@
                      morph="V-PAS-1S"
                      unicode="ἀκούω"
                      frame="A0:n64001001002 A1:n64001004014"
-                     subjref="n64001001002">ἀκούω</w>
+                     subjref="n64001001002" word="ἀκούω"> 
+</word>
                   <wg class="cl" rule="S-ADV-V" junction="subordinate" role="o">
                      <wg class="np" articular="true" rule="DetNP" role="s">
-                        <w ref="3JN 1:4!8"
+                         <word ref="3JN 1:4!8"
  
  book="3JN" 
  chapter="1" 
@@ -1042,9 +1071,10 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-APN"
-                           unicode="τὰ">τὰ</w>
+                           unicode="τὰ" word="τὰ"> 
+</word>
                         <wg class="np" rule="AdjpNp">
-                           <w ref="3JN 1:4!9"
+                            <word ref="3JN 1:4!9"
  
  book="3JN" 
  chapter="1" 
@@ -1064,8 +1094,9 @@
                               ln="92.2"
                               morph="S-1SAPN"
                               unicode="ἐμὰ"
-                              referent="n64001001002">ἐμὰ</w>
-                           <w ref="3JN 1:4!10"
+                              referent="n64001001002" word="ἐμὰ"> 
+</word>
+                            <word ref="3JN 1:4!10"
  
  book="3JN" 
  chapter="1" 
@@ -1085,11 +1116,12 @@
                               domain="036004"
                               ln="36.40"
                               morph="N-APN"
-                              unicode="τέκνα">τέκνα</w>
+                              unicode="τέκνα" word="τέκνα"> 
+</word>
                         </wg>
                      </wg>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="3JN 1:4!11"
+                         <word ref="3JN 1:4!11"
  
  book="3JN" 
  chapter="1" 
@@ -1103,9 +1135,10 @@
                            strong="1722"
                            gloss="in"
                            morph="PREP"
-                           unicode="ἐν">ἐν</w>
+                           unicode="ἐν" word="ἐν"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="3JN 1:4!12"
+                            <word ref="3JN 1:4!12"
  
  book="3JN" 
  chapter="1" 
@@ -1122,8 +1155,9 @@
                               case="dative"
                               gloss="the"
                               morph="T-DSF"
-                              unicode="τῇ">τῇ</w>
-                           <w ref="3JN 1:4!13"
+                              unicode="τῇ" word="τῇ"> 
+</word>
+                            <word ref="3JN 1:4!13"
  
  book="3JN" 
  chapter="1" 
@@ -1143,10 +1177,11 @@
                               domain="072001"
                               ln="72.2"
                               morph="N-DSF"
-                              unicode="ἀληθείᾳ">ἀληθείᾳ</w>
+                              unicode="ἀληθείᾳ" word="ἀληθείᾳ"> 
+</word>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:4!14"
  
  book="3JN" 
@@ -1170,29 +1205,21 @@
                         ln="41.11"
                         morph="V-PAP-APN"
                         unicode="περιπατοῦντα."
-                        frame="A0:n64001004010">περιπατοῦντα</w>
+                        frame="A0:n64001004010" word="περιπατοῦντα"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="5"> </verse>
- 
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="6"> </verse>
- Ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ τοῦτο ξένους, οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας, οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ Θεοῦ·</p>
+   <sentence sentence_number="5" 
+      
+          sentence-text=" Ἀγαπητέ, πιστὸν ποιεῖς ὃ ἐὰν ἐργάσῃ εἰς τοὺς ἀδελφοὺς καὶ τοῦτο ξένους, οἳ ἐμαρτύρησάν σου τῇ ἀγάπῃ ἐνώπιον ἐκκλησίας, οὓς καλῶς ποιήσεις προπέμψας ἀξίως τοῦ Θεοῦ·">
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="640010050010260">
             <wg rule="Np2CL" cltype="Minor">
-               <w role="aux"
+                <word role="aux"
                   ref="3JN 1:5!1"
  
  book="3JN" 
@@ -1212,10 +1239,11 @@
                   domain="025003"
                   ln="25.45"
                   morph="A-VSM"
-                  unicode="Ἀγαπητέ,">Ἀγαπητέ</w>
+                  unicode="Ἀγαπητέ," word="Ἀγαπητέ"> 
+</word>
             </wg>
             <wg class="cl" rule="O-V-ADV" junction="coordinate">
-               <w role="o"
+                <word role="o"
                   ref="3JN 1:5!2"
  
  book="3JN" 
@@ -1235,8 +1263,9 @@
                   domain="031009"
                   ln="31.87"
                   morph="A-ASN"
-                  unicode="πιστὸν">πιστὸν</w>
-               <w role="v"
+                  unicode="πιστὸν" word="πιστὸν"> 
+</word>
+                <word role="v"
                   ref="3JN 1:5!3"
  
  book="3JN" 
@@ -1258,12 +1287,13 @@
                   morph="V-PAI-2S"
                   unicode="ποιεῖς"
                   frame="A0:n64001005001 A1:n64001005002"
-                  subjref="n64001005001">ποιεῖς</w>
+                  subjref="n64001005001" word="ποιεῖς"> 
+</word>
                <wg clauseType="nominalized"
                    rule="PtclCL"
                    junction="subordinate"
                    role="adv">
-                  <w ref="3JN 1:5!5"
+                   <word ref="3JN 1:5!5"
  
  book="3JN" 
  chapter="1" 
@@ -1278,9 +1308,10 @@
                      discontinuous="true"
                      gloss="if"
                      morph="COND"
-                     unicode="ἐὰν">ἐὰν</w>
+                     unicode="ἐὰν" word="ἐὰν"> 
+</word>
                   <wg class="cl" clauseType="nominalized" rule="O-V-ADV">
-                     <w role="o"
+                      <word role="o"
                         ref="3JN 1:5!4"
  
  book="3JN" 
@@ -1299,8 +1330,9 @@
                         case="accusative"
                         gloss="whatever"
                         morph="R-ASN"
-                        unicode="ὃ">ὃ</w>
-                     <w role="v"
+                        unicode="ὃ" word="ὃ"> 
+</word>
+                      <word role="v"
                         ref="3JN 1:5!6"
  
  book="3JN" 
@@ -1324,9 +1356,10 @@
                         morph="V-ADS-2S"
                         unicode="ἐργάσῃ"
                         frame="A0:n64001005001 A1:n64001005004"
-                        subjref="n64001005001">ἐργάσῃ</w>
+                        subjref="n64001005001" word="ἐργάσῃ"> 
+</word>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="3JN 1:5!7"
+                         <word ref="3JN 1:5!7"
  
  book="3JN" 
  chapter="1" 
@@ -1342,9 +1375,10 @@
                            domain="090009"
                            ln="90.41"
                            morph="PREP"
-                           unicode="εἰς">εἰς</w>
+                           unicode="εἰς" word="εἰς"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="3JN 1:5!8"
+                            <word ref="3JN 1:5!8"
  
  book="3JN" 
  chapter="1" 
@@ -1363,8 +1397,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-APM"
-                              unicode="τοὺς">τοὺς</w>
-                           <w ref="3JN 1:5!9"
+                              unicode="τοὺς" word="τοὺς"> 
+</word>
+                            <word ref="3JN 1:5!9"
  
  book="3JN" 
  chapter="1" 
@@ -1384,14 +1419,15 @@
                               domain="011002"
                               ln="11.23"
                               morph="N-APM"
-                              unicode="ἀδελφοὺς">ἀδελφοὺς</w>
+                              unicode="ἀδελφοὺς" word="ἀδελφοὺς"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                </wg>
             </wg>
             <wg type="group">
-               <w ref="3JN 1:5!10"
+                <word ref="3JN 1:5!10"
  
  book="3JN" 
  chapter="1" 
@@ -1407,12 +1443,13 @@
                   domain="091002"
                   ln="91.12"
                   morph="CONJ"
-                  unicode="καὶ">καὶ</w>
+                  unicode="καὶ" word="καὶ"> 
+</word>
                <wg class="cl"
                    rule="O-ADV"
                    cltype="VerbElided"
                    junction="coordinate">
-                  <w role="o"
+                   <word role="o"
                      ref="3JN 1:5!11"
  
  book="3JN" 
@@ -1432,10 +1469,11 @@
                      gloss="they are"
                      morph="D-ASN"
                      unicode="τοῦτο"
-                     referent="n64001005002">τοῦτο</w>
+                     referent="n64001005002" word="τοῦτο"> 
+</word>
                   <wg class="np" type="apposition" rule="NP-CL" role="adv">
                      <wg class="np" type="apposition" rule="NP-CL">
-                        <w ref="3JN 1:5!12"
+                         <word ref="3JN 1:5!12"
  
  book="3JN" 
  chapter="1" 
@@ -1454,12 +1492,13 @@
                            domain="011003"
                            ln="11.73"
                            morph="A-APM"
-                           unicode="ξένους,">ξένους</w>
+                           unicode="ξένους," word="ξένους"> 
+</word>
                         <wg class="cl"
                             clauseType="nominalized"
                             rule="S-V-ADV-ADV"
                             junction="apposition">
-                           <w role="s"
+                            <word role="s"
                               ref="3JN 1:6!1"
  
  book="3JN" 
@@ -1479,8 +1518,9 @@
                               gloss="who"
                               morph="R-NPM"
                               unicode="οἳ"
-                              referent="n64001005012">οἳ</w>
-                           <w role="v"
+                              referent="n64001005012" word="οἳ"> 
+</word>
+                            <word role="v"
                               ref="3JN 1:6!2"
  
  book="3JN" 
@@ -1503,9 +1543,10 @@
                               ln="33.263"
                               morph="V-AAI-3P"
                               unicode="ἐμαρτύρησάν"
-                              frame="A0:n64001006001 A2:n64001006005">ἐμαρτύρησάν</w>
+                              frame="A0:n64001006001 A2:n64001006005" word="ἐμαρτύρησάν"> 
+</word>
                            <wg class="np" articular="true" rule="ofNPNP" role="adv">
-                              <w ref="3JN 1:6!3"
+                               <word ref="3JN 1:6!3"
  
  book="3JN" 
  chapter="1" 
@@ -1523,9 +1564,10 @@
                                  gloss="of your"
                                  morph="P-2GS"
                                  unicode="σου"
-                                 referent="n64001005001">σου</w>
+                                 referent="n64001005001" word="σου"> 
+</word>
                               <wg class="np" articular="true" rule="DetNP">
-                                 <w ref="3JN 1:6!4"
+                                  <word ref="3JN 1:6!4"
  
  book="3JN" 
  chapter="1" 
@@ -1544,8 +1586,9 @@
                                     domain="092004"
                                     ln="92.24"
                                     morph="T-DSF"
-                                    unicode="τῇ">τῇ</w>
-                                 <w ref="3JN 1:6!5"
+                                    unicode="τῇ" word="τῇ"> 
+</word>
+                                  <word ref="3JN 1:6!5"
  
  book="3JN" 
  chapter="1" 
@@ -1565,11 +1608,12 @@
                                     domain="025003"
                                     ln="25.43"
                                     morph="N-DSF"
-                                    unicode="ἀγάπῃ">ἀγάπῃ</w>
+                                    unicode="ἀγάπῃ" word="ἀγάπῃ"> 
+</word>
                               </wg>
                            </wg>
                            <wg class="pp" rule="PrepNp" role="adv">
-                              <w ref="3JN 1:6!6"
+                               <word ref="3JN 1:6!6"
  
  book="3JN" 
  chapter="1" 
@@ -1585,8 +1629,9 @@
                                  domain="083006"
                                  ln="83.33"
                                  morph="PREP"
-                                 unicode="ἐνώπιον">ἐνώπιον</w>
-                              <w ref="3JN 1:6!7"
+                                 unicode="ἐνώπιον" word="ἐνώπιον"> 
+</word>
+                               <word ref="3JN 1:6!7"
  
  book="3JN" 
  chapter="1" 
@@ -1606,7 +1651,8 @@
                                  domain="011002"
                                  ln="11.32"
                                  morph="N-GSF"
-                                 unicode="ἐκκλησίας,">ἐκκλησίας</w>
+                                 unicode="ἐκκλησίας," word="ἐκκλησίας"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -1614,7 +1660,7 @@
                          clauseType="nominalized"
                          rule="ADV-ADV-V-ADV"
                          junction="apposition">
-                        <w role="adv"
+                         <word role="adv"
                            ref="3JN 1:6!8"
  
  book="3JN" 
@@ -1634,8 +1680,9 @@
                            gloss="whom"
                            morph="R-APM"
                            unicode="οὓς"
-                           referent="n64001005012">οὓς</w>
-                        <w role="adv"
+                           referent="n64001005012" word="οὓς"> 
+</word>
+                         <word role="adv"
                            ref="3JN 1:6!9"
  
  book="3JN" 
@@ -1652,8 +1699,9 @@
                            domain="088001"
                            ln="88.4"
                            morph="ADV"
-                           unicode="καλῶς">καλῶς</w>
-                        <w role="v"
+                           unicode="καλῶς" word="καλῶς"> 
+</word>
+                         <word role="v"
                            ref="3JN 1:6!10"
  
  book="3JN" 
@@ -1675,9 +1723,10 @@
                            morph="V-FAI-2S"
                            unicode="ποιήσεις"
                            frame="A0:n64001005001"
-                           subjref="n64001005001">ποιήσεις</w>
+                           subjref="n64001005001" word="ποιήσεις"> 
+</word>
                         <wg class="cl" rule="V-ADV-ADV" junction="subordinate" role="adv">
-                           <w role="v"
+                            <word role="v"
                               ref="3JN 1:6!11"
  
  book="3JN" 
@@ -1702,8 +1751,9 @@
                               morph="V-AAP-NSM"
                               unicode="προπέμψας"
                               frame="A0:n64001005001"
-                              subjref="n64001005001">προπέμψας</w>
-                           <w role="adv"
+                              subjref="n64001005001" word="προπέμψας"> 
+</word>
+                            <word role="adv"
                               ref="3JN 1:6!12"
  
  book="3JN" 
@@ -1720,9 +1770,10 @@
                               domain="066"
                               ln="66.6"
                               morph="ADV"
-                              unicode="ἀξίως">ἀξίως</w>
+                              unicode="ἀξίως" word="ἀξίως"> 
+</word>
                            <wg class="np" articular="true" rule="DetNP" role="adv">
-                              <w ref="3JN 1:6!13"
+                               <word ref="3JN 1:6!13"
  
  book="3JN" 
  chapter="1" 
@@ -1741,8 +1792,9 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-GSM"
-                                 unicode="τοῦ">τοῦ</w>
-                              <w ref="3JN 1:6!14"
+                                 unicode="τοῦ" word="τοῦ"> 
+</word>
+                               <word ref="3JN 1:6!14"
  
  book="3JN" 
  chapter="1" 
@@ -1762,7 +1814,8 @@
                                  domain="012001"
                                  ln="12.1"
                                  morph="N-GSM"
-                                 unicode="Θεοῦ·">Θεοῦ</w>
+                                 unicode="Θεοῦ·" word="Θεοῦ"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -1772,16 +1825,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="7"> </verse>
- ὑπὲρ γὰρ τοῦ Ὀνόματος ἐξῆλθαν μηδὲν λαμβάνοντες ἀπὸ τῶν ἐθνικῶν.</p>
+   <sentence sentence_number="6" 
+      
+          sentence-text=" ὑπὲρ γὰρ τοῦ Ὀνόματος ἐξῆλθαν μηδὲν λαμβάνοντες ἀπὸ τῶν ἐθνικῶν.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:7!2"
+             <word ref="3JN 1:7!2"
  
  book="3JN" 
  chapter="1" 
@@ -1798,10 +1847,11 @@
                domain="089007"
                ln="89.23"
                morph="CONJ"
-               unicode="γὰρ">γὰρ</w>
+               unicode="γὰρ" word="γὰρ"> 
+</word>
             <wg class="cl" rule="ADV-V-ADV">
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                  <w ref="3JN 1:7!1"
+                   <word ref="3JN 1:7!1"
  
  book="3JN" 
  chapter="1" 
@@ -1817,9 +1867,10 @@
                      domain="090009"
                      ln="90.36"
                      morph="PREP"
-                     unicode="ὑπὲρ">ὑπὲρ</w>
+                     unicode="ὑπὲρ" word="ὑπὲρ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="3JN 1:7!3"
+                      <word ref="3JN 1:7!3"
  
  book="3JN" 
  chapter="1" 
@@ -1838,8 +1889,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-GSN"
-                        unicode="τοῦ">τοῦ</w>
-                     <w ref="3JN 1:7!4"
+                        unicode="τοῦ" word="τοῦ"> 
+</word>
+                      <word ref="3JN 1:7!4"
  
  book="3JN" 
  chapter="1" 
@@ -1859,10 +1911,11 @@
                         domain="009001 033020"
                         ln="33.265 9.19"
                         morph="N-GSN"
-                        unicode="Ὀνόματος">Ὀνόματος</w>
+                        unicode="Ὀνόματος" word="Ὀνόματος"> 
+</word>
                   </wg>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="3JN 1:7!5"
  
  book="3JN" 
@@ -1886,9 +1939,10 @@
                   morph="V-2AAI-3P"
                   unicode="ἐξῆλθαν"
                   frame="A0:n64001005012"
-                  subjref="n64001005012">ἐξῆλθαν</w>
+                  subjref="n64001005012" word="ἐξῆλθαν"> 
+</word>
                <wg class="cl" rule="O-V-ADV" junction="subordinate" role="adv">
-                  <w role="o"
+                   <word role="o"
                      ref="3JN 1:7!6"
  
  book="3JN" 
@@ -1908,8 +1962,9 @@
                      domain="092004"
                      ln="92.23"
                      morph="A-ASN-N"
-                     unicode="μηδὲν">μηδὲν</w>
-                  <w role="v"
+                     unicode="μηδὲν" word="μηδὲν"> 
+</word>
+                   <word role="v"
                      ref="3JN 1:7!7"
  
  book="3JN" 
@@ -1934,9 +1989,10 @@
                      morph="V-PAP-NPM"
                      unicode="λαμβάνοντες"
                      frame="A0:n64001005012 A1:n64001007006"
-                     subjref="n64001005012">λαμβάνοντες</w>
+                     subjref="n64001005012" word="λαμβάνοντες"> 
+</word>
                   <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                     <w ref="3JN 1:7!8"
+                      <word ref="3JN 1:7!8"
  
  book="3JN" 
  chapter="1" 
@@ -1952,9 +2008,10 @@
                         domain="090003"
                         ln="90.15"
                         morph="PREP"
-                        unicode="ἀπὸ">ἀπὸ</w>
+                        unicode="ἀπὸ" word="ἀπὸ"> 
+</word>
                      <wg class="np" articular="true" rule="DetAdj">
-                        <w ref="3JN 1:7!9"
+                         <word ref="3JN 1:7!9"
  
  book="3JN" 
  chapter="1" 
@@ -1973,8 +2030,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-GPM"
-                           unicode="τῶν">τῶν</w>
-                        <w ref="3JN 1:7!10"
+                           unicode="τῶν" word="τῶν"> 
+</word>
+                         <word ref="3JN 1:7!10"
  
  book="3JN" 
  chapter="1" 
@@ -1993,7 +2051,8 @@
                            domain="011002"
                            ln="11.38"
                            morph="A-GPM"
-                           unicode="ἐθνικῶν.">ἐθνικῶν</w>
+                           unicode="ἐθνικῶν." word="ἐθνικῶν"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -2001,16 +2060,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="8"> </verse>
- ἡμεῖς οὖν ὀφείλομεν ὑπολαμβάνειν τοὺς τοιούτους, ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ.</p>
+   <sentence sentence_number="7" 
+      
+          sentence-text=" ἡμεῖς οὖν ὀφείλομεν ὑπολαμβάνειν τοὺς τοιούτους, ἵνα συνεργοὶ γινώμεθα τῇ ἀληθείᾳ.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:8!2"
+             <word ref="3JN 1:8!2"
  
  book="3JN" 
  chapter="1" 
@@ -2027,9 +2082,10 @@
                domain="089008"
                ln="89.50"
                morph="CONJ"
-               unicode="οὖν">οὖν</w>
+               unicode="οὖν" word="οὖν"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="640010080010100">
-               <w role="s"
+                <word role="s"
                   ref="3JN 1:8!1"
  
  book="3JN" 
@@ -2050,8 +2106,9 @@
                   ln="92.4"
                   morph="P-1NP"
                   unicode="ἡμεῖς"
-                  referent="n64001001002 n64001005001">ἡμεῖς</w>
-               <w role="v"
+                  referent="n64001001002 n64001005001" word="ἡμεῖς"> 
+</word>
+                <word role="v"
                   ref="3JN 1:8!3"
  
  book="3JN" 
@@ -2074,9 +2131,10 @@
                   ln="71.25"
                   morph="V-PAI-1P"
                   unicode="ὀφείλομεν"
-                  frame="A0:n64001008001 A1:n64001008004">ὀφείλομεν</w>
+                  frame="A0:n64001008001 A1:n64001008004" word="ὀφείλομεν"> 
+</word>
                <wg class="cl" rule="V-O" junction="subordinate" role="o">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:8!4"
  
  book="3JN" 
@@ -2098,9 +2156,10 @@
                      morph="V-PAN"
                      unicode="ὑπολαμβάνειν"
                      frame="A0:n64001001002;n64001005001 A1:n64001008006"
-                     subjref="n64001001002 n64001005001">ὑπολαμβάνειν</w>
+                     subjref="n64001001002 n64001005001" word="ὑπολαμβάνειν"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP" role="o">
-                     <w ref="3JN 1:8!5"
+                      <word ref="3JN 1:8!5"
  
  book="3JN" 
  chapter="1" 
@@ -2119,8 +2178,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-APM"
-                        unicode="τοὺς">τοὺς</w>
-                     <w ref="3JN 1:8!6"
+                        unicode="τοὺς" word="τοὺς"> 
+</word>
+                      <word ref="3JN 1:8!6"
  
  book="3JN" 
  chapter="1" 
@@ -2141,11 +2201,12 @@
                         ln="64.2"
                         morph="D-APM"
                         unicode="τοιούτους,"
-                        referent="n64001005012">τοιούτους</w>
+                        referent="n64001005012" word="τοιούτους"> 
+</word>
                   </wg>
                </wg>
                <wg rule="sub-CL" role="adv">
-                  <w ref="3JN 1:8!7"
+                   <word ref="3JN 1:8!7"
  
  book="3JN" 
  chapter="1" 
@@ -2161,9 +2222,10 @@
                      domain="089008 089009"
                      ln="89.49 89.59"
                      morph="CONJ"
-                     unicode="ἵνα">ἵνα</w>
+                     unicode="ἵνα" word="ἵνα"> 
+</word>
                   <wg class="cl" rule="P-VC-ADV" junction="subordinate">
-                     <w role="p"
+                      <word role="p"
                         ref="3JN 1:8!8"
  
  book="3JN" 
@@ -2183,8 +2245,9 @@
                         domain="042004"
                         ln="42.44"
                         morph="A-NPM"
-                        unicode="συνεργοὶ">συνεργοὶ</w>
-                     <w role="vc"
+                        unicode="συνεργοὶ" word="συνεργοὶ"> 
+</word>
+                      <word role="vc"
                         ref="3JN 1:8!9"
  
  book="3JN" 
@@ -2207,9 +2270,10 @@
                         ln="13.3"
                         morph="V-PNS-1P"
                         unicode="γινώμεθα"
-                        subjref="n64001001002 n64001005001">γινώμεθα</w>
+                        subjref="n64001001002 n64001005001" word="γινώμεθα"> 
+</word>
                      <wg class="np" articular="true" rule="DetNP" role="adv">
-                        <w ref="3JN 1:8!10"
+                         <word ref="3JN 1:8!10"
  
  book="3JN" 
  chapter="1" 
@@ -2228,8 +2292,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-DSF"
-                           unicode="τῇ">τῇ</w>
-                        <w ref="3JN 1:8!11"
+                           unicode="τῇ" word="τῇ"> 
+</word>
+                         <word ref="3JN 1:8!11"
  
  book="3JN" 
  chapter="1" 
@@ -2249,7 +2314,8 @@
                            domain="072001"
                            ln="72.2"
                            morph="N-DSF"
-                           unicode="ἀληθείᾳ.">ἀληθείᾳ</w>
+                           unicode="ἀληθείᾳ." word="ἀληθείᾳ"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -2257,16 +2323,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="9"> </verse>
- Ἔγραψά τι τῇ ἐκκλησίᾳ·</p>
+   <sentence sentence_number="8" 
+      
+          sentence-text=" Ἔγραψά τι τῇ ἐκκλησίᾳ·">
       <wg>
          <wg class="cl" rule="V-O-IO">
-            <w role="v"
+             <word role="v"
                ref="3JN 1:9!1"
  
  book="3JN" 
@@ -2290,8 +2352,9 @@
                morph="V-AAI-1S"
                unicode="Ἔγραψά"
                frame="A0:n64001001002 A1:n64001009002 A2:n64001009004"
-               subjref="n64001001002">Ἔγραψά</w>
-            <w role="o"
+               subjref="n64001001002" word="Ἔγραψά"> 
+</word>
+             <word role="o"
                ref="3JN 1:9!2"
  
  book="3JN" 
@@ -2310,9 +2373,10 @@
                case="accusative"
                gloss="something"
                morph="X-ASN"
-               unicode="τι">τι</w>
+               unicode="τι" word="τι"> 
+</word>
             <wg class="np" articular="true" rule="DetNP" role="io">
-               <w ref="3JN 1:9!3"
+                <word ref="3JN 1:9!3"
  
  book="3JN" 
  chapter="1" 
@@ -2331,8 +2395,9 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-DSF"
-                  unicode="τῇ">τῇ</w>
-               <w ref="3JN 1:9!4"
+                  unicode="τῇ" word="τῇ"> 
+</word>
+                <word ref="3JN 1:9!4"
  
  book="3JN" 
  chapter="1" 
@@ -2352,21 +2417,18 @@
                   domain="011002"
                   ln="11.32"
                   morph="N-DSF"
-                  unicode="ἐκκλησίᾳ·">ἐκκλησίᾳ</w>
+                  unicode="ἐκκλησίᾳ·" word="ἐκκλησίᾳ"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="9"> </verse>
- ἀλλ’ ὁ φιλοπρωτεύων αὐτῶν Διοτρεφὴς οὐκ ἐπιδέχεται ἡμᾶς.</p>
+   <sentence sentence_number="9" 
+      
+          sentence-text=" ἀλλ’ ὁ φιλοπρωτεύων αὐτῶν Διοτρεφὴς οὐκ ἐπιδέχεται ἡμᾶς.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:9!5"
+             <word ref="3JN 1:9!5"
  
  book="3JN" 
  chapter="1" 
@@ -2382,7 +2444,8 @@
                domain="089023"
                ln="89.125"
                morph="CONJ"
-               unicode="ἀλλ’">ἀλλ’</w>
+               unicode="ἀλλ’" word="ἀλλ’"> 
+</word>
             <wg class="cl" rule="S-ADV-V-O">
                <wg type="apposition"
                    class="np"
@@ -2390,7 +2453,7 @@
                    rule="Np-Appos"
                    role="s">
                   <wg articular="true" rule="DetCL">
-                     <w ref="3JN 1:9!6"
+                      <word ref="3JN 1:9!6"
  
  book="3JN" 
  chapter="1" 
@@ -2409,9 +2472,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-NSM"
-                        unicode="ὁ">ὁ</w>
+                        unicode="ὁ" word="ὁ"> 
+</word>
                      <wg class="cl" clauseType="nominalized" rule="V-ADV">
-                        <w role="v"
+                         <word role="v"
                            ref="3JN 1:9!7"
  
  book="3JN" 
@@ -2436,8 +2500,9 @@
                            morph="V-PAP-NSM"
                            unicode="φιλοπρωτεύων"
                            frame="A0:n64001009009"
-                           subjref="n64001009009">φιλοπρωτεύων</w>
-                        <w role="adv"
+                           subjref="n64001009009" word="φιλοπρωτεύων"> 
+</word>
+                         <word role="adv"
                            ref="3JN 1:9!8"
  
  book="3JN" 
@@ -2457,10 +2522,11 @@
                            gloss="among them"
                            morph="P-GPF"
                            unicode="αὐτῶν"
-                           referent="n64001009004">αὐτῶν</w>
+                           referent="n64001009004" word="αὐτῶν"> 
+</word>
                      </wg>
                   </wg>
-                  <w ref="3JN 1:9!9"
+                   <word ref="3JN 1:9!9"
  
  book="3JN" 
  chapter="1" 
@@ -2480,9 +2546,10 @@
                      domain="093001"
                      ln="93.99"
                      morph="N-NSM"
-                     unicode="Διοτρεφὴς">Διοτρεφὴς</w>
+                     unicode="Διοτρεφὴς" word="Διοτρεφὴς"> 
+</word>
                </wg>
-               <w role="adv"
+                <word role="adv"
                   ref="3JN 1:9!10"
  
  book="3JN" 
@@ -2497,8 +2564,9 @@
                   strong="3756"
                   gloss="not"
                   morph="PRT-N"
-                  unicode="οὐκ">οὐκ</w>
-               <w role="v"
+                  unicode="οὐκ" word="οὐκ"> 
+</word>
+                <word role="v"
                   ref="3JN 1:9!11"
  
  book="3JN" 
@@ -2521,8 +2589,9 @@
                   ln="36.14"
                   morph="V-PNI-3S"
                   unicode="ἐπιδέχεται"
-                  frame="A0:n64001009007 A1:n64001009012">ἐπιδέχεται</w>
-               <w role="o"
+                  frame="A0:n64001009007 A1:n64001009012" word="ἐπιδέχεται"> 
+</word>
+                <word role="o"
                   ref="3JN 1:9!12"
  
  book="3JN" 
@@ -2543,22 +2612,19 @@
                   ln="92.4"
                   morph="P-1AP"
                   unicode="ἡμᾶς."
-                  referent="n64001001002 n64001005001">ἡμᾶς</w>
+                  referent="n64001001002 n64001005001" word="ἡμᾶς"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="10"> </verse>
- διὰ τοῦτο, ἐὰν ἔλθω, ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ λόγοις πονηροῖς φλυαρῶν ἡμᾶς,</p>
+   <sentence sentence_number="10" 
+      
+          sentence-text=" διὰ τοῦτο, ἐὰν ἔλθω, ὑπομνήσω αὐτοῦ τὰ ἔργα ἃ ποιεῖ λόγοις πονηροῖς φλυαρῶν ἡμᾶς,">
       <wg>
          <wg class="cl" rule="ADV-ADV-V-O">
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="3JN 1:10!1"
+                <word ref="3JN 1:10!1"
  
  book="3JN" 
  chapter="1" 
@@ -2574,8 +2640,9 @@
                   domain="089007"
                   ln="89.26"
                   morph="PREP"
-                  unicode="διὰ">διὰ</w>
-               <w ref="3JN 1:10!2"
+                  unicode="διὰ" word="διὰ"> 
+</word>
+                <word ref="3JN 1:10!2"
  
  book="3JN" 
  chapter="1" 
@@ -2593,10 +2660,11 @@
                   case="accusative"
                   gloss="this"
                   morph="D-ASN"
-                  unicode="τοῦτο,">τοῦτο</w>
+                  unicode="τοῦτο," word="τοῦτο"> 
+</word>
             </wg>
             <wg rule="sub-CL" junction="subordinate" role="adv">
-               <w ref="3JN 1:10!3"
+                <word ref="3JN 1:10!3"
  
  book="3JN" 
  chapter="1" 
@@ -2612,9 +2680,10 @@
                   domain="067002 089010"
                   ln="67.32 89.67"
                   morph="COND"
-                  unicode="ἐὰν">ἐὰν</w>
+                  unicode="ἐὰν" word="ἐὰν"> 
+</word>
                <wg class="cl" rule="V2CL" junction="subordinate">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:10!4"
  
  book="3JN" 
@@ -2638,10 +2707,11 @@
                      morph="V-2AAS-1S"
                      unicode="ἔλθω,"
                      frame="A0:n64001001002"
-                     subjref="n64001001002">ἔλθω</w>
+                     subjref="n64001001002" word="ἔλθω"> 
+</word>
                </wg>
             </wg>
-            <w role="v"
+             <word role="v"
                ref="3JN 1:10!5"
  
  book="3JN" 
@@ -2665,14 +2735,15 @@
                morph="V-FAI-1S"
                unicode="ὑπομνήσω"
                frame="A0:n64001001002 A1:n64001010008"
-               subjref="n64001001002">ὑπομνήσω</w>
+               subjref="n64001001002" word="ὑπομνήσω"> 
+</word>
             <wg class="np"
                 type="apposition"
                 articular="true"
                 rule="NP-CL"
                 role="o">
                <wg class="np" articular="true" rule="ofNPNP">
-                  <w ref="3JN 1:10!6"
+                   <word ref="3JN 1:10!6"
  
  book="3JN" 
  chapter="1" 
@@ -2691,9 +2762,10 @@
                      gloss="of him"
                      morph="P-GSM"
                      unicode="αὐτοῦ"
-                     referent="n64001009007">αὐτοῦ</w>
+                     referent="n64001009007" word="αὐτοῦ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="3JN 1:10!7"
+                      <word ref="3JN 1:10!7"
  
  book="3JN" 
  chapter="1" 
@@ -2712,8 +2784,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-APN"
-                        unicode="τὰ">τὰ</w>
-                     <w ref="3JN 1:10!8"
+                        unicode="τὰ" word="τὰ"> 
+</word>
+                      <word ref="3JN 1:10!8"
  
  book="3JN" 
  chapter="1" 
@@ -2733,14 +2806,15 @@
                         domain="042002"
                         ln="42.11"
                         morph="N-APN"
-                        unicode="ἔργα">ἔργα</w>
+                        unicode="ἔργα" word="ἔργα"> 
+</word>
                   </wg>
                </wg>
                <wg class="cl"
                    clauseType="nominalized"
                    rule="O-V-ADV"
                    junction="apposition">
-                  <w role="o"
+                   <word role="o"
                      ref="3JN 1:10!9"
  
  book="3JN" 
@@ -2760,8 +2834,9 @@
                      gloss="which"
                      morph="R-APN"
                      unicode="ἃ"
-                     referent="n64001010008">ἃ</w>
-                  <w role="v"
+                     referent="n64001010008" word="ἃ"> 
+</word>
+                   <word role="v"
                      ref="3JN 1:10!10"
  
  book="3JN" 
@@ -2783,10 +2858,11 @@
                      morph="V-PAI-3S"
                      unicode="ποιεῖ"
                      frame="A0:n64001009007 A1:n64001010009"
-                     subjref="n64001009007">ποιεῖ</w>
+                     subjref="n64001009007" word="ποιεῖ"> 
+</word>
                   <wg class="cl" rule="ADV-V-O" junction="subordinate" role="adv">
                      <wg class="np" rule="NpAdjp" role="adv">
-                        <w ref="3JN 1:10!11"
+                         <word ref="3JN 1:10!11"
  
  book="3JN" 
  chapter="1" 
@@ -2806,8 +2882,9 @@
                            domain="033006"
                            ln="33.98"
                            morph="N-DPM"
-                           unicode="λόγοις">λόγοις</w>
-                        <w ref="3JN 1:10!12"
+                           unicode="λόγοις" word="λόγοις"> 
+</word>
+                         <word ref="3JN 1:10!12"
  
  book="3JN" 
  chapter="1" 
@@ -2826,9 +2903,10 @@
                            domain="088015"
                            ln="88.110"
                            morph="A-DPM"
-                           unicode="πονηροῖς">πονηροῖς</w>
+                           unicode="πονηροῖς" word="πονηροῖς"> 
+</word>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:10!13"
  
  book="3JN" 
@@ -2853,8 +2931,9 @@
                         morph="V-PAP-NSM"
                         unicode="φλυαρῶν"
                         frame="A0:n64001009007 A1:n64001010014"
-                        subjref="n64001009007">φλυαρῶν</w>
-                     <w role="o"
+                        subjref="n64001009007" word="φλυαρῶν"> 
+</word>
+                      <word role="o"
                         ref="3JN 1:10!14"
  
  book="3JN" 
@@ -2875,23 +2954,20 @@
                         ln="92.4"
                         morph="P-1AP"
                         unicode="ἡμᾶς,"
-                        referent="n64001001002 n64001005001">ἡμᾶς</w>
+                        referent="n64001001002 n64001005001" word="ἡμᾶς"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="10"> </verse>
- καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει.</p>
+   <sentence sentence_number="11" 
+      
+          sentence-text=" καὶ μὴ ἀρκούμενος ἐπὶ τούτοις οὔτε αὐτὸς ἐπιδέχεται τοὺς ἀδελφοὺς καὶ τοὺς βουλομένους κωλύει καὶ ἐκ τῆς ἐκκλησίας ἐκβάλλει.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:10!15"
+             <word ref="3JN 1:10!15"
  
  book="3JN" 
  chapter="1" 
@@ -2905,10 +2981,11 @@
                strong="2532"
                gloss="and"
                morph="CONJ"
-               unicode="καὶ">καὶ</w>
+               unicode="καὶ" word="καὶ"> 
+</word>
             <wg Rule="ClCl2" class="cl" nodeId="640010100160180">
                <wg class="cl" rule="ADV-V-ADV" role="topic">
-                  <w role="adv"
+                   <word role="adv"
                      ref="3JN 1:10!16"
  
  book="3JN" 
@@ -2923,8 +3000,9 @@
                      strong="3361"
                      gloss="not"
                      morph="PRT-N"
-                     unicode="μὴ">μὴ</w>
-                  <w role="v"
+                     unicode="μὴ" word="μὴ"> 
+</word>
+                   <word role="v"
                      ref="3JN 1:10!17"
  
  book="3JN" 
@@ -2949,9 +3027,10 @@
                      morph="V-PPP-NSM"
                      unicode="ἀρκούμενος"
                      frame="A1:n64001009007"
-                     subjref="n64001009007">ἀρκούμενος</w>
+                     subjref="n64001009007" word="ἀρκούμενος"> 
+</word>
                   <wg class="pp" rule="PrepNp" role="adv">
-                     <w ref="3JN 1:10!18"
+                      <word ref="3JN 1:10!18"
  
  book="3JN" 
  chapter="1" 
@@ -2965,8 +3044,9 @@
                         strong="1909"
                         gloss="with"
                         morph="PREP"
-                        unicode="ἐπὶ">ἐπὶ</w>
-                     <w ref="3JN 1:10!19"
+                        unicode="ἐπὶ" word="ἐπὶ"> 
+</word>
+                      <word ref="3JN 1:10!19"
  
  book="3JN" 
  chapter="1" 
@@ -2985,11 +3065,12 @@
                         gloss="these"
                         morph="D-DPM"
                         unicode="τούτοις"
-                        referent="n64001010008">τούτοις</w>
+                        referent="n64001010008" word="τούτοις"> 
+</word>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="3JN 1:10!20"
+                   <word ref="3JN 1:10!20"
  
  book="3JN" 
  chapter="1" 
@@ -3005,9 +3086,10 @@
                      domain="069003"
                      ln="69.9"
                      morph="CONJ-N"
-                     unicode="οὔτε">οὔτε</w>
+                     unicode="οὔτε" word="οὔτε"> 
+</word>
                   <wg class="cl" rule="S-V-O" junction="coordinate">
-                     <w role="s"
+                      <word role="s"
                         ref="3JN 1:10!21"
  
  book="3JN" 
@@ -3027,8 +3109,9 @@
                         gloss="himself"
                         morph="P-NSM"
                         unicode="αὐτὸς"
-                        referent="n64001009007">αὐτὸς</w>
-                     <w role="v"
+                        referent="n64001009007" word="αὐτὸς"> 
+</word>
+                      <word role="v"
                         ref="3JN 1:10!22"
  
  book="3JN" 
@@ -3051,9 +3134,10 @@
                         ln="34.53"
                         morph="V-PNI-3S"
                         unicode="ἐπιδέχεται"
-                        frame="A0:n64001010021 A1:n64001010024">ἐπιδέχεται</w>
+                        frame="A0:n64001010021 A1:n64001010024" word="ἐπιδέχεται"> 
+</word>
                      <wg class="np" articular="true" rule="DetNP" role="o">
-                        <w ref="3JN 1:10!23"
+                         <word ref="3JN 1:10!23"
  
  book="3JN" 
  chapter="1" 
@@ -3072,8 +3156,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-APM"
-                           unicode="τοὺς">τοὺς</w>
-                        <w ref="3JN 1:10!24"
+                           unicode="τοὺς" word="τοὺς"> 
+</word>
+                         <word ref="3JN 1:10!24"
  
  book="3JN" 
  chapter="1" 
@@ -3093,12 +3178,13 @@
                            domain="011002"
                            ln="11.23"
                            morph="N-APM"
-                           unicode="ἀδελφοὺς">ἀδελφοὺς</w>
+                           unicode="ἀδελφοὺς" word="ἀδελφοὺς"> 
+</word>
                      </wg>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="3JN 1:10!25"
+                   <word ref="3JN 1:10!25"
  
  book="3JN" 
  chapter="1" 
@@ -3112,10 +3198,11 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="cl" rule="O-V" junction="coordinate">
                      <wg articular="true" rule="DetCL" role="o">
-                        <w ref="3JN 1:10!26"
+                         <word ref="3JN 1:10!26"
  
  book="3JN" 
  chapter="1" 
@@ -3134,9 +3221,10 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-APM"
-                           unicode="τοὺς">τοὺς</w>
+                           unicode="τοὺς" word="τοὺς"> 
+</word>
                         <wg class="cl" clauseType="nominalized" rule="V2CL">
-                           <w role="v"
+                            <word role="v"
                               ref="3JN 1:10!27"
  
  book="3JN" 
@@ -3160,10 +3248,11 @@
                               ln="30.56"
                               morph="V-PNP-APM"
                               unicode="βουλομένους"
-                              frame="A0:n00000000000">βουλομένους</w>
+                              frame="A0:n00000000000" word="βουλομένους"> 
+</word>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:10!28"
  
  book="3JN" 
@@ -3187,11 +3276,12 @@
                         morph="V-PAI-3S"
                         unicode="κωλύει"
                         frame="A0:n64001009007 A1:n64001010027"
-                        subjref="n64001009007">κωλύει</w>
+                        subjref="n64001009007" word="κωλύει"> 
+</word>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="3JN 1:10!29"
+                   <word ref="3JN 1:10!29"
  
  book="3JN" 
  chapter="1" 
@@ -3205,10 +3295,11 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="cl" rule="ADV-V" junction="coordinate">
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="3JN 1:10!30"
+                         <word ref="3JN 1:10!30"
  
  book="3JN" 
  chapter="1" 
@@ -3222,9 +3313,10 @@
                            strong="1537"
                            gloss="from"
                            morph="PREP"
-                           unicode="ἐκ">ἐκ</w>
+                           unicode="ἐκ" word="ἐκ"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="3JN 1:10!31"
+                            <word ref="3JN 1:10!31"
  
  book="3JN" 
  chapter="1" 
@@ -3243,8 +3335,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-GSF"
-                              unicode="τῆς">τῆς</w>
-                           <w ref="3JN 1:10!32"
+                              unicode="τῆς" word="τῆς"> 
+</word>
+                            <word ref="3JN 1:10!32"
  
  book="3JN" 
  chapter="1" 
@@ -3264,10 +3357,11 @@
                               domain="011002"
                               ln="11.32"
                               morph="N-GSF"
-                              unicode="ἐκκλησίας">ἐκκλησίας</w>
+                              unicode="ἐκκλησίας" word="ἐκκλησίας"> 
+</word>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:10!33"
  
  book="3JN" 
@@ -3291,24 +3385,21 @@
                         morph="V-PAI-3S"
                         unicode="ἐκβάλλει."
                         frame="A0:n64001009007"
-                        subjref="n64001009007">ἐκβάλλει</w>
+                        subjref="n64001009007" word="ἐκβάλλει"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="11"> </verse>
- Ἀγαπητέ, μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν.</p>
+   <sentence sentence_number="12" 
+      
+          sentence-text=" Ἀγαπητέ, μὴ μιμοῦ τὸ κακὸν ἀλλὰ τὸ ἀγαθόν.">
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="640010110010080">
             <wg rule="Np2CL" cltype="Minor">
-               <w role="aux"
+                <word role="aux"
                   ref="3JN 1:11!1"
  
  book="3JN" 
@@ -3328,9 +3419,10 @@
                   domain="025003"
                   ln="25.45"
                   morph="A-VSM"
-                  unicode="Ἀγαπητέ,">Ἀγαπητέ</w>
+                  unicode="Ἀγαπητέ," word="Ἀγαπητέ"> 
+</word>
             </wg>
-            <w ref="3JN 1:11!2"
+             <word ref="3JN 1:11!2"
  
  book="3JN" 
  chapter="1" 
@@ -3344,9 +3436,10 @@
                strong="3361"
                gloss="not"
                morph="PRT-N"
-               unicode="μὴ">μὴ</w>
+               unicode="μὴ" word="μὴ"> 
+</word>
             <wg class="cl" rule="V-O" junction="coordinate">
-               <w role="v"
+                <word role="v"
                   ref="3JN 1:11!3"
  
  book="3JN" 
@@ -3370,9 +3463,10 @@
                   morph="V-PNM-2S"
                   unicode="μιμοῦ"
                   frame="A0:n64001011001 A1:n64001011005"
-                  subjref="n64001011001">μιμοῦ</w>
+                  subjref="n64001011001" word="μιμοῦ"> 
+</word>
                <wg class="np" articular="true" rule="DetAdj" role="o">
-                  <w ref="3JN 1:11!4"
+                   <word ref="3JN 1:11!4"
  
  book="3JN" 
  chapter="1" 
@@ -3391,8 +3485,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-ASN"
-                     unicode="τὸ">τὸ</w>
-                  <w ref="3JN 1:11!5"
+                     unicode="τὸ" word="τὸ"> 
+</word>
+                   <word ref="3JN 1:11!5"
  
  book="3JN" 
  chapter="1" 
@@ -3411,10 +3506,11 @@
                      domain="088015"
                      ln="88.106"
                      morph="A-ASN"
-                     unicode="κακὸν">κακὸν</w>
+                     unicode="κακὸν" word="κακὸν"> 
+</word>
                </wg>
             </wg>
-            <w ref="3JN 1:11!6"
+             <word ref="3JN 1:11!6"
  
  book="3JN" 
  chapter="1" 
@@ -3430,14 +3526,15 @@
                domain="089023"
                ln="89.125"
                morph="CONJ"
-               unicode="ἀλλὰ">ἀλλὰ</w>
+               unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
             <wg class="cl"
                 articular="true"
                 rule="O2CL"
                 cltype="VerbElided"
                 junction="coordinate">
                <wg class="np" articular="true" rule="DetAdj" role="o">
-                  <w ref="3JN 1:11!7"
+                   <word ref="3JN 1:11!7"
  
  book="3JN" 
  chapter="1" 
@@ -3456,8 +3553,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-ASN"
-                     unicode="τὸ">τὸ</w>
-                  <w ref="3JN 1:11!8"
+                     unicode="τὸ" word="τὸ"> 
+</word>
+                   <word ref="3JN 1:11!8"
  
  book="3JN" 
  chapter="1" 
@@ -3476,23 +3574,20 @@
                      domain="088001"
                      ln="88.1"
                      morph="A-ASN"
-                     unicode="ἀγαθόν.">ἀγαθόν</w>
+                     unicode="ἀγαθόν." word="ἀγαθόν"> 
+</word>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="11"> </verse>
- ὁ ἀγαθοποιῶν ἐκ τοῦ Θεοῦ ἐστιν·</p>
+   <sentence sentence_number="13" 
+      
+          sentence-text=" ὁ ἀγαθοποιῶν ἐκ τοῦ Θεοῦ ἐστιν·">
       <wg>
          <wg class="cl" articular="true" rule="S-P-VC">
             <wg articular="true" rule="DetCL" role="s">
-               <w ref="3JN 1:11!9"
+                <word ref="3JN 1:11!9"
  
  book="3JN" 
  chapter="1" 
@@ -3511,9 +3606,10 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NSM"
-                  unicode="ὁ">ὁ</w>
+                  unicode="ὁ" word="ὁ"> 
+</word>
                <wg class="cl" clauseType="nominalized" rule="V2CL">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:11!10"
  
  book="3JN" 
@@ -3537,11 +3633,12 @@
                      ln="88.3"
                      morph="V-PAP-NSM"
                      unicode="ἀγαθοποιῶν"
-                     frame="A0:n00000000000">ἀγαθοποιῶν</w>
+                     frame="A0:n00000000000" word="ἀγαθοποιῶν"> 
+</word>
                </wg>
             </wg>
             <wg class="pp" articular="true" rule="PrepNp" role="p">
-               <w ref="3JN 1:11!11"
+                <word ref="3JN 1:11!11"
  
  book="3JN" 
  chapter="1" 
@@ -3557,9 +3654,10 @@
                   domain="089003"
                   ln="89.3"
                   morph="PREP"
-                  unicode="ἐκ">ἐκ</w>
+                  unicode="ἐκ" word="ἐκ"> 
+</word>
                <wg class="np" articular="true" rule="DetNP">
-                  <w ref="3JN 1:11!12"
+                   <word ref="3JN 1:11!12"
  
  book="3JN" 
  chapter="1" 
@@ -3578,8 +3676,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-GSM"
-                     unicode="τοῦ">τοῦ</w>
-                  <w ref="3JN 1:11!13"
+                     unicode="τοῦ" word="τοῦ"> 
+</word>
+                   <word ref="3JN 1:11!13"
  
  book="3JN" 
  chapter="1" 
@@ -3599,10 +3698,11 @@
                      domain="012001"
                      ln="12.1"
                      morph="N-GSM"
-                     unicode="Θεοῦ">Θεοῦ</w>
+                     unicode="Θεοῦ" word="Θεοῦ"> 
+</word>
                </wg>
             </wg>
-            <w role="vc"
+             <word role="vc"
                ref="3JN 1:11!14"
  
  book="3JN" 
@@ -3622,21 +3722,18 @@
                mood="indicative"
                gloss="is"
                morph="V-PAI-3S"
-               unicode="ἐστιν·">ἐστιν</w>
+               unicode="ἐστιν·" word="ἐστιν"> 
+</word>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="11"> </verse>
- ὁ κακοποιῶν οὐχ ἑώρακεν τὸν Θεόν.</p>
+   <sentence sentence_number="14" 
+      
+          sentence-text=" ὁ κακοποιῶν οὐχ ἑώρακεν τὸν Θεόν.">
       <wg>
          <wg class="cl" rule="S-ADV-V-O">
             <wg articular="true" rule="DetCL" role="s">
-               <w ref="3JN 1:11!15"
+                <word ref="3JN 1:11!15"
  
  book="3JN" 
  chapter="1" 
@@ -3655,9 +3752,10 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NSM"
-                  unicode="ὁ">ὁ</w>
+                  unicode="ὁ" word="ὁ"> 
+</word>
                <wg class="cl" clauseType="nominalized" rule="V2CL">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:11!16"
  
  book="3JN" 
@@ -3681,10 +3779,11 @@
                      ln="88.112"
                      morph="V-PAP-NSM"
                      unicode="κακοποιῶν"
-                     frame="A0:n00000000000">κακοποιῶν</w>
+                     frame="A0:n00000000000" word="κακοποιῶν"> 
+</word>
                </wg>
             </wg>
-            <w role="adv"
+             <word role="adv"
                ref="3JN 1:11!17"
  
  book="3JN" 
@@ -3699,8 +3798,9 @@
                strong="3756"
                gloss="not"
                morph="PRT-N"
-               unicode="οὐχ">οὐχ</w>
-            <w role="v"
+               unicode="οὐχ" word="οὐχ"> 
+</word>
+             <word role="v"
                ref="3JN 1:11!18"
  
  book="3JN" 
@@ -3723,9 +3823,10 @@
                ln="24.1"
                morph="V-RAI-3S-ATT"
                unicode="ἑώρακεν"
-               frame="A0:n64001011016 A1:n64001011020">ἑώρακεν</w>
+               frame="A0:n64001011016 A1:n64001011020" word="ἑώρακεν"> 
+</word>
             <wg class="np" articular="true" rule="DetNP" role="o">
-               <w ref="3JN 1:11!19"
+                <word ref="3JN 1:11!19"
  
  book="3JN" 
  chapter="1" 
@@ -3744,8 +3845,9 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-ASM"
-                  unicode="τὸν">τὸν</w>
-               <w ref="3JN 1:11!20"
+                  unicode="τὸν" word="τὸν"> 
+</word>
+                <word ref="3JN 1:11!20"
  
  book="3JN" 
  chapter="1" 
@@ -3765,21 +3867,18 @@
                   domain="012001"
                   ln="12.1"
                   morph="N-ASM"
-                  unicode="Θεόν.">Θεόν</w>
+                  unicode="Θεόν." word="Θεόν"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="12"> </verse>
- Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας·</p>
+   <sentence sentence_number="15" 
+      
+          sentence-text=" Δημητρίῳ μεμαρτύρηται ὑπὸ πάντων καὶ ὑπὸ αὐτῆς τῆς ἀληθείας·">
       <wg>
          <wg class="cl" rule="ADV-V-ADV">
-            <w role="adv"
+             <word role="adv"
                ref="3JN 1:12!1"
  
  book="3JN" 
@@ -3800,8 +3899,9 @@
                domain="093001"
                ln="93.93b"
                morph="N-DSM"
-               unicode="Δημητρίῳ">Δημητρίῳ</w>
-            <w role="v"
+               unicode="Δημητρίῳ" word="Δημητρίῳ"> 
+</word>
+             <word role="v"
                ref="3JN 1:12!2"
  
  book="3JN" 
@@ -3824,10 +3924,11 @@
                ln="33.263"
                morph="V-RPI-3S"
                unicode="μεμαρτύρηται"
-               frame="A1:n00000000000 A2:n64001012001">μεμαρτύρηται</w>
+               frame="A1:n00000000000 A2:n64001012001" word="μεμαρτύρηται"> 
+</word>
             <wg rule="Conj2Pp" role="adv">
                <wg class="pp" rule="PrepNp">
-                  <w ref="3JN 1:12!3"
+                   <word ref="3JN 1:12!3"
  
  book="3JN" 
  chapter="1" 
@@ -3843,8 +3944,9 @@
                      domain="090001"
                      ln="90.1"
                      morph="PREP"
-                     unicode="ὑπὸ">ὑπὸ</w>
-                  <w ref="3JN 1:12!4"
+                     unicode="ὑπὸ" word="ὑπὸ"> 
+</word>
+                   <word ref="3JN 1:12!4"
  
  book="3JN" 
  chapter="1" 
@@ -3863,10 +3965,11 @@
                      domain="059003"
                      ln="59.23"
                      morph="A-GPM"
-                     unicode="πάντων">πάντων</w>
+                     unicode="πάντων" word="πάντων"> 
+</word>
                </wg>
                <wg type="group">
-                  <w ref="3JN 1:12!5"
+                   <word ref="3JN 1:12!5"
  
  book="3JN" 
  chapter="1" 
@@ -3880,9 +3983,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="pp" articular="true" rule="PrepNp">
-                     <w ref="3JN 1:12!6"
+                      <word ref="3JN 1:12!6"
  
  book="3JN" 
  chapter="1" 
@@ -3896,9 +4000,10 @@
                         strong="5259"
                         gloss="by"
                         morph="PREP"
-                        unicode="ὑπὸ">ὑπὸ</w>
+                        unicode="ὑπὸ" word="ὑπὸ"> 
+</word>
                      <wg class="np" articular="true" rule="PronNP">
-                        <w ref="3JN 1:12!7"
+                         <word ref="3JN 1:12!7"
  
  book="3JN" 
  chapter="1" 
@@ -3917,9 +4022,10 @@
                            gloss="itself"
                            morph="P-GSF"
                            unicode="αὐτῆς"
-                           referent="n64001012009">αὐτῆς</w>
+                           referent="n64001012009" word="αὐτῆς"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="3JN 1:12!8"
+                            <word ref="3JN 1:12!8"
  
  book="3JN" 
  chapter="1" 
@@ -3938,8 +4044,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-GSF"
-                              unicode="τῆς">τῆς</w>
-                           <w ref="3JN 1:12!9"
+                              unicode="τῆς" word="τῆς"> 
+</word>
+                            <word ref="3JN 1:12!9"
  
  book="3JN" 
  chapter="1" 
@@ -3959,7 +4066,8 @@
                               domain="072001"
                               ln="72.2"
                               morph="N-GSF"
-                              unicode="ἀληθείας·">ἀληθείας</w>
+                              unicode="ἀληθείας·" word="ἀληθείας"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -3968,16 +4076,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="12"> </verse>
- καὶ ἡμεῖς δὲ μαρτυροῦμεν, καὶ οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν.</p>
+   <sentence sentence_number="16" 
+      
+          sentence-text=" καὶ ἡμεῖς δὲ μαρτυροῦμεν, καὶ οἶδας ὅτι ἡ μαρτυρία ἡμῶν ἀληθής ἐστιν.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:12!12"
+             <word ref="3JN 1:12!12"
  
  book="3JN" 
  chapter="1" 
@@ -3992,11 +4096,12 @@
                discontinuous="true"
                gloss="also"
                morph="CONJ"
-               unicode="δὲ">δὲ</w>
+               unicode="δὲ" word="δὲ"> 
+</word>
             <wg rule="CLaCL">
                <wg class="cl" rule="S-V" junction="coordinate">
                   <wg class="np" rule="AdvpNp" role="s">
-                     <w ref="3JN 1:12!10"
+                      <word ref="3JN 1:12!10"
  
  book="3JN" 
  chapter="1" 
@@ -4012,8 +4117,9 @@
                         domain="089017"
                         ln="89.93"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
-                     <w ref="3JN 1:12!11"
+                        unicode="καὶ" word="καὶ"> 
+</word>
+                      <word ref="3JN 1:12!11"
  
  book="3JN" 
  chapter="1" 
@@ -4033,9 +4139,10 @@
                         ln="92.4"
                         morph="P-1NP"
                         unicode="ἡμεῖς"
-                        referent="n64001001002 n64001010024">ἡμεῖς</w>
+                        referent="n64001001002 n64001010024" word="ἡμεῖς"> 
+</word>
                   </wg>
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:12!13"
  
  book="3JN" 
@@ -4058,10 +4165,11 @@
                      ln="33.262"
                      morph="V-PAI-1P"
                      unicode="μαρτυροῦμεν,"
-                     frame="A0:n64001012011">μαρτυροῦμεν</w>
+                     frame="A0:n64001012011" word="μαρτυροῦμεν"> 
+</word>
                </wg>
                <wg type="group">
-                  <w ref="3JN 1:12!14"
+                   <word ref="3JN 1:12!14"
  
  book="3JN" 
  chapter="1" 
@@ -4075,9 +4183,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg Rule="ClCl" class="cl" nodeId="640010120150070">
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:12!15"
  
  book="3JN" 
@@ -4101,9 +4210,10 @@
                         morph="V-RAI-2S"
                         unicode="οἶδας"
                         frame="A0:n64001011001"
-                        subjref="n64001011001">οἶδας</w>
+                        subjref="n64001011001" word="οἶδας"> 
+</word>
                      <wg rule="that-VP" role="o">
-                        <w ref="3JN 1:12!16"
+                         <word ref="3JN 1:12!16"
  
  book="3JN" 
  chapter="1" 
@@ -4117,10 +4227,11 @@
                            strong="3754"
                            gloss="that"
                            morph="CONJ"
-                           unicode="ὅτι">ὅτι</w>
+                           unicode="ὅτι" word="ὅτι"> 
+</word>
                         <wg class="cl" rule="S-P-VC">
                            <wg class="np" articular="true" rule="DetNP" role="s">
-                              <w ref="3JN 1:12!17"
+                               <word ref="3JN 1:12!17"
  
  book="3JN" 
  chapter="1" 
@@ -4139,9 +4250,10 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-NSF"
-                                 unicode="ἡ">ἡ</w>
+                                 unicode="ἡ" word="ἡ"> 
+</word>
                               <wg class="np" rule="NPofNP">
-                                 <w ref="3JN 1:12!18"
+                                  <word ref="3JN 1:12!18"
  
  book="3JN" 
  chapter="1" 
@@ -4161,8 +4273,9 @@
                                     domain="033020"
                                     ln="33.264"
                                     morph="N-NSF"
-                                    unicode="μαρτυρία">μαρτυρία</w>
-                                 <w ref="3JN 1:12!19"
+                                    unicode="μαρτυρία" word="μαρτυρία"> 
+</word>
+                                  <word ref="3JN 1:12!19"
  
  book="3JN" 
  chapter="1" 
@@ -4182,10 +4295,11 @@
                                     ln="92.4"
                                     morph="P-1GP"
                                     unicode="ἡμῶν"
-                                    referent="n64001001002 n64001010024">ἡμῶν</w>
+                                    referent="n64001001002 n64001010024" word="ἡμῶν"> 
+</word>
                               </wg>
                            </wg>
-                           <w role="p"
+                            <word role="p"
                               ref="3JN 1:12!20"
  
  book="3JN" 
@@ -4205,8 +4319,9 @@
                               domain="072001"
                               ln="72.1"
                               morph="A-NSF"
-                              unicode="ἀληθής">ἀληθής</w>
-                           <w role="vc"
+                              unicode="ἀληθής" word="ἀληθής"> 
+</word>
+                            <word role="vc"
                               ref="3JN 1:12!21"
  
  book="3JN" 
@@ -4226,7 +4341,8 @@
                               mood="indicative"
                               gloss="is"
                               morph="V-PAI-3S"
-                              unicode="ἐστιν.">ἐστιν</w>
+                              unicode="ἐστιν." word="ἐστιν"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -4235,17 +4351,13 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="13"> </verse>
- Πολλὰ εἶχον γράψαι σοι, ἀλλ’ οὐ θέλω διὰ μέλανος καὶ καλάμου σοι γράφειν·</p>
+   <sentence sentence_number="17" 
+      
+          sentence-text=" Πολλὰ εἶχον γράψαι σοι, ἀλλ’ οὐ θέλω διὰ μέλανος καὶ καλάμου σοι γράφειν·">
       <wg>
          <wg rule="CLaCL">
             <wg class="cl" rule="V-O" junction="coordinate">
-               <w role="v"
+                <word role="v"
                   ref="3JN 1:13!2"
  
  book="3JN" 
@@ -4268,9 +4380,10 @@
                   morph="V-IAI-1S"
                   unicode="εἶχον"
                   frame="A0:n64001001002 A1:n64001013003"
-                  subjref="n64001001002">εἶχον</w>
+                  subjref="n64001001002" word="εἶχον"> 
+</word>
                <wg class="cl" rule="O-V-IO" junction="subordinate" role="o">
-                  <w role="o"
+                   <word role="o"
                      ref="3JN 1:13!1"
  
  book="3JN" 
@@ -4288,8 +4401,9 @@
                      case="accusative"
                      gloss="Many things"
                      morph="A-APN"
-                     unicode="Πολλὰ">Πολλὰ</w>
-                  <w role="v"
+                     unicode="Πολλὰ" word="Πολλὰ"> 
+</word>
+                   <word role="v"
                      ref="3JN 1:13!3"
  
  book="3JN" 
@@ -4311,8 +4425,9 @@
                      morph="V-AAN"
                      unicode="γράψαι"
                      frame="A0:n64001001002 A1:n64001013001 A2:n64001013004"
-                     subjref="n64001001002">γράψαι</w>
-                  <w role="io"
+                     subjref="n64001001002" word="γράψαι"> 
+</word>
+                   <word role="io"
                      ref="3JN 1:13!4"
  
  book="3JN" 
@@ -4331,11 +4446,12 @@
                      gloss="to you"
                      morph="P-2DS"
                      unicode="σοι,"
-                     referent="n64001011001">σοι</w>
+                     referent="n64001011001" word="σοι"> 
+</word>
                </wg>
             </wg>
             <wg type="group">
-               <w ref="3JN 1:13!5"
+                <word ref="3JN 1:13!5"
  
  book="3JN" 
  chapter="1" 
@@ -4351,9 +4467,10 @@
                   domain="089023"
                   ln="89.125"
                   morph="CONJ"
-                  unicode="ἀλλ’">ἀλλ’</w>
+                  unicode="ἀλλ’" word="ἀλλ’"> 
+</word>
                <wg class="cl" rule="ADV-V-O" junction="coordinate">
-                  <w role="adv"
+                   <word role="adv"
                      ref="3JN 1:13!6"
  
  book="3JN" 
@@ -4368,8 +4485,9 @@
                      strong="3756"
                      gloss="not"
                      morph="PRT-N"
-                     unicode="οὐ">οὐ</w>
-                  <w role="v"
+                     unicode="οὐ" word="οὐ"> 
+</word>
+                   <word role="v"
                      ref="3JN 1:13!7"
  
  book="3JN" 
@@ -4393,10 +4511,11 @@
                      morph="V-PAI-1S"
                      unicode="θέλω"
                      frame="A0:n64001001002 A1:n64001013013"
-                     subjref="n64001001002">θέλω</w>
+                     subjref="n64001001002" word="θέλω"> 
+</word>
                   <wg class="cl" rule="ADV-IO-V" junction="subordinate" role="o">
                      <wg class="pp" rule="PrepNp" role="adv">
-                        <w ref="3JN 1:13!8"
+                         <word ref="3JN 1:13!8"
  
  book="3JN" 
  chapter="1" 
@@ -4410,9 +4529,10 @@
                            strong="1223"
                            gloss="with"
                            morph="PREP"
-                           unicode="διὰ">διὰ</w>
+                           unicode="διὰ" word="διὰ"> 
+</word>
                         <wg rule="NpaNp">
-                           <w ref="3JN 1:13!9"
+                            <word ref="3JN 1:13!9"
  
  book="3JN" 
  chapter="1" 
@@ -4431,9 +4551,10 @@
                               domain="006010"
                               ln="6.57"
                               morph="A-GSN"
-                              unicode="μέλανος">μέλανος</w>
+                              unicode="μέλανος" word="μέλανος"> 
+</word>
                            <wg type="group">
-                              <w ref="3JN 1:13!10"
+                               <word ref="3JN 1:13!10"
  
  book="3JN" 
  chapter="1" 
@@ -4447,8 +4568,9 @@
                                  strong="2532"
                                  gloss="and"
                                  morph="CONJ"
-                                 unicode="καὶ">καὶ</w>
-                              <w ref="3JN 1:13!11"
+                                 unicode="καὶ" word="καὶ"> 
+</word>
+                               <word ref="3JN 1:13!11"
  
  book="3JN" 
  chapter="1" 
@@ -4468,11 +4590,12 @@
                                  domain="006010"
                                  ln="6.56"
                                  morph="N-GSM"
-                                 unicode="καλάμου">καλάμου</w>
+                                 unicode="καλάμου" word="καλάμου"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
-                     <w role="io"
+                      <word role="io"
                         ref="3JN 1:13!12"
  
  book="3JN" 
@@ -4491,8 +4614,9 @@
                         gloss="to you"
                         morph="P-2DS"
                         unicode="σοι"
-                        referent="n64001011001">σοι</w>
-                     <w role="v"
+                        referent="n64001011001" word="σοι"> 
+</word>
+                      <word role="v"
                         ref="3JN 1:13!13"
  
  book="3JN" 
@@ -4514,23 +4638,20 @@
                         morph="V-PAN"
                         unicode="γράφειν·"
                         frame="A0:n64001001002 A2:n64001013012"
-                        subjref="n64001001002">γράφειν</w>
+                        subjref="n64001001002" word="γράφειν"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="14"> </verse>
- ἐλπίζω δὲ εὐθέως σε ἰδεῖν, καὶ στόμα πρὸς στόμα λαλήσομεν.</p>
+   <sentence sentence_number="18" 
+      
+          sentence-text=" ἐλπίζω δὲ εὐθέως σε ἰδεῖν, καὶ στόμα πρὸς στόμα λαλήσομεν.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="3JN 1:14!2"
+             <word ref="3JN 1:14!2"
  
  book="3JN" 
  chapter="1" 
@@ -4547,10 +4668,11 @@
                domain="089023"
                ln="89.124"
                morph="CONJ"
-               unicode="δὲ">δὲ</w>
+               unicode="δὲ" word="δὲ"> 
+</word>
             <wg rule="CLaCL">
                <wg class="cl" rule="V-O" junction="coordinate">
-                  <w role="v"
+                   <word role="v"
                      ref="3JN 1:14!1"
  
  book="3JN" 
@@ -4574,9 +4696,10 @@
                      morph="V-PAI-1S"
                      unicode="ἐλπίζω"
                      frame="A0:n64001001002 A1:n64001014005"
-                     subjref="n64001001002">ἐλπίζω</w>
+                     subjref="n64001001002" word="ἐλπίζω"> 
+</word>
                   <wg class="cl" rule="ADV-O-V" junction="subordinate" role="o">
-                     <w role="adv"
+                      <word role="adv"
                         ref="3JN 1:14!3"
  
  book="3JN" 
@@ -4593,8 +4716,9 @@
                         domain="067002"
                         ln="67.53"
                         morph="ADV"
-                        unicode="εὐθέως">εὐθέως</w>
-                     <w role="o"
+                        unicode="εὐθέως" word="εὐθέως"> 
+</word>
+                      <word role="o"
                         ref="3JN 1:14!4"
  
  book="3JN" 
@@ -4613,8 +4737,9 @@
                         gloss="you"
                         morph="P-2AS"
                         unicode="σε"
-                        referent="n64001011001">σε</w>
-                     <w role="v"
+                        referent="n64001011001" word="σε"> 
+</word>
+                      <word role="v"
                         ref="3JN 1:14!5"
  
  book="3JN" 
@@ -4636,11 +4761,12 @@
                         morph="V-2AAN"
                         unicode="ἰδεῖν,"
                         frame="A0:n64001001002 A1:n64001014004"
-                        subjref="n64001001002">ἰδεῖν</w>
+                        subjref="n64001001002" word="ἰδεῖν"> 
+</word>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="3JN 1:14!6"
+                   <word ref="3JN 1:14!6"
  
  book="3JN" 
  chapter="1" 
@@ -4654,10 +4780,11 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="cl" rule="ADV-V" junction="coordinate">
                      <wg class="np" rule="NpPp" role="adv">
-                        <w ref="3JN 1:14!7"
+                         <word ref="3JN 1:14!7"
  
  book="3JN" 
  chapter="1" 
@@ -4677,9 +4804,10 @@
                            domain="083006"
                            ln="83.39"
                            morph="N-ASN"
-                           unicode="στόμα">στόμα</w>
+                           unicode="στόμα" word="στόμα"> 
+</word>
                         <wg class="pp" rule="PrepNp">
-                           <w ref="3JN 1:14!8"
+                            <word ref="3JN 1:14!8"
  
  book="3JN" 
  chapter="1" 
@@ -4693,8 +4821,9 @@
                               strong="4314"
                               gloss="to"
                               morph="PREP"
-                              unicode="πρὸς">πρὸς</w>
-                           <w ref="3JN 1:14!9"
+                              unicode="πρὸς" word="πρὸς"> 
+</word>
+                            <word ref="3JN 1:14!9"
  
  book="3JN" 
  chapter="1" 
@@ -4714,10 +4843,11 @@
                               domain="083006"
                               ln="83.39"
                               morph="N-ASN"
-                              unicode="στόμα">στόμα</w>
+                              unicode="στόμα" word="στόμα"> 
+</word>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="3JN 1:14!10"
  
  book="3JN" 
@@ -4741,23 +4871,20 @@
                         morph="V-FAI-1P"
                         unicode="λαλήσομεν."
                         frame="A0:n64001001002;n64001011001"
-                        subjref="n64001001002 n64001011001">λαλήσομεν</w>
+                        subjref="n64001001002 n64001011001" word="λαλήσομεν"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="15"> </verse>
- Εἰρήνη σοι.</p>
+   <sentence sentence_number="19" 
+      
+          sentence-text=" Εἰρήνη σοι.">
       <wg>
          <wg class="cl" rule="S-IO" cltype="VerbElided">
-            <w role="s"
+             <word role="s"
                ref="3JN 1:15!1"
  
  book="3JN" 
@@ -4778,8 +4905,9 @@
                domain="022007"
                ln="22.42"
                morph="N-NSF"
-               unicode="Εἰρήνη">Εἰρήνη</w>
-            <w role="io"
+               unicode="Εἰρήνη" word="Εἰρήνη"> 
+</word>
+             <word role="io"
                ref="3JN 1:15!2"
  
  book="3JN" 
@@ -4798,20 +4926,17 @@
                gloss="to you"
                morph="P-2DS"
                unicode="σοι."
-               referent="n64001011001">σοι</w>
+               referent="n64001011001" word="σοι"> 
+</word>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="15"> </verse>
- ἀσπάζονταί σε οἱ φίλοι.</p>
+   <sentence sentence_number="20" 
+      
+          sentence-text=" ἀσπάζονταί σε οἱ φίλοι.">
       <wg>
          <wg class="cl" rule="V-O-S">
-            <w role="v"
+             <word role="v"
                ref="3JN 1:15!3"
  
  book="3JN" 
@@ -4834,8 +4959,9 @@
                ln="33.20"
                morph="V-PNI-3P"
                unicode="ἀσπάζονταί"
-               frame="A1:n64001015004 A0:n64001015006">ἀσπάζονταί</w>
-            <w role="o"
+               frame="A1:n64001015004 A0:n64001015006" word="ἀσπάζονταί"> 
+</word>
+             <word role="o"
                ref="3JN 1:15!4"
  
  book="3JN" 
@@ -4854,9 +4980,10 @@
                gloss="you"
                morph="P-2AS"
                unicode="σε"
-               referent="n64001011001">σε</w>
+               referent="n64001011001" word="σε"> 
+</word>
             <wg class="np" articular="true" rule="DetAdj" role="s">
-               <w ref="3JN 1:15!5"
+                <word ref="3JN 1:15!5"
  
  book="3JN" 
  chapter="1" 
@@ -4875,8 +5002,9 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NPM"
-                  unicode="οἱ">οἱ</w>
-               <w ref="3JN 1:15!6"
+                  unicode="οἱ" word="οἱ"> 
+</word>
+                <word ref="3JN 1:15!6"
  
  book="3JN" 
  chapter="1" 
@@ -4895,21 +5023,18 @@
                   domain="034001"
                   ln="34.11"
                   morph="A-NPM"
-                  unicode="φίλοι.">φίλοι</w>
+                  unicode="φίλοι." word="φίλοι"> 
+</word>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="3JN" 
- chapter="1" 
- verse="15"> </verse>
- ἀσπάζου τοὺς φίλους κατ’ ὄνομα.</p>
+   <sentence sentence_number="21" 
+      
+          sentence-text=" ἀσπάζου τοὺς φίλους κατ’ ὄνομα.">
       <wg>
          <wg class="cl" rule="V-O-ADV">
-            <w role="v"
+             <word role="v"
                ref="3JN 1:15!7"
  
  book="3JN" 
@@ -4933,9 +5058,10 @@
                morph="V-PNM-2S"
                unicode="ἀσπάζου"
                frame="A0:n64001011001 A1:n64001015009"
-               subjref="n64001011001">ἀσπάζου</w>
+               subjref="n64001011001" word="ἀσπάζου"> 
+</word>
             <wg class="np" articular="true" rule="DetAdj" role="o">
-               <w ref="3JN 1:15!8"
+                <word ref="3JN 1:15!8"
  
  book="3JN" 
  chapter="1" 
@@ -4954,8 +5080,9 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-APM"
-                  unicode="τοὺς">τοὺς</w>
-               <w ref="3JN 1:15!9"
+                  unicode="τοὺς" word="τοὺς"> 
+</word>
+                <word ref="3JN 1:15!9"
  
  book="3JN" 
  chapter="1" 
@@ -4974,10 +5101,11 @@
                   domain="034001"
                   ln="34.11"
                   morph="A-APM"
-                  unicode="φίλους">φίλους</w>
+                  unicode="φίλους" word="φίλους"> 
+</word>
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="3JN 1:15!10"
+                <word ref="3JN 1:15!10"
  
  book="3JN" 
  chapter="1" 
@@ -4993,8 +5121,9 @@
                   domain="089016"
                   ln="89.90"
                   morph="PREP"
-                  unicode="κατ’">κατ’</w>
-               <w ref="3JN 1:15!11"
+                  unicode="κατ’" word="κατ’"> 
+</word>
+                <word ref="3JN 1:15!11"
  
  book="3JN" 
  chapter="1" 
@@ -5014,7 +5143,8 @@
                   domain="033009"
                   ln="33.126"
                   morph="N-ASN"
-                  unicode="ὄνομα.">ὄνομα</w>
+                  unicode="ὄνομα." word="ὄνομα"> 
+</word>
             </wg>
          </wg>
       </wg>

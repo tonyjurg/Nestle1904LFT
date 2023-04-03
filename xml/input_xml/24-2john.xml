@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="treedown.css"?>
 <?xml-stylesheet href="boxwood.css"?>
-<book lang="el"  book_short="2JN">
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="1"> </verse>
- 
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="2"> </verse>
- Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν, διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα.</p>
+<book  book_num="13" book_short="2JN">
+   <sentence sentence_number="1" 
+      
+          sentence-text=" Ὁ πρεσβύτερος ἐκλεκτῇ κυρίᾳ καὶ τοῖς τέκνοις αὐτῆς, οὓς ἐγὼ ἀγαπῶ ἐν ἀληθείᾳ, καὶ οὐκ ἐγὼ μόνος ἀλλὰ καὶ πάντες οἱ ἐγνωκότες τὴν ἀλήθειαν, διὰ τὴν ἀλήθειαν τὴν μένουσαν ἐν ἡμῖν, καὶ μεθ’ ἡμῶν ἔσται εἰς τὸν αἰῶνα.">
       <wg>
          <wg articular="true" rule="CLaCL">
             <wg class="cl"
@@ -22,7 +13,7 @@
                 cltype="VerbElided"
                 junction="coordinate">
                <wg class="np" articular="true" rule="DetAdj" role="s">
-                  <w ref="2JN 1:1!1"
+                   <word ref="2JN 1:1!1"
  
  book="2JN" 
  chapter="1" 
@@ -41,8 +32,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-NSM"
-                     unicode="Ὁ">Ὁ</w>
-                  <w ref="2JN 1:1!2"
+                     unicode="Ὁ" word="Ὁ"> 
+</word>
+                   <word ref="2JN 1:1!2"
  
  book="2JN" 
  chapter="1" 
@@ -62,12 +54,13 @@
                      domain="053009"
                      ln="53.77"
                      morph="A-NSM-C"
-                     unicode="πρεσβύτερος">πρεσβύτερος</w>
+                     unicode="πρεσβύτερος" word="πρεσβύτερος"> 
+</word>
                </wg>
                <wg class="np" type="apposition" rule="NP-CL" role="io">
                   <wg rule="NpaNp">
                      <wg class="np" rule="AdjpNp">
-                        <w ref="2JN 1:1!3"
+                         <word ref="2JN 1:1!3"
  
  book="2JN" 
  chapter="1" 
@@ -86,8 +79,9 @@
                            domain="030006"
                            ln="30.93"
                            morph="A-DSF"
-                           unicode="ἐκλεκτῇ">ἐκλεκτῇ</w>
-                        <w ref="2JN 1:1!4"
+                           unicode="ἐκλεκτῇ" word="ἐκλεκτῇ"> 
+</word>
+                         <word ref="2JN 1:1!4"
  
  book="2JN" 
  chapter="1" 
@@ -107,10 +101,11 @@
                            domain="087003"
                            ln="87.54"
                            morph="N-DSF"
-                           unicode="κυρίᾳ">κυρίᾳ</w>
+                           unicode="κυρίᾳ" word="κυρίᾳ"> 
+</word>
                      </wg>
                      <wg type="group">
-                        <w ref="2JN 1:1!5"
+                         <word ref="2JN 1:1!5"
  
  book="2JN" 
  chapter="1" 
@@ -124,9 +119,10 @@
                            strong="2532"
                            gloss="and"
                            morph="CONJ"
-                           unicode="καὶ">καὶ</w>
+                           unicode="καὶ" word="καὶ"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="2JN 1:1!6"
+                            <word ref="2JN 1:1!6"
  
  book="2JN" 
  chapter="1" 
@@ -145,9 +141,10 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-DPN"
-                              unicode="τοῖς">τοῖς</w>
+                              unicode="τοῖς" word="τοῖς"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="2JN 1:1!7"
+                               <word ref="2JN 1:1!7"
  
  book="2JN" 
  chapter="1" 
@@ -167,8 +164,9 @@
                                  domain="010002"
                                  ln="10.36"
                                  morph="N-DPN"
-                                 unicode="τέκνοις">τέκνοις</w>
-                              <w ref="2JN 1:1!8"
+                                 unicode="τέκνοις" word="τέκνοις"> 
+</word>
+                               <word ref="2JN 1:1!8"
  
  book="2JN" 
  chapter="1" 
@@ -187,7 +185,8 @@
                                  gloss="of her"
                                  morph="P-GSF"
                                  unicode="αὐτῆς,"
-                                 referent="n63001001004">αὐτῆς</w>
+                                 referent="n63001001004" word="αὐτῆς"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -196,7 +195,7 @@
                       clauseType="nominalized"
                       rule="O-V-ADV-S-ADV"
                       junction="apposition">
-                     <w role="o"
+                      <word role="o"
                         ref="2JN 1:1!9"
  
  book="2JN" 
@@ -216,8 +215,9 @@
                         gloss="whom"
                         morph="R-APM"
                         unicode="οὓς"
-                        referent="n63001001004 n63001001007">οὓς</w>
-                     <w role="v"
+                        referent="n63001001004 n63001001007" word="οὓς"> 
+</word>
+                      <word role="v"
                         ref="2JN 1:1!11"
  
  book="2JN" 
@@ -240,9 +240,10 @@
                         ln="25.43"
                         morph="V-PAI-1S"
                         unicode="ἀγαπῶ"
-                        frame="A1:n63001001009 A0:n63001001010;n63001001015;n63001001016;n63001001022">ἀγαπῶ</w>
+                        frame="A1:n63001001009 A0:n63001001010;n63001001015;n63001001016;n63001001022" word="ἀγαπῶ"> 
+</word>
                      <wg class="pp" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:1!12"
+                         <word ref="2JN 1:1!12"
  
  book="2JN" 
  chapter="1" 
@@ -258,8 +259,9 @@
                            domain="070"
                            ln="70.4"
                            morph="PREP"
-                           unicode="ἐν">ἐν</w>
-                        <w ref="2JN 1:1!13"
+                           unicode="ἐν" word="ἐν"> 
+</word>
+                         <word ref="2JN 1:1!13"
  
  book="2JN" 
  chapter="1" 
@@ -280,10 +282,11 @@
                            domain="070"
                            ln="70.4"
                            morph="N-DSF"
-                           unicode="ἀληθείᾳ,">ἀληθείᾳ</w>
+                           unicode="ἀληθείᾳ," word="ἀληθείᾳ"> 
+</word>
                      </wg>
                      <wg rule="NpaNp" role="s">
-                        <w ref="2JN 1:1!10"
+                         <word ref="2JN 1:1!10"
  
  book="2JN" 
  chapter="1" 
@@ -303,9 +306,10 @@
                            ln="92.1"
                            morph="P-1NS"
                            unicode="ἐγὼ"
-                           referent="n63001001002">ἐγὼ</w>
+                           referent="n63001001002" word="ἐγὼ"> 
+</word>
                         <wg type="group">
-                           <w ref="2JN 1:1!14"
+                            <word ref="2JN 1:1!14"
  
  book="2JN" 
  chapter="1" 
@@ -319,9 +323,10 @@
                               strong="2532"
                               gloss="and"
                               morph="CONJ"
-                              unicode="καὶ">καὶ</w>
+                              unicode="καὶ" word="καὶ"> 
+</word>
                            <wg type="group" articular="true" rule="notNPbutNP">
-                              <w ref="2JN 1:1!15"
+                               <word ref="2JN 1:1!15"
  
  book="2JN" 
  chapter="1" 
@@ -335,9 +340,10 @@
                                  strong="3756"
                                  gloss="not"
                                  morph="PRT-N"
-                                 unicode="οὐκ">οὐκ</w>
+                                 unicode="οὐκ" word="οὐκ"> 
+</word>
                               <wg class="np" rule="NpAdjp">
-                                 <w ref="2JN 1:1!16"
+                                  <word ref="2JN 1:1!16"
  
  book="2JN" 
  chapter="1" 
@@ -357,8 +363,9 @@
                                     ln="92.1"
                                     morph="P-1NS"
                                     unicode="ἐγὼ"
-                                    referent="n63001001002">ἐγὼ</w>
-                                 <w ref="2JN 1:1!17"
+                                    referent="n63001001002" word="ἐγὼ"> 
+</word>
+                                  <word ref="2JN 1:1!17"
  
  book="2JN" 
  chapter="1" 
@@ -377,9 +384,10 @@
                                     domain="058007"
                                     ln="58.51"
                                     morph="A-NSM"
-                                    unicode="μόνος">μόνος</w>
+                                    unicode="μόνος" word="μόνος"> 
+</word>
                               </wg>
-                              <w ref="2JN 1:1!18"
+                               <word ref="2JN 1:1!18"
  
  book="2JN" 
  chapter="1" 
@@ -395,9 +403,10 @@
                                  domain="089023"
                                  ln="89.125"
                                  morph="CONJ"
-                                 unicode="ἀλλὰ">ἀλλὰ</w>
+                                 unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
                               <wg class="np" articular="true" rule="AdvpNp">
-                                 <w ref="2JN 1:1!19"
+                                  <word ref="2JN 1:1!19"
  
  book="2JN" 
  chapter="1" 
@@ -411,9 +420,10 @@
                                     strong="2532"
                                     gloss="also"
                                     morph="CONJ"
-                                    unicode="καὶ">καὶ</w>
+                                    unicode="καὶ" word="καὶ"> 
+</word>
                                  <wg class="np" articular="true" rule="All-NP">
-                                    <w ref="2JN 1:1!20"
+                                     <word ref="2JN 1:1!20"
  
  book="2JN" 
  chapter="1" 
@@ -432,9 +442,10 @@
                                        domain="059003"
                                        ln="59.24"
                                        morph="A-NPM"
-                                       unicode="πάντες">πάντες</w>
+                                       unicode="πάντες" word="πάντες"> 
+</word>
                                     <wg articular="true" rule="DetCL">
-                                       <w ref="2JN 1:1!21"
+                                        <word ref="2JN 1:1!21"
  
  book="2JN" 
  chapter="1" 
@@ -453,9 +464,10 @@
                                           domain="092004"
                                           ln="92.24"
                                           morph="T-NPM"
-                                          unicode="οἱ">οἱ</w>
+                                          unicode="οἱ" word="οἱ"> 
+</word>
                                        <wg class="cl" clauseType="nominalized" rule="V-O">
-                                          <w role="v"
+                                           <word role="v"
                                              ref="2JN 1:1!22"
  
  book="2JN" 
@@ -479,9 +491,10 @@
                                              ln="32.16"
                                              morph="V-RAP-NPM"
                                              unicode="ἐγνωκότες"
-                                             frame="A0:n00000000000 A1:n63001001024">ἐγνωκότες</w>
+                                             frame="A0:n00000000000 A1:n63001001024" word="ἐγνωκότες"> 
+</word>
                                           <wg class="np" articular="true" rule="DetNP" role="o">
-                                             <w ref="2JN 1:1!23"
+                                              <word ref="2JN 1:1!23"
  
  book="2JN" 
  chapter="1" 
@@ -500,8 +513,9 @@
                                                 domain="092004"
                                                 ln="92.24"
                                                 morph="T-ASF"
-                                                unicode="τὴν">τὴν</w>
-                                             <w ref="2JN 1:1!24"
+                                                unicode="τὴν" word="τὴν"> 
+</word>
+                                              <word ref="2JN 1:1!24"
  
  book="2JN" 
  chapter="1" 
@@ -521,7 +535,8 @@
                                                 domain="072001"
                                                 ln="72.2"
                                                 morph="N-ASF"
-                                                unicode="ἀλήθειαν,">ἀλήθειαν</w>
+                                                unicode="ἀλήθειαν," word="ἀλήθειαν"> 
+</word>
                                           </wg>
                                        </wg>
                                     </wg>
@@ -531,7 +546,7 @@
                         </wg>
                      </wg>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:2!1"
+                         <word ref="2JN 1:2!1"
  
  book="2JN" 
  chapter="1" 
@@ -547,10 +562,11 @@
                            domain="089007"
                            ln="89.26"
                            morph="PREP"
-                           unicode="διὰ">διὰ</w>
+                           unicode="διὰ" word="διὰ"> 
+</word>
                         <wg type="apposition" class="np" articular="true" rule="Np-Appos">
                            <wg class="np" articular="true" rule="DetNP">
-                              <w ref="2JN 1:2!2"
+                               <word ref="2JN 1:2!2"
  
  book="2JN" 
  chapter="1" 
@@ -569,8 +585,9 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-ASF"
-                                 unicode="τὴν">τὴν</w>
-                              <w ref="2JN 1:2!3"
+                                 unicode="τὴν" word="τὴν"> 
+</word>
+                               <word ref="2JN 1:2!3"
  
  book="2JN" 
  chapter="1" 
@@ -590,10 +607,11 @@
                                  domain="072001"
                                  ln="72.2"
                                  morph="N-ASF"
-                                 unicode="ἀλήθειαν">ἀλήθειαν</w>
+                                 unicode="ἀλήθειαν" word="ἀλήθειαν"> 
+</word>
                            </wg>
                            <wg junction="apposition" articular="true" rule="DetCL">
-                              <w ref="2JN 1:2!4"
+                               <word ref="2JN 1:2!4"
  
  book="2JN" 
  chapter="1" 
@@ -612,9 +630,10 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-ASF"
-                                 unicode="τὴν">τὴν</w>
+                                 unicode="τὴν" word="τὴν"> 
+</word>
                               <wg class="cl" clauseType="nominalized" rule="V-ADV">
-                                 <w role="v"
+                                  <word role="v"
                                     ref="2JN 1:2!5"
  
  book="2JN" 
@@ -639,9 +658,10 @@
                                     morph="V-PAP-ASF"
                                     unicode="μένουσαν"
                                     frame="A0:n63001002003"
-                                    subjref="n63001002003">μένουσαν</w>
+                                    subjref="n63001002003" word="μένουσαν"> 
+</word>
                                  <wg class="pp" rule="PrepNp" role="adv">
-                                    <w ref="2JN 1:2!6"
+                                     <word ref="2JN 1:2!6"
  
  book="2JN" 
  chapter="1" 
@@ -657,8 +677,9 @@
                                        domain="089020"
                                        ln="89.119"
                                        morph="PREP"
-                                       unicode="ἐν">ἐν</w>
-                                    <w ref="2JN 1:2!7"
+                                       unicode="ἐν" word="ἐν"> 
+</word>
+                                     <word ref="2JN 1:2!7"
  
  book="2JN" 
  chapter="1" 
@@ -678,7 +699,8 @@
                                        ln="92.4"
                                        morph="P-1DP"
                                        unicode="ἡμῖν,"
-                                       referent="n63001001002 n63001001004 n63001001007 n63001001022">ἡμῖν</w>
+                                       referent="n63001001002 n63001001004 n63001001007 n63001001022" word="ἡμῖν"> 
+</word>
                                  </wg>
                               </wg>
                            </wg>
@@ -688,7 +710,7 @@
                </wg>
             </wg>
             <wg type="group">
-               <w ref="2JN 1:2!8"
+                <word ref="2JN 1:2!8"
  
  book="2JN" 
  chapter="1" 
@@ -702,10 +724,11 @@
                   strong="2532"
                   gloss="and"
                   morph="CONJ"
-                  unicode="καὶ">καὶ</w>
+                  unicode="καὶ" word="καὶ"> 
+</word>
                <wg class="cl" rule="P-VC-ADV" junction="coordinate">
                   <wg class="pp" rule="PrepNp" role="p">
-                     <w ref="2JN 1:2!9"
+                      <word ref="2JN 1:2!9"
  
  book="2JN" 
  chapter="1" 
@@ -721,8 +744,9 @@
                         domain="089020"
                         ln="89.108"
                         morph="PREP"
-                        unicode="μεθ’">μεθ’</w>
-                     <w ref="2JN 1:2!10"
+                        unicode="μεθ’" word="μεθ’"> 
+</word>
+                      <word ref="2JN 1:2!10"
  
  book="2JN" 
  chapter="1" 
@@ -742,9 +766,10 @@
                         ln="92.4"
                         morph="P-1GP"
                         unicode="ἡμῶν"
-                        referent="n63001001002 n63001001004 n63001001007 n63001001022">ἡμῶν</w>
+                        referent="n63001001002 n63001001004 n63001001007 n63001001022" word="ἡμῶν"> 
+</word>
                   </wg>
-                  <w role="vc"
+                   <word role="vc"
                      ref="2JN 1:2!11"
  
  book="2JN" 
@@ -765,9 +790,10 @@
                      gloss="that will be"
                      morph="V-FDI-3S"
                      unicode="ἔσται"
-                     subjref="n63001002003">ἔσται</w>
+                     subjref="n63001002003" word="ἔσται"> 
+</word>
                   <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                     <w ref="2JN 1:2!12"
+                      <word ref="2JN 1:2!12"
  
  book="2JN" 
  chapter="1" 
@@ -781,9 +807,10 @@
                         strong="1519"
                         gloss="to"
                         morph="PREP"
-                        unicode="εἰς">εἰς</w>
+                        unicode="εἰς" word="εἰς"> 
+</word>
                      <wg class="np" articular="true" rule="DetNP">
-                        <w ref="2JN 1:2!13"
+                         <word ref="2JN 1:2!13"
  
  book="2JN" 
  chapter="1" 
@@ -802,8 +829,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-ASM"
-                           unicode="τὸν">τὸν</w>
-                        <w ref="2JN 1:2!14"
+                           unicode="τὸν" word="τὸν"> 
+</word>
+                         <word ref="2JN 1:2!14"
  
  book="2JN" 
  chapter="1" 
@@ -823,7 +851,8 @@
                            domain="067005"
                            ln="67.95"
                            morph="N-ASM"
-                           unicode="αἰῶνα.">αἰῶνα</w>
+                           unicode="αἰῶνα." word="αἰῶνα"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -831,16 +860,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="3"> </verse>
- ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ Θεοῦ Πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ Υἱοῦ τοῦ Πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.</p>
+   <sentence sentence_number="2" 
+      
+          sentence-text=" ἔσται μεθ’ ἡμῶν χάρις ἔλεος εἰρήνη παρὰ Θεοῦ Πατρός, καὶ παρὰ Ἰησοῦ Χριστοῦ τοῦ Υἱοῦ τοῦ Πατρός, ἐν ἀληθείᾳ καὶ ἀγάπῃ.">
       <wg>
          <wg class="cl" rule="VC-P-S-ADV">
-            <w role="vc"
+             <word role="vc"
                ref="2JN 1:3!1"
  
  book="2JN" 
@@ -862,9 +887,10 @@
                domain="013001"
                ln="13.1"
                morph="V-FDI-3S"
-               unicode="ἔσται">ἔσται</w>
+               unicode="ἔσται" word="ἔσται"> 
+</word>
             <wg class="pp" rule="PrepNp" role="p">
-               <w ref="2JN 1:3!2"
+                <word ref="2JN 1:3!2"
  
  book="2JN" 
  chapter="1" 
@@ -880,8 +906,9 @@
                   domain="090013"
                   ln="90.60"
                   morph="PREP"
-                  unicode="μεθ’">μεθ’</w>
-               <w ref="2JN 1:3!3"
+                  unicode="μεθ’" word="μεθ’"> 
+</word>
+                <word ref="2JN 1:3!3"
  
  book="2JN" 
  chapter="1" 
@@ -901,11 +928,12 @@
                   ln="92.4"
                   morph="P-1GP"
                   unicode="ἡμῶν"
-                  referent="n63001001002 n63001001004 n63001001007 n63001001022">ἡμῶν</w>
+                  referent="n63001001002 n63001001004 n63001001007 n63001001022" word="ἡμῶν"> 
+</word>
             </wg>
             <wg class="np" rule="NpPp" role="s">
                <wg type="group" rule="NpNpNp">
-                  <w ref="2JN 1:3!4"
+                   <word ref="2JN 1:3!4"
  
  book="2JN" 
  chapter="1" 
@@ -925,8 +953,9 @@
                      domain="088009"
                      ln="88.66"
                      morph="N-NSF"
-                     unicode="χάρις">χάρις</w>
-                  <w ref="2JN 1:3!5"
+                     unicode="χάρις" word="χάρις"> 
+</word>
+                   <word ref="2JN 1:3!5"
  
  book="2JN" 
  chapter="1" 
@@ -946,8 +975,9 @@
                      domain="088010"
                      ln="88.76"
                      morph="N-NSN"
-                     unicode="ἔλεος">ἔλεος</w>
-                  <w ref="2JN 1:3!6"
+                     unicode="ἔλεος" word="ἔλεος"> 
+</word>
+                   <word ref="2JN 1:3!6"
  
  book="2JN" 
  chapter="1" 
@@ -967,11 +997,12 @@
                      domain="022007"
                      ln="22.42"
                      morph="N-NSF"
-                     unicode="εἰρήνη">εἰρήνη</w>
+                     unicode="εἰρήνη" word="εἰρήνη"> 
+</word>
                </wg>
                <wg rule="Conj2Pp">
                   <wg class="pp" rule="PrepNp">
-                     <w ref="2JN 1:3!7"
+                      <word ref="2JN 1:3!7"
  
  book="2JN" 
  chapter="1" 
@@ -987,9 +1018,10 @@
                         domain="090003"
                         ln="90.14"
                         morph="PREP"
-                        unicode="παρὰ">παρὰ</w>
+                        unicode="παρὰ" word="παρὰ"> 
+</word>
                      <wg type="apposition" class="np" rule="Np-Appos">
-                        <w ref="2JN 1:3!8"
+                         <word ref="2JN 1:3!8"
  
  book="2JN" 
  chapter="1" 
@@ -1009,8 +1041,9 @@
                            domain="012001"
                            ln="12.1"
                            morph="N-GSM"
-                           unicode="Θεοῦ">Θεοῦ</w>
-                        <w ref="2JN 1:3!9"
+                           unicode="Θεοῦ" word="Θεοῦ"> 
+</word>
+                         <word ref="2JN 1:3!9"
  
  book="2JN" 
  chapter="1" 
@@ -1030,11 +1063,12 @@
                            domain="012001"
                            ln="12.12"
                            morph="N-GSM"
-                           unicode="Πατρός,">Πατρός</w>
+                           unicode="Πατρός," word="Πατρός"> 
+</word>
                      </wg>
                   </wg>
                   <wg type="group">
-                     <w ref="2JN 1:3!10"
+                      <word ref="2JN 1:3!10"
  
  book="2JN" 
  chapter="1" 
@@ -1048,9 +1082,10 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
+                        unicode="καὶ" word="καὶ"> 
+</word>
                      <wg class="pp" rule="PrepNp">
-                        <w ref="2JN 1:3!11"
+                         <word ref="2JN 1:3!11"
  
  book="2JN" 
  chapter="1" 
@@ -1064,10 +1099,11 @@
                            strong="3844"
                            gloss="from"
                            morph="PREP"
-                           unicode="παρὰ">παρὰ</w>
+                           unicode="παρὰ" word="παρὰ"> 
+</word>
                         <wg type="apposition" class="np" rule="Np-Appos">
                            <wg type="apposition" class="np" rule="Np-Appos">
-                              <w ref="2JN 1:3!12"
+                               <word ref="2JN 1:3!12"
  
  book="2JN" 
  chapter="1" 
@@ -1087,8 +1123,9 @@
                                  domain="093001"
                                  ln="93.169a"
                                  morph="N-GSM"
-                                 unicode="Ἰησοῦ">Ἰησοῦ</w>
-                              <w ref="2JN 1:3!13"
+                                 unicode="Ἰησοῦ" word="Ἰησοῦ"> 
+</word>
+                               <word ref="2JN 1:3!13"
  
  book="2JN" 
  chapter="1" 
@@ -1108,10 +1145,11 @@
                                  domain="093001"
                                  ln="93.387"
                                  morph="N-GSM"
-                                 unicode="Χριστοῦ">Χριστοῦ</w>
+                                 unicode="Χριστοῦ" word="Χριστοῦ"> 
+</word>
                            </wg>
                            <wg class="np" junction="apposition" articular="true" rule="DetNP">
-                              <w ref="2JN 1:3!14"
+                               <word ref="2JN 1:3!14"
  
  book="2JN" 
  chapter="1" 
@@ -1130,9 +1168,10 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-GSM"
-                                 unicode="τοῦ">τοῦ</w>
+                                 unicode="τοῦ" word="τοῦ"> 
+</word>
                               <wg class="np" rule="NPofNP">
-                                 <w ref="2JN 1:3!15"
+                                  <word ref="2JN 1:3!15"
  
  book="2JN" 
  chapter="1" 
@@ -1152,9 +1191,10 @@
                                     domain="012001"
                                     ln="12.15"
                                     morph="N-GSM"
-                                    unicode="Υἱοῦ">Υἱοῦ</w>
+                                    unicode="Υἱοῦ" word="Υἱοῦ"> 
+</word>
                                  <wg class="np" articular="true" rule="DetNP">
-                                    <w ref="2JN 1:3!16"
+                                     <word ref="2JN 1:3!16"
  
  book="2JN" 
  chapter="1" 
@@ -1173,8 +1213,9 @@
                                        domain="092004"
                                        ln="92.24"
                                        morph="T-GSM"
-                                       unicode="τοῦ">τοῦ</w>
-                                    <w ref="2JN 1:3!17"
+                                       unicode="τοῦ" word="τοῦ"> 
+</word>
+                                     <word ref="2JN 1:3!17"
  
  book="2JN" 
  chapter="1" 
@@ -1194,7 +1235,8 @@
                                        domain="012001"
                                        ln="12.12"
                                        morph="N-GSM"
-                                       unicode="Πατρός,">Πατρός</w>
+                                       unicode="Πατρός," word="Πατρός"> 
+</word>
                                  </wg>
                               </wg>
                            </wg>
@@ -1204,7 +1246,7 @@
                </wg>
             </wg>
             <wg class="pp" rule="PrepNp" role="adv">
-               <w ref="2JN 1:3!18"
+                <word ref="2JN 1:3!18"
  
  book="2JN" 
  chapter="1" 
@@ -1220,9 +1262,10 @@
                   domain="089007 089013"
                   ln="89.26 89.80"
                   morph="PREP"
-                  unicode="ἐν">ἐν</w>
+                  unicode="ἐν" word="ἐν"> 
+</word>
                <wg rule="NpaNp">
-                  <w ref="2JN 1:3!19"
+                   <word ref="2JN 1:3!19"
  
  book="2JN" 
  chapter="1" 
@@ -1242,9 +1285,10 @@
                      domain="072001"
                      ln="72.2"
                      morph="N-DSF"
-                     unicode="ἀληθείᾳ">ἀληθείᾳ</w>
+                     unicode="ἀληθείᾳ" word="ἀληθείᾳ"> 
+</word>
                   <wg type="group">
-                     <w ref="2JN 1:3!20"
+                      <word ref="2JN 1:3!20"
  
  book="2JN" 
  chapter="1" 
@@ -1258,8 +1302,9 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
-                     <w ref="2JN 1:3!21"
+                        unicode="καὶ" word="καὶ"> 
+</word>
+                      <word ref="2JN 1:3!21"
  
  book="2JN" 
  chapter="1" 
@@ -1279,23 +1324,20 @@
                         domain="025003"
                         ln="25.43"
                         morph="N-DSF"
-                        unicode="ἀγάπῃ.">ἀγάπῃ</w>
+                        unicode="ἀγάπῃ." word="ἀγάπῃ"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="4"> </verse>
- Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ Πατρός.</p>
+   <sentence sentence_number="3" 
+      
+          sentence-text=" Ἐχάρην λίαν ὅτι εὕρηκα ἐκ τῶν τέκνων σου περιπατοῦντας ἐν ἀληθείᾳ, καθὼς ἐντολὴν ἐλάβομεν παρὰ τοῦ Πατρός.">
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="630010040010170">
-            <w role="v"
+             <word role="v"
                ref="2JN 1:4!1"
  
  book="2JN" 
@@ -1319,8 +1361,9 @@
                morph="V-2AOI-1S"
                unicode="Ἐχάρην"
                frame="A1:n63001001002"
-               subjref="n63001001002">Ἐχάρην</w>
-            <w role="adv"
+               subjref="n63001001002" word="Ἐχάρην"> 
+</word>
+             <word role="adv"
                ref="2JN 1:4!2"
  
  book="2JN" 
@@ -1337,9 +1380,10 @@
                domain="078001"
                ln="78.1"
                morph="ADV"
-               unicode="λίαν">λίαν</w>
+               unicode="λίαν" word="λίαν"> 
+</word>
             <wg rule="sub-CL" role="adv">
-               <w ref="2JN 1:4!3"
+                <word ref="2JN 1:4!3"
  
  book="2JN" 
  chapter="1" 
@@ -1355,9 +1399,10 @@
                   domain="089007"
                   ln="89.33"
                   morph="CONJ"
-                  unicode="ὅτι">ὅτι</w>
+                  unicode="ὅτι" word="ὅτι"> 
+</word>
                <wg class="cl" rule="V-O" junction="subordinate">
-                  <w role="v"
+                   <word role="v"
                      ref="2JN 1:4!4"
  
  book="2JN" 
@@ -1381,10 +1426,11 @@
                      morph="V-RAI-1S"
                      unicode="εὕρηκα"
                      frame="A0:n63001001002 A1:n63001004009"
-                     subjref="n63001001002">εὕρηκα</w>
+                     subjref="n63001001002" word="εὕρηκα"> 
+</word>
                   <wg Rule="ClCl" class="cl" nodeId="630010040050130" role="o">
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:4!5"
+                         <word ref="2JN 1:4!5"
  
  book="2JN" 
  chapter="1" 
@@ -1398,9 +1444,10 @@
                            strong="1537"
                            gloss="[some] of"
                            morph="PREP"
-                           unicode="ἐκ">ἐκ</w>
+                           unicode="ἐκ" word="ἐκ"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="2JN 1:4!6"
+                            <word ref="2JN 1:4!6"
  
  book="2JN" 
  chapter="1" 
@@ -1419,9 +1466,10 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-GPN"
-                              unicode="τῶν">τῶν</w>
+                              unicode="τῶν" word="τῶν"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="2JN 1:4!7"
+                               <word ref="2JN 1:4!7"
  
  book="2JN" 
  chapter="1" 
@@ -1441,8 +1489,9 @@
                                  domain="010002"
                                  ln="10.36"
                                  morph="N-GPN"
-                                 unicode="τέκνων">τέκνων</w>
-                              <w ref="2JN 1:4!8"
+                                 unicode="τέκνων" word="τέκνων"> 
+</word>
+                               <word ref="2JN 1:4!8"
  
  book="2JN" 
  chapter="1" 
@@ -1460,11 +1509,12 @@
                                  gloss="of you"
                                  morph="P-2GS"
                                  unicode="σου"
-                                 referent="n63001001004">σου</w>
+                                 referent="n63001001004" word="σου"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:4!9"
  
  book="2JN" 
@@ -1488,9 +1538,10 @@
                         ln="41.11"
                         morph="V-PAP-APM"
                         unicode="περιπατοῦντας"
-                        frame="A0:n00000000000">περιπατοῦντας</w>
+                        frame="A0:n00000000000" word="περιπατοῦντας"> 
+</word>
                      <wg class="pp" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:4!10"
+                         <word ref="2JN 1:4!10"
  
  book="2JN" 
  chapter="1" 
@@ -1506,8 +1557,9 @@
                            domain="070"
                            ln="70.4"
                            morph="PREP"
-                           unicode="ἐν">ἐν</w>
-                        <w ref="2JN 1:4!11"
+                           unicode="ἐν" word="ἐν"> 
+</word>
+                         <word ref="2JN 1:4!11"
  
  book="2JN" 
  chapter="1" 
@@ -1527,10 +1579,11 @@
                            domain="070"
                            ln="70.4"
                            morph="N-DSF"
-                           unicode="ἀληθείᾳ,">ἀληθείᾳ</w>
+                           unicode="ἀληθείᾳ," word="ἀληθείᾳ"> 
+</word>
                      </wg>
                      <wg rule="sub-CL" role="adv">
-                        <w ref="2JN 1:4!12"
+                         <word ref="2JN 1:4!12"
  
  book="2JN" 
  chapter="1" 
@@ -1546,9 +1599,10 @@
                            domain="064"
                            ln="64.14"
                            morph="ADV"
-                           unicode="καθὼς">καθὼς</w>
+                           unicode="καθὼς" word="καθὼς"> 
+</word>
                         <wg class="cl" rule="O-V-ADV" junction="subordinate">
-                           <w role="o"
+                            <word role="o"
                               ref="2JN 1:4!13"
  
  book="2JN" 
@@ -1569,8 +1623,9 @@
                               domain="033032"
                               ln="33.330"
                               morph="N-ASF"
-                              unicode="ἐντολὴν">ἐντολὴν</w>
-                           <w role="v"
+                              unicode="ἐντολὴν" word="ἐντολὴν"> 
+</word>
+                            <word role="v"
                               ref="2JN 1:4!14"
  
  book="2JN" 
@@ -1594,9 +1649,10 @@
                               morph="V-2AAI-1P"
                               unicode="ἐλάβομεν"
                               frame="A0:n63001001002;n63001001004;n63001001007;n63001001022 A1:n63001004013"
-                              subjref="n63001001002 n63001001004 n63001001007 n63001001022">ἐλάβομεν</w>
+                              subjref="n63001001002 n63001001004 n63001001007 n63001001022" word="ἐλάβομεν"> 
+</word>
                            <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                              <w ref="2JN 1:4!15"
+                               <word ref="2JN 1:4!15"
  
  book="2JN" 
  chapter="1" 
@@ -1612,9 +1668,10 @@
                                  domain="090003"
                                  ln="90.14"
                                  morph="PREP"
-                                 unicode="παρὰ">παρὰ</w>
+                                 unicode="παρὰ" word="παρὰ"> 
+</word>
                               <wg class="np" articular="true" rule="DetNP">
-                                 <w ref="2JN 1:4!16"
+                                  <word ref="2JN 1:4!16"
  
  book="2JN" 
  chapter="1" 
@@ -1633,8 +1690,9 @@
                                     domain="092004"
                                     ln="92.24"
                                     morph="T-GSM"
-                                    unicode="τοῦ">τοῦ</w>
-                                 <w ref="2JN 1:4!17"
+                                    unicode="τοῦ" word="τοῦ"> 
+</word>
+                                  <word ref="2JN 1:4!17"
  
  book="2JN" 
  chapter="1" 
@@ -1654,7 +1712,8 @@
                                     domain="012001"
                                     ln="12.12"
                                     morph="N-GSM"
-                                    unicode="Πατρός.">Πατρός</w>
+                                    unicode="Πατρός." word="Πατρός"> 
+</word>
                               </wg>
                            </wg>
                         </wg>
@@ -1665,16 +1724,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="5"> </verse>
- καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινὴν, ἀλλὰ ἣν εἴχαμεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.</p>
+   <sentence sentence_number="4" 
+      
+          sentence-text=" καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν γράφων σοι καινὴν, ἀλλὰ ἣν εἴχαμεν ἀπ’ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="2JN 1:5!1"
+             <word ref="2JN 1:5!1"
  
  book="2JN" 
  chapter="1" 
@@ -1690,10 +1745,11 @@
                domain="089015"
                ln="89.87"
                morph="CONJ"
-               unicode="καὶ">καὶ</w>
+               unicode="καὶ" word="καὶ"> 
+</word>
             <wg Rule="ClCl2" class="cl" nodeId="630010050050180">
                <wg rule="Np2CL" cltype="Minor">
-                  <w role="aux"
+                   <word role="aux"
                      ref="2JN 1:5!5"
  
  book="2JN" 
@@ -1715,9 +1771,10 @@
                      domain="087003"
                      ln="87.54"
                      morph="N-VSF"
-                     unicode="κυρία,">κυρία</w>
+                     unicode="κυρία," word="κυρία"> 
+</word>
                </wg>
-               <w role="adv"
+                <word role="adv"
                   ref="2JN 1:5!2"
  
  book="2JN" 
@@ -1734,8 +1791,9 @@
                   domain="067002"
                   ln="67.38"
                   morph="ADV"
-                  unicode="νῦν">νῦν</w>
-               <w role="v"
+                  unicode="νῦν" word="νῦν"> 
+</word>
+                <word role="v"
                   ref="2JN 1:5!3"
  
  book="2JN" 
@@ -1759,8 +1817,9 @@
                   morph="V-PAI-1S"
                   unicode="ἐρωτῶ"
                   frame="A0:n63001001002 A1:n63001005004"
-                  subjref="n63001001002">ἐρωτῶ</w>
-               <w role="o"
+                  subjref="n63001001002" word="ἐρωτῶ"> 
+</word>
+                <word role="o"
                   ref="2JN 1:5!4"
  
  book="2JN" 
@@ -1779,9 +1838,10 @@
                   gloss="you"
                   morph="P-2AS"
                   unicode="σε,"
-                  referent="n63001005005">σε</w>
+                  referent="n63001005005" word="σε"> 
+</word>
                <wg class="cl" rule="V-IO-ADV" junction="subordinate" role="adv">
-                  <w role="v"
+                   <word role="v"
                      ref="2JN 1:5!9"
  
  book="2JN" 
@@ -1806,8 +1866,9 @@
                      morph="V-PAP-NSM"
                      unicode="γράφων"
                      frame="A0:n63001001002 A2:n63001005010"
-                     subjref="n63001001002">γράφων</w>
-                  <w role="io"
+                     subjref="n63001001002" word="γράφων"> 
+</word>
+                   <word role="io"
                      ref="2JN 1:5!10"
  
  book="2JN" 
@@ -1827,12 +1888,13 @@
                      gloss="to you"
                      morph="P-2DS"
                      unicode="σοι"
-                     referent="n63001005005">σοι</w>
+                     referent="n63001005005" word="σοι"> 
+</word>
                   <wg type="group"
                       rule="notCLbutCL2CL"
                       junction="subordinate"
                       role="adv">
-                     <w ref="2JN 1:5!6"
+                      <word ref="2JN 1:5!6"
  
  book="2JN" 
  chapter="1" 
@@ -1846,9 +1908,10 @@
                         strong="3756"
                         gloss="not"
                         morph="PRT-N"
-                        unicode="οὐχ">οὐχ</w>
+                        unicode="οὐχ" word="οὐχ"> 
+</word>
                      <wg rule="sub-CL" junction="coordinate">
-                        <w ref="2JN 1:5!7"
+                         <word ref="2JN 1:5!7"
  
  book="2JN" 
  chapter="1" 
@@ -1864,13 +1927,14 @@
                            domain="064"
                            ln="64.12"
                            morph="ADV"
-                           unicode="ὡς">ὡς</w>
+                           unicode="ὡς" word="ὡς"> 
+</word>
                         <wg class="cl"
                             rule="O2CL"
                             cltype="VerbElided"
                             junction="subordinate">
                            <wg class="np" rule="NpAdjp" role="o">
-                              <w ref="2JN 1:5!8"
+                               <word ref="2JN 1:5!8"
  
  book="2JN" 
  chapter="1" 
@@ -1890,8 +1954,9 @@
                                  domain="033032"
                                  ln="33.330"
                                  morph="N-ASF"
-                                 unicode="ἐντολὴν">ἐντολὴν</w>
-                              <w ref="2JN 1:5!11"
+                                 unicode="ἐντολὴν" word="ἐντολὴν"> 
+</word>
+                               <word ref="2JN 1:5!11"
  
  book="2JN" 
  chapter="1" 
@@ -1910,11 +1975,12 @@
                                  domain="028003"
                                  ln="28.33"
                                  morph="A-ASF"
-                                 unicode="καινὴν,">καινὴν</w>
+                                 unicode="καινὴν," word="καινὴν"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
-                     <w ref="2JN 1:5!12"
+                      <word ref="2JN 1:5!12"
  
  book="2JN" 
  chapter="1" 
@@ -1930,12 +1996,13 @@
                         domain="089023"
                         ln="89.125"
                         morph="CONJ"
-                        unicode="ἀλλὰ">ἀλλὰ</w>
+                        unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
                      <wg class="cl"
                          clauseType="nominalized"
                          rule="O-V-ADV"
                          junction="coordinate">
-                        <w role="o"
+                         <word role="o"
                            ref="2JN 1:5!13"
  
  book="2JN" 
@@ -1954,8 +2021,9 @@
                            case="accusative"
                            gloss="that which"
                            morph="R-ASF"
-                           unicode="ἣν">ἣν</w>
-                        <w role="v"
+                           unicode="ἣν" word="ἣν"> 
+</word>
+                         <word role="v"
                            ref="2JN 1:5!14"
  
  book="2JN" 
@@ -1979,9 +2047,10 @@
                            morph="V-IAI-1P"
                            unicode="εἴχαμεν"
                            frame="A0:n63001001002;n63001005005;n63001001007;n63001001022 A1:n63001005013"
-                           subjref="n63001001002 n63001005005 n63001001007 n63001001022">εἴχαμεν</w>
+                           subjref="n63001001002 n63001005005 n63001001007 n63001001022" word="εἴχαμεν"> 
+</word>
                         <wg class="pp" rule="PrepNp" role="adv">
-                           <w ref="2JN 1:5!15"
+                            <word ref="2JN 1:5!15"
  
  book="2JN" 
  chapter="1" 
@@ -1997,8 +2066,9 @@
                               domain="067006"
                               ln="67.131"
                               morph="PREP"
-                              unicode="ἀπ’">ἀπ’</w>
-                           <w ref="2JN 1:5!16"
+                              unicode="ἀπ’" word="ἀπ’"> 
+</word>
+                            <word ref="2JN 1:5!16"
  
  book="2JN" 
  chapter="1" 
@@ -2018,13 +2088,14 @@
                               domain="067003"
                               ln="67.65"
                               morph="N-GSF"
-                              unicode="ἀρχῆς,">ἀρχῆς</w>
+                              unicode="ἀρχῆς," word="ἀρχῆς"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                </wg>
                <wg rule="sub-CL" role="adv">
-                  <w ref="2JN 1:5!17"
+                   <word ref="2JN 1:5!17"
  
  book="2JN" 
  chapter="1" 
@@ -2040,9 +2111,10 @@
                      domain="090006"
                      ln="90.22"
                      morph="CONJ"
-                     unicode="ἵνα">ἵνα</w>
+                     unicode="ἵνα" word="ἵνα"> 
+</word>
                   <wg class="cl" rule="V-O" junction="subordinate">
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:5!18"
  
  book="2JN" 
@@ -2066,8 +2138,9 @@
                         morph="V-PAS-1P"
                         unicode="ἀγαπῶμεν"
                         frame="A0:n63001001002;n63001005005;n63001001007;n63001001022 A1:n63001005019"
-                        subjref="n63001001002 n63001005005 n63001001007 n63001001022">ἀγαπῶμεν</w>
-                     <w role="o"
+                        subjref="n63001001002 n63001005005 n63001001007 n63001001022" word="ἀγαπῶμεν"> 
+</word>
+                      <word role="o"
                         ref="2JN 1:5!19"
  
  book="2JN" 
@@ -2089,23 +2162,20 @@
                         ln="92.26"
                         morph="C-APM"
                         unicode="ἀλλήλους."
-                        referent="n63001001002 n63001005005 n63001001007 n63001001022">ἀλλήλους</w>
+                        referent="n63001001002 n63001005005 n63001001007 n63001001022" word="ἀλλήλους"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="6"> </verse>
- καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ·</p>
+   <sentence sentence_number="5" 
+      
+          sentence-text=" καὶ αὕτη ἐστὶν ἡ ἀγάπη, ἵνα περιπατῶμεν κατὰ τὰς ἐντολὰς αὐτοῦ·">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="2JN 1:6!1"
+             <word ref="2JN 1:6!1"
  
  book="2JN" 
  chapter="1" 
@@ -2121,9 +2191,10 @@
                domain="089015"
                ln="89.87"
                morph="CONJ"
-               unicode="καὶ">καὶ</w>
+               unicode="καὶ" word="καὶ"> 
+</word>
             <wg Rule="ClCl" class="cl" nodeId="630010060020100">
-               <w role="p"
+                <word role="p"
                   ref="2JN 1:6!2"
  
  book="2JN" 
@@ -2143,8 +2214,9 @@
                   gloss="this"
                   morph="D-NSF"
                   unicode="αὕτη"
-                  referent="n63001006007">αὕτη</w>
-               <w role="vc"
+                  referent="n63001006007" word="αὕτη"> 
+</word>
+                <word role="vc"
                   ref="2JN 1:6!3"
  
  book="2JN" 
@@ -2164,9 +2236,10 @@
                   mood="indicative"
                   gloss="is"
                   morph="V-PAI-3S"
-                  unicode="ἐστὶν">ἐστὶν</w>
+                  unicode="ἐστὶν" word="ἐστὶν"> 
+</word>
                <wg class="np" articular="true" rule="DetNP" role="s">
-                  <w ref="2JN 1:6!4"
+                   <word ref="2JN 1:6!4"
  
  book="2JN" 
  chapter="1" 
@@ -2185,8 +2258,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-NSF"
-                     unicode="ἡ">ἡ</w>
-                  <w ref="2JN 1:6!5"
+                     unicode="ἡ" word="ἡ"> 
+</word>
+                   <word ref="2JN 1:6!5"
  
  book="2JN" 
  chapter="1" 
@@ -2206,10 +2280,11 @@
                      domain="025003"
                      ln="25.43"
                      morph="N-NSF"
-                     unicode="ἀγάπη,">ἀγάπη</w>
+                     unicode="ἀγάπη," word="ἀγάπη"> 
+</word>
                </wg>
                <wg rule="that-VP" role="o">
-                  <w ref="2JN 1:6!6"
+                   <word ref="2JN 1:6!6"
  
  book="2JN" 
  chapter="1" 
@@ -2225,9 +2300,10 @@
                      domain="090006"
                      ln="90.22"
                      morph="CONJ"
-                     unicode="ἵνα">ἵνα</w>
+                     unicode="ἵνα" word="ἵνα"> 
+</word>
                   <wg class="cl" rule="V-ADV">
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:6!7"
  
  book="2JN" 
@@ -2251,9 +2327,10 @@
                         morph="V-PAS-1P"
                         unicode="περιπατῶμεν"
                         frame="A0:n63001001002;n63001005005;n63001001007;n63001001022"
-                        subjref="n63001001002 n63001005005 n63001001007 n63001001022">περιπατῶμεν</w>
+                        subjref="n63001001002 n63001005005 n63001001007 n63001001022" word="περιπατῶμεν"> 
+</word>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:6!8"
+                         <word ref="2JN 1:6!8"
  
  book="2JN" 
  chapter="1" 
@@ -2269,9 +2346,10 @@
                            domain="089005"
                            ln="89.8"
                            morph="PREP"
-                           unicode="κατὰ">κατὰ</w>
+                           unicode="κατὰ" word="κατὰ"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="2JN 1:6!9"
+                            <word ref="2JN 1:6!9"
  
  book="2JN" 
  chapter="1" 
@@ -2290,9 +2368,10 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-APF"
-                              unicode="τὰς">τὰς</w>
+                              unicode="τὰς" word="τὰς"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="2JN 1:6!10"
+                               <word ref="2JN 1:6!10"
  
  book="2JN" 
  chapter="1" 
@@ -2312,8 +2391,9 @@
                                  domain="033032"
                                  ln="33.330"
                                  morph="N-APF"
-                                 unicode="ἐντολὰς">ἐντολὰς</w>
-                              <w ref="2JN 1:6!11"
+                                 unicode="ἐντολὰς" word="ἐντολὰς"> 
+</word>
+                               <word ref="2JN 1:6!11"
  
  book="2JN" 
  chapter="1" 
@@ -2332,7 +2412,8 @@
                                  gloss="of Him"
                                  morph="P-GSM"
                                  unicode="αὐτοῦ·"
-                                 referent="n63001004017">αὐτοῦ</w>
+                                 referent="n63001004017" word="αὐτοῦ"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -2342,16 +2423,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="6"> </verse>
- αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.</p>
+   <sentence sentence_number="6" 
+      
+          sentence-text=" αὕτη ἡ ἐντολή ἐστιν, καθὼς ἠκούσατε ἀπ’ ἀρχῆς, ἵνα ἐν αὐτῇ περιπατῆτε.">
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="630010060120120">
-            <w role="p"
+             <word role="p"
                ref="2JN 1:6!12"
  
  book="2JN" 
@@ -2371,9 +2448,10 @@
                gloss="This"
                morph="D-NSF"
                unicode="αὕτη"
-               referent="n63001006023">αὕτη</w>
+               referent="n63001006023" word="αὕτη"> 
+</word>
             <wg class="np" articular="true" rule="DetNP" role="s">
-               <w ref="2JN 1:6!13"
+                <word ref="2JN 1:6!13"
  
  book="2JN" 
  chapter="1" 
@@ -2392,8 +2470,9 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NSF"
-                  unicode="ἡ">ἡ</w>
-               <w ref="2JN 1:6!14"
+                  unicode="ἡ" word="ἡ"> 
+</word>
+                <word ref="2JN 1:6!14"
  
  book="2JN" 
  chapter="1" 
@@ -2413,9 +2492,10 @@
                   domain="033032"
                   ln="33.330"
                   morph="N-NSF"
-                  unicode="ἐντολή">ἐντολή</w>
+                  unicode="ἐντολή" word="ἐντολή"> 
+</word>
             </wg>
-            <w role="vc"
+             <word role="vc"
                ref="2JN 1:6!15"
  
  book="2JN" 
@@ -2435,9 +2515,10 @@
                mood="indicative"
                gloss="is"
                morph="V-PAI-3S"
-               unicode="ἐστιν,">ἐστιν</w>
+               unicode="ἐστιν," word="ἐστιν"> 
+</word>
             <wg rule="sub-CL" role="adv">
-               <w ref="2JN 1:6!16"
+                <word ref="2JN 1:6!16"
  
  book="2JN" 
  chapter="1" 
@@ -2453,9 +2534,10 @@
                   domain="064"
                   ln="64.14"
                   morph="ADV"
-                  unicode="καθὼς">καθὼς</w>
+                  unicode="καθὼς" word="καθὼς"> 
+</word>
                <wg class="cl" rule="V-ADV" junction="subordinate">
-                  <w role="v"
+                   <word role="v"
                      ref="2JN 1:6!17"
  
  book="2JN" 
@@ -2479,9 +2561,10 @@
                      morph="V-AAI-2P"
                      unicode="ἠκούσατε"
                      frame="A0:n63001005005;n63001001007"
-                     subjref="n63001005005 n63001001007">ἠκούσατε</w>
+                     subjref="n63001005005 n63001001007" word="ἠκούσατε"> 
+</word>
                   <wg class="pp" rule="PrepNp" role="adv">
-                     <w ref="2JN 1:6!18"
+                      <word ref="2JN 1:6!18"
  
  book="2JN" 
  chapter="1" 
@@ -2495,8 +2578,9 @@
                         strong="575"
                         gloss="from"
                         morph="PREP"
-                        unicode="ἀπ’">ἀπ’</w>
-                     <w ref="2JN 1:6!19"
+                        unicode="ἀπ’" word="ἀπ’"> 
+</word>
+                      <word ref="2JN 1:6!19"
  
  book="2JN" 
  chapter="1" 
@@ -2516,12 +2600,13 @@
                         domain="067003"
                         ln="67.65"
                         morph="N-GSF"
-                        unicode="ἀρχῆς,">ἀρχῆς</w>
+                        unicode="ἀρχῆς," word="ἀρχῆς"> 
+</word>
                   </wg>
                </wg>
             </wg>
             <wg rule="that-VP" role="o">
-               <w ref="2JN 1:6!20"
+                <word ref="2JN 1:6!20"
  
  book="2JN" 
  chapter="1" 
@@ -2537,10 +2622,11 @@
                   domain="090006"
                   ln="90.22"
                   morph="CONJ"
-                  unicode="ἵνα">ἵνα</w>
+                  unicode="ἵνα" word="ἵνα"> 
+</word>
                <wg class="cl" rule="ADV-V">
                   <wg class="pp" rule="PrepNp" role="adv">
-                     <w ref="2JN 1:6!21"
+                      <word ref="2JN 1:6!21"
  
  book="2JN" 
  chapter="1" 
@@ -2556,8 +2642,9 @@
                         domain="089012"
                         ln="89.76"
                         morph="PREP"
-                        unicode="ἐν">ἐν</w>
-                     <w ref="2JN 1:6!22"
+                        unicode="ἐν" word="ἐν"> 
+</word>
+                      <word ref="2JN 1:6!22"
  
  book="2JN" 
  chapter="1" 
@@ -2576,9 +2663,10 @@
                         gloss="it"
                         morph="P-DSF"
                         unicode="αὐτῇ"
-                        referent="n63001006005">αὐτῇ</w>
+                        referent="n63001006005" word="αὐτῇ"> 
+</word>
                   </wg>
-                  <w role="v"
+                   <word role="v"
                      ref="2JN 1:6!23"
  
  book="2JN" 
@@ -2602,22 +2690,19 @@
                      morph="V-PAS-2P"
                      unicode="περιπατῆτε."
                      frame="A0:n63001005005;n63001001007"
-                     subjref="n63001005005 n63001001007">περιπατῆτε</w>
+                     subjref="n63001005005 n63001001007" word="περιπατῆτε"> 
+</word>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="7"> </verse>
- ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί·</p>
+   <sentence sentence_number="7" 
+      
+          sentence-text=" ὅτι πολλοὶ πλάνοι ἐξῆλθον εἰς τὸν κόσμον, οἱ μὴ ὁμολογοῦντες Ἰησοῦν Χριστὸν ἐρχόμενον ἐν σαρκί·">
       <wg>
          <wg rule="sub-CL">
-            <w ref="2JN 1:7!1"
+             <word ref="2JN 1:7!1"
  
  book="2JN" 
  chapter="1" 
@@ -2633,9 +2718,10 @@
                domain="089007"
                ln="89.33"
                morph="CONJ"
-               unicode="ὅτι">ὅτι</w>
+               unicode="ὅτι" word="ὅτι"> 
+</word>
             <wg class="cl" rule="V-ADV-S" junction="subordinate">
-               <w role="v"
+                <word role="v"
                   ref="2JN 1:7!4"
  
  book="2JN" 
@@ -2658,9 +2744,10 @@
                   ln="15.40"
                   morph="V-2AAI-3P"
                   unicode="ἐξῆλθον"
-                  frame="A0:n63001007003">ἐξῆλθον</w>
+                  frame="A0:n63001007003" word="ἐξῆλθον"> 
+</word>
                <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                  <w ref="2JN 1:7!5"
+                   <word ref="2JN 1:7!5"
  
  book="2JN" 
  chapter="1" 
@@ -2676,9 +2763,10 @@
                      domain="084002"
                      ln="84.22"
                      morph="PREP"
-                     unicode="εἰς">εἰς</w>
+                     unicode="εἰς" word="εἰς"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="2JN 1:7!6"
+                      <word ref="2JN 1:7!6"
  
  book="2JN" 
  chapter="1" 
@@ -2697,8 +2785,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-ASM"
-                        unicode="τὸν">τὸν</w>
-                     <w ref="2JN 1:7!7"
+                        unicode="τὸν" word="τὸν"> 
+</word>
+                      <word ref="2JN 1:7!7"
  
  book="2JN" 
  chapter="1" 
@@ -2719,12 +2808,13 @@
                         domain="041003"
                         ln="41.38"
                         morph="N-ASM"
-                        unicode="κόσμον,">κόσμον</w>
+                        unicode="κόσμον," word="κόσμον"> 
+</word>
                   </wg>
                </wg>
                <wg type="apposition" class="np" rule="Np-Appos" role="s">
                   <wg class="np" rule="AdjpNp">
-                     <w ref="2JN 1:7!2"
+                      <word ref="2JN 1:7!2"
  
  book="2JN" 
  chapter="1" 
@@ -2743,8 +2833,9 @@
                         domain="059001"
                         ln="59.1"
                         morph="A-NPM"
-                        unicode="πολλοὶ">πολλοὶ</w>
-                     <w ref="2JN 1:7!3"
+                        unicode="πολλοὶ" word="πολλοὶ"> 
+</word>
+                      <word ref="2JN 1:7!3"
  
  book="2JN" 
  chapter="1" 
@@ -2763,10 +2854,11 @@
                         domain="031002"
                         ln="31.9"
                         morph="A-NPM"
-                        unicode="πλάνοι">πλάνοι</w>
+                        unicode="πλάνοι" word="πλάνοι"> 
+</word>
                   </wg>
                   <wg junction="apposition" articular="true" rule="DetCL">
-                     <w ref="2JN 1:7!8"
+                      <word ref="2JN 1:7!8"
  
  book="2JN" 
  chapter="1" 
@@ -2785,9 +2877,10 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-NPM"
-                        unicode="οἱ">οἱ</w>
+                        unicode="οἱ" word="οἱ"> 
+</word>
                      <wg class="cl" clauseType="nominalized" rule="ADV-V-O">
-                        <w role="adv"
+                         <word role="adv"
                            ref="2JN 1:7!9"
  
  book="2JN" 
@@ -2802,8 +2895,9 @@
                            strong="3361"
                            gloss="not"
                            morph="PRT-N"
-                           unicode="μὴ">μὴ</w>
-                        <w role="v"
+                           unicode="μὴ" word="μὴ"> 
+</word>
+                         <word role="v"
                            ref="2JN 1:7!10"
  
  book="2JN" 
@@ -2828,10 +2922,11 @@
                            morph="V-PAP-NPM"
                            unicode="ὁμολογοῦντες"
                            frame="A0:n63001007003 A1:n63001007013"
-                           subjref="n63001007003">ὁμολογοῦντες</w>
+                           subjref="n63001007003" word="ὁμολογοῦντες"> 
+</word>
                         <wg class="cl" rule="S-V-ADV" junction="subordinate" role="o">
                            <wg type="apposition" class="np" rule="Np-Appos" role="s">
-                              <w ref="2JN 1:7!11"
+                               <word ref="2JN 1:7!11"
  
  book="2JN" 
  chapter="1" 
@@ -2851,8 +2946,9 @@
                                  domain="093001"
                                  ln="93.169a"
                                  morph="N-ASM"
-                                 unicode="Ἰησοῦν">Ἰησοῦν</w>
-                              <w ref="2JN 1:7!12"
+                                 unicode="Ἰησοῦν" word="Ἰησοῦν"> 
+</word>
+                               <word ref="2JN 1:7!12"
  
  book="2JN" 
  chapter="1" 
@@ -2872,9 +2968,10 @@
                                  domain="093001"
                                  ln="93.387"
                                  morph="N-ASM"
-                                 unicode="Χριστὸν">Χριστὸν</w>
+                                 unicode="Χριστὸν" word="Χριστὸν"> 
+</word>
                            </wg>
-                           <w role="v"
+                            <word role="v"
                               ref="2JN 1:7!13"
  
  book="2JN" 
@@ -2898,9 +2995,10 @@
                               ln="15.81"
                               morph="V-PNP-ASM"
                               unicode="ἐρχόμενον"
-                              frame="A0:n63001007011">ἐρχόμενον</w>
+                              frame="A0:n63001007011" word="ἐρχόμενον"> 
+</word>
                            <wg class="pp" rule="PrepNp" role="adv">
-                              <w ref="2JN 1:7!14"
+                               <word ref="2JN 1:7!14"
  
  book="2JN" 
  chapter="1" 
@@ -2916,8 +3014,9 @@
                                  domain="013001"
                                  ln="13.8"
                                  morph="PREP"
-                                 unicode="ἐν">ἐν</w>
-                              <w ref="2JN 1:7!15"
+                                 unicode="ἐν" word="ἐν"> 
+</word>
+                               <word ref="2JN 1:7!15"
  
  book="2JN" 
  chapter="1" 
@@ -2937,7 +3036,8 @@
                                  domain="009001"
                                  ln="9.12"
                                  morph="N-DSF"
-                                 unicode="σαρκί·">σαρκί</w>
+                                 unicode="σαρκί·" word="σαρκί"> 
+</word>
                            </wg>
                         </wg>
                      </wg>
@@ -2947,16 +3047,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="7"> </verse>
- οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.</p>
+   <sentence sentence_number="8" 
+      
+          sentence-text=" οὗτός ἐστιν ὁ πλάνος καὶ ὁ ἀντίχριστος.">
       <wg>
          <wg class="cl" articular="true" rule="S-VC-P">
-            <w role="s"
+             <word role="s"
                ref="2JN 1:7!16"
  
  book="2JN" 
@@ -2976,8 +3072,9 @@
                gloss="This"
                morph="D-NSM"
                unicode="οὗτός"
-               referent="n63001007003">οὗτός</w>
-            <w role="vc"
+               referent="n63001007003" word="οὗτός"> 
+</word>
+             <word role="vc"
                ref="2JN 1:7!17"
  
  book="2JN" 
@@ -2997,10 +3094,11 @@
                mood="indicative"
                gloss="is"
                morph="V-PAI-3S"
-               unicode="ἐστιν">ἐστιν</w>
+               unicode="ἐστιν" word="ἐστιν"> 
+</word>
             <wg articular="true" rule="NpaNp" role="p">
                <wg class="np" articular="true" rule="DetAdj">
-                  <w ref="2JN 1:7!18"
+                   <word ref="2JN 1:7!18"
  
  book="2JN" 
  chapter="1" 
@@ -3019,8 +3117,9 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-NSM"
-                     unicode="ὁ">ὁ</w>
-                  <w ref="2JN 1:7!19"
+                     unicode="ὁ" word="ὁ"> 
+</word>
+                   <word ref="2JN 1:7!19"
  
  book="2JN" 
  chapter="1" 
@@ -3039,10 +3138,11 @@
                      domain="031002"
                      ln="31.9"
                      morph="A-NSM"
-                     unicode="πλάνος">πλάνος</w>
+                     unicode="πλάνος" word="πλάνος"> 
+</word>
                </wg>
                <wg type="group">
-                  <w ref="2JN 1:7!20"
+                   <word ref="2JN 1:7!20"
  
  book="2JN" 
  chapter="1" 
@@ -3058,9 +3158,10 @@
                      domain="089017"
                      ln="89.92"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="2JN 1:7!21"
+                      <word ref="2JN 1:7!21"
  
  book="2JN" 
  chapter="1" 
@@ -3079,8 +3180,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-NSM"
-                        unicode="ὁ">ὁ</w>
-                     <w ref="2JN 1:7!22"
+                        unicode="ὁ" word="ὁ"> 
+</word>
+                      <word ref="2JN 1:7!22"
  
  book="2JN" 
  chapter="1" 
@@ -3100,23 +3202,20 @@
                         domain="053009"
                         ln="53.83"
                         morph="N-NSM"
-                        unicode="ἀντίχριστος.">ἀντίχριστος</w>
+                        unicode="ἀντίχριστος." word="ἀντίχριστος"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="8"> </verse>
- βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ ἠργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.</p>
+   <sentence sentence_number="9" 
+      
+          sentence-text=" βλέπετε ἑαυτούς, ἵνα μὴ ἀπολέσητε ἃ ἠργασάμεθα, ἀλλὰ μισθὸν πλήρη ἀπολάβητε.">
       <wg>
          <wg Rule="ClCl" class="cl" nodeId="630010080010110">
-            <w role="v"
+             <word role="v"
                ref="2JN 1:8!1"
  
  book="2JN" 
@@ -3140,8 +3239,9 @@
                morph="V-PAM-2P"
                unicode="βλέπετε"
                frame="A0:n63001005005;n63001001007 A1:n63001008002"
-               subjref="n63001005005 n63001001007">βλέπετε</w>
-            <w role="o"
+               subjref="n63001005005 n63001001007" word="βλέπετε"> 
+</word>
+             <word role="o"
                ref="2JN 1:8!2"
  
  book="2JN" 
@@ -3161,9 +3261,10 @@
                gloss="yourselves"
                morph="F-2APM"
                unicode="ἑαυτούς,"
-               referent="n63001005005 n63001001007">ἑαυτούς</w>
+               referent="n63001005005 n63001001007" word="ἑαυτούς"> 
+</word>
             <wg rule="sub-CL" role="adv">
-               <w ref="2JN 1:8!3"
+                <word ref="2JN 1:8!3"
  
  book="2JN" 
  chapter="1" 
@@ -3179,9 +3280,10 @@
                   domain="089008"
                   ln="89.49"
                   morph="CONJ"
-                  unicode="ἵνα">ἵνα</w>
+                  unicode="ἵνα" word="ἵνα"> 
+</word>
                <wg type="group" rule="notCLbutCL2CL" junction="subordinate">
-                  <w ref="2JN 1:8!4"
+                   <word ref="2JN 1:8!4"
  
  book="2JN" 
  chapter="1" 
@@ -3195,9 +3297,10 @@
                      strong="3361"
                      gloss="not"
                      morph="PRT-N"
-                     unicode="μὴ">μὴ</w>
+                     unicode="μὴ" word="μὴ"> 
+</word>
                   <wg class="cl" rule="V-O" junction="coordinate">
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:8!5"
  
  book="2JN" 
@@ -3221,13 +3324,14 @@
                         morph="V-AAS-2P"
                         unicode="ἀπολέσητε"
                         frame="A0:n63001005005;n63001001007 A1:n63001008007"
-                        subjref="n63001005005 n63001001007">ἀπολέσητε</w>
+                        subjref="n63001005005 n63001001007" word="ἀπολέσητε"> 
+</word>
                      <wg class="cl"
                          clauseType="nominalized"
                          rule="O-V"
                          junction="subordinate"
                          role="o">
-                        <w role="o"
+                         <word role="o"
                            ref="2JN 1:8!6"
  
  book="2JN" 
@@ -3246,8 +3350,9 @@
                            case="accusative"
                            gloss="what things"
                            morph="R-APN"
-                           unicode="ἃ">ἃ</w>
-                        <w role="v"
+                           unicode="ἃ" word="ἃ"> 
+</word>
+                         <word role="v"
                            ref="2JN 1:8!7"
  
  book="2JN" 
@@ -3271,10 +3376,11 @@
                            morph="V-ADI-1P"
                            unicode="ἠργασάμεθα,"
                            frame="A0:n63001001002;n63001005005;n63001001007;n63001001022 A1:n63001008006"
-                           subjref="n63001001002 n63001005005 n63001001007 n63001001022">ἠργασάμεθα</w>
+                           subjref="n63001001002 n63001005005 n63001001007 n63001001022" word="ἠργασάμεθα"> 
+</word>
                      </wg>
                   </wg>
-                  <w ref="2JN 1:8!8"
+                   <word ref="2JN 1:8!8"
  
  book="2JN" 
  chapter="1" 
@@ -3290,10 +3396,11 @@
                      domain="089023"
                      ln="89.125"
                      morph="CONJ"
-                     unicode="ἀλλὰ">ἀλλὰ</w>
+                     unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
                   <wg class="cl" rule="O-V" junction="coordinate">
                      <wg class="np" rule="NpAdjp" role="o">
-                        <w ref="2JN 1:8!9"
+                         <word ref="2JN 1:8!9"
  
  book="2JN" 
  chapter="1" 
@@ -3313,8 +3420,9 @@
                            domain="038002"
                            ln="38.14"
                            morph="N-ASM"
-                           unicode="μισθὸν">μισθὸν</w>
-                        <w ref="2JN 1:8!10"
+                           unicode="μισθὸν" word="μισθὸν"> 
+</word>
+                         <word ref="2JN 1:8!10"
  
  book="2JN" 
  chapter="1" 
@@ -3333,9 +3441,10 @@
                            domain="059003"
                            ln="59.31"
                            morph="A-ASM"
-                           unicode="πλήρη">πλήρη</w>
+                           unicode="πλήρη" word="πλήρη"> 
+</word>
                      </wg>
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:8!11"
  
  book="2JN" 
@@ -3359,24 +3468,21 @@
                         morph="V-2AAS-2P"
                         unicode="ἀπολάβητε."
                         frame="A0:n63001005005;n63001001007 A1:n63001008009"
-                        subjref="n63001005005 n63001001007">ἀπολάβητε</w>
+                        subjref="n63001005005 n63001001007" word="ἀπολάβητε"> 
+</word>
                   </wg>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="9"> </verse>
- πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ Θεὸν οὐκ ἔχει·</p>
+   <sentence sentence_number="10" 
+      
+          sentence-text=" πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ Θεὸν οὐκ ἔχει·">
       <wg>
          <wg class="cl" rule="S-O-ADV-V">
             <wg class="np" articular="true" rule="All-NP" role="s">
-               <w ref="2JN 1:9!1"
+                <word ref="2JN 1:9!1"
  
  book="2JN" 
  chapter="1" 
@@ -3395,9 +3501,10 @@
                   domain="059003"
                   ln="59.24"
                   morph="A-NSM"
-                  unicode="πᾶς">πᾶς</w>
+                  unicode="πᾶς" word="πᾶς"> 
+</word>
                <wg articular="true" rule="DetCL">
-                  <w ref="2JN 1:9!2"
+                   <word ref="2JN 1:9!2"
  
  book="2JN" 
  chapter="1" 
@@ -3416,10 +3523,11 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-NSM"
-                     unicode="ὁ">ὁ</w>
+                     unicode="ὁ" word="ὁ"> 
+</word>
                   <wg clauseType="nominalized" rule="CLaCL">
                      <wg class="cl" rule="V2CL" junction="coordinate">
-                        <w role="v"
+                         <word role="v"
                            ref="2JN 1:9!3"
  
  book="2JN" 
@@ -3443,10 +3551,11 @@
                            ln="36.25"
                            morph="V-PAP-NSM"
                            unicode="προάγων"
-                           frame="A0:n00000000000">προάγων</w>
+                           frame="A0:n00000000000" word="προάγων"> 
+</word>
                      </wg>
                      <wg type="group">
-                        <w ref="2JN 1:9!4"
+                         <word ref="2JN 1:9!4"
  
  book="2JN" 
  chapter="1" 
@@ -3460,9 +3569,10 @@
                            strong="2532"
                            gloss="and"
                            morph="CONJ"
-                           unicode="καὶ">καὶ</w>
+                           unicode="καὶ" word="καὶ"> 
+</word>
                         <wg class="cl" rule="ADV-V-ADV" junction="coordinate">
-                           <w role="adv"
+                            <word role="adv"
                               ref="2JN 1:9!5"
  
  book="2JN" 
@@ -3477,8 +3587,9 @@
                               strong="3361"
                               gloss="not"
                               morph="PRT-N"
-                              unicode="μὴ">μὴ</w>
-                           <w role="v"
+                              unicode="μὴ" word="μὴ"> 
+</word>
+                            <word role="v"
                               ref="2JN 1:9!6"
  
  book="2JN" 
@@ -3502,9 +3613,10 @@
                               ln="68.11"
                               morph="V-PAP-NSM"
                               unicode="μένων"
-                              frame="A0:n00000000000">μένων</w>
+                              frame="A0:n00000000000" word="μένων"> 
+</word>
                            <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                              <w ref="2JN 1:9!7"
+                               <word ref="2JN 1:9!7"
  
  book="2JN" 
  chapter="1" 
@@ -3518,9 +3630,10 @@
                                  strong="1722"
                                  gloss="in"
                                  morph="PREP"
-                                 unicode="ἐν">ἐν</w>
+                                 unicode="ἐν" word="ἐν"> 
+</word>
                               <wg class="np" articular="true" rule="DetNP">
-                                 <w ref="2JN 1:9!8"
+                                  <word ref="2JN 1:9!8"
  
  book="2JN" 
  chapter="1" 
@@ -3539,9 +3652,10 @@
                                     domain="092004"
                                     ln="92.24"
                                     morph="T-DSF"
-                                    unicode="τῇ">τῇ</w>
+                                    unicode="τῇ" word="τῇ"> 
+</word>
                                  <wg class="np" rule="NPofNP">
-                                    <w ref="2JN 1:9!9"
+                                     <word ref="2JN 1:9!9"
  
  book="2JN" 
  chapter="1" 
@@ -3561,9 +3675,10 @@
                                        domain="033017"
                                        ln="33.236"
                                        morph="N-DSF"
-                                       unicode="διδαχῇ">διδαχῇ</w>
+                                       unicode="διδαχῇ" word="διδαχῇ"> 
+</word>
                                     <wg class="np" articular="true" rule="DetNP">
-                                       <w ref="2JN 1:9!10"
+                                        <word ref="2JN 1:9!10"
  
  book="2JN" 
  chapter="1" 
@@ -3582,8 +3697,9 @@
                                           domain="092004"
                                           ln="92.24"
                                           morph="T-GSM"
-                                          unicode="τοῦ">τοῦ</w>
-                                       <w ref="2JN 1:9!11"
+                                          unicode="τοῦ" word="τοῦ"> 
+</word>
+                                        <word ref="2JN 1:9!11"
  
  book="2JN" 
  chapter="1" 
@@ -3603,7 +3719,8 @@
                                           domain="093001"
                                           ln="93.387"
                                           morph="N-GSM"
-                                          unicode="Χριστοῦ">Χριστοῦ</w>
+                                          unicode="Χριστοῦ" word="Χριστοῦ"> 
+</word>
                                     </wg>
                                  </wg>
                               </wg>
@@ -3613,7 +3730,7 @@
                   </wg>
                </wg>
             </wg>
-            <w role="o"
+             <word role="o"
                ref="2JN 1:9!12"
  
  book="2JN" 
@@ -3634,8 +3751,9 @@
                domain="012001"
                ln="12.1"
                morph="N-ASM"
-               unicode="Θεὸν">Θεὸν</w>
-            <w role="adv"
+               unicode="Θεὸν" word="Θεὸν"> 
+</word>
+             <word role="adv"
                ref="2JN 1:9!13"
  
  book="2JN" 
@@ -3650,8 +3768,9 @@
                strong="3756"
                gloss="not"
                morph="PRT-N"
-               unicode="οὐκ">οὐκ</w>
-            <w role="v"
+               unicode="οὐκ" word="οὐκ"> 
+</word>
+             <word role="v"
                ref="2JN 1:9!14"
  
  book="2JN" 
@@ -3674,22 +3793,19 @@
                ln="90.65"
                morph="V-PAI-3S"
                unicode="ἔχει·"
-               frame="A0:n63001009003;n63001009006 A1:n63001009012">ἔχει</w>
+               frame="A0:n63001009003;n63001009006 A1:n63001009012" word="ἔχει"> 
+</word>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="9"> </verse>
- ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν Πατέρα καὶ τὸν Υἱὸν ἔχει.</p>
+   <sentence sentence_number="11" 
+      
+          sentence-text=" ὁ μένων ἐν τῇ διδαχῇ, οὗτος καὶ τὸν Πατέρα καὶ τὸν Υἱὸν ἔχει.">
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="630010090150130">
             <wg articular="true" rule="Np2CL" cltype="Minor">
                <wg articular="true" rule="DetCL" role="aux">
-                  <w ref="2JN 1:9!15"
+                   <word ref="2JN 1:9!15"
  
  book="2JN" 
  chapter="1" 
@@ -3708,9 +3824,10 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-NSM"
-                     unicode="ὁ">ὁ</w>
+                     unicode="ὁ" word="ὁ"> 
+</word>
                   <wg class="cl" clauseType="nominalized" rule="V-ADV">
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:9!16"
  
  book="2JN" 
@@ -3734,9 +3851,10 @@
                         ln="68.11"
                         morph="V-PAP-NSM"
                         unicode="μένων"
-                        frame="A0:n00000000000">μένων</w>
+                        frame="A0:n00000000000" word="μένων"> 
+</word>
                      <wg class="pp" articular="true" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:9!17"
+                         <word ref="2JN 1:9!17"
  
  book="2JN" 
  chapter="1" 
@@ -3750,9 +3868,10 @@
                            strong="1722"
                            gloss="in"
                            morph="PREP"
-                           unicode="ἐν">ἐν</w>
+                           unicode="ἐν" word="ἐν"> 
+</word>
                         <wg class="np" articular="true" rule="DetNP">
-                           <w ref="2JN 1:9!18"
+                            <word ref="2JN 1:9!18"
  
  book="2JN" 
  chapter="1" 
@@ -3771,8 +3890,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-DSF"
-                              unicode="τῇ">τῇ</w>
-                           <w ref="2JN 1:9!19"
+                              unicode="τῇ" word="τῇ"> 
+</word>
+                            <word ref="2JN 1:9!19"
  
  book="2JN" 
  chapter="1" 
@@ -3792,13 +3912,14 @@
                               domain="033017"
                               ln="33.236"
                               morph="N-DSF"
-                              unicode="διδαχῇ,">διδαχῇ</w>
+                              unicode="διδαχῇ," word="διδαχῇ"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                </wg>
             </wg>
-            <w role="s"
+             <word role="s"
                ref="2JN 1:9!20"
  
  book="2JN" 
@@ -3818,10 +3939,11 @@
                gloss="this [one]"
                morph="D-NSM"
                unicode="οὗτος"
-               referent="n63001009016">οὗτος</w>
+               referent="n63001009016" word="οὗτος"> 
+</word>
             <wg articular="true" rule="aNpaNp" role="o">
                <wg type="group">
-                  <w ref="2JN 1:9!21"
+                   <word ref="2JN 1:9!21"
  
  book="2JN" 
  chapter="1" 
@@ -3837,9 +3959,10 @@
                      domain="089017"
                      ln="89.92"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="2JN 1:9!22"
+                      <word ref="2JN 1:9!22"
  
  book="2JN" 
  chapter="1" 
@@ -3858,8 +3981,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-ASM"
-                        unicode="τὸν">τὸν</w>
-                     <w ref="2JN 1:9!23"
+                        unicode="τὸν" word="τὸν"> 
+</word>
+                      <word ref="2JN 1:9!23"
  
  book="2JN" 
  chapter="1" 
@@ -3879,11 +4003,12 @@
                         domain="012001"
                         ln="12.12"
                         morph="N-ASM"
-                        unicode="Πατέρα">Πατέρα</w>
+                        unicode="Πατέρα" word="Πατέρα"> 
+</word>
                   </wg>
                </wg>
                <wg type="group">
-                  <w ref="2JN 1:9!24"
+                   <word ref="2JN 1:9!24"
  
  book="2JN" 
  chapter="1" 
@@ -3897,9 +4022,10 @@
                      strong="2532"
                      gloss="and"
                      morph="CONJ"
-                     unicode="καὶ">καὶ</w>
+                     unicode="καὶ" word="καὶ"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="2JN 1:9!25"
+                      <word ref="2JN 1:9!25"
  
  book="2JN" 
  chapter="1" 
@@ -3918,8 +4044,9 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-ASM"
-                        unicode="τὸν">τὸν</w>
-                     <w ref="2JN 1:9!26"
+                        unicode="τὸν" word="τὸν"> 
+</word>
+                      <word ref="2JN 1:9!26"
  
  book="2JN" 
  chapter="1" 
@@ -3939,11 +4066,12 @@
                         domain="012001"
                         ln="12.15"
                         morph="N-ASM"
-                        unicode="Υἱὸν">Υἱὸν</w>
+                        unicode="Υἱὸν" word="Υἱὸν"> 
+</word>
                   </wg>
                </wg>
             </wg>
-            <w role="v"
+             <word role="v"
                ref="2JN 1:9!27"
  
  book="2JN" 
@@ -3964,21 +4092,18 @@
                gloss="has"
                morph="V-PAI-3S"
                unicode="ἔχει."
-               frame="A0:n63001009020 A1:n63001009023;n63001009026">ἔχει</w>
+               frame="A0:n63001009020 A1:n63001009023;n63001009026" word="ἔχει"> 
+</word>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="10"> </verse>
- εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·</p>
+   <sentence sentence_number="12" 
+      
+          sentence-text=" εἴ τις ἔρχεται πρὸς ὑμᾶς καὶ ταύτην τὴν διδαχὴν οὐ φέρει, μὴ λαμβάνετε αὐτὸν εἰς οἰκίαν, καὶ χαίρειν αὐτῷ μὴ λέγετε·">
       <wg>
          <wg Rule="ClCl2" class="cl" nodeId="630010100010210">
             <wg rule="sub-CL">
-               <w ref="2JN 1:10!1"
+                <word ref="2JN 1:10!1"
  
  book="2JN" 
  chapter="1" 
@@ -3994,10 +4119,11 @@
                   domain="089010"
                   ln="89.65"
                   morph="COND"
-                  unicode="εἴ">εἴ</w>
+                  unicode="εἴ" word="εἴ"> 
+</word>
                <wg rule="CLaCL" junction="subordinate">
                   <wg class="cl" rule="S-V-ADV" junction="coordinate">
-                     <w role="s"
+                      <word role="s"
                         ref="2JN 1:10!2"
  
  book="2JN" 
@@ -4016,8 +4142,9 @@
                         case="nominative"
                         gloss="anyone"
                         morph="X-NSM"
-                        unicode="τις">τις</w>
-                     <w role="v"
+                        unicode="τις" word="τις"> 
+</word>
+                      <word role="v"
                         ref="2JN 1:10!3"
  
  book="2JN" 
@@ -4040,9 +4167,10 @@
                         ln="15.7"
                         morph="V-PNI-3S"
                         unicode="ἔρχεται"
-                        frame="A0:n63001010002">ἔρχεται</w>
+                        frame="A0:n63001010002" word="ἔρχεται"> 
+</word>
                      <wg class="pp" rule="PrepNp" role="adv">
-                        <w ref="2JN 1:10!4"
+                         <word ref="2JN 1:10!4"
  
  book="2JN" 
  chapter="1" 
@@ -4058,8 +4186,9 @@
                            domain="084002"
                            ln="84.18"
                            morph="PREP"
-                           unicode="πρὸς">πρὸς</w>
-                        <w ref="2JN 1:10!5"
+                           unicode="πρὸς" word="πρὸς"> 
+</word>
+                         <word ref="2JN 1:10!5"
  
  book="2JN" 
  chapter="1" 
@@ -4077,11 +4206,12 @@
                            gloss="you"
                            morph="P-2AP"
                            unicode="ὑμᾶς"
-                           referent="n63001005005 n63001001007">ὑμᾶς</w>
+                           referent="n63001005005 n63001001007" word="ὑμᾶς"> 
+</word>
                      </wg>
                   </wg>
                   <wg type="group">
-                     <w ref="2JN 1:10!6"
+                      <word ref="2JN 1:10!6"
  
  book="2JN" 
  chapter="1" 
@@ -4095,10 +4225,11 @@
                         strong="2532"
                         gloss="and"
                         morph="CONJ"
-                        unicode="καὶ">καὶ</w>
+                        unicode="καὶ" word="καὶ"> 
+</word>
                      <wg class="cl" rule="O-ADV-V" junction="coordinate">
                         <wg class="np" articular="true" rule="Demo-NP" role="o">
-                           <w ref="2JN 1:10!7"
+                            <word ref="2JN 1:10!7"
  
  book="2JN" 
  chapter="1" 
@@ -4116,9 +4247,10 @@
                               case="accusative"
                               gloss="this"
                               morph="D-ASF"
-                              unicode="ταύτην">ταύτην</w>
+                              unicode="ταύτην" word="ταύτην"> 
+</word>
                            <wg class="np" articular="true" rule="DetNP">
-                              <w ref="2JN 1:10!8"
+                               <word ref="2JN 1:10!8"
  
  book="2JN" 
  chapter="1" 
@@ -4137,8 +4269,9 @@
                                  domain="092004"
                                  ln="92.24"
                                  morph="T-ASF"
-                                 unicode="τὴν">τὴν</w>
-                              <w ref="2JN 1:10!9"
+                                 unicode="τὴν" word="τὴν"> 
+</word>
+                               <word ref="2JN 1:10!9"
  
  book="2JN" 
  chapter="1" 
@@ -4158,10 +4291,11 @@
                                  domain="033017"
                                  ln="33.236"
                                  morph="N-ASF"
-                                 unicode="διδαχὴν">διδαχὴν</w>
+                                 unicode="διδαχὴν" word="διδαχὴν"> 
+</word>
                            </wg>
                         </wg>
-                        <w role="adv"
+                         <word role="adv"
                            ref="2JN 1:10!10"
  
  book="2JN" 
@@ -4176,8 +4310,9 @@
                            strong="3756"
                            gloss="not"
                            morph="PRT-N"
-                           unicode="οὐ">οὐ</w>
-                        <w role="v"
+                           unicode="οὐ" word="οὐ"> 
+</word>
+                         <word role="v"
                            ref="2JN 1:10!11"
  
  book="2JN" 
@@ -4201,13 +4336,14 @@
                            morph="V-PAI-3S"
                            unicode="φέρει,"
                            frame="A0:n63001010002 A1:n63001010009"
-                           subjref="n63001010002">φέρει</w>
+                           subjref="n63001010002" word="φέρει"> 
+</word>
                      </wg>
                   </wg>
                </wg>
             </wg>
             <wg class="cl" rule="ADV-V-O-ADV" junction="coordinate">
-               <w role="adv"
+                <word role="adv"
                   ref="2JN 1:10!12"
  
  book="2JN" 
@@ -4222,8 +4358,9 @@
                   strong="3361"
                   gloss="not"
                   morph="PRT-N"
-                  unicode="μὴ">μὴ</w>
-               <w role="v"
+                  unicode="μὴ" word="μὴ"> 
+</word>
+                <word role="v"
                   ref="2JN 1:10!13"
  
  book="2JN" 
@@ -4247,8 +4384,9 @@
                   morph="V-PAM-2P"
                   unicode="λαμβάνετε"
                   frame="A0:n63001005005;n63001001007 A1:n63001010014"
-                  subjref="n63001005005 n63001001007">λαμβάνετε</w>
-               <w role="o"
+                  subjref="n63001005005 n63001001007" word="λαμβάνετε"> 
+</word>
+                <word role="o"
                   ref="2JN 1:10!14"
  
  book="2JN" 
@@ -4268,9 +4406,10 @@
                   gloss="him"
                   morph="P-ASM"
                   unicode="αὐτὸν"
-                  referent="n63001010002">αὐτὸν</w>
+                  referent="n63001010002" word="αὐτὸν"> 
+</word>
                <wg class="pp" rule="PrepNp" role="adv">
-                  <w ref="2JN 1:10!15"
+                   <word ref="2JN 1:10!15"
  
  book="2JN" 
  chapter="1" 
@@ -4284,8 +4423,9 @@
                      strong="1519"
                      gloss="into"
                      morph="PREP"
-                     unicode="εἰς">εἰς</w>
-                  <w ref="2JN 1:10!16"
+                     unicode="εἰς" word="εἰς"> 
+</word>
+                   <word ref="2JN 1:10!16"
  
  book="2JN" 
  chapter="1" 
@@ -4305,11 +4445,12 @@
                      domain="007002"
                      ln="7.3"
                      morph="N-ASF"
-                     unicode="οἰκίαν,">οἰκίαν</w>
+                     unicode="οἰκίαν," word="οἰκίαν"> 
+</word>
                </wg>
             </wg>
             <wg type="group">
-               <w ref="2JN 1:10!17"
+                <word ref="2JN 1:10!17"
  
  book="2JN" 
  chapter="1" 
@@ -4323,10 +4464,11 @@
                   strong="2532"
                   gloss="and"
                   morph="CONJ"
-                  unicode="καὶ">καὶ</w>
+                  unicode="καὶ" word="καὶ"> 
+</word>
                <wg class="cl" rule="O-IO-ADV-V" junction="coordinate">
                   <wg class="cl" rule="V2CL" junction="subordinate" role="o">
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:10!18"
  
  book="2JN" 
@@ -4348,9 +4490,10 @@
                         morph="V-PAN"
                         unicode="χαίρειν"
                         frame="A0:n63001005005;n63001001007"
-                        subjref="n63001005005 n63001001007">χαίρειν</w>
+                        subjref="n63001005005 n63001001007" word="χαίρειν"> 
+</word>
                   </wg>
-                  <w role="io"
+                   <word role="io"
                      ref="2JN 1:10!19"
  
  book="2JN" 
@@ -4370,8 +4513,9 @@
                      gloss="him"
                      morph="P-DSM"
                      unicode="αὐτῷ"
-                     referent="n63001010002">αὐτῷ</w>
-                  <w role="adv"
+                     referent="n63001010002" word="αὐτῷ"> 
+</word>
+                   <word role="adv"
                      ref="2JN 1:10!20"
  
  book="2JN" 
@@ -4386,8 +4530,9 @@
                      strong="3361"
                      gloss="not"
                      morph="PRT-N"
-                     unicode="μὴ">μὴ</w>
-                  <w role="v"
+                     unicode="μὴ" word="μὴ"> 
+</word>
+                   <word role="v"
                      ref="2JN 1:10!21"
  
  book="2JN" 
@@ -4411,22 +4556,19 @@
                      morph="V-PAM-2P"
                      unicode="λέγετε·"
                      frame="A0:n63001005005;n63001001007 A1:n63001010018 A2:n63001010019"
-                     subjref="n63001005005 n63001001007">λέγετε</w>
+                     subjref="n63001005005 n63001001007" word="λέγετε"> 
+</word>
                </wg>
             </wg>
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="11"> </verse>
- ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.</p>
+   <sentence sentence_number="13" 
+      
+          sentence-text=" ὁ λέγων γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς ἔργοις αὐτοῦ τοῖς πονηροῖς.">
       <wg>
          <wg rule="Conj-CL">
-            <w ref="2JN 1:11!3"
+             <word ref="2JN 1:11!3"
  
  book="2JN" 
  chapter="1" 
@@ -4443,10 +4585,11 @@
                domain="089007"
                ln="89.23"
                morph="CONJ"
-               unicode="γὰρ">γὰρ</w>
+               unicode="γὰρ" word="γὰρ"> 
+</word>
             <wg class="cl" rule="S-V-ADV">
                <wg articular="true" rule="DetCL" role="s">
-                  <w ref="2JN 1:11!1"
+                   <word ref="2JN 1:11!1"
  
  book="2JN" 
  chapter="1" 
@@ -4465,9 +4608,10 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-NSM"
-                     unicode="ὁ">ὁ</w>
+                     unicode="ὁ" word="ὁ"> 
+</word>
                   <wg class="cl" clauseType="nominalized" rule="V-IO-O">
-                     <w role="v"
+                      <word role="v"
                         ref="2JN 1:11!2"
  
  book="2JN" 
@@ -4491,8 +4635,9 @@
                         ln="33.69"
                         morph="V-PAP-NSM"
                         unicode="λέγων"
-                        frame="A0:n00000000000 A2:n63001011004 A1:n63001011005">λέγων</w>
-                     <w role="io"
+                        frame="A0:n00000000000 A2:n63001011004 A1:n63001011005" word="λέγων"> 
+</word>
+                      <word role="io"
                         ref="2JN 1:11!4"
  
  book="2JN" 
@@ -4512,9 +4657,10 @@
                         gloss="him"
                         morph="P-DSM"
                         unicode="αὐτῷ"
-                        referent="n63001010002">αὐτῷ</w>
+                        referent="n63001010002" word="αὐτῷ"> 
+</word>
                      <wg class="cl" rule="V2CL" junction="subordinate" role="o">
-                        <w role="v"
+                         <word role="v"
                            ref="2JN 1:11!5"
  
  book="2JN" 
@@ -4536,11 +4682,12 @@
                            morph="V-PAN"
                            unicode="χαίρειν"
                            frame="A0:n63001011002"
-                           subjref="n63001011002">χαίρειν</w>
+                           subjref="n63001011002" word="χαίρειν"> 
+</word>
                      </wg>
                   </wg>
                </wg>
-               <w role="v"
+                <word role="v"
                   ref="2JN 1:11!6"
  
  book="2JN" 
@@ -4563,9 +4710,10 @@
                   ln="57.98"
                   morph="V-PAI-3S"
                   unicode="κοινωνεῖ"
-                  frame="A0:n63001011002">κοινωνεῖ</w>
+                  frame="A0:n63001011002" word="κοινωνεῖ"> 
+</word>
                <wg class="np" articular="true" rule="DetNP" role="adv">
-                  <w ref="2JN 1:11!7"
+                   <word ref="2JN 1:11!7"
  
  book="2JN" 
  chapter="1" 
@@ -4584,10 +4732,11 @@
                      domain="092004"
                      ln="92.24"
                      morph="T-DPN"
-                     unicode="τοῖς">τοῖς</w>
+                     unicode="τοῖς" word="τοῖς"> 
+</word>
                   <wg class="np" rule="NPDetAdj">
                      <wg class="np" rule="NPofNP">
-                        <w ref="2JN 1:11!8"
+                         <word ref="2JN 1:11!8"
  
  book="2JN" 
  chapter="1" 
@@ -4607,8 +4756,9 @@
                            domain="042002"
                            ln="42.11"
                            morph="N-DPN"
-                           unicode="ἔργοις">ἔργοις</w>
-                        <w ref="2JN 1:11!9"
+                           unicode="ἔργοις" word="ἔργοις"> 
+</word>
+                         <word ref="2JN 1:11!9"
  
  book="2JN" 
  chapter="1" 
@@ -4627,10 +4777,11 @@
                            gloss="of him"
                            morph="P-GSM"
                            unicode="αὐτοῦ"
-                           referent="n63001010002">αὐτοῦ</w>
+                           referent="n63001010002" word="αὐτοῦ"> 
+</word>
                      </wg>
                      <wg class="np" articular="true" rule="DetAdj">
-                        <w ref="2JN 1:11!10"
+                         <word ref="2JN 1:11!10"
  
  book="2JN" 
  chapter="1" 
@@ -4649,8 +4800,9 @@
                            domain="092004"
                            ln="92.24"
                            morph="T-DPN"
-                           unicode="τοῖς">τοῖς</w>
-                        <w ref="2JN 1:11!11"
+                           unicode="τοῖς" word="τοῖς"> 
+</word>
+                         <word ref="2JN 1:11!11"
  
  book="2JN" 
  chapter="1" 
@@ -4669,7 +4821,8 @@
                            domain="088015"
                            ln="88.110"
                            morph="A-DPN"
-                           unicode="πονηροῖς.">πονηροῖς</w>
+                           unicode="πονηροῖς." word="πονηροῖς"> 
+</word>
                      </wg>
                   </wg>
                </wg>
@@ -4677,18 +4830,14 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="12"> </verse>
- Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.</p>
+   <sentence sentence_number="14" 
+      
+          sentence-text=" Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος, ἀλλὰ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι, ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ.">
       <wg>
          <wg rule="CLaCL">
             <wg class="cl" rule="ADV-ADV-V-ADV" junction="coordinate">
                <wg class="cl" rule="V-O" junction="subordinate" role="adv">
-                  <w role="v"
+                   <word role="v"
                      ref="2JN 1:12!2"
  
  book="2JN" 
@@ -4712,9 +4861,10 @@
                      morph="V-PAP-NSM"
                      unicode="ἔχων"
                      frame="A0:n63001001002 A1:n63001012004"
-                     subjref="n63001001002">ἔχων</w>
+                     subjref="n63001001002" word="ἔχων"> 
+</word>
                   <wg class="cl" rule="O-IO-V" junction="subordinate" role="o">
-                     <w role="o"
+                      <word role="o"
                         ref="2JN 1:12!1"
  
  book="2JN" 
@@ -4732,8 +4882,9 @@
                         case="accusative"
                         gloss="Many things"
                         morph="A-APN"
-                        unicode="Πολλὰ">Πολλὰ</w>
-                     <w role="io"
+                        unicode="Πολλὰ" word="Πολλὰ"> 
+</word>
+                      <word role="io"
                         ref="2JN 1:12!3"
  
  book="2JN" 
@@ -4752,8 +4903,9 @@
                         gloss="to you"
                         morph="P-2DP"
                         unicode="ὑμῖν"
-                        referent="n63001005005 n63001001007">ὑμῖν</w>
-                     <w role="v"
+                        referent="n63001005005 n63001001007" word="ὑμῖν"> 
+</word>
+                      <word role="v"
                         ref="2JN 1:12!4"
  
  book="2JN" 
@@ -4775,10 +4927,11 @@
                         morph="V-PAN"
                         unicode="γράφειν"
                         frame="A0:n63001001002 A1:n63001012001 A2:n63001012003"
-                        subjref="n63001001002">γράφειν</w>
+                        subjref="n63001001002" word="γράφειν"> 
+</word>
                   </wg>
                </wg>
-               <w role="adv"
+                <word role="adv"
                   ref="2JN 1:12!5"
  
  book="2JN" 
@@ -4793,8 +4946,9 @@
                   strong="3756"
                   gloss="not"
                   morph="PRT-N"
-                  unicode="οὐκ">οὐκ</w>
-               <w role="v"
+                  unicode="οὐκ" word="οὐκ"> 
+</word>
+                <word role="v"
                   ref="2JN 1:12!6"
  
  book="2JN" 
@@ -4818,9 +4972,10 @@
                   morph="V-AOI-1S"
                   unicode="ἐβουλήθην"
                   frame="A1:n63001001002"
-                  subjref="n63001001002">ἐβουλήθην</w>
+                  subjref="n63001001002" word="ἐβουλήθην"> 
+</word>
                <wg class="pp" rule="PrepNp" role="adv">
-                  <w ref="2JN 1:12!7"
+                   <word ref="2JN 1:12!7"
  
  book="2JN" 
  chapter="1" 
@@ -4836,9 +4991,10 @@
                      domain="090002"
                      ln="90.8"
                      morph="PREP"
-                     unicode="διὰ">διὰ</w>
+                     unicode="διὰ" word="διὰ"> 
+</word>
                   <wg rule="NpaNp">
-                     <w ref="2JN 1:12!8"
+                      <word ref="2JN 1:12!8"
  
  book="2JN" 
  chapter="1" 
@@ -4858,9 +5014,10 @@
                         domain="006010"
                         ln="6.58"
                         morph="N-GSM"
-                        unicode="χάρτου">χάρτου</w>
+                        unicode="χάρτου" word="χάρτου"> 
+</word>
                      <wg type="group">
-                        <w ref="2JN 1:12!9"
+                         <word ref="2JN 1:12!9"
  
  book="2JN" 
  chapter="1" 
@@ -4874,8 +5031,9 @@
                            strong="2532"
                            gloss="and"
                            morph="CONJ"
-                           unicode="καὶ">καὶ</w>
-                        <w ref="2JN 1:12!10"
+                           unicode="καὶ" word="καὶ"> 
+</word>
+                         <word ref="2JN 1:12!10"
  
  book="2JN" 
  chapter="1" 
@@ -4894,13 +5052,14 @@
                            domain="006010"
                            ln="6.57"
                            morph="A-GSN"
-                           unicode="μέλανος,">μέλανος</w>
+                           unicode="μέλανος," word="μέλανος"> 
+</word>
                      </wg>
                   </wg>
                </wg>
             </wg>
             <wg type="group">
-               <w ref="2JN 1:12!11"
+                <word ref="2JN 1:12!11"
  
  book="2JN" 
  chapter="1" 
@@ -4916,9 +5075,10 @@
                   domain="089023"
                   ln="89.125"
                   morph="CONJ"
-                  unicode="ἀλλὰ">ἀλλὰ</w>
+                  unicode="ἀλλὰ" word="ἀλλὰ"> 
+</word>
                <wg Rule="ClCl" class="cl" nodeId="630010120120150">
-                  <w role="v"
+                   <word role="v"
                      ref="2JN 1:12!12"
  
  book="2JN" 
@@ -4942,10 +5102,11 @@
                      morph="V-PAI-1S"
                      unicode="ἐλπίζω"
                      frame="A0:n63001001002 A1:n63001012015;n63001012020"
-                     subjref="n63001001002">ἐλπίζω</w>
+                     subjref="n63001001002" word="ἐλπίζω"> 
+</word>
                   <wg rule="CLaCL" junction="subordinate" role="o">
                      <wg class="cl" rule="VC-P" junction="coordinate">
-                        <w role="vc"
+                         <word role="vc"
                            ref="2JN 1:12!13"
  
  book="2JN" 
@@ -4966,9 +5127,10 @@
                            ln="85.7"
                            morph="V-2ADN"
                            unicode="γενέσθαι"
-                           subjref="n63001001002">γενέσθαι</w>
+                           subjref="n63001001002" word="γενέσθαι"> 
+</word>
                         <wg class="pp" rule="PrepNp" role="p">
-                           <w ref="2JN 1:12!14"
+                            <word ref="2JN 1:12!14"
  
  book="2JN" 
  chapter="1" 
@@ -4982,8 +5144,9 @@
                               strong="4314"
                               gloss="to"
                               morph="PREP"
-                              unicode="πρὸς">πρὸς</w>
-                           <w ref="2JN 1:12!15"
+                              unicode="πρὸς" word="πρὸς"> 
+</word>
+                            <word ref="2JN 1:12!15"
  
  book="2JN" 
  chapter="1" 
@@ -5001,11 +5164,12 @@
                               gloss="you"
                               morph="P-2AP"
                               unicode="ὑμᾶς"
-                              referent="n63001005005 n63001001007">ὑμᾶς</w>
+                              referent="n63001005005 n63001001007" word="ὑμᾶς"> 
+</word>
                         </wg>
                      </wg>
                      <wg type="group">
-                        <w ref="2JN 1:12!16"
+                         <word ref="2JN 1:12!16"
  
  book="2JN" 
  chapter="1" 
@@ -5019,10 +5183,11 @@
                            strong="2532"
                            gloss="and"
                            morph="CONJ"
-                           unicode="καὶ">καὶ</w>
+                           unicode="καὶ" word="καὶ"> 
+</word>
                         <wg class="cl" rule="ADV-V" junction="coordinate">
                            <wg class="np" rule="NpPp" role="adv">
-                              <w ref="2JN 1:12!17"
+                               <word ref="2JN 1:12!17"
  
  book="2JN" 
  chapter="1" 
@@ -5042,9 +5207,10 @@
                                  domain="083006"
                                  ln="83.39"
                                  morph="N-ASN"
-                                 unicode="στόμα">στόμα</w>
+                                 unicode="στόμα" word="στόμα"> 
+</word>
                               <wg class="pp" rule="PrepNp">
-                                 <w ref="2JN 1:12!18"
+                                  <word ref="2JN 1:12!18"
  
  book="2JN" 
  chapter="1" 
@@ -5058,8 +5224,9 @@
                                     strong="4314"
                                     gloss="to"
                                     morph="PREP"
-                                    unicode="πρὸς">πρὸς</w>
-                                 <w ref="2JN 1:12!19"
+                                    unicode="πρὸς" word="πρὸς"> 
+</word>
+                                  <word ref="2JN 1:12!19"
  
  book="2JN" 
  chapter="1" 
@@ -5079,10 +5246,11 @@
                                     domain="083006"
                                     ln="83.39"
                                     morph="N-ASN"
-                                    unicode="στόμα">στόμα</w>
+                                    unicode="στόμα" word="στόμα"> 
+</word>
                               </wg>
                            </wg>
-                           <w role="v"
+                            <word role="v"
                               ref="2JN 1:12!20"
  
  book="2JN" 
@@ -5104,12 +5272,13 @@
                               morph="V-AAN"
                               unicode="λαλῆσαι,"
                               frame="A0:n63001001002"
-                              subjref="n63001001002">λαλῆσαι</w>
+                              subjref="n63001001002" word="λαλῆσαι"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
                   <wg rule="sub-CL" role="adv">
-                     <w ref="2JN 1:12!21"
+                      <word ref="2JN 1:12!21"
  
  book="2JN" 
  chapter="1" 
@@ -5125,10 +5294,11 @@
                         domain="089008"
                         ln="89.49"
                         morph="CONJ"
-                        unicode="ἵνα">ἵνα</w>
+                        unicode="ἵνα" word="ἵνα"> 
+</word>
                      <wg class="cl" rule="S-V" junction="subordinate">
                         <wg class="np" articular="true" rule="DetNP" role="s">
-                           <w ref="2JN 1:12!22"
+                            <word ref="2JN 1:12!22"
  
  book="2JN" 
  chapter="1" 
@@ -5147,9 +5317,10 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-NSF"
-                              unicode="ἡ">ἡ</w>
+                              unicode="ἡ" word="ἡ"> 
+</word>
                            <wg class="np" rule="NPofNP">
-                              <w ref="2JN 1:12!23"
+                               <word ref="2JN 1:12!23"
  
  book="2JN" 
  chapter="1" 
@@ -5169,8 +5340,9 @@
                                  domain="025011"
                                  ln="25.123"
                                  morph="N-NSF"
-                                 unicode="χαρὰ">χαρὰ</w>
-                              <w ref="2JN 1:12!24"
+                                 unicode="χαρὰ" word="χαρὰ"> 
+</word>
+                               <word ref="2JN 1:12!24"
  
  book="2JN" 
  chapter="1" 
@@ -5190,11 +5362,12 @@
                                  ln="92.4"
                                  morph="P-1GP"
                                  unicode="ἡμῶν"
-                                 referent="n63001001002 n63001005005 n63001001007 n63001001022">ἡμῶν</w>
+                                 referent="n63001001002 n63001005005 n63001001007 n63001001022" word="ἡμῶν"> 
+</word>
                            </wg>
                         </wg>
                         <wg class="vp" rule="VerbBe" role="v">
-                           <w ref="2JN 1:12!25"
+                            <word ref="2JN 1:12!25"
  
  book="2JN" 
  chapter="1" 
@@ -5217,8 +5390,9 @@
                               ln="78.46"
                               morph="V-RPP-NSF"
                               unicode="πεπληρωμένη"
-                              frame="A1:n63001012023">πεπληρωμένη</w>
-                           <w ref="2JN 1:12!26"
+                              frame="A1:n63001012023" word="πεπληρωμένη"> 
+</word>
+                            <word ref="2JN 1:12!26"
  
  book="2JN" 
  chapter="1" 
@@ -5237,7 +5411,8 @@
                               mood="subjunctive"
                               gloss="may be"
                               morph="V-PAS-3S"
-                              unicode="ᾖ.">ᾖ</w>
+                              unicode="ᾖ." word="ᾖ"> 
+</word>
                         </wg>
                      </wg>
                   </wg>
@@ -5246,16 +5421,12 @@
          </wg>
       </wg>
    </sentence>
-   <sentence>
-      <p>
-          <verse 
- book="2JN" 
- chapter="1" 
- verse="13"> </verse>
- Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.</p>
+   <sentence sentence_number="15" 
+      
+          sentence-text=" Ἀσπάζεταί σε τὰ τέκνα τῆς ἀδελφῆς σου τῆς ἐκλεκτῆς.">
       <wg>
          <wg class="cl" rule="V-O-S">
-            <w role="v"
+             <word role="v"
                ref="2JN 1:13!1"
  
  book="2JN" 
@@ -5278,8 +5449,9 @@
                ln="33.20"
                morph="V-PNI-3S"
                unicode="Ἀσπάζεταί"
-               frame="A1:n63001013002 A0:n63001013004">Ἀσπάζεταί</w>
-            <w role="o"
+               frame="A1:n63001013002 A0:n63001013004" word="Ἀσπάζεταί"> 
+</word>
+             <word role="o"
                ref="2JN 1:13!2"
  
  book="2JN" 
@@ -5298,9 +5470,10 @@
                gloss="you"
                morph="P-2AS"
                unicode="σε"
-               referent="n63001005005">σε</w>
+               referent="n63001005005" word="σε"> 
+</word>
             <wg class="np" articular="true" rule="DetNP" role="s">
-               <w ref="2JN 1:13!3"
+                <word ref="2JN 1:13!3"
  
  book="2JN" 
  chapter="1" 
@@ -5319,9 +5492,10 @@
                   domain="092004"
                   ln="92.24"
                   morph="T-NPN"
-                  unicode="τὰ">τὰ</w>
+                  unicode="τὰ" word="τὰ"> 
+</word>
                <wg class="np" rule="NPofNP">
-                  <w ref="2JN 1:13!4"
+                   <word ref="2JN 1:13!4"
  
  book="2JN" 
  chapter="1" 
@@ -5341,9 +5515,10 @@
                      domain="010002"
                      ln="10.36"
                      morph="N-NPN"
-                     unicode="τέκνα">τέκνα</w>
+                     unicode="τέκνα" word="τέκνα"> 
+</word>
                   <wg class="np" articular="true" rule="DetNP">
-                     <w ref="2JN 1:13!5"
+                      <word ref="2JN 1:13!5"
  
  book="2JN" 
  chapter="1" 
@@ -5362,10 +5537,11 @@
                         domain="092004"
                         ln="92.24"
                         morph="T-GSF"
-                        unicode="τῆς">τῆς</w>
+                        unicode="τῆς" word="τῆς"> 
+</word>
                      <wg class="np" rule="NPDetAdj">
                         <wg class="np" rule="NPofNP">
-                           <w ref="2JN 1:13!6"
+                            <word ref="2JN 1:13!6"
  
  book="2JN" 
  chapter="1" 
@@ -5385,8 +5561,9 @@
                               domain="010003"
                               ln="10.50"
                               morph="N-GSF"
-                              unicode="ἀδελφῆς">ἀδελφῆς</w>
-                           <w ref="2JN 1:13!7"
+                              unicode="ἀδελφῆς" word="ἀδελφῆς"> 
+</word>
+                            <word ref="2JN 1:13!7"
  
  book="2JN" 
  chapter="1" 
@@ -5404,10 +5581,11 @@
                               gloss="of you"
                               morph="P-2GS"
                               unicode="σου"
-                              referent="n63001005005">σου</w>
+                              referent="n63001005005" word="σου"> 
+</word>
                         </wg>
                         <wg class="np" articular="true" rule="DetAdj">
-                           <w ref="2JN 1:13!8"
+                            <word ref="2JN 1:13!8"
  
  book="2JN" 
  chapter="1" 
@@ -5426,8 +5604,9 @@
                               domain="092004"
                               ln="92.24"
                               morph="T-GSF"
-                              unicode="τῆς">τῆς</w>
-                           <w ref="2JN 1:13!9"
+                              unicode="τῆς" word="τῆς"> 
+</word>
+                            <word ref="2JN 1:13!9"
  
  book="2JN" 
  chapter="1" 
@@ -5446,7 +5625,8 @@
                               domain="030006"
                               ln="30.93"
                               morph="A-GSF"
-                              unicode="ἐκλεκτῆς.">ἐκλεκτῆς</w>
+                              unicode="ἐκλεκτῆς." word="ἐκλεκτῆς"> 
+</word>
                         </wg>
                      </wg>
                   </wg>

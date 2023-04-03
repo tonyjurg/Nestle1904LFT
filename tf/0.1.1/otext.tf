@@ -11,5 +11,5 @@
 @title=Greek New Testament
 @version=0.1.1
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-03T13:29:23Z
+@dateWritten=2023-04-03T15:19:35Z
 
