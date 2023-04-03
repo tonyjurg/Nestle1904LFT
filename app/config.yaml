@@ -22,15 +22,12 @@ typeDisplay:
     style: ""
   word:
     featuresBare:
-      - gloss_EN
+      - gloss
     features:
       - lemma
-      - strongs
-  clause:
-    label: '#{clause}'
-    style: ""
-  phrase:
-    label: '#{phrase}'
+      - strong
+  wg:
+    label: '#'
     style: ""
 interfaceDefaults: {}
 provenanceSpec:
