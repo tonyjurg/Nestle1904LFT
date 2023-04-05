@@ -12,7 +12,7 @@
 @description=Word as it appears in the text
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T14:44:31Z
+@dateWritten=2023-04-05T16:31:46Z
 
 Βίβλος
 γενέσεως

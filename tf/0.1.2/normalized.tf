@@ -12,7 +12,7 @@
 @description=Surface word stripped of punctations
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T14:44:28Z
+@dateWritten=2023-04-05T16:31:44Z
 
 Βίβλος
 γενέσεως
