@@ -18,17 +18,21 @@ dataDisplay:
 # docs: reference to transcription.md
 typeDisplay:
   book:
-    label: '{book}'
+    label: 'Book: {book}'
+    style: ""
+  chapter:
+    label: 'Chapter: {chapter}'
+    style: ""
+  verse:
+    label: 'Verse: {verse}'
     style: ""
   word:
     featuresBare:
       - gloss
     features:
       - lemma
-      - strong
-  wg:
-    label: '#'
-    style: ""
+      - strongs
+
 interfaceDefaults: {}
 provenanceSpec:
   corpus: "Nestle 1904"
