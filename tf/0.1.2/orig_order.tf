@@ -12,7 +12,7 @@
 @description=Word order within corpus
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:47:28Z
+@dateWritten=2023-04-05T16:52:41Z
 
 1
 2

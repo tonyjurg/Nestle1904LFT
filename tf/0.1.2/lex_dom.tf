@@ -12,7 +12,7 @@
 @description=Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG (not present everywhere?)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:47:27Z
+@dateWritten=2023-04-05T16:52:40Z
 
 033005
 010002 033003

@@ -12,7 +12,7 @@
 @description=Verse number inside chapter
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:47:30Z
+@dateWritten=2023-04-05T16:52:43Z
 
 1
 1

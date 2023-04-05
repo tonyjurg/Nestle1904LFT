@@ -12,7 +12,7 @@
 @description=Part of Speech (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:47:29Z
+@dateWritten=2023-04-05T16:52:43Z
 
 noun
 noun

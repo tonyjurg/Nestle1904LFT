@@ -12,7 +12,7 @@
 @description=Clause type information (verb, verbless, elided, minor, etc.)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:47:26Z
+@dateWritten=2023-04-05T16:52:39Z
 
 138067	i_Parent5Cltype
 i_Parent2Cltype
