@@ -12,7 +12,7 @@
 @description=Clause number (counted per chapter)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:31:43Z
+@dateWritten=2023-04-05T16:47:26Z
 
 1
 1
