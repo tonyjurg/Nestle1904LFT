@@ -12,7 +12,7 @@
 @description=Degree (e.g. Comparitative, Superlative)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T15:15:40Z
+@dateWritten=2023-04-06T20:21:15Z
 
 
 
@@ -7571,8 +7571,8 @@ superlative
 
 
 
-
 comparative
+
 
 
 
@@ -11449,8 +11449,8 @@ comparative
 
 
 
-superlative
 
+superlative
 superlative
 
 superlative
@@ -12692,8 +12692,8 @@ superlative
 
 
 
-
 comparative
+
 
 
 
@@ -13264,7 +13264,6 @@ superlative
 
 
 
-
 comparative
 
 
@@ -13416,6 +13415,7 @@ comparative
 
 
 
+
 superlative
 
 
@@ -13873,7 +13873,6 @@ comparative
 
 
 comparative
-
 
 
 
@@ -15453,6 +15452,7 @@ comparative
 
 
 
+
 comparative
 
 
@@ -16685,7 +16685,6 @@ comparative
 
 
 comparative
-
 
 
 
@@ -16991,6 +16990,7 @@ comparative
 
 
 
+
 comparative
 
 
@@ -25041,9 +25041,9 @@ comparative
 
 
 
-superlative
 
 superlative
+superlative
 
 
 superlative
@@ -29394,7 +29394,6 @@ comparative
 
 
 superlative
-
 
 
 
@@ -29622,6 +29621,7 @@ comparative
 
 
 
+
 superlative
 
 
@@ -37493,8 +37493,8 @@ comparative
 
 
 
-
 comparative
+
 
 
 
@@ -42735,7 +42735,6 @@ superlative
 
 
 
-
 comparative
 
 
@@ -44003,6 +44002,7 @@ comparative
 
 
 comparative
+
 
 
 
@@ -57248,8 +57248,8 @@ comparative
 
 
 
-
 superlative
+
 
 
 
@@ -63342,10 +63342,10 @@ comparative
 
 
 
+superlative
 
 
 
-superlative
 
 
 
@@ -64691,9 +64691,9 @@ comparative
 
 
 
+superlative
 
 
-superlative
 
 
 
@@ -66894,8 +66894,8 @@ comparative
 
 
 
-comparative
 
+comparative
 
 
 
@@ -80203,10 +80203,10 @@ comparative
 
 
 
+superlative
 
 
 
-superlative
 
 
 
@@ -81600,9 +81600,9 @@ superlative
 
 
 
-superlative
 
 
+superlative
 
 
 
@@ -92345,7 +92345,6 @@ superlative
 
 
 
-
 comparative
 
 
@@ -92853,8 +92852,8 @@ comparative
 
 
 
-comparative
 
+comparative
 
 
 
@@ -93438,6 +93437,7 @@ comparative
 
 
 
+
 comparative
 
 
@@ -94888,10 +94888,10 @@ comparative
 
 
 
-comparative
 
 
 
+comparative
 
 
 
@@ -94912,7 +94912,6 @@ comparative
 
 
 comparative
-
 
 
 
@@ -95024,8 +95023,8 @@ comparative
 
 
 
-comparative
 
+comparative
 
 
 
@@ -95675,6 +95674,7 @@ comparative
 
 
 
+
 superlative
 
 
@@ -95914,7 +95914,6 @@ superlative
 
 
 comparative
-
 
 
 
@@ -95939,6 +95938,7 @@ superlative
 
 
 
+
 superlative
 
 
@@ -99599,8 +99599,8 @@ comparative
 
 
 
-
 comparative
+
 
 
 
@@ -100980,8 +100980,8 @@ comparative
 
 
 
-
 superlative
+
 
 
 
@@ -112663,8 +112663,8 @@ comparative
 
 
 
-
 comparative
+
 
 
 
@@ -113707,8 +113707,8 @@ comparative
 
 
 
-
 comparative
+
 
 
 
@@ -116034,7 +116034,6 @@ superlative
 
 
 
-
 comparative
 
 
@@ -116043,6 +116042,7 @@ comparative
 
 
 
+
 comparative
 
 
@@ -117009,8 +117009,8 @@ comparative
 
 
 
-comparative
 
+comparative
 
 
 
@@ -117674,9 +117674,9 @@ comparative
 
 
 
+comparative
 
 
-comparative
 
 
 
@@ -118161,7 +118161,6 @@ superlative
 
 
 superlative
-
 
 
 
@@ -118455,6 +118454,7 @@ comparative
 
 
 
+
 comparative
 
 
@@ -118801,7 +118801,6 @@ superlative
 
 
 comparative
-
 
 
 
@@ -118921,8 +118920,8 @@ comparative
 
 
 
-comparative
 
+comparative
 
 
 
@@ -119180,6 +119179,7 @@ comparative
 
 
 comparative
+
 
 
 
@@ -119734,8 +119734,8 @@ comparative
 
 
 
-
 comparative
+
 
 
 
@@ -121601,7 +121601,6 @@ superlative
 
 
 
-
 comparative
 
 
@@ -121829,6 +121828,7 @@ comparative
 
 
 
+
 superlative
 
 
@@ -123030,7 +123030,6 @@ superlative
 
 
 comparative
-
 
 
 
@@ -123656,8 +123655,9 @@ comparative
 
 
 
-comparative
+
 
+comparative
 
 comparative
 
@@ -124527,8 +124527,8 @@ superlative
 
 
 superlative
-
 comparative
+
 
 
 

@@ -9,11 +9,11 @@
 @Name=Greek New Testament (NA1904)
 @TextFabric version=11.2.3
 @Version=1904
-@fmt:text-orig-full={word}
+@fmt:text-orig-full={word}{after}
 @sectionFeatures=book,chapter,verse
 @sectionTypes=book,chapter,verse
 @structureFeatures=book,chapter,verse
 @structureTypes=book,chapter,verse
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T15:15:45Z
+@dateWritten=2023-04-06T20:21:20Z
 
