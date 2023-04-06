@@ -26,6 +26,22 @@ typeDisplay:
   verse:
     label: 'Verse: {verse}'
     style: ""
+  sentence:
+    label: ''
+    style: ""
+  clause:
+    level: 1
+    hidden: False
+    label: 'Clause: {clause}'
+    style: ""
+  phrase:
+    hidden: false
+    label: 'Phrase: {phrase}'
+    style: ""
+  subphrase:
+    hidden: false
+    label: ''
+    style: ""
   word:
     featuresBare:
       - gloss
