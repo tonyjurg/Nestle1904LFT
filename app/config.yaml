@@ -26,8 +26,18 @@ typeDisplay:
   verse:
     label: 'Verse: {verse}'
     style: ""
+  sentence:
+    label: '{number}'
+    style: ""
+  sentence_atom:
+    level: 1
+    hidden: true
+    label: '{number}'
+    style: ""
   subphrase:
-    label 'sub'
+    hidden: true
+    label: '{number}'
+    style: ""
   word:
     featuresBare:
       - gloss
