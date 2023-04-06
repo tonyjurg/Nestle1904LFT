@@ -12,7 +12,7 @@
 @description=Gramatical number (Singular, Plural)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T14:18:23Z
+@dateWritten=2023-04-06T15:15:41Z
 
 singular
 singular

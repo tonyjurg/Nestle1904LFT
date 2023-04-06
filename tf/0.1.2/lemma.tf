@@ -12,7 +12,7 @@
 @description=Lexeme (lemma)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T14:18:21Z
+@dateWritten=2023-04-06T15:15:40Z
 
 βίβλος
 γένεσις

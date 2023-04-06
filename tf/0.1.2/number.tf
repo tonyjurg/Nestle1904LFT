@@ -12,7 +12,7 @@
 @description=Gramatical number of the verb
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T14:18:23Z
+@dateWritten=2023-04-06T15:15:42Z
 
 singular
 singular

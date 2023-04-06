@@ -11,12 +11,12 @@
 @Version=1904
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T14:18:23Z
+@dateWritten=2023-04-06T15:15:42Z
 
 1-137779	word
 137780-137806	book
 137807-138066	chapter
 138067-154190	clause
-154191-170314	phrase
-170315-176034	sentence
-176035-183978	verse
+154191-182885	phrase
+182886-188605	sentence
+188606-196549	verse
