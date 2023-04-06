@@ -12,7 +12,7 @@
 @description=Phrase function (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:52:41Z
+@dateWritten=2023-04-06T14:18:23Z
 
 154191	np
 np

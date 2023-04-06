@@ -12,7 +12,7 @@
 @description=Gramatical voice of the verb
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:52:44Z
+@dateWritten=2023-04-06T14:18:25Z
 
 
 

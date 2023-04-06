@@ -9,10 +9,10 @@
 @Name=Greek New Testament (NA1904)
 @TextFabric version=11.2.3
 @Version=1904
-@description=Monad
+@description=Monad (currently: order of words in XML tree file!)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-05T16:52:40Z
+@dateWritten=2023-04-06T14:18:22Z
 
 1
 2
