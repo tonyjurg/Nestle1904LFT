@@ -27,16 +27,20 @@ typeDisplay:
     label: 'Verse: {verse}'
     style: ""
   sentence:
-    label: '{number}'
+    label: ''
     style: ""
-  sentence_atom:
+  clause:
     level: 1
-    hidden: true
-    label: '{number}'
+    hidden: False
+    label: 'Clause: {clause}'
+    style: ""
+  phrase:
+    hidden: false
+    label: 'Phrase: {phrase}'
     style: ""
   subphrase:
-    hidden: true
-    label: '{number}'
+    hidden: false
+    label: ''
     style: ""
   word:
     featuresBare:
