@@ -26,6 +26,8 @@ typeDisplay:
   verse:
     label: 'Verse: {verse}'
     style: ""
+  subphrase:
+    label 'sub'
   word:
     featuresBare:
       - gloss
