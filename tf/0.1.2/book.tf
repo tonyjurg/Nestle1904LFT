@@ -12,32 +12,6 @@
 @description=Book
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-04-06T20:21:15Z
+@dateWritten=2023-04-10T19:13:25Z
 
-137780	Matthew
-Mark
-Luke
-John
-Acts
-Romans
-I_Corinthians
-II_Corinthians
-Galatians
-Ephesians
-Philippians
-Colossians
-I_Thessalonians
-II_Thessalonians
-I_Timothy
-II_Timothy
-Titus
-Philemon
-Hebrews
-James
-I_Peter
-II_Peter
-I_John
-II_John
-III_John
-Jude
-Revelation
+18300	Matthew
