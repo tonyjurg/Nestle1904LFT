@@ -18,29 +18,23 @@ dataDisplay:
 # docs: reference to transcription.md
 typeDisplay:
   book:
-    label: 'Book: {book}'
+    label: '{book}'
     style: ""
   chapter:
-    label: 'Chapter: {chapter}'
+    label: '{chapter}'
     style: ""
   verse:
-    label: 'Verse: {verse}'
-    style: ""
-  sentence:
-    label: ''
+    label: '{verse}'
     style: ""
   clause:
+    hidden: false
     level: 1
-    hidden: False
-    label: 'Clause: {clause}'
+    label: '{clause}'
     style: ""
   phrase:
     hidden: false
-    label: 'Phrase: {phrase}'
-    style: ""
-  subphrase:
-    hidden: false
-    label: ''
+    level: 1
+    label: '{phrase}'
     style: ""
   word:
     featuresBare:
@@ -53,5 +47,6 @@ interfaceDefaults: {}
 provenanceSpec:
   corpus: "Nestle 1904"
   version: "0.1.2"
+  org: 'tonyjurg'
   webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
 
