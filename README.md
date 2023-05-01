@@ -1,7 +1,8 @@
 # n1904_lft
 xml conversion based upon low-fat-tree data
 
-version:
+versions:
+
 0.1.1 - initial test version
 
 0.1.2 - Correct word order to match running text
