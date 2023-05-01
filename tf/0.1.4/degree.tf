@@ -12,7 +12,7 @@
 @description=Degree (e.g. Comparitative, Superlative)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-01T09:27:51Z
+@dateWritten=2023-05-01T11:06:18Z
 
 
 

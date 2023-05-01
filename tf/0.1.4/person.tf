@@ -12,7 +12,7 @@
 @description=Gramatical person of the verb (first, second, third)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-01T09:27:53Z
+@dateWritten=2023-05-01T11:06:21Z
 
 
 

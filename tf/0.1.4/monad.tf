@@ -12,7 +12,7 @@
 @description=Monad (currently: order of words in XML tree file!)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-01T09:27:52Z
+@dateWritten=2023-05-01T11:06:19Z
 
 1
 2

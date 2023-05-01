@@ -12,7 +12,7 @@
 @description=Morphological tag (Sandborg-Petersen morphology)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-01T09:27:52Z
+@dateWritten=2023-05-01T11:06:20Z
 
 N-NSF
 N-GSF

@@ -12,7 +12,7 @@
 @description=Phrase number (counted per book)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-01T09:27:53Z
+@dateWritten=2023-05-01T11:06:21Z
 
 1
 1
@@ -137793,7 +137793,7 @@
 4079
 4080
 4080
-261147	1
+233878	1
 2
 3
 4

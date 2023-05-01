@@ -12,7 +12,7 @@
 @description=Sentence number (counted per chapter)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-01T09:27:54Z
+@dateWritten=2023-05-01T11:06:21Z
 
 1
 1
@@ -137793,7 +137793,7 @@
 351
 351
 351
-332253	1
+304984	1
 2
 3
 4
