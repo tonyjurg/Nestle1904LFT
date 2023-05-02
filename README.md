@@ -10,3 +10,5 @@ versions:
 0.1.3 - recursive creation of clauses (limited to where class=cl)
 
 0.1.4 - 'in between version' to visualize all wordgroups as clauses
+
+0.1.6 - now completely based on wordgroups
