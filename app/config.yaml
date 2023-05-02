@@ -13,7 +13,7 @@ dataDisplay:
   - reference
 # sectionSep1: #this is to display sections well in table
 # sectionSep2: #this is to display sections well in table
-# showVerseInTuple: 
+showVerseInTuple: False
 # textFormats:
 # docs: reference to transcription.md
 typeDisplay:
@@ -26,17 +26,19 @@ typeDisplay:
   verse:
     label: '{verse}'
     style: ""
-  clause:
+  sentence:
     hidden: false
     level: 1
-    label: '{clause}'
+    label: '{sentence}'
     style: ""
-  phrase:
+  wg:
     hidden: false
     level: 1
-    label: '{phrase}'
+    label: '{rule} {clausetype} {wgrolelong} {junction}'
     style: ""
   word:
+    level: 0
+    base: true
     featuresBare:
       - gloss
     features:
@@ -46,7 +48,6 @@ typeDisplay:
 interfaceDefaults: {}
 provenanceSpec:
   corpus: "Nestle 1904"
-  version: "0.1.2"
-  org: 'tonyjurg'
+  version: "0.1.6"
+  org: 'tonyjurg/ETCBC'
   webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
-
