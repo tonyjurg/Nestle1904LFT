@@ -12,7 +12,7 @@
 @description=Role of the word (full)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T18:35:20Z
+@dateWritten=2023-05-03T19:51:11Z
 
 Predicate
 Predicate

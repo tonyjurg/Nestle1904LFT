@@ -12,7 +12,7 @@
 @description=Word order within corpus (per book)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T18:35:17Z
+@dateWritten=2023-05-03T19:51:08Z
 
 1
 2

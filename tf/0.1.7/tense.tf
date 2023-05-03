@@ -12,7 +12,7 @@
 @description=Gramatical tense of the verb (e.g. Present, Aorist)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T18:35:19Z
+@dateWritten=2023-05-03T19:51:10Z
 
 
 
