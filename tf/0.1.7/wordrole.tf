@@ -12,7 +12,7 @@
 @description=Role of the word (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T19:51:11Z
+@dateWritten=2023-05-03T20:22:25Z
 
 p
 p

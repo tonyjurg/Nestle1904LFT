@@ -12,7 +12,7 @@
 @description=Class of the wordgroup ()
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T19:51:10Z
+@dateWritten=2023-05-03T20:22:24Z
 
 154021	
 cl
