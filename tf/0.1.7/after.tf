@@ -12,7 +12,7 @@
 @description=Characters (eg. punctuations) following the word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T20:22:18Z
+@dateWritten=2023-05-03T20:45:30Z
 
  
  

@@ -12,7 +12,7 @@
 @description=Wordgroup rule information 
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T20:22:22Z
+@dateWritten=2023-05-03T20:45:34Z
 
 154021	
 P2CL

@@ -12,7 +12,7 @@
 @description=Role of the wordgroup (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T20:22:24Z
+@dateWritten=2023-05-03T20:45:36Z
 
 154021	
 
@@ -254,7 +254,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 Object
 Second Object
@@ -284,7 +284,7 @@ Adverbial
 
 
 Subject
-
+Auxiliar
 
 Subject
 
@@ -407,7 +407,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -809,7 +809,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 Object
 Adverbial
 
@@ -1146,7 +1146,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -1168,7 +1168,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -2173,7 +2173,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -2704,7 +2704,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -2877,7 +2877,7 @@ Object
 Object
 Adverbial
 
-
+Auxiliar
 
 Object
 
@@ -3404,7 +3404,7 @@ Object
 Predicate
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -3896,7 +3896,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 
 
@@ -4357,7 +4357,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -4985,7 +4985,7 @@ Adverbial
 Subject
 Object
 
-
+Auxiliar
 
 
 
@@ -5003,7 +5003,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 Predicate
@@ -5037,7 +5037,7 @@ Subject
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -5194,7 +5194,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -5284,7 +5284,7 @@ Adverbial
 
 Adverbial
 Object
-
+Auxiliar
 Subject
 
 
@@ -5538,7 +5538,7 @@ Subject
 
 
 
-
+Auxiliar
 Object
 Adverbial
 
@@ -5570,7 +5570,7 @@ Adverbial
 Adverbial
 
 
-
+Auxiliar
 
 
 
@@ -6101,7 +6101,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -6131,7 +6131,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -6156,7 +6156,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -6408,6 +6408,261 @@ Predicate
 
 
 
+Auxiliar
+
+Predicate
+
+
+
+
+
+
+Subject
+Predicate
+
+
+
+
+Subject
+
+
+
+Predicate
+
+
+
+
+Subject
+Predicate
+
+
+Subject
+
+
+
+Adverbial
+
+
+Subject
+
+
+Adverbial
+
+
+
+
+
+
+Subject
+
+
+Object
+
+
+
+
+Adverbial
+
+
+Object
+
+
+
+
+
+Object
+
+
+Adverbial
+
+
+
+
+
+Subject
+
+
+
+
+
+
+
+Subject
+Adverbial
+
+Subject
+Adverbial
+
+
+
+
+
+
+Subject
+
+
+
+Subject
+
+
+Adverbial
+
+
+Adverbial
+
+
+
+Adverbial
+
+
+Adverbial
+
+
+
+
+Object
+
+
+Object
+
+
+
+Subject
+
+
+Adverbial
+
+Object
+
+
+
+
+Adverbial
+Object
+
+Adverbial
+Object
+
+
+
+
+
+Subject
+
+
+Adverbial
+
+
+
+Adverbial
+
+
+
+Adverbial
+
+
+
+Adverbial
+
+Adverbial
+
+Adverbial
+
+
+
+Object
+Adverbial
+
+
+Object
+
+
+Adverbial
+
+
+
+
+
+
+Subject
+
+
+
+Object
+Adverbial
+
+
+
+
+Adverbial
+
+
+
+
+
+Subject
+
+
+
+
+
+
+
+Object
+
+
+
+
+
+
+Object
+Adverbial
+Subject
+
+
+Adverbial
+
+
+Adverbial
+
+
+Adverbial
+
+
+Object
+
+
+
+
+
+
+Adverbial
+
+Subject
+Object
+
+
+
+
+Adverbial
+Adverbial
+
+
+Adverbial
+
+
+Adverbial
+
+
+
+
+
+Subject
+
+
+
+
+
 
 
 Predicate
@@ -6418,261 +6673,6 @@ Predicate
 
 
 Subject
-Predicate
-
-
-
-
-Subject
-
-
-
-Predicate
-
-
-
-
-Subject
-Predicate
-
-
-Subject
-
-
-
-Adverbial
-
-
-Subject
-
-
-Adverbial
-
-
-
-
-
-
-Subject
-
-
-Object
-
-
-
-
-Adverbial
-
-
-Object
-
-
-
-
-
-Object
-
-
-Adverbial
-
-
-
-
-
-Subject
-
-
-
-
-
-
-
-Subject
-Adverbial
-
-Subject
-Adverbial
-
-
-
-
-
-
-Subject
-
-
-
-Subject
-
-
-Adverbial
-
-
-Adverbial
-
-
-
-Adverbial
-
-
-Adverbial
-
-
-
-
-Object
-
-
-Object
-
-
-
-Subject
-
-
-Adverbial
-
-Object
-
-
-
-
-Adverbial
-Object
-
-Adverbial
-Object
-
-
-
-
-
-Subject
-
-
-Adverbial
-
-
-
-Adverbial
-
-
-
-Adverbial
-
-
-
-Adverbial
-
-Adverbial
-
-Adverbial
-
-
-
-Object
-Adverbial
-
-
-Object
-
-
-Adverbial
-
-
-
-
-
-
-Subject
-
-
-
-Object
-Adverbial
-
-
-
-
-Adverbial
-
-
-
-
-
-Subject
-
-
-
-
-
-
-
-Object
-
-
-
-
-
-
-Object
-Adverbial
-Subject
-
-
-Adverbial
-
-
-Adverbial
-
-
-Adverbial
-
-
-Object
-
-
-
-
-
-
-Adverbial
-
-Subject
-Object
-
-
-
-
-Adverbial
-Adverbial
-
-
-Adverbial
-
-
-Adverbial
-
-
-
-
-
-Subject
-
-
-
-
-
-
-
-Predicate
-
-
-
-
-
-
-Subject
 
 
 
@@ -6686,7 +6686,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 Predicate
@@ -7295,7 +7295,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -7415,7 +7415,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 
 Subject
@@ -7494,7 +7494,7 @@ Subject
 Object
 
 
-
+Auxiliar
 Subject
 
 
@@ -7882,7 +7882,7 @@ Adverbial
 Subject
 Object
 
-
+Auxiliar
 Adverbial
 
 
@@ -8322,7 +8322,7 @@ Adverbial
 Subject
 Object
 
-
+Auxiliar
 
 
 
@@ -9001,7 +9001,7 @@ Subject
 
 Object
 
-
+Auxiliar
 Object
 
 
@@ -9411,7 +9411,7 @@ Object
 Object
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -9849,7 +9849,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -9863,24 +9863,7 @@ Adverbial
 Adverbial
 Object
 
-
-
-
-
-
-
-Adverbial
-Subject
-
-
-Object
-Object
-
-
-Object
-
-
-Subject
+Auxiliar
 
 
 
@@ -9888,53 +9871,22 @@ Subject
 
 Adverbial
 Subject
+
+
 Object
-
-
-
-
-
-
-
+Object
 
 
 Object
 
 
-Adverbial
+Subject
 
 
-Adverbial
-Adverbial
-
-
-
-Object
-Adverbial
-Object
-
-
-Adverbial
-
-
-
-
-
-
-Object
 
 
 
 Adverbial
-
-Adverbial
-
-
-
-Adverbial
-
-Object
-
 Subject
 Object
 
@@ -9944,6 +9896,54 @@ Object
 
 
 
+
+
+Object
+
+
+Adverbial
+
+
+Adverbial
+Adverbial
+
+
+
+Object
+Adverbial
+Object
+
+
+Adverbial
+
+
+
+
+
+
+Object
+
+
+
+Adverbial
+
+Adverbial
+
+
+
+Adverbial
+
+Object
+
+Subject
+Object
+
+
+
+
+
+
+Auxiliar
 
 Subject
 
@@ -10532,7 +10532,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Subject
 
@@ -10572,7 +10572,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -11278,7 +11278,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -11299,7 +11299,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -11320,7 +11320,7 @@ Second Object
 
 
 
-
+Auxiliar
 
 
 
@@ -11336,6 +11336,37 @@ Subject
 
 Adverbial
 
+
+
+
+
+
+Auxiliar
+
+
+
+
+Subject
+
+
+Subject
+
+
+
+Object
+
+
+
+
+Subject
+
+Adverbial
+
+
+
+Subject
+
+Adverbial
 
 
 
@@ -11357,37 +11388,6 @@ Object
 
 
 
-
-Subject
-
-Adverbial
-
-
-
-Subject
-
-Adverbial
-
-
-
-
-
-
-
-
-
-
-Subject
-
-
-Subject
-
-
-
-Object
-
-
-
 Subject
 
 Adverbial
@@ -11432,7 +11432,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -11464,7 +11464,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 
@@ -11476,7 +11476,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -11496,7 +11496,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Object
 
 
@@ -11508,7 +11508,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -11539,7 +11539,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -11589,7 +11589,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -11661,7 +11661,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Object
@@ -11863,7 +11863,7 @@ Subject
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -11983,7 +11983,7 @@ Subject
 
 
 
-
+Auxiliar
 
 Object
 
@@ -12013,7 +12013,7 @@ Object
 
 
 
-
+Auxiliar
 
 Object
 Predicate
@@ -12443,7 +12443,7 @@ Subject
 Adverbial
 Object
 
-
+Auxiliar
 Subject
 
 Adverbial
@@ -12632,7 +12632,7 @@ Subject
 Second Object
 
 
-
+Auxiliar
 
 
 Object
@@ -12668,7 +12668,7 @@ Subject
 Second Object
 
 
-
+Auxiliar
 
 
 Object
@@ -12723,7 +12723,7 @@ Subject
 
 Object
 
-
+Auxiliar
 
 
 Object
@@ -12771,7 +12771,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 Subject
 
@@ -12850,7 +12850,7 @@ Indirect Object
 Object
 
 
-
+Auxiliar
 
 
 
@@ -13292,7 +13292,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 Adverbial
 Object
@@ -13525,7 +13525,7 @@ Verbal
 
 Object
 
-
+Auxiliar
 
 Adverbial
 
@@ -13578,7 +13578,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 Adverbial
 
 Object
@@ -14388,7 +14388,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -14499,7 +14499,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 Object
@@ -14591,9 +14591,9 @@ Object
 Predicate
 
 
+Auxiliar
 
-
-
+Auxiliar
 
 Adverbial
 
@@ -14949,7 +14949,7 @@ Object
 Adverbial
 Indirect Object
 
-
+Auxiliar
 
 
 Adverbial
@@ -15137,7 +15137,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -15451,7 +15451,7 @@ Object
 Predicate
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -16380,7 +16380,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 
 
@@ -17279,7 +17279,7 @@ Object
 Predicate
 
 
-
+Auxiliar
 
 
 
@@ -17291,7 +17291,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 
 Adverbial
@@ -17752,7 +17752,7 @@ Object
 Verbal Copula
 Predicate
 
-
+Auxiliar
 Object
 
 
@@ -18016,7 +18016,7 @@ Adverbial
 Subject
 
 
-
+Auxiliar
 
 
 
@@ -18849,7 +18849,7 @@ Object
 Object
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -18868,7 +18868,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Subject
@@ -19854,7 +19854,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -19918,27 +19918,27 @@ Adverbial
 Subject
 Object
 
-
-
-
-Adverbial
-
+Auxiliar
 
 
 Adverbial
-Subject
-
-
-Object
-
-
-Object
-
 
 
 
 Adverbial
 Subject
+
+
+Object
+
+
+Object
+
+
+
+
+Adverbial
+Subject
 Object
 
 Object
@@ -19947,7 +19947,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -20456,7 +20456,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 Adverbial
 
 Object
@@ -20689,7 +20689,7 @@ Object
 Object
 
 Object
-
+Auxiliar
 
 
 Adverbial
@@ -20908,7 +20908,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 
@@ -20921,7 +20921,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -21313,7 +21313,7 @@ Subject
 Adverbial
 
 
-
+Auxiliar
 
 Verbal
 
@@ -21562,7 +21562,7 @@ Object
 
 
 
-
+Auxiliar
 
 Subject
 
@@ -22018,7 +22018,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 Object
@@ -22274,7 +22274,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -22375,7 +22375,7 @@ Object
 
 
 
-
+Auxiliar
 
 Second Object
 
@@ -23082,7 +23082,7 @@ Subject
 
 Object
 
-
+Auxiliar
 
 
 
@@ -23740,7 +23740,7 @@ Object
 Object
 Object
 
-
+Auxiliar
 
 
 
@@ -23835,7 +23835,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 
@@ -23864,7 +23864,7 @@ Object
 Object
 
 
-
+Auxiliar
 
 
 Object
@@ -23935,10 +23935,10 @@ Verbal Copula
 Predicate
 
 
+Auxiliar
 
 
-
-
+Auxiliar
 
 
 Adverbial
@@ -24430,7 +24430,7 @@ Adverbial
 Adverbial
 Subject
 
-
+Auxiliar
 Adverbial
 
 Object
@@ -24882,7 +24882,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 Subject
@@ -25506,7 +25506,7 @@ Object
 
 Subject
 Object
-
+Auxiliar
 
 Object
 
@@ -25693,7 +25693,7 @@ Subject
 Adverbial
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -26198,7 +26198,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 Object
 Adverbial
 
@@ -27050,7 +27050,7 @@ Object
 Predicate
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -27418,7 +27418,7 @@ Predicate
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -28231,14 +28231,14 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -28575,7 +28575,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -29184,7 +29184,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Subject
 
 Adverbial
@@ -29601,7 +29601,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -29622,7 +29622,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -29722,7 +29722,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -29878,7 +29878,7 @@ Object
 Predicate
 
 
-
+Auxiliar
 
 
 
@@ -30276,7 +30276,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -30930,7 +30930,7 @@ Subject
 Object
 
 
-
+Auxiliar
 
 
 
@@ -31058,7 +31058,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -31553,7 +31553,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -31569,7 +31569,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 Adverbial
@@ -32818,7 +32818,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -32848,7 +32848,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -33145,7 +33145,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -33407,7 +33407,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -33608,7 +33608,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -33720,7 +33720,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -33982,7 +33982,7 @@ Object
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -34086,7 +34086,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Object
@@ -34647,7 +34647,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -34721,7 +34721,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Object
@@ -35471,7 +35471,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -35573,7 +35573,7 @@ Object
 Object
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -35900,9 +35900,9 @@ Object
 
 Object
 
+Auxiliar
 
-
-
+Auxiliar
 
 
 
@@ -36231,7 +36231,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 Object
 
 Predicate
@@ -36271,7 +36271,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 Indirect Object
 
 
@@ -36342,7 +36342,7 @@ Subject
 Adverbial
 Object
 
-
+Auxiliar
 Adverbial
 Object
 
@@ -36569,7 +36569,7 @@ Subject
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -36584,7 +36584,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -36846,7 +36846,7 @@ Object
 
 
 
-
+Auxiliar
 Adverbial
 
 Adverbial
@@ -36878,7 +36878,7 @@ Subject
 Adverbial
 Object
 
-
+Auxiliar
 Subject
 
 
@@ -36904,7 +36904,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Object
@@ -37460,7 +37460,7 @@ Subject
 
 
 
-
+Auxiliar
 
 Subject
 
@@ -37875,7 +37875,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -38887,7 +38887,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -39522,7 +39522,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 Adverbial
 
 
@@ -39803,7 +39803,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -40216,7 +40216,7 @@ Subject
 Adverbial
 
 
-
+Auxiliar
 
 
 
@@ -40755,7 +40755,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -40948,7 +40948,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -41023,7 +41023,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -42997,7 +42997,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 Object
 
@@ -43371,7 +43371,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -44031,7 +44031,7 @@ Subject
 Object
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -44148,7 +44148,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Predicate
 
@@ -44161,35 +44161,6 @@ Object
 Subject
 
 Object
-
-
-Predicate
-
-
-
-
-
-Subject
-
-Adverbial
-
-Object
-
-
-
-
-Predicate
-
-
-
-Adverbial
-
-Adverbial
-
-
-Adverbial
-
-
 
 
 Predicate
@@ -44198,6 +44169,35 @@ Predicate
 
 
 
+Subject
+
+Adverbial
+
+Object
+
+
+
+
+Predicate
+
+
+
+Adverbial
+
+Adverbial
+
+
+Adverbial
+
+
+
+
+Predicate
+
+
+
+
+
 
 Adverbial
 
@@ -44310,7 +44310,7 @@ Subject
 Adverbial
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -44716,7 +44716,7 @@ Object
 
 
 
-
+Auxiliar
 
 Object
 
@@ -44822,7 +44822,7 @@ Object
 
 
 
-
+Auxiliar
 Adverbial
 
 Object
@@ -44883,7 +44883,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 Adverbial
 
 
@@ -44989,7 +44989,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -45291,7 +45291,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 Subject
 
@@ -46574,7 +46574,7 @@ Subject
 
 Object
 
-
+Auxiliar
 
 
 Adverbial
@@ -46907,7 +46907,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -46952,7 +46952,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Subject
 
@@ -48076,13 +48076,13 @@ Adverbial
 Adverbial
 Subject
 Adverbial
-
+Auxiliar
 
 Verbal
 Object
 
 
-
+Auxiliar
 
 Subject
 
@@ -48559,10 +48559,7 @@ Object
 
 
 
-
-
-
-Adverbial
+Auxiliar
 
 
 Adverbial
@@ -48571,8 +48568,11 @@ Adverbial
 Adverbial
 
 
+Adverbial
 
 
+
+Auxiliar
 
 
 Object
@@ -48773,7 +48773,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -49259,7 +49259,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 Adverbial
 
@@ -49277,7 +49277,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -49373,7 +49373,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 Object
@@ -49459,7 +49459,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -49568,6 +49568,7 @@ Predicate
 
 
 
+Auxiliar
 
 
 
@@ -49575,8 +49576,7 @@ Predicate
 
 
 
-
-
+Auxiliar
 
 
 Adverbial
@@ -49617,7 +49617,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -50419,7 +50419,7 @@ Adverbial
 Adverbial
 
 
-
+Auxiliar
 
 Object
 
@@ -50544,7 +50544,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -50739,7 +50739,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Subject
@@ -50920,7 +50920,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Subject
@@ -51418,7 +51418,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 
 
@@ -51668,7 +51668,7 @@ Adverbial
 
 Verbal
 
-
+Auxiliar
 
 
 
@@ -51704,7 +51704,7 @@ Subject
 Object
 
 
-
+Auxiliar
 
 
 
@@ -52160,7 +52160,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Predicate
@@ -52289,7 +52289,7 @@ Object
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -52514,7 +52514,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -52804,7 +52804,7 @@ Indirect Object
 Subject
 Object
 
-
+Auxiliar
 Adverbial
 
 
@@ -52822,7 +52822,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 Object
@@ -52840,7 +52840,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 Subject
@@ -53010,7 +53010,7 @@ Object
 Adverbial
 
 
-
+Auxiliar
 
 Object
 Subject
@@ -53337,7 +53337,7 @@ Object
 
 Subject
 
-
+Auxiliar
 
 
 Adverbial
@@ -53380,7 +53380,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 Object
 
@@ -53598,7 +53598,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 
@@ -53731,7 +53731,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -54632,7 +54632,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -55066,7 +55066,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -55483,7 +55483,7 @@ Adverbial
 
 
 Adverbial
-
+Auxiliar
 
 
 Subject
@@ -56000,7 +56000,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -56502,7 +56502,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -56599,7 +56599,7 @@ Object
 Adverbial
 
 
-
+Auxiliar
 
 
 
@@ -56649,7 +56649,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -56759,7 +56759,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -56880,7 +56880,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 Object
 
 
@@ -56989,7 +56989,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Object
@@ -57072,7 +57072,7 @@ Subject
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -57424,7 +57424,7 @@ Adverbial
 Subject
 Object
 
-
+Auxiliar
 
 Object
 
@@ -57617,7 +57617,7 @@ Subject
 
 
 Object
-
+Auxiliar
 
 
 
@@ -57722,7 +57722,7 @@ Adverbial
 Object
 Object
 
-
+Auxiliar
 Subject
 
 
@@ -59219,7 +59219,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 Subject
@@ -59792,15 +59792,15 @@ Object
 
 
 
+Auxiliar
 
 
 
 
 
+Auxiliar
 
-
-
-
+Auxiliar
 
 
 Object
@@ -59919,7 +59919,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 
@@ -60053,7 +60053,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -60237,7 +60237,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 
 
@@ -61351,7 +61351,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 Adverbial
@@ -62094,7 +62094,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -62361,7 +62361,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 Object
 Adverbial
 Predicate
@@ -62388,7 +62388,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -62760,7 +62760,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -63498,7 +63498,7 @@ Subject
 Object
 Object
 
-
+Auxiliar
 
 Predicate
 Subject
@@ -64781,7 +64781,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Object
@@ -65281,7 +65281,7 @@ Object
 Object
 Subject
 
-
+Auxiliar
 
 
 
@@ -65817,7 +65817,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -65991,7 +65991,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -66478,7 +66478,7 @@ Subject
 Subject
 Object
 
-
+Auxiliar
 
 
 
@@ -66527,7 +66527,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -66564,7 +66564,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 Adverbial
 Object
 Adverbial
@@ -66814,7 +66814,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -66910,7 +66910,7 @@ Subject
 Object
 
 
-
+Auxiliar
 
 Object
 
@@ -66933,7 +66933,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Object
 
 
@@ -67301,7 +67301,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 Subject
 
 Adverbial
@@ -68535,7 +68535,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -68568,8 +68568,8 @@ Object
 
 
 
-
-
+Auxiliar
+Auxiliar
 
 
 
@@ -68794,24 +68794,24 @@ Adverbial
 
 
 
+Auxiliar
 
 
 
 
-
-
-
-Object
-
-
-
-
+Auxiliar
 
 Object
 
 
 
+Auxiliar
 
+Object
+
+
+
+Auxiliar
 
 Object
 
@@ -70309,7 +70309,7 @@ Predicate
 
 
 
-
+Auxiliar
 Subject
 Adverbial
 Adverbial
@@ -70537,7 +70537,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -70656,7 +70656,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -70840,7 +70840,7 @@ Object
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -71249,7 +71249,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 
@@ -71265,7 +71265,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Predicate
@@ -71415,7 +71415,7 @@ Object
 
 
 
-
+Auxiliar
 
 Subject
 
@@ -71593,7 +71593,7 @@ Adverbial
 Adverbial
 
 
-
+Auxiliar
 
 Object
 
@@ -71663,7 +71663,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 
 
@@ -72320,7 +72320,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -72760,7 +72760,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -72889,7 +72889,7 @@ Subject
 
 
 
-
+Auxiliar
 
 Object
 
@@ -73029,7 +73029,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 Object
 Indirect Object
@@ -73047,7 +73047,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 
@@ -73301,17 +73301,17 @@ Adverbial
 
 
 
+Auxiliar
+
+Object
+
+
+Subject
+
+
 
 
 Object
-
-
-Subject
-
-
-
-
-Object
 Subject
 
 
@@ -73347,7 +73347,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Subject
 
 Adverbial
@@ -73929,7 +73929,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 Object
@@ -74125,7 +74125,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 Adverbial
 
 Object
@@ -75401,7 +75401,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 Adverbial
 
@@ -75795,7 +75795,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Object
@@ -76698,7 +76698,7 @@ Predicate
 Adverbial
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -76920,7 +76920,7 @@ Object
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -77560,7 +77560,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 Adverbial
 
@@ -78217,7 +78217,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -78288,7 +78288,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 Predicate
@@ -78624,7 +78624,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 
@@ -79321,7 +79321,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Predicate
 Adverbial
@@ -81115,7 +81115,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -81824,7 +81824,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 Predicate
 
@@ -82322,7 +82322,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 Subject
@@ -82755,7 +82755,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 
 Adverbial
@@ -82781,7 +82781,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 Object
 
@@ -82993,7 +82993,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -83875,7 +83875,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -83932,7 +83932,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 Predicate
 
@@ -84060,18 +84060,18 @@ Subject
 
 
 
+Auxiliar
+
+
+Adverbial
+
+Adverbial
 
 
 
 Adverbial
 
-Adverbial
-
-
-
-Adverbial
-
-
+Auxiliar
 
 
 
@@ -84308,7 +84308,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -84439,7 +84439,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 
 
 Adverbial
@@ -84462,7 +84462,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 Predicate
@@ -84543,6 +84543,7 @@ Predicate
 Object
 
 
+Auxiliar
 
 
 
@@ -84550,8 +84551,7 @@ Object
 
 
 
-
-
+Auxiliar
 
 Adverbial
 
@@ -85913,7 +85913,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -86482,7 +86482,7 @@ Subject
 Object
 
 
-
+Auxiliar
 
 
 
@@ -86554,7 +86554,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Indirect Object
 
 Adverbial
@@ -86588,7 +86588,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Object
 Object
 
@@ -86710,7 +86710,7 @@ Object
 
 
 
-
+Auxiliar
 Object
 
 Adverbial
@@ -86738,7 +86738,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Verbal
 
 Object
@@ -86751,7 +86751,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 
@@ -86805,7 +86805,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Object
 Adverbial
 Adverbial
@@ -87567,7 +87567,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Object
 
 Adverbial
@@ -87796,7 +87796,7 @@ Object
 
 Adverbial
 
-
+Auxiliar
 Adverbial
 
 
@@ -88076,7 +88076,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -88101,7 +88101,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 Adverbial
 
@@ -88173,7 +88173,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -89335,7 +89335,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 
 
@@ -89353,7 +89353,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Indirect Object
 Adverbial
 
@@ -89361,33 +89361,33 @@ Adverbial
 
 
 
-
-
-Object
-
-
-Adverbial
-
-
-
-
-Object
-Adverbial
-Adverbial
-
-Adverbial
-
-
-
+Auxiliar
 
 Object
 
+
+Adverbial
+
+
+
+Auxiliar
+Object
+Adverbial
+Adverbial
+
+Adverbial
+
+
+
+Auxiliar
+Object
+
 Adverbial
 
 
 
 
-
+Auxiliar
 
 Adverbial
 Object
@@ -89436,7 +89436,7 @@ Object
 
 
 
-
+Auxiliar
 Object
 
 
@@ -89717,7 +89717,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 
 Adverbial
 
@@ -91235,7 +91235,7 @@ Object
 Object
 Adverbial
 
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -91751,7 +91751,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -92684,7 +92684,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -92814,7 +92814,7 @@ Object
 
 
 
-
+Auxiliar
 Object
 Adverbial
 Object
@@ -93099,7 +93099,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -94752,7 +94752,7 @@ Adverbial
 Subject
 
 
-
+Auxiliar
 Predicate
 
 
@@ -95023,7 +95023,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -95103,7 +95103,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 
@@ -97085,7 +97085,7 @@ Adverbial
 Adverbial
 
 
-
+Auxiliar
 Object
 
 
@@ -98030,7 +98030,7 @@ Adverbial
 Adverbial
 
 
-
+Auxiliar
 
 Object
 
@@ -98687,7 +98687,7 @@ Object
 
 Object
 
-
+Auxiliar
 Adverbial
 
 Adverbial
@@ -98855,7 +98855,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -98890,7 +98890,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 
@@ -98963,7 +98963,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -99016,7 +99016,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 Object
 
@@ -99078,7 +99078,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 
@@ -99191,7 +99191,7 @@ Adverbial
 
 Subject
 
-
+Auxiliar
 Adverbial
 
 
@@ -99275,7 +99275,7 @@ Subject
 
 Object
 
-
+Auxiliar
 
 Object
 
@@ -99285,7 +99285,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -99362,7 +99362,7 @@ Adverbial
 
 
 
-
+Auxiliar
 Adverbial
 Object
 
@@ -99511,7 +99511,7 @@ Subject
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -99529,7 +99529,7 @@ Object
 
 
 
-
+Auxiliar
 Object
 
 
@@ -99789,14 +99789,14 @@ Verbal
 
 
 
-
+Auxiliar
 
 Object
 
 
 
 
-
+Auxiliar
 
 
 Object
@@ -99865,7 +99865,7 @@ Object
 
 
 
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -100030,7 +100030,7 @@ Subject
 
 Adverbial
 
-
+Auxiliar
 Adverbial
 
 
@@ -100142,7 +100142,7 @@ Object
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -100588,7 +100588,7 @@ Adverbial
 Predicate
 
 
-
+Auxiliar
 
 Subject
 
@@ -100729,7 +100729,7 @@ Object
 
 
 
-
+Auxiliar
 Adverbial
 
 Indirect Object
@@ -100909,7 +100909,7 @@ Object
 
 
 
-
+Auxiliar
 Adverbial
 Object
 Adverbial
@@ -101484,7 +101484,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -102580,7 +102580,7 @@ Predicate
 
 
 
-
+Auxiliar
 Adverbial
 
 
@@ -102657,7 +102657,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -104282,7 +104282,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -105011,7 +105011,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 
@@ -105299,7 +105299,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -105446,7 +105446,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -105649,7 +105649,7 @@ Indirect Object
 
 
 
-
+Auxiliar
 
 
 Object
@@ -105828,7 +105828,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 
 
@@ -106113,7 +106113,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Adverbial
@@ -106306,7 +106306,7 @@ Adverbial
 
 
 
-
+Auxiliar
 
 Object
 Adverbial
@@ -106556,7 +106556,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -106903,7 +106903,7 @@ Object
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -106941,7 +106941,7 @@ Subject
 
 
 
-
+Auxiliar
 
 Adverbial
 
@@ -106975,7 +106975,7 @@ Object
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -107028,13 +107028,13 @@ Object
 
 
 
-
+Auxiliar
 Subject
 
 
 
 
-
+Auxiliar
 
 Adverbial
 Subject
@@ -107093,7 +107093,7 @@ Object
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -107501,7 +107501,7 @@ Object
 
 Object
 
-
+Auxiliar
 
 
 
@@ -108891,7 +108891,7 @@ Object
 Adverbial
 Object
 
-
+Auxiliar
 
 
 
@@ -109230,7 +109230,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -110291,7 +110291,7 @@ Predicate
 Subject
 
 
-
+Auxiliar
 
 
 
@@ -110302,7 +110302,7 @@ Predicate
 Subject
 
 
-
+Auxiliar
 
 
 
@@ -110512,7 +110512,7 @@ Subject
 
 Object
 
-
+Auxiliar
 
 
 
@@ -110541,7 +110541,7 @@ Subject
 Object
 
 
-
+Auxiliar
 
 
 
@@ -111065,7 +111065,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 
@@ -111149,7 +111149,7 @@ Predicate
 
 
 
-
+Auxiliar
 
 
 
@@ -111292,7 +111292,7 @@ Adverbial
 
 Object
 
-
+Auxiliar
 
 Adverbial
 
@@ -111413,7 +111413,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 
 
@@ -111531,7 +111531,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 
 
@@ -111598,7 +111598,7 @@ Adverbial
 Object
 
 
-
+Auxiliar
 
 
 
@@ -111620,7 +111620,7 @@ Adverbial
 
 Adverbial
 
-
+Auxiliar
 
 
 
@@ -111810,7 +111810,7 @@ Object
 Object
 
 
-
+Auxiliar
 
 
 
@@ -111912,22 +111912,6 @@ Object
 
 
 Object
-
-Predicate
-
-
-
-
-
-
-
-Object
-
-
-Object
-Adverbial
-
-Subject
 
 Predicate
 
@@ -111936,12 +111920,28 @@ Predicate
 
 
 
+
+Object
+
+
+Object
+Adverbial
+
+Subject
+
+Predicate
+
+
+
+
+
+
 Object
 Subject
 
 
 
-
+Auxiliar
 Subject
 
 
@@ -112694,7 +112694,7 @@ Subject
 
 
 
-
+Auxiliar
 
 
 
@@ -113457,7 +113457,7 @@ Object
 
 
 
-
+Auxiliar
 
 
 Subject

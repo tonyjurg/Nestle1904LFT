@@ -12,7 +12,7 @@
 @description=Lauw-Nida lexical classification (not present everywhere?)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T20:22:21Z
+@dateWritten=2023-05-03T20:45:32Z
 
 33.38
 10.24 33.19

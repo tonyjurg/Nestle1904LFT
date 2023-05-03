@@ -12,7 +12,7 @@
 @description=Role of the word (full)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T19:51:11Z
+@dateWritten=2023-05-03T20:45:37Z
 
 Predicate
 Predicate
@@ -335,7 +335,7 @@ Object
 
 Subject
 Verbal
-
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -343,9 +343,9 @@ Adverbial
 Verbal
 Indirect Object
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -385,7 +385,7 @@ Subject
 
 Subject
 Verbal
-
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -395,7 +395,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -463,7 +463,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Adverbial
 Adverbial
@@ -533,10 +533,10 @@ Adverbial
 Adverbial
 Adverbial
 Subject
-Adverbial
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
-Adverbial
-Adverbial
 Predicate
 Verbal Copula
 Adverbial
@@ -597,8 +597,8 @@ Verbal
 Object
 Object
 Verbal
-
 
+Auxiliar
 Subject
 Subject
 Object
@@ -673,7 +673,7 @@ Adverbial
 Verbal
 
 Subject
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -818,7 +818,7 @@ Verbal
 
 Subject
 Subject
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -1021,8 +1021,8 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Indirect Object
@@ -1202,8 +1202,8 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Verbal
 Subject
 Subject
@@ -1218,7 +1218,7 @@ Verbal
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Adverbial
 Adverbial
@@ -1395,7 +1395,7 @@ Indirect Object
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 
 Object
@@ -1412,8 +1412,8 @@ Verbal
 Object
 Subject
 Subject
-
 
+Auxiliar
 Subject
 Verbal
 
@@ -1452,19 +1452,19 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -1473,9 +1473,9 @@ Adverbial
 Adverbial
 Object
 Verbal
-Object
 Object
 Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -2014,7 +2014,7 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-Subject
+Auxiliar
 Predicate
 Verbal Copula
 Adverbial
@@ -2023,7 +2023,7 @@ Subject
 Adverbial
 Subject
 Verbal
-Subject
+Auxiliar
 Predicate
 Verbal Copula
 Adverbial
@@ -2679,12 +2679,12 @@ Adverbial
 
 Verbal
 Subject
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Subject
 Subject
@@ -3075,7 +3075,7 @@ Verbal
 Adverbial
 Adverbial
 Object
-
+Auxiliar
 Adverbial
 
 Verbal
@@ -3190,14 +3190,14 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Subject
 Predicate
 Predicate
 Predicate
 Predicate
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -3318,12 +3318,12 @@ Object
 Indirect Object
 Verbal
 Object
-
+Auxiliar
 
 Adverbial
-
+Auxiliar
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -3466,8 +3466,8 @@ Subject
 Subject
 Verbal
 Indirect Object
-Subject
-Subject
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -3493,9 +3493,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Second Object
+Auxiliar
+Auxiliar
 Second Object
-Second Object
 Adverbial
 Adverbial
 Adverbial
@@ -3524,7 +3524,7 @@ Object
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -3662,14 +3662,14 @@ Verbal
 Object
 Subject
 Subject
-
 
+Auxiliar
 Subject
 Verbal
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -3726,7 +3726,7 @@ Verbal
 Object
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -3748,7 +3748,7 @@ Verbal
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal Copula
 Predicate
@@ -3963,7 +3963,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -4001,7 +4001,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Indirect Object
 Adverbial
@@ -4038,7 +4038,7 @@ Subject
 Subject
 Subject
 
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -4060,7 +4060,7 @@ Verbal
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Verbal
 
@@ -4069,7 +4069,7 @@ Indirect Object
 Adverbial
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -4130,16 +4130,16 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Verbal
 Verbal
 Subject
 Predicate
 Predicate
 Predicate
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -4183,7 +4183,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Verbal
 Subject
 Subject
@@ -4214,8 +4214,8 @@ Object
 Object
 Object
 Verbal
-
 
+Auxiliar
 Subject
 Subject
 Subject
@@ -4246,7 +4246,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -4264,13 +4264,13 @@ Verbal
 Indirect Object
 Indirect Object
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
 Subject
 
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -4391,7 +4391,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -4561,7 +4561,7 @@ Object
 Subject
 Verbal
 Indirect Object
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -4595,7 +4595,7 @@ Subject
 Subject
 Subject
 
-
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -4628,7 +4628,7 @@ Verbal
 Object
 Verbal
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -4707,9 +4707,9 @@ Verbal
 Adverbial
 Verbal
 Verbal
-Object
 Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 
 Adverbial
@@ -4731,8 +4731,8 @@ Object
 Verbal
 Verbal
 Indirect Object
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -4772,7 +4772,7 @@ Adverbial
 Subject
 
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -5124,7 +5124,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -5237,7 +5237,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 
 Verbal
 Adverbial
@@ -5713,7 +5713,7 @@ Object
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 Object
 Object
@@ -5728,7 +5728,7 @@ Adverbial
 Verbal
 Object
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -5739,7 +5739,7 @@ Verbal Copula
 Adverbial
 Adverbial
 Verbal
-Predicate
+Auxiliar
 Subject
 Verbal
 Object
@@ -5902,10 +5902,10 @@ Adverbial
 Verbal
 Subject
 Indirect Object
-
+Auxiliar
 Subject
 Indirect Object
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -5941,7 +5941,7 @@ Object
 Adverbial
 
 Subject
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -5987,14 +5987,14 @@ Subject
 Subject
 Verbal
 Verbal
-Object
-Object
-Object
 Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -6006,9 +6006,9 @@ Adverbial
 Verbal
 Object
 Indirect Object
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Subject
@@ -6050,10 +6050,10 @@ Verbal
 Verbal
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
-
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -6121,7 +6121,7 @@ Subject
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -6652,8 +6652,8 @@ Adverbial
 Subject
 Subject
 Verbal
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -6691,10 +6691,10 @@ Object
 Verbal
 
 Indirect Object
-Adverbial
-Adverbial
-Adverbial
 Adverbial
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
 Subject
@@ -6727,7 +6727,7 @@ Subject
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -6806,7 +6806,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Subject
 Predicate
@@ -6834,8 +6834,8 @@ Verbal
 Object
 Object
 Object
-
 
+Auxiliar
 Subject
 Subject
 Predicate
@@ -6912,7 +6912,7 @@ Subject
 Verbal
 Indirect Object
 Indirect Object
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -6928,7 +6928,7 @@ Verbal
 
 Subject
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -7037,7 +7037,7 @@ Object
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -7317,8 +7317,8 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
+Auxiliar
 
-
 Adverbial
 Adverbial
 Adverbial
@@ -7354,7 +7354,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -7382,8 +7382,8 @@ Object
 
 Predicate
 Verbal Copula
+Auxiliar
 
-
 Adverbial
 Adverbial
 Adverbial
@@ -7469,10 +7469,10 @@ Subject
 Subject
 Verbal
 Indirect Object
+Auxiliar
 Object
 Object
 Object
-Object
 Verbal
 Adverbial
 Adverbial
@@ -7698,10 +7698,10 @@ Subject
 Verbal Copula
 Predicate
 Predicate
-
+Auxiliar
 
-
-
+Auxiliar
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -7937,7 +7937,7 @@ Object
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Subject
 
 Verbal
@@ -8024,10 +8024,10 @@ Predicate
 Predicate
 Predicate
 Predicate
-
-
-
 
+Auxiliar
+Auxiliar
+Auxiliar
 
 Subject
 Predicate
@@ -8504,7 +8504,7 @@ Indirect Object
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Subject
 Verbal Copula
@@ -8545,7 +8545,7 @@ Verbal
 Verbal
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -8560,7 +8560,7 @@ Object
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -8730,7 +8730,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -8779,7 +8779,7 @@ Verbal
 Object
 Object
 Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -8921,8 +8921,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -8934,9 +8934,9 @@ Verbal
 Verbal
 Verbal
 Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -8983,7 +8983,7 @@ Verbal
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Subject
@@ -9005,8 +9005,8 @@ Indirect Object
 Subject
 
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Adverbial
 Subject
@@ -9029,8 +9029,8 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Predicate
 Subject
 Subject
@@ -9356,9 +9356,9 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
+Auxiliar
 Object
 Object
-Object
 Adverbial
 Verbal
 Adverbial
@@ -9494,8 +9494,8 @@ Verbal
 Indirect Object
 Predicate
 Verbal Copula
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Subject
 Subject
@@ -9621,7 +9621,7 @@ Object
 Verbal
 Predicate
 Adverbial
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal Copula
@@ -9636,7 +9636,7 @@ Indirect Object
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Predicate
@@ -9812,8 +9812,8 @@ Predicate
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -9829,7 +9829,7 @@ Subject
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -9852,13 +9852,13 @@ Object
 Adverbial
 Subject
 Verbal
-
+Auxiliar
 Subject
 Subject
 Verbal
 Object
-
 
+Auxiliar
 Subject
 Adverbial
 Adverbial
@@ -10011,7 +10011,7 @@ Verbal
 Object
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -10048,10 +10048,10 @@ Verbal
 Subject
 Subject
 Verbal
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -10183,8 +10183,8 @@ Object
 Verbal
 Object
 Verbal
+Auxiliar
 
-
 Verbal
 Adverbial
 Adverbial
@@ -10197,7 +10197,7 @@ Verbal
 Subject
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -10688,7 +10688,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -10869,12 +10869,12 @@ Subject
 Subject
 Verbal
 Indirect Object
+Auxiliar
+Auxiliar
 Object
 Object
 Object
 Object
-Object
-Object
 Verbal
 Indirect Object
 Adverbial
@@ -11186,15 +11186,15 @@ Object
 Indirect Object
 Verbal
 Adverbial
-
 
+Auxiliar
 Subject
 Verbal
 Indirect Object
 Verbal
+Auxiliar
 Object
 Object
-Object
 Verbal
 Adverbial
 Verbal
@@ -11371,7 +11371,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -11391,8 +11391,8 @@ Object
 Verbal
 Indirect Object
 Object
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -11645,7 +11645,7 @@ Verbal
 Indirect Object
 Indirect Object
 Verbal
-Second Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -11712,7 +11712,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -11925,7 +11925,7 @@ Object
 Subject
 Subject
 
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -11938,11 +11938,11 @@ Subject
 Verbal
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 
 Subject
@@ -11955,11 +11955,11 @@ Subject
 Adverbial
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Object
-Object
-Object
+Auxiliar
+Auxiliar
 
 Verbal
 Subject
@@ -11974,7 +11974,7 @@ Verbal
 Indirect Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Object
 Verbal
 Subject
@@ -12054,7 +12054,7 @@ Object
 Subject
 
 Verbal
-
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -12066,7 +12066,7 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -12279,7 +12279,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -12528,7 +12528,7 @@ Verbal
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Verbal
@@ -12540,7 +12540,7 @@ Subject
 Verbal
 Verbal
 Subject
-Object
+Auxiliar
 
 Adverbial
 Verbal
@@ -12749,7 +12749,7 @@ Indirect Object
 Indirect Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -12777,8 +12777,8 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 Object
-Object
 Verbal
 Subject
 Verbal
@@ -12824,10 +12824,10 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Object
-
 
+Auxiliar
 Verbal
 Verbal
 Object
@@ -12904,10 +12904,10 @@ Verbal
 Verbal
 Indirect Object
 Verbal
+Auxiliar
 Object
 Object
 Object
-Object
 Verbal
 Subject
 Subject
@@ -13036,7 +13036,7 @@ Object
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -13102,7 +13102,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Predicate
@@ -13150,7 +13150,7 @@ Verbal
 Adverbial
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -13210,7 +13210,7 @@ Subject
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -13378,7 +13378,7 @@ Subject
 Subject
 Verbal
 Object
-Object
+Auxiliar
 Predicate
 Subject
 Subject
@@ -13686,10 +13686,10 @@ Verbal
 Subject
 
 Indirect Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -13710,10 +13710,10 @@ Verbal
 Verbal
 Subject
 Indirect Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -13735,9 +13735,9 @@ Second Object
 Second Object
 Subject
 Indirect Object
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Subject
 Subject
@@ -13748,7 +13748,7 @@ Adverbial
 Predicate
 Verbal Copula
 Subject
-
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -13757,9 +13757,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 
 Predicate
@@ -13793,7 +13793,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 
 Predicate
@@ -13855,10 +13855,10 @@ Adverbial
 Adverbial
 Subject
 Indirect Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -13890,22 +13890,22 @@ Verbal
 Object
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
 Object
-
+Auxiliar
 Object
 Verbal
 Subject
 Indirect Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -13922,8 +13922,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Object
@@ -13939,10 +13939,10 @@ Subject
 Predicate
 Subject
 Indirect Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -13978,10 +13978,10 @@ Adverbial
 Adverbial
 Subject
 Indirect Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -14032,9 +14032,9 @@ Object
 Object
 Object
 Object
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -14044,7 +14044,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -14114,13 +14114,13 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -14145,7 +14145,7 @@ Adverbial
 
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -14353,8 +14353,8 @@ Subject
 Subject
 Subject
 Subject
+Auxiliar
 
-
 Verbal
 Adverbial
 Adverbial
@@ -14497,11 +14497,11 @@ Subject
 Subject
 Subject
 Adverbial
-
+Auxiliar
 Subject
 Indirect Object
 Verbal
-Object
+Auxiliar
 Predicate
 Subject
 Subject
@@ -14527,14 +14527,14 @@ Predicate
 Object
 Object
 Object
-
+Auxiliar
 Verbal
 Indirect Object
-
+Auxiliar
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -15138,8 +15138,8 @@ Subject
 Subject
 Subject
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -15258,15 +15258,15 @@ Object
 Object
 Object
 Verbal
+Auxiliar
 Object
 Object
-Object
 Indirect Object
 Verbal
+Auxiliar
 Object
 Object
 Object
-Object
 Verbal
 Verbal
 Indirect Object
@@ -15274,10 +15274,10 @@ Subject
 Subject
 Subject
 Adverbial
-Second Object
-Second Object
-Second Object
-Second Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal Copula
@@ -15300,12 +15300,12 @@ Object
 Object
 Object
 Verbal
+Auxiliar
 Object
 Object
-Object
 Indirect Object
 Verbal
-Object
+Auxiliar
 Object
 Object
 Object
@@ -15316,10 +15316,10 @@ Subject
 Subject
 Subject
 Adverbial
-Second Object
-Second Object
-Second Object
-Second Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal Copula
@@ -15344,7 +15344,7 @@ Object
 Object
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -15370,7 +15370,7 @@ Object
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -15381,10 +15381,10 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
@@ -15434,8 +15434,8 @@ Indirect Object
 Verbal
 
 Verbal
+Auxiliar
 
-
 Adverbial
 Verbal
 Subject
@@ -15529,11 +15529,11 @@ Indirect Object
 Indirect Object
 Indirect Object
 Verbal
-Object
+Auxiliar
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
@@ -15578,8 +15578,8 @@ Indirect Object
 Subject
 Subject
 Verbal
+Auxiliar
 Object
-Object
 Subject
 Verbal
 Verbal
@@ -15692,8 +15692,8 @@ Verbal
 Subject
 Subject
 Verbal
+Auxiliar
 Object
-Object
 Subject
 Verbal
 Verbal
@@ -16049,12 +16049,12 @@ Subject
 Object
 Subject
 Verbal Copula
-Object
+Auxiliar
 Subject
 
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -16107,7 +16107,7 @@ Verbal
 Object
 Subject
 Verbal Copula
-Object
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -16346,8 +16346,8 @@ Adverbial
 Verbal
 Verbal
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Predicate
 Verbal Copula
@@ -16408,8 +16408,8 @@ Adverbial
 Verbal
 Verbal
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -16460,7 +16460,7 @@ Verbal
 Adverbial
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -16475,7 +16475,7 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -16484,7 +16484,7 @@ Object
 Adverbial
 Subject
 Verbal
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -16528,7 +16528,7 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-Object
+Auxiliar
 
 Verbal
 Object
@@ -16537,7 +16537,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -16553,7 +16553,7 @@ Adverbial
 Verbal
 Object
 
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -16829,7 +16829,7 @@ Adverbial
 Object
 Verbal
 Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -16859,7 +16859,7 @@ Verbal
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -17424,9 +17424,9 @@ Verbal
 Object
 Verbal
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 
 Verbal
 Adverbial
@@ -17552,11 +17552,11 @@ Object
 Object
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
-Object
 Object
 Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -17652,16 +17652,16 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Subject
 Verbal Copula
-Predicate
-Predicate
-Predicate
-Predicate
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -17716,7 +17716,7 @@ Verbal
 Object
 Object
 
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -17919,7 +17919,7 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Subject
@@ -18006,7 +18006,7 @@ Verbal
 Object
 Object
 
-
+Auxiliar
 Subject
 Verbal
 Subject
@@ -18088,13 +18088,13 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -18103,7 +18103,7 @@ Adverbial
 Adverbial
 Object
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 
@@ -18122,8 +18122,8 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-
 
+Auxiliar
 Subject
 Verbal
 Object
@@ -18162,7 +18162,7 @@ Verbal
 Verbal
 
 Subject
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -18300,7 +18300,7 @@ Object
 Verbal
 Indirect Object
 
-
+Auxiliar
 Subject
 Predicate
 Predicate
@@ -18320,14 +18320,14 @@ Predicate
 Predicate
 Predicate
 Predicate
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -18690,8 +18690,8 @@ Subject
 Predicate
 Predicate
 Predicate
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Object
@@ -19083,7 +19083,7 @@ Object
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -19472,7 +19472,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -19794,18 +19794,18 @@ Object
 Indirect Object
 Indirect Object
 Second Object
-
-
-
-
-
-
-
 
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 
-
-
-
 Verbal
 Indirect Object
 Object
@@ -20036,7 +20036,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -20141,7 +20141,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -20725,8 +20725,8 @@ Object
 
 Verbal
 Indirect Object
+Auxiliar
 Object
-Object
 Verbal
 Adverbial
 Subject
@@ -20886,12 +20886,12 @@ Subject
 Predicate
 Predicate
 Predicate
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -20903,10 +20903,10 @@ Verbal
 Adverbial
 Indirect Object
 Verbal
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -21314,7 +21314,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -21442,13 +21442,13 @@ Object
 Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Subject
 Verbal Copula
 Verbal Copula
-Predicate
-Predicate
+Auxiliar
+Auxiliar
 Indirect Object
 Verbal
 Verbal
@@ -21764,7 +21764,7 @@ Verbal
 Object
 Subject
 Verbal
-
+Auxiliar
 Subject
 Verbal
 Subject
@@ -22776,8 +22776,8 @@ Object
 Object
 Verbal
 
-Object
 Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -22798,19 +22798,19 @@ Subject
 Subject
 Subject
 Verbal
-
-
-
-
-
-
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -22905,8 +22905,8 @@ Verbal
 
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -23576,7 +23576,7 @@ Verbal
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -23784,7 +23784,7 @@ Subject
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -23971,7 +23971,7 @@ Subject
 Subject
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -24012,9 +24012,9 @@ Subject
 Verbal
 Indirect Object
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Predicate
@@ -24092,8 +24092,8 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Subject
 Predicate
@@ -24125,11 +24125,11 @@ Object
 Object
 Verbal
 Indirect Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Indirect Object
@@ -24336,7 +24336,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -24778,9 +24778,9 @@ Adverbial
 Verbal
 Object
 Verbal
-Object
-Object
 Object
+Auxiliar
+Auxiliar
 Object
 Verbal
 Adverbial
@@ -24827,9 +24827,9 @@ Subject
 
 Verbal
 Indirect Object
+Auxiliar
 Object
 Object
-Object
 Verbal
 Adverbial
 Adverbial
@@ -24912,7 +24912,7 @@ Adverbial
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Predicate
 Predicate
 Verbal Copula
@@ -24973,7 +24973,7 @@ Verbal
 Subject
 Subject
 Indirect Object
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -25080,12 +25080,12 @@ Object
 Verbal
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -25096,27 +25096,27 @@ Indirect Object
 Indirect Object
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
-Object
+Auxiliar
 Verbal
 Object
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
-Object
 Object
+Auxiliar
 Verbal
 Object
-Object
+Auxiliar
 Verbal
-Object
 Object
+Auxiliar
 Verbal
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -25132,7 +25132,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Second Object
@@ -25348,9 +25348,9 @@ Verbal
 Verbal
 Object
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 
@@ -25364,8 +25364,8 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 
@@ -25411,7 +25411,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Object
 Verbal
 
@@ -25579,7 +25579,7 @@ Subject
 Subject
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -25786,8 +25786,8 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Subject
 Object
@@ -25837,7 +25837,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-
+Auxiliar
 Object
 Verbal
 Verbal
@@ -26138,7 +26138,7 @@ Object
 Object
 Object
 Verbal
-
+Auxiliar
 Object
 Verbal
 Subject
@@ -26196,7 +26196,7 @@ Adverbial
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Predicate
@@ -26298,7 +26298,7 @@ Verbal
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Indirect Object
@@ -26480,7 +26480,7 @@ Object
 Subject
 Verbal Copula
 Verbal
-Predicate
+Auxiliar
 Subject
 Subject
 Subject
@@ -26537,7 +26537,7 @@ Indirect Object
 Subject
 Subject
 Adverbial
-Second Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -26685,7 +26685,6 @@ Adverbial
 Adverbial
 Verbal
 Adverbial
-Object
 Object
 Object
 Object
@@ -26700,12 +26699,13 @@ Object
 Object
 Object
 Object
+Auxiliar
 Verbal
 Object
 Object
 Object
 Object
-Object
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -26800,7 +26800,7 @@ Subject
 Subject
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Predicate
 Predicate
@@ -27010,8 +27010,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 
-
 Verbal
 Adverbial
 Adverbial
@@ -27134,11 +27134,11 @@ Object
 Object
 
 Adverbial
-
+Auxiliar
 Subject
 Indirect Object
 Verbal
-Second Object
+Auxiliar
 Predicate
 Subject
 Subject
@@ -27986,9 +27986,9 @@ Subject
 Subject
 
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Predicate
 Adverbial
@@ -28016,7 +28016,7 @@ Verbal
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Verbal
@@ -28081,7 +28081,7 @@ Verbal
 Verbal
 Subject
 Subject
-
+Auxiliar
 Verbal
 Subject
 Subject
@@ -28094,7 +28094,7 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -28151,7 +28151,7 @@ Adverbial
 Verbal
 Adverbial
 Verbal
-
+Auxiliar
 
 Verbal
 Object
@@ -28644,7 +28644,7 @@ Verbal
 Adverbial
 Verbal
 Object
-Object
+Auxiliar
 Second Object
 Object
 Verbal
@@ -28813,9 +28813,9 @@ Verbal
 Verbal
 Object
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 
 Verbal
 Object
@@ -28921,11 +28921,11 @@ Subject
 Subject
 Subject
 Verbal
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 
-
-
 Adverbial
 Adverbial
 Verbal
@@ -28950,12 +28950,12 @@ Object
 Object
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -29026,19 +29026,19 @@ Subject
 Subject
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Subject
 Verbal Copula
 Verbal Copula
-Predicate
-Predicate
-Predicate
-Predicate
-Predicate
-Predicate
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -29049,7 +29049,7 @@ Subject
 Verbal
 Verbal
 Verbal
-Object
+Auxiliar
 Object
 Verbal
 Verbal
@@ -29622,8 +29622,8 @@ Adverbial
 Adverbial
 Indirect Object
 Verbal
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -29765,7 +29765,7 @@ Subject
 Subject
 Adverbial
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -29900,8 +29900,8 @@ Adverbial
 Verbal
 Indirect Object
 Object
-
 
+Auxiliar
 Verbal Copula
 Verbal
 Predicate
@@ -30075,15 +30075,15 @@ Subject
 Indirect Object
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Object
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -30168,12 +30168,12 @@ Subject
 Verbal Copula
 Predicate
 Predicate
-
-
-
-
 
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Verbal
@@ -30296,7 +30296,7 @@ Subject
 Subject
 Adverbial
 Adverbial
-
+Auxiliar
 
 Adverbial
 Verbal
@@ -30358,8 +30358,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 
-
 Adverbial
 Adverbial
 Adverbial
@@ -30705,8 +30705,8 @@ Adverbial
 Adverbial
 Subject
 Subject
-
 
+Auxiliar
 Predicate
 Predicate
 Verbal Copula
@@ -30918,8 +30918,8 @@ Subject
 Subject
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -31145,7 +31145,7 @@ Adverbial
 Adverbial
 Verbal Copula
 Adverbial
-Adverbial
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -31161,8 +31161,8 @@ Object
 Object
 Object
 Object
-
 
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -31251,7 +31251,7 @@ Verbal
 Object
 Object
 Object
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -31307,7 +31307,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -31544,12 +31544,12 @@ Adverbial
 Subject
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Indirect Object
 Adverbial
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -31746,8 +31746,8 @@ Indirect Object
 Verbal
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Indirect Object
@@ -31846,8 +31846,8 @@ Verbal
 Verbal
 Adverbial
 Adverbial
+Auxiliar
 Object
-Object
 Verbal
 Subject
 
@@ -32577,10 +32577,10 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
 Object
 Object
 Object
+Auxiliar
 Verbal
 Object
 Subject
@@ -32758,13 +32758,13 @@ Object
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Subject
 Predicate
 Predicate
 Predicate
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Object
@@ -33066,7 +33066,7 @@ Adverbial
 Verbal
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -33131,7 +33131,7 @@ Adverbial
 Predicate
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Subject
 
 Verbal
@@ -33212,7 +33212,7 @@ Adverbial
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -33322,7 +33322,7 @@ Adverbial
 Verbal
 Subject
 
-
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -33372,7 +33372,7 @@ Object
 Object
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -34141,8 +34141,8 @@ Adverbial
 Adverbial
 
 Verbal
+Auxiliar
 
-
 Subject
 Subject
 Subject
@@ -34172,20 +34172,20 @@ Object
 Object
 Subject
 Indirect Object
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
 Verbal
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -34457,7 +34457,7 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Verbal
 Object
@@ -34476,7 +34476,7 @@ Object
 Object
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Object
@@ -34565,24 +34565,24 @@ Adverbial
 
 Object
 Verbal
-Second Object
-Second Object
+Auxiliar
+Auxiliar
 
 Adverbial
 Verbal
 Object
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -34748,7 +34748,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -34868,7 +34868,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Verbal
 Verbal
 Subject
@@ -34912,7 +34912,7 @@ Verbal
 Verbal
 
 Verbal
-Object
+Auxiliar
 Indirect Object
 Verbal
 Verbal
@@ -35101,7 +35101,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -35118,7 +35118,7 @@ Object
 Verbal
 Verbal
 Object
-
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -35129,7 +35129,7 @@ Verbal Copula
 Adverbial
 Adverbial
 Verbal
-Predicate
+Auxiliar
 Verbal
 Object
 Object
@@ -35377,14 +35377,14 @@ Subject
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
 Verbal
 Subject
 
-
+Auxiliar
 Verbal
 Verbal
 Subject
@@ -35796,7 +35796,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 
 Adverbial
 Adverbial
@@ -35820,12 +35820,12 @@ Verbal
 
 Adverbial
 Verbal
-
-
-
+Auxiliar
 
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal Copula
 Subject
@@ -35942,11 +35942,11 @@ Verbal
 Verbal
 Adverbial
 Adverbial
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -36004,8 +36004,8 @@ Verbal
 Verbal
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Subject
 
@@ -36107,12 +36107,12 @@ Subject
 Predicate
 Predicate
 Predicate
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -36359,8 +36359,8 @@ Adverbial
 Subject
 Verbal
 Object
-
 
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -36450,7 +36450,7 @@ Subject
 Verbal
 Subject
 Subject
-Object
+Auxiliar
 Subject
 Subject
 Verbal
@@ -36501,7 +36501,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -36595,8 +36595,8 @@ Object
 Object
 Verbal
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 
 Verbal
@@ -37168,7 +37168,7 @@ Subject
 Predicate
 Verbal
 
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -37228,7 +37228,7 @@ Subject
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -37321,14 +37321,14 @@ Object
 Subject
 Subject
 
-
+Auxiliar
 Subject
 Subject
 Subject
 Subject
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Verbal
@@ -37341,7 +37341,7 @@ Predicate
 Adverbial
 Verbal Copula
 Object
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -37376,10 +37376,10 @@ Verbal
 Subject
 Subject
 Verbal
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -37534,7 +37534,7 @@ Verbal
 Object
 Verbal
 Object
-
+Auxiliar
 
 Predicate
 Adverbial
@@ -37549,7 +37549,7 @@ Verbal
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -37636,7 +37636,7 @@ Subject
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 Verbal
 Subject
@@ -37738,7 +37738,7 @@ Subject
 Subject
 Verbal
 Object
-Object
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -37823,7 +37823,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -37984,10 +37984,10 @@ Adverbial
 Adverbial
 Subject
 Indirect Object
-
+Auxiliar
 Subject
 Indirect Object
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -38022,8 +38022,8 @@ Adverbial
 Adverbial
 
 Subject
+Auxiliar
 
-
 Adverbial
 Adverbial
 Verbal
@@ -38057,7 +38057,7 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -38079,7 +38079,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -38135,14 +38135,14 @@ Adverbial
 
 Verbal
 Verbal
-Object
 Object
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -38154,9 +38154,9 @@ Adverbial
 Verbal
 Object
 Indirect Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Subject
@@ -38235,16 +38235,16 @@ Verbal
 Object
 Adverbial
 Verbal
-
 
+Auxiliar
 Subject
 Subject
 Verbal
 Verbal
 Object
 Verbal
+Auxiliar
 Object
-Object
 Verbal
 Object
 Object
@@ -38511,7 +38511,7 @@ Adverbial
 Verbal
 
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -38535,8 +38535,8 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Verbal
@@ -38577,7 +38577,7 @@ Subject
 Subject
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -38594,7 +38594,7 @@ Indirect Object
 Adverbial
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -38649,7 +38649,7 @@ Adverbial
 Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -39121,8 +39121,8 @@ Verbal
 Object
 Object
 Object
-
 
+Auxiliar
 Subject
 Subject
 Predicate
@@ -39146,7 +39146,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Subject
 Predicate
@@ -39285,7 +39285,7 @@ Verbal
 Object
 Object
 Object
-
+Auxiliar
 
 Subject
 Verbal
@@ -39301,7 +39301,7 @@ Verbal
 Verbal
 Second Object
 
-
+Auxiliar
 Subject
 Predicate
 Adverbial
@@ -39378,7 +39378,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Object
 Verbal
 Object
@@ -39490,7 +39490,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Indirect Object
 Verbal
@@ -39639,7 +39639,7 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -39677,9 +39677,9 @@ Verbal
 Verbal
 
 Indirect Object
-
+Auxiliar
 Subject
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -39712,8 +39712,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Subject
 Verbal
 Object
@@ -39775,7 +39775,7 @@ Subject
 Subject
 Subject
 Indirect Object
-Object
+Auxiliar
 Verbal
 Indirect Object
 Indirect Object
@@ -39789,7 +39789,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Object
 Verbal
@@ -39875,7 +39875,7 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -39892,7 +39892,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -40038,7 +40038,7 @@ Verbal
 Adverbial
 Adverbial
 Object
-
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -40078,9 +40078,9 @@ Verbal
 Indirect Object
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -40231,7 +40231,7 @@ Verbal
 
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -40380,7 +40380,7 @@ Object
 Object
 Verbal
 Adverbial
-
+Auxiliar
 
 Indirect Object
 Verbal
@@ -40504,7 +40504,7 @@ Predicate
 Verbal Copula
 
 Verbal
-
+Auxiliar
 Object
 Object
 Object
@@ -40629,11 +40629,11 @@ Verbal
 Subject
 Adverbial
 Verbal
-
-
-
 
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -40642,7 +40642,7 @@ Subject
 Subject
 Subject
 Subject
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -40657,7 +40657,7 @@ Adverbial
 Adverbial
 Verbal
 Adverbial
-
+Auxiliar
 Verbal
 Indirect Object
 Adverbial
@@ -40722,7 +40722,7 @@ Subject
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -40760,8 +40760,8 @@ Adverbial
 Adverbial
 Adverbial
 
-
-
+Auxiliar
+Auxiliar
 Object
 Verbal
 Object
@@ -40787,7 +40787,7 @@ Verbal
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -40844,7 +40844,7 @@ Subject
 Subject
 
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -40990,8 +40990,8 @@ Verbal
 
 Subject
 Indirect Object
+Auxiliar
 Object
-Object
 Predicate
 Subject
 Verbal
@@ -41034,7 +41034,7 @@ Verbal
 Object
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Indirect Object
 
@@ -41071,9 +41071,9 @@ Verbal Copula
 Verbal
 Adverbial
 Adverbial
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -41121,8 +41121,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Verbal
 Subject
 Subject
@@ -41160,7 +41160,7 @@ Verbal
 Indirect Object
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Verbal
@@ -41190,13 +41190,13 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -41220,7 +41220,7 @@ Adverbial
 
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -41265,7 +41265,7 @@ Verbal
 Verbal
 Object
 
-
+Auxiliar
 Subject
 Subject
 Verbal Copula
@@ -41396,7 +41396,7 @@ Verbal
 Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -41618,7 +41618,7 @@ Adverbial
 Verbal
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Object
 Verbal
@@ -41889,14 +41889,14 @@ Object
 Object
 Object
 Verbal
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
-Object
 Object
 Object
+Auxiliar
 Verbal
 Object
 Object
@@ -41971,8 +41971,8 @@ Object
 Verbal
 Object
 
-
-
+Auxiliar
+Auxiliar
 Object
 Verbal
 Object
@@ -42037,7 +42037,7 @@ Subject
 Subject
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -42149,7 +42149,7 @@ Adverbial
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -42204,7 +42204,7 @@ Verbal
 Subject
 Subject
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -42342,7 +42342,7 @@ Verbal
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -42386,7 +42386,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Adverbial
 Predicate
@@ -42859,8 +42859,8 @@ Object
 Subject
 Verbal
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -42888,7 +42888,7 @@ Adverbial
 Verbal
 
 Subject
-Object
+Auxiliar
 Verbal
 Object
 Verbal
@@ -42941,8 +42941,8 @@ Verbal
 Verbal
 Object
 Adverbial
+Auxiliar
 Adverbial
-Adverbial
 Verbal
 Object
 Adverbial
@@ -42982,10 +42982,10 @@ Object
 Subject
 
 Verbal
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Object
-Object
-Object
 Adverbial
 Subject
 Adverbial
@@ -43217,8 +43217,8 @@ Subject
 Verbal
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 
@@ -43325,11 +43325,11 @@ Adverbial
 Adverbial
 Object
 Verbal
-Object
+Auxiliar
 Adverbial
 Object
 Adverbial
-Object
+Auxiliar
 Object
 Subject
 Subject
@@ -43566,7 +43566,7 @@ Verbal
 Verbal
 Indirect Object
 Adverbial
-Object
+Auxiliar
 Subject
 
 Verbal
@@ -43757,8 +43757,8 @@ Object
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -43806,8 +43806,8 @@ Object
 Object
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Indirect Object
 Indirect Object
@@ -43897,8 +43897,8 @@ Subject
 Object
 Subject
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Object
 Verbal
 Object
@@ -44041,7 +44041,7 @@ Verbal
 
 Subject
 Subject
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -44098,7 +44098,7 @@ Object
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -44186,9 +44186,9 @@ Verbal
 
 Verbal
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 
@@ -44203,8 +44203,8 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
@@ -44228,7 +44228,7 @@ Verbal
 Subject
 
 Verbal
-Object
+Auxiliar
 Object
 Verbal
 
@@ -44266,7 +44266,7 @@ Verbal
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Adverbial
 Verbal Copula
@@ -44323,7 +44323,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Verbal
 Adverbial
@@ -44360,13 +44360,13 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 Object
 Object
 Object
 Object
-Object
 Verbal
-Object
+Auxiliar
 Indirect Object
 Indirect Object
 Verbal
@@ -44510,7 +44510,7 @@ Verbal
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -44521,8 +44521,8 @@ Object
 Verbal
 Indirect Object
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -44542,7 +44542,7 @@ Verbal
 Subject
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -44561,7 +44561,7 @@ Subject
 Subject
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -44594,9 +44594,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
 Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Subject
@@ -44648,7 +44648,7 @@ Verbal
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -44864,7 +44864,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -45276,7 +45276,7 @@ Verbal Copula
 Subject
 Verbal
 Subject
-Adverbial
+Auxiliar
 Object
 Verbal
 Subject
@@ -45356,7 +45356,7 @@ Indirect Object
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -45447,7 +45447,7 @@ Verbal Copula
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Indirect Object
@@ -45610,7 +45610,7 @@ Subject
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -45784,7 +45784,7 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-
+Auxiliar
 Object
 Verbal
 Verbal
@@ -45803,7 +45803,7 @@ Verbal
 
 Object
 Verbal
-Object
+Auxiliar
 Predicate
 Object
 Subject
@@ -46403,7 +46403,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -46586,7 +46586,7 @@ Adverbial
 Adverbial
 Verbal
 Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -46741,9 +46741,9 @@ Object
 Verbal
 Object
 Object
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Verbal
@@ -46776,7 +46776,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Adverbial
 Predicate
@@ -46793,7 +46793,7 @@ Subject
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -46872,8 +46872,8 @@ Verbal
 Subject
 
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Adverbial
 Predicate
@@ -46926,7 +46926,7 @@ Object
 Object
 Verbal
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -47021,7 +47021,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Object
 Object
@@ -47036,8 +47036,8 @@ Subject
 Object
 Verbal
 Verbal
+Auxiliar
 Object
-Object
 Verbal
 Adverbial
 Adverbial
@@ -47175,8 +47175,8 @@ Verbal
 Verbal
 Adverbial
 Verbal
-Object
 Object
+Auxiliar
 
 Adverbial
 Adverbial
@@ -47193,7 +47193,7 @@ Subject
 
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal Copula
 
@@ -47220,7 +47220,7 @@ Verbal
 
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -47617,7 +47617,7 @@ Verbal
 Object
 Object
 Object
-Object
+Auxiliar
 Subject
 Adverbial
 Adverbial
@@ -47641,8 +47641,8 @@ Adverbial
 Object
 Adverbial
 Adverbial
-
 
+Auxiliar
 Subject
 Subject
 Subject
@@ -47795,8 +47795,8 @@ Adverbial
 Adverbial
 Subject
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -47811,7 +47811,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -47892,7 +47892,7 @@ Subject
 
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 Indirect Object
 Adverbial
@@ -48013,7 +48013,7 @@ Object
 Verbal
 
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -48068,7 +48068,7 @@ Adverbial
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -48130,9 +48130,9 @@ Adverbial
 Adverbial
 Verbal
 Object
-
-
 
+Auxiliar
+Auxiliar
 Adverbial
 Predicate
 Predicate
@@ -48151,11 +48151,11 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -48269,8 +48269,8 @@ Verbal
 Subject
 Adverbial
 Adverbial
-
 
+Auxiliar
 Subject
 Subject
 Verbal
@@ -48406,7 +48406,7 @@ Verbal
 Object
 Verbal
 
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -48623,13 +48623,13 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -48976,7 +48976,7 @@ Subject
 Predicate
 Predicate
 
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -49287,9 +49287,9 @@ Object
 Subject
 Verbal
 Adverbial
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal Copula
 Predicate
 Predicate
@@ -49532,7 +49532,7 @@ Adverbial
 Verbal
 Object
 
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -49620,11 +49620,11 @@ Subject
 
 Verbal
 Indirect Object
-
+Auxiliar
 Subject
 Verbal Copula
 Verbal
-
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -49787,7 +49787,7 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Adverbial
 Predicate
 Predicate
@@ -49820,7 +49820,7 @@ Subject
 Verbal
 Indirect Object
 Subject
-Object
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -49926,7 +49926,7 @@ Subject
 Predicate
 Predicate
 Predicate
-Second Object
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -50324,7 +50324,7 @@ Adverbial
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -50764,7 +50764,7 @@ Adverbial
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -50775,7 +50775,7 @@ Adverbial
 Indirect Object
 Subject
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -51120,7 +51120,7 @@ Object
 Verbal
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -51213,7 +51213,7 @@ Adverbial
 Adverbial
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -51273,7 +51273,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Object
 Predicate
@@ -51305,8 +51305,8 @@ Subject
 Subject
 Verbal
 Object
+Auxiliar
 Object
-Object
 Verbal
 Subject
 Adverbial
@@ -51470,7 +51470,7 @@ Object
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 
@@ -51525,7 +51525,7 @@ Object
 Subject
 Subject
 Verbal
-
+Auxiliar
 Verbal
 Indirect Object
 Verbal
@@ -51783,7 +51783,7 @@ Adverbial
 Adverbial
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Adverbial
 Verbal
@@ -51990,8 +51990,8 @@ Verbal
 Indirect Object
 Subject
 Verbal
+Auxiliar
 Object
-Object
 Adverbial
 Verbal
 Adverbial
@@ -52063,7 +52063,7 @@ Subject
 
 Verbal
 Indirect Object
-
+Auxiliar
 Verbal
 Object
 Second Object
@@ -52116,7 +52116,7 @@ Adverbial
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Adverbial
@@ -52547,11 +52547,11 @@ Subject
 Subject
 Object
 Verbal
-
 
+Auxiliar
 Verbal
 Object
-
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -53117,7 +53117,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -53287,7 +53287,7 @@ Verbal
 
 Adverbial
 Adverbial
-Object
+Auxiliar
 Adverbial
 Verbal
 Indirect Object
@@ -53373,9 +53373,9 @@ Subject
 Subject
 Subject
 Verbal
-Object
 Object
 Object
+Auxiliar
 Object
 Verbal
 Indirect Object
@@ -53520,7 +53520,7 @@ Verbal
 Subject
 Adverbial
 Adverbial
-Adverbial
+Auxiliar
 Verbal Copula
 Predicate
 Predicate
@@ -53713,8 +53713,8 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Subject
@@ -53895,7 +53895,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -54229,8 +54229,8 @@ Object
 Object
 Object
 Verbal
+Auxiliar
 
-
 Verbal
 Object
 Object
@@ -54347,8 +54347,8 @@ Verbal Copula
 Object
 Verbal
 Verbal
-
 
+Auxiliar
 Adverbial
 Verbal
 
@@ -54371,9 +54371,9 @@ Object
 Verbal
 Predicate
 Verbal Copula
+Auxiliar
 
-
-
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -54448,8 +54448,8 @@ Adverbial
 Adverbial
 
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -54578,7 +54578,7 @@ Adverbial
 Adverbial
 Object
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -54854,7 +54854,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -54962,8 +54962,8 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -54977,7 +54977,7 @@ Subject
 
 Verbal
 Subject
-Object
+Auxiliar
 Verbal
 
 Indirect Object
@@ -55635,7 +55635,7 @@ Adverbial
 Predicate
 Predicate
 Predicate
-
+Auxiliar
 
 Adverbial
 Object
@@ -55909,7 +55909,7 @@ Subject
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Subject
@@ -56500,7 +56500,7 @@ Verbal
 Object
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -56523,7 +56523,7 @@ Subject
 
 Verbal
 Verbal
-Object
+Auxiliar
 
 Verbal
 Object
@@ -56590,8 +56590,8 @@ Verbal
 
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -56601,7 +56601,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Adverbial
 Subject
@@ -57005,8 +57005,8 @@ Indirect Object
 Object
 Adverbial
 Verbal
-
-
+Auxiliar
+Auxiliar
 Object
 Subject
 Verbal
@@ -57067,9 +57067,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
 Indirect Object
@@ -57325,9 +57325,9 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
+Auxiliar
 Object
-Object
 Verbal
 Verbal
 Verbal
@@ -57398,7 +57398,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -57469,7 +57469,7 @@ Verbal
 Subject
 Subject
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -57591,7 +57591,7 @@ Subject
 Subject
 Adverbial
 Adverbial
-Object
+Auxiliar
 Adverbial
 Verbal Copula
 Predicate
@@ -57672,8 +57672,8 @@ Verbal
 Object
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -57786,7 +57786,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Verbal Copula
 Predicate
@@ -57796,9 +57796,9 @@ Subject
 Verbal
 Subject
 Subject
+Auxiliar
 
 
-
 Verbal
 Subject
 Verbal
@@ -57821,7 +57821,7 @@ Verbal
 Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Verbal
@@ -57832,7 +57832,7 @@ Verbal
 
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -57887,7 +57887,7 @@ Subject
 Subject
 Verbal
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Predicate
@@ -57921,7 +57921,7 @@ Object
 Adverbial
 
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -57953,7 +57953,7 @@ Verbal
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Verbal
@@ -58442,7 +58442,7 @@ Adverbial
 Adverbial
 
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Verbal
@@ -58462,14 +58462,14 @@ Object
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Verbal
 Adverbial
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -58546,8 +58546,8 @@ Verbal
 Object
 Adverbial
 Verbal
-Object
 Object
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -58578,7 +58578,7 @@ Adverbial
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -58692,7 +58692,7 @@ Verbal
 
 Object
 Verbal
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -58707,7 +58707,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Object
@@ -58892,7 +58892,7 @@ Subject
 Verbal
 Object
 Verbal
-Adverbial
+Auxiliar
 Subject
 Verbal
 Object
@@ -59062,8 +59062,8 @@ Verbal
 Object
 Verbal
 Object
-
-
+Auxiliar
+Auxiliar
 Object
 Verbal
 Subject
@@ -59080,10 +59080,10 @@ Adverbial
 Adverbial
 Verbal
 Adverbial
-Adverbial
+Auxiliar
 Verbal
 Object
-Adverbial
+Auxiliar
 Subject
 Indirect Object
 Object
@@ -59223,7 +59223,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 Object
 Verbal
@@ -59273,7 +59273,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Object
 Object
 Object
@@ -59346,12 +59346,12 @@ Indirect Object
 Subject
 Verbal
 Object
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 
-
-
-
 Adverbial
 Verbal
 Verbal Copula
@@ -59539,7 +59539,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Verbal
@@ -59663,7 +59663,7 @@ Adverbial
 Adverbial
 Verbal
 Object
-
+Auxiliar
 Adverbial
 Adverbial
 Predicate
@@ -59720,7 +59720,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -59738,7 +59738,7 @@ Adverbial
 Verbal
 Indirect Object
 Subject
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -59837,7 +59837,7 @@ Object
 Verbal
 Indirect Object
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -59886,7 +59886,7 @@ Verbal
 Verbal
 Indirect Object
 Subject
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -59906,8 +59906,8 @@ Verbal Copula
 Object
 Adverbial
 Verbal
-Object
 Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -59978,7 +59978,7 @@ Verbal
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -60001,8 +60001,8 @@ Adverbial
 Verbal
 
 Object
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -60122,12 +60122,12 @@ Predicate
 Subject
 Predicate
 Predicate
-
+Auxiliar
 Verbal
 Object
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Subject
@@ -60157,7 +60157,7 @@ Subject
 Adverbial
 Predicate
 Predicate
-Object
+Auxiliar
 Object
 Subject
 Verbal
@@ -60226,13 +60226,13 @@ Indirect Object
 Adverbial
 Adverbial
 Verbal
-
-
-
-
+Auxiliar
 
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
 Subject
@@ -60362,18 +60362,18 @@ Subject
 Predicate
 Predicate
 Verbal Copula
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
 Verbal
 Object
-
-
 
+Auxiliar
+Auxiliar
 Object
 Verbal
 Verbal
@@ -60428,7 +60428,7 @@ Predicate
 Subject
 Predicate
 Predicate
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -61353,7 +61353,7 @@ Verbal
 Subject
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -61387,7 +61387,7 @@ Indirect Object
 Subject
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Subject
 
@@ -61442,7 +61442,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -61462,7 +61462,7 @@ Object
 Adverbial
 Adverbial
 Adverbial
-Adverbial
+Auxiliar
 Object
 Verbal
 Indirect Object
@@ -61507,7 +61507,7 @@ Adverbial
 Verbal
 Object
 Subject
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -61624,8 +61624,8 @@ Subject
 Adverbial
 Adverbial
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -61801,7 +61801,7 @@ Predicate
 Verbal Copula
 Adverbial
 Subject
-Adverbial
+Auxiliar
 Predicate
 Predicate
 Subject
@@ -61861,7 +61861,7 @@ Object
 Adverbial
 Object
 Verbal
-
+Auxiliar
 Object
 Verbal
 Indirect Object
@@ -61889,8 +61889,8 @@ Object
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -62117,9 +62117,9 @@ Object
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
+Auxiliar
 Object
-Object
 Verbal
 Indirect Object
 Subject
@@ -62325,7 +62325,7 @@ Verbal
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -62749,10 +62749,10 @@ Adverbial
 
 Verbal
 Verbal
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 
 Verbal
 Indirect Object
@@ -62766,7 +62766,7 @@ Subject
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Indirect Object
 Object
@@ -63064,13 +63064,13 @@ Adverbial
 Verbal
 
 Verbal
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 
 Object
@@ -63106,12 +63106,12 @@ Subject
 Subject
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Object
-Object
-Object
 Subject
 Verbal
 Predicate
@@ -63229,7 +63229,7 @@ Verbal
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Verbal
 Predicate
 Predicate
@@ -63645,9 +63645,9 @@ Verbal
 Subject
 Subject
 Verbal
-Object
 Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -63741,7 +63741,7 @@ Subject
 Verbal
 Indirect Object
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -63777,7 +63777,7 @@ Verbal Copula
 Verbal
 Indirect Object
 Subject
-Object
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -63790,7 +63790,7 @@ Predicate
 Verbal Copula
 Verbal
 Indirect Object
-Object
+Auxiliar
 Adverbial
 Subject
 Verbal
@@ -63806,16 +63806,16 @@ Verbal
 Verbal
 Indirect Object
 Subject
-
+Auxiliar
 Verbal
 Subject
 Verbal
 Indirect Object
 Adverbial
-
+Auxiliar
 Subject
 Verbal Copula
-
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -64083,13 +64083,13 @@ Subject
 
 Verbal
 Indirect Object
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -64237,10 +64237,10 @@ Verbal
 
 Indirect Object
 Subject
+Auxiliar
 Object
 Object
 Object
-Object
 Verbal
 Verbal
 Indirect Object
@@ -64430,16 +64430,16 @@ Indirect Object
 Indirect Object
 Subject
 Subject
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
 Adverbial
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -64455,14 +64455,14 @@ Verbal
 Indirect Object
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -64478,8 +64478,8 @@ Verbal
 Indirect Object
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
@@ -64495,7 +64495,7 @@ Object
 
 Verbal
 Indirect Object
-Object
+Auxiliar
 Object
 Subject
 Verbal
@@ -64579,7 +64579,7 @@ Adverbial
 Adverbial
 Object
 Verbal
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Subject
@@ -64593,7 +64593,7 @@ Subject
 Verbal
 Indirect Object
 Indirect Object
-Object
+Auxiliar
 Subject
 Object
 Predicate
@@ -64696,8 +64696,8 @@ Object
 Verbal
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Object
 Verbal
 Subject
@@ -64783,8 +64783,8 @@ Verbal
 Verbal
 Object
 Verbal
+Auxiliar
 Object
-Object
 Adverbial
 Adverbial
 Adverbial
@@ -64863,8 +64863,8 @@ Adverbial
 Adverbial
 Verbal
 Subject
-
 
+Auxiliar
 Subject
 Subject
 Verbal
@@ -64875,8 +64875,8 @@ Adverbial
 Subject
 Adverbial
 Verbal
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -64995,8 +64995,8 @@ Subject
 Predicate
 Predicate
 Predicate
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Subject
@@ -65096,10 +65096,10 @@ Verbal
 Subject
 Verbal
 
-Subject
+Auxiliar
 Verbal
 Adverbial
-Subject
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -65149,9 +65149,9 @@ Object
 Verbal
 Verbal
 Subject
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
@@ -65296,7 +65296,7 @@ Verbal
 Verbal
 Verbal
 Object
-Object
+Auxiliar
 Subject
 Subject
 Verbal Copula
@@ -65402,13 +65402,13 @@ Object
 
 Verbal
 Indirect Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
-Object
+Auxiliar
 Subject
 Adverbial
 Predicate
@@ -65546,16 +65546,16 @@ Object
 Object
 Object
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
 Object
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -65676,8 +65676,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Adverbial
@@ -65845,8 +65845,8 @@ Adverbial
 Adverbial
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 
 Adverbial
@@ -66230,8 +66230,8 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -66339,7 +66339,7 @@ Adverbial
 Adverbial
 
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -66645,11 +66645,11 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Subject
 Adverbial
@@ -66935,7 +66935,7 @@ Adverbial
 Adverbial
 
 Verbal
-Object
+Auxiliar
 Subject
 Predicate
 Verbal
@@ -67031,7 +67031,7 @@ Verbal
 
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -67174,9 +67174,9 @@ Adverbial
 Subject
 Object
 Verbal
-
-
+Auxiliar
 
+Auxiliar
 Verbal Copula
 Predicate
 Adverbial
@@ -67187,10 +67187,10 @@ Verbal Copula
 Verbal Copula
 Predicate
 Predicate
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal Copula
 Predicate
 Subject
@@ -67240,7 +67240,7 @@ Verbal
 
 Subject
 Subject
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -67345,7 +67345,7 @@ Verbal
 Subject
 
 Verbal
-Object
+Auxiliar
 Adverbial
 Subject
 
@@ -67360,7 +67360,7 @@ Verbal
 Object
 Object
 Object
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -67652,8 +67652,8 @@ Verbal
 Subject
 Verbal
 Indirect Object
-
-
+Auxiliar
+Auxiliar
 Subject
 Subject
 Object
@@ -67666,7 +67666,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Object
 Object
@@ -67711,7 +67711,7 @@ Adverbial
 Adverbial
 Adverbial
 Object
-Object
+Auxiliar
 Verbal
 Object
 Object
@@ -67823,8 +67823,8 @@ Verbal
 
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -68023,8 +68023,8 @@ Object
 Verbal
 Object
 Verbal
-
 
+Auxiliar
 Object
 Object
 Object
@@ -68266,10 +68266,10 @@ Verbal
 Subject
 
 Verbal
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Subject
 Subject
@@ -68733,7 +68733,7 @@ Object
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Predicate
 Verbal Copula
 Adverbial
@@ -68881,9 +68881,9 @@ Verbal
 Object
 Adverbial
 Adverbial
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
 Verbal
@@ -69006,11 +69006,11 @@ Indirect Object
 Object
 Subject
 Verbal
-Adverbial
-Adverbial
 Adverbial
+Auxiliar
 Adverbial
-Adverbial
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -69070,8 +69070,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 
 Verbal
 Object
@@ -69205,13 +69205,13 @@ Subject
 Verbal
 Object
 Object
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Adverbial
 Object
@@ -69293,7 +69293,7 @@ Adverbial
 Adverbial
 
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -69347,8 +69347,8 @@ Object
 Verbal
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -69360,7 +69360,7 @@ Object
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Adverbial
 Verbal
 Indirect Object
@@ -69474,9 +69474,9 @@ Object
 Object
 Object
 Verbal
-
-
+Auxiliar
 
+Auxiliar
 Verbal
 Object
 Object
@@ -69568,9 +69568,9 @@ Subject
 Subject
 Subject
 Subject
+Auxiliar
 
-
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -69815,7 +69815,7 @@ Predicate
 Verbal
 Verbal
 
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -70131,8 +70131,8 @@ Verbal
 Subject
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -70140,7 +70140,7 @@ Verbal
 
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Subject
 
 Subject
@@ -70225,13 +70225,13 @@ Adverbial
 Adverbial
 Subject
 Subject
-
+Auxiliar
 Subject
 
 Verbal
 Verbal
 Subject
-Object
+Auxiliar
 Subject
 
 Subject
@@ -70253,8 +70253,8 @@ Adverbial
 Predicate
 Adverbial
 Object
+Auxiliar
 
-
 Verbal
 
 Verbal
@@ -70271,7 +70271,7 @@ Verbal
 Verbal
 
 Subject
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -70354,8 +70354,8 @@ Adverbial
 Object
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Subject
 Verbal
@@ -70659,7 +70659,7 @@ Verbal
 Indirect Object
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Object
 Subject
@@ -70793,7 +70793,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 
@@ -70899,7 +70899,7 @@ Adverbial
 Object
 Verbal
 Indirect Object
-Object
+Auxiliar
 Subject
 
 Verbal
@@ -70910,7 +70910,7 @@ Verbal Copula
 Verbal
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Verbal
 
 Indirect Object
@@ -71047,7 +71047,7 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Verbal
 Verbal
@@ -71056,7 +71056,7 @@ Subject
 Subject
 Verbal
 Adverbial
-Object
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -71105,7 +71105,7 @@ Subject
 Subject
 Object
 Verbal
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -71142,7 +71142,7 @@ Adverbial
 Verbal
 Subject
 Subject
-Object
+Auxiliar
 Subject
 Subject
 Verbal
@@ -71167,7 +71167,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Verbal Copula
 Object
@@ -71344,8 +71344,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
 Object
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -71355,7 +71355,7 @@ Adverbial
 Adverbial
 Object
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -71788,14 +71788,14 @@ Subject
 Verbal
 Indirect Object
 Verbal
-Object
+Auxiliar
 Verbal
 Verbal
 Verbal
 Verbal
 
 Adverbial
-Object
+Auxiliar
 Adverbial
 Subject
 Subject
@@ -71833,8 +71833,8 @@ Subject
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Adverbial
 Subject
 Subject
@@ -72180,9 +72180,9 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
-
+Auxiliar
 
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -72320,7 +72320,7 @@ Verbal
 Object
 Object
 
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -72869,18 +72869,18 @@ Verbal
 Adverbial
 Adverbial
 Verbal
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -72892,7 +72892,7 @@ Object
 Object
 
 Adverbial
-
+Auxiliar
 Subject
 Subject
 Predicate
@@ -72988,8 +72988,8 @@ Subject
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Subject
 Verbal Copula
@@ -73009,10 +73009,10 @@ Verbal
 Adverbial
 Adverbial
 Verbal
+Auxiliar
+Auxiliar
 
-
-
-
+Auxiliar
 Verbal
 Object
 Object
@@ -73165,8 +73165,8 @@ Verbal Copula
 Object
 Verbal Copula
 Subject
-Object
 Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -73179,15 +73179,15 @@ Object
 Object
 Object
 Verbal
-
-
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -73374,8 +73374,8 @@ Predicate
 
 Verbal Copula
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Object
 Adverbial
 Adverbial
@@ -73409,8 +73409,8 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Object
 Verbal
 Object
@@ -73529,7 +73529,7 @@ Object
 Second Object
 Second Object
 Second Object
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -73869,7 +73869,7 @@ Adverbial
 Verbal
 Adverbial
 Verbal
-Object
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -74250,8 +74250,8 @@ Subject
 Verbal
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -74370,8 +74370,8 @@ Subject
 Verbal
 Subject
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Subject
@@ -74742,13 +74742,13 @@ Predicate
 Subject
 
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -74806,7 +74806,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Subject
 Verbal Copula
@@ -75337,7 +75337,7 @@ Verbal
 Object
 Adverbial
 Verbal
-Object
+Auxiliar
 Object
 Subject
 Verbal
@@ -75635,9 +75635,9 @@ Adverbial
 Adverbial
 Verbal
 Object
+Auxiliar
 Object
 Object
-Object
 Verbal
 Subject
 Adverbial
@@ -75953,8 +75953,8 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Predicate
@@ -75984,9 +75984,9 @@ Object
 Subject
 Verbal
 Indirect Object
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -76449,8 +76449,8 @@ Predicate
 Predicate
 Predicate
 Predicate
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -77146,7 +77146,7 @@ Object
 Object
 Object
 Verbal
-
+Auxiliar
 Verbal
 Object
 Predicate
@@ -77349,8 +77349,8 @@ Subject
 Object
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Predicate
 Object
 Verbal Copula
@@ -77832,7 +77832,7 @@ Object
 Object
 
 Adverbial
-
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -77895,7 +77895,7 @@ Object
 Object
 
 Adverbial
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -78479,7 +78479,7 @@ Verbal
 
 Indirect Object
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Verbal Copula
@@ -78649,8 +78649,8 @@ Adverbial
 Object
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Subject
 Verbal Copula
@@ -78925,10 +78925,10 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -79059,8 +79059,8 @@ Verbal
 Subject
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -79069,7 +79069,7 @@ Subject
 Verbal
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Verbal
 
 Adverbial
@@ -79103,7 +79103,7 @@ Verbal
 
 Object
 Verbal
-Object
+Auxiliar
 Subject
 
 Subject
@@ -79162,8 +79162,8 @@ Adverbial
 Verbal
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -79260,7 +79260,7 @@ Object
 Object
 Subject
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -79420,7 +79420,7 @@ Verbal Copula
 Subject
 
 Verbal
-
+Auxiliar
 Verbal
 
 Subject
@@ -79501,8 +79501,8 @@ Subject
 Object
 Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Adverbial
 Adverbial
@@ -79537,7 +79537,7 @@ Object
 Verbal
 Subject
 Subject
-Object
+Auxiliar
 Verbal
 Subject
 Subject
@@ -79567,7 +79567,7 @@ Subject
 Subject
 Adverbial
 Verbal
-Object
+Auxiliar
 Object
 Verbal Copula
 Predicate
@@ -79599,8 +79599,8 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Predicate
 Verbal Copula
@@ -80203,8 +80203,8 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -80435,12 +80435,12 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
 
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -81055,14 +81055,14 @@ Subject
 Verbal
 Subject
 Subject
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
-Object
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -81119,8 +81119,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Subject
 Subject
@@ -81165,8 +81165,8 @@ Object
 Verbal
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Second Object
@@ -81264,7 +81264,7 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Predicate
 Verbal Copula
@@ -81355,7 +81355,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -81385,8 +81385,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -81400,7 +81400,7 @@ Subject
 Verbal
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Subject
 
 Subject
@@ -81482,9 +81482,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
 
+Auxiliar
+Auxiliar
 
 Verbal Copula
 Predicate
@@ -81588,7 +81588,7 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Object
@@ -81602,13 +81602,13 @@ Subject
 Object
 Verbal
 Verbal
-Object
+Auxiliar
+Auxiliar
 Object
 Object
 Object
 Object
 Object
-Object
 Verbal
 Verbal
 Adverbial
@@ -81636,8 +81636,8 @@ Adverbial
 Verbal
 Subject
 Verbal
-
-
+Auxiliar
+Auxiliar
 Object
 Object
 Verbal
@@ -81892,7 +81892,7 @@ Subject
 Subject
 Verbal
 Indirect Object
-Object
+Auxiliar
 Verbal
 Object
 Predicate
@@ -82078,9 +82078,9 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-Object
-Object
 Object
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -82129,13 +82129,13 @@ Subject
 Verbal
 Adverbial
 Verbal
-Object
+Auxiliar
 Adverbial
 Subject
 Verbal
 Verbal
-Object
 Object
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -82147,7 +82147,7 @@ Adverbial
 Adverbial
 
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Object
@@ -82794,10 +82794,10 @@ Verbal
 Adverbial
 Adverbial
 Subject
-Object
+Auxiliar
+Auxiliar
 Object
 Object
-Object
 Verbal
 Indirect Object
 Indirect Object
@@ -83272,7 +83272,7 @@ Verbal
 
 Subject
 Verbal
-
+Auxiliar
 Object
 Adverbial
 Verbal
@@ -83498,9 +83498,9 @@ Predicate
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 Adverbial
 Adverbial
-Adverbial
 Verbal
 Object
 Subject
@@ -83628,10 +83628,10 @@ Verbal
 
 Predicate
 Verbal Copula
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -83665,15 +83665,15 @@ Verbal
 Verbal
 
 Object
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
 Object
 Verbal
-
+Auxiliar
 Verbal
 Object
 Object
@@ -83938,24 +83938,24 @@ Object
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 
 Verbal
 Object
 Object
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Verbal
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Verbal
 Verbal
-
+Auxiliar
 Verbal
 Object
 Object
@@ -85704,7 +85704,7 @@ Adverbial
 Adverbial
 
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Object
@@ -85769,8 +85769,8 @@ Verbal Copula
 Predicate
 Predicate
 
-
-
+Auxiliar
+Auxiliar
 Subject
 Subject
 Verbal
@@ -86060,7 +86060,7 @@ Object
 Object
 Adverbial
 Verbal
-
+Auxiliar
 Object
 Verbal
 
@@ -86198,11 +86198,11 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -86376,9 +86376,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
 
+Auxiliar
 Predicate
 Verbal Copula
 Adverbial
@@ -86428,9 +86428,9 @@ Object
 Adverbial
 Adverbial
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -86907,7 +86907,7 @@ Predicate
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Subject
 
@@ -86917,12 +86917,12 @@ Subject
 Subject
 Subject
 Subject
-
-
-
-
 
 
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Predicate
 
@@ -86941,10 +86941,10 @@ Subject
 Subject
 Verbal Copula
 
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Predicate
 Predicate
@@ -87112,9 +87112,9 @@ Object
 Object
 Subject
 Verbal
+Auxiliar
+Auxiliar
 
-
-
 Subject
 Predicate
 Verbal Copula
@@ -87329,9 +87329,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -87347,7 +87347,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 
 Subject
@@ -87404,12 +87404,12 @@ Verbal
 Subject
 
 Verbal
-Object
-Object
-Object
 Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Subject
@@ -87589,7 +87589,7 @@ Object
 Subject
 
 Verbal
-Object
+Auxiliar
 Subject
 Verbal
 Object
@@ -87728,10 +87728,10 @@ Object
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 Object
 Object
 Object
-Object
 Verbal
 Object
 Object
@@ -88094,7 +88094,7 @@ Adverbial
 Verbal
 Subject
 Verbal
-
+Auxiliar
 Object
 Object
 Object
@@ -88209,13 +88209,13 @@ Object
 Object
 Verbal
 
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Predicate
 Subject
@@ -88260,11 +88260,11 @@ Subject
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 
 Subject
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -88517,7 +88517,7 @@ Verbal
 
 Object
 Verbal
-
+Auxiliar
 
 Verbal
 Object
@@ -88724,8 +88724,8 @@ Object
 Object
 Object
 Verbal
+Auxiliar
 
-
 Adverbial
 Verbal
 Adverbial
@@ -88878,7 +88878,7 @@ Verbal
 Subject
 Predicate
 Verbal Copula
-
+Auxiliar
 Verbal
 Object
 Object
@@ -89042,7 +89042,7 @@ Verbal
 Object
 Verbal
 Adverbial
-
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -89059,11 +89059,11 @@ Adverbial
 Object
 Subject
 Predicate
-Adverbial
 Adverbial
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 Verbal
 Subject
 Predicate
@@ -89364,7 +89364,7 @@ Verbal
 Adverbial
 Verbal
 Verbal
-Object
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -89372,9 +89372,9 @@ Adverbial
 
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Object
 
@@ -89427,9 +89427,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
 
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -89695,7 +89695,7 @@ Verbal
 Verbal
 
 Subject
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -89756,7 +89756,7 @@ Subject
 Predicate
 Predicate
 Predicate
-
+Auxiliar
 Verbal
 
 Indirect Object
@@ -89992,7 +89992,7 @@ Subject
 Verbal
 
 Subject
-
+Auxiliar
 Verbal
 Object
 Object
@@ -90127,7 +90127,7 @@ Subject
 Subject
 Subject
 Subject
-
+Auxiliar
 
 Verbal
 Object
@@ -90167,9 +90167,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -90181,7 +90181,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -90323,7 +90323,7 @@ Adverbial
 Verbal
 
 Object
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -90360,8 +90360,8 @@ Verbal
 Indirect Object
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -90587,7 +90587,7 @@ Verbal
 Object
 Object
 Object
-
+Auxiliar
 Object
 Adverbial
 Predicate
@@ -90682,7 +90682,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -90967,7 +90967,7 @@ Object
 Object
 Verbal
 Subject
-
+Auxiliar
 Object
 Verbal
 Verbal
@@ -91394,7 +91394,7 @@ Adverbial
 Adverbial
 Object
 
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -91922,7 +91922,7 @@ Object
 Object
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -92404,12 +92404,12 @@ Adverbial
 Verbal
 Object
 
-
+Auxiliar
 Subject
 Verbal
 Object
 Object
-
+Auxiliar
 Subject
 Verbal
 Verbal
@@ -92474,7 +92474,7 @@ Subject
 Object
 
 Verbal
-
+Auxiliar
 Object
 Object
 Object
@@ -92482,7 +92482,7 @@ Verbal
 
 Object
 Verbal
-
+Auxiliar
 Object
 Object
 Object
@@ -92580,7 +92580,7 @@ Subject
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -92656,7 +92656,7 @@ Verbal
 Object
 
 Verbal
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -93509,9 +93509,9 @@ Verbal Copula
 Adverbial
 Verbal
 Adverbial
+Auxiliar
 Adverbial
 Adverbial
-Adverbial
 Verbal
 Subject
 Adverbial
@@ -93573,7 +93573,7 @@ Verbal
 
 Subject
 Verbal
-
+Auxiliar
 Object
 Subject
 Subject
@@ -93765,8 +93765,8 @@ Adverbial
 Verbal
 Verbal
 
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -94535,9 +94535,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
 
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -94566,7 +94566,7 @@ Adverbial
 
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -95304,8 +95304,8 @@ Subject
 Object
 Verbal
 Adverbial
-
 
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -95330,9 +95330,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
 
+Auxiliar
+Auxiliar
 Object
 Verbal
 Subject
@@ -95413,8 +95413,8 @@ Adverbial
 Adverbial
 Predicate
 
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Predicate
 Verbal Copula
@@ -95527,8 +95527,8 @@ Object
 Object
 Adverbial
 Adverbial
+Auxiliar
 
-
 Predicate
 Verbal Copula
 Adverbial
@@ -95649,7 +95649,7 @@ Verbal Copula
 Predicate
 
 Verbal Copula
-
+Auxiliar
 
 Verbal
 Subject
@@ -95817,8 +95817,8 @@ Subject
 Verbal
 Verbal
 
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Verbal
@@ -95838,7 +95838,7 @@ Verbal
 Verbal
 
 Indirect Object
-
+Auxiliar
 Object
 Object
 Object
@@ -96268,7 +96268,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Object
 Verbal
 Adverbial
@@ -96329,7 +96329,7 @@ Adverbial
 Object
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 Object
 Verbal
@@ -96534,7 +96534,7 @@ Object
 Object
 
 Verbal
-
+Auxiliar
 Object
 Subject
 Subject
@@ -96618,12 +96618,12 @@ Adverbial
 Adverbial
 Predicate
 Subject
-Object
+Auxiliar
 Subject
 Subject
 Predicate
 Subject
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -96655,10 +96655,10 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Predicate
 Verbal Copula
 Predicate
@@ -96883,7 +96883,7 @@ Verbal Copula
 Verbal
 
 Object
-
+Auxiliar
 Verbal
 Object
 Object
@@ -96984,7 +96984,7 @@ Object
 Object
 Verbal Copula
 Predicate
-
+Auxiliar
 Verbal
 Subject
 Subject
@@ -97154,7 +97154,7 @@ Adverbial
 Verbal
 Subject
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -98652,7 +98652,7 @@ Predicate
 Subject
 Subject
 Verbal
-
+Auxiliar
 Verbal
 Subject
 Subject
@@ -98753,11 +98753,11 @@ Adverbial
 Adverbial
 Verbal
 Object
-
+Auxiliar
 Predicate
 Subject
 Subject
-
+Auxiliar
 Predicate
 Subject
 Subject
@@ -98877,7 +98877,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -98999,7 +98999,7 @@ Object
 Verbal
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -99186,8 +99186,8 @@ Subject
 Subject
 Object
 Verbal
+Auxiliar
 
-
 Subject
 Subject
 Subject
@@ -99324,7 +99324,7 @@ Adverbial
 Verbal
 
 Indirect Object
-
+Auxiliar
 Object
 Object
 Object
@@ -99707,8 +99707,8 @@ Predicate
 Predicate
 Predicate
 
-
-
+Auxiliar
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -100315,7 +100315,7 @@ Adverbial
 Verbal
 
 
-
+Auxiliar
 Object
 Verbal
 Subject
@@ -100838,9 +100838,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -100866,10 +100866,10 @@ Adverbial
 Adverbial
 
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Object
-Object
 Adverbial
 Adverbial
 Object
@@ -101075,7 +101075,7 @@ Indirect Object
 Object
 Object
 Object
-
+Auxiliar
 Object
 Object
 Adverbial
@@ -101135,7 +101135,7 @@ Adverbial
 Object
 Verbal
 
-
+Auxiliar
 Object
 Verbal
 Adverbial
@@ -101176,7 +101176,7 @@ Verbal
 Subject
 
 Subject
-
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -101423,7 +101423,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Verbal
 Verbal
@@ -101540,12 +101540,12 @@ Adverbial
 Indirect Object
 Subject
 Subject
-Adverbial
 Adverbial
 Adverbial
 Adverbial
 Adverbial
 Adverbial
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -101633,7 +101633,7 @@ Verbal Copula
 Verbal
 
 Indirect Object
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -102219,9 +102219,9 @@ Adverbial
 Subject
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Object
 Verbal
@@ -102293,10 +102293,10 @@ Adverbial
 Adverbial
 Verbal
 
-Object
-Object
 Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Predicate
 Verbal Copula
@@ -102431,7 +102431,7 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -102455,9 +102455,9 @@ Indirect Object
 Indirect Object
 
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -102465,10 +102465,10 @@ Adverbial
 
 Adverbial
 Adverbial
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -102758,9 +102758,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Adverbial
-Adverbial
-Adverbial
+Auxiliar
+Auxiliar
+Auxiliar
 
 Predicate
 Verbal Copula
@@ -102832,7 +102832,7 @@ Adverbial
 Subject
 Adverbial
 Subject
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -102919,8 +102919,8 @@ Verbal
 Subject
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Object
 Adverbial
 Verbal
@@ -102947,7 +102947,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-
+Auxiliar
 Predicate
 Predicate
 Verbal
@@ -103041,14 +103041,14 @@ Predicate
 Verbal
 
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Verbal
 Object
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -103064,8 +103064,8 @@ Verbal
 Object
 Object
 Subject
-
 
+Auxiliar
 Adverbial
 Adverbial
 Predicate
@@ -103111,7 +103111,7 @@ Adverbial
 Adverbial
 Adverbial
 
-
+Auxiliar
 Predicate
 Verbal Copula
 Predicate
@@ -103132,7 +103132,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -103233,7 +103233,7 @@ Adverbial
 Verbal Copula
 Subject
 
-
+Auxiliar
 Adverbial
 Object
 Adverbial
@@ -103258,7 +103258,7 @@ Subject
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 
 
 Object
@@ -103432,7 +103432,7 @@ Object
 Verbal
 Object
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -103697,8 +103697,8 @@ Predicate
 Predicate
 Predicate
 Predicate
-
-
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -104749,7 +104749,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 
 Verbal
 Adverbial
@@ -104785,7 +104785,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 
 Object
@@ -105443,7 +105443,7 @@ Verbal Copula
 
 Verbal
 Verbal
-Object
+Auxiliar
 Verbal
 Object
 Verbal
@@ -105534,8 +105534,8 @@ Indirect Object
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Indirect Object
 Indirect Object
 Indirect Object
@@ -105574,8 +105574,8 @@ Indirect Object
 Indirect Object
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -105724,8 +105724,8 @@ Object
 Verbal
 Object
 Object
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -105759,9 +105759,9 @@ Predicate
 Adverbial
 Adverbial
 Adverbial
-
 
-
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Object
@@ -105775,8 +105775,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -105834,9 +105834,9 @@ Adverbial
 Predicate
 Adverbial
 Predicate
-
 
-
+Auxiliar
+Auxiliar
 Object
 Object
 Verbal
@@ -106298,7 +106298,7 @@ Verbal
 
 Subject
 Verbal
-
+Auxiliar
 Object
 Subject
 Subject
@@ -106763,9 +106763,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
 
+Auxiliar
+Auxiliar
 Object
 Adverbial
 Verbal
@@ -107053,8 +107053,8 @@ Object
 Object
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -107248,7 +107248,7 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -107304,7 +107304,7 @@ Verbal
 Predicate
 Predicate
 Verbal Copula
-
+Auxiliar
 
 Verbal
 Object
@@ -107392,20 +107392,20 @@ Indirect Object
 Object
 Object
 
-
-
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Object
 Verbal
 
@@ -107416,12 +107416,12 @@ Object
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Object
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Subject
@@ -107499,9 +107499,9 @@ Object
 Adverbial
 Adverbial
 Adverbial
-
 
 
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -107614,7 +107614,7 @@ Verbal
 
 Subject
 Subject
-
+Auxiliar
 Object
 Adverbial
 Adverbial
@@ -107713,7 +107713,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Object
@@ -108918,10 +108918,10 @@ Adverbial
 Indirect Object
 Indirect Object
 
-
+Auxiliar
 Object
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -108939,8 +108939,8 @@ Object
 Object
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Indirect Object
 Indirect Object
@@ -108948,8 +108948,8 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -108958,8 +108958,8 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -108971,8 +108971,8 @@ Predicate
 Verbal Copula
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -108981,8 +108981,8 @@ Object
 Adverbial
 Adverbial
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -109037,8 +109037,8 @@ Verbal
 Predicate
 Verbal Copula
 Subject
-
-
+Auxiliar
+Auxiliar
 Object
 Object
 Object
@@ -109384,7 +109384,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -109537,7 +109537,7 @@ Verbal
 Subject
 
 Verbal
-
+Auxiliar
 Object
 Object
 Object
@@ -109674,8 +109674,8 @@ Predicate
 Adverbial
 Verbal Copula
 Verbal
-
 
+Auxiliar
 Object
 Object
 Object
@@ -109784,7 +109784,7 @@ Subject
 
 Predicate
 Verbal Copula
-
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -109856,8 +109856,8 @@ Subject
 Adverbial
 Adverbial
 Subject
-
 
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -110046,7 +110046,7 @@ Object
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -110172,8 +110172,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Verbal
 Object
 Verbal
@@ -110334,7 +110334,7 @@ Adverbial
 Verbal
 
 Subject
-
+Auxiliar
 Verbal
 Adverbial
 Object
@@ -110367,7 +110367,7 @@ Verbal
 
 Subject
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -110486,7 +110486,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -110527,8 +110527,8 @@ Adverbial
 Adverbial
 Verbal
 Subject
-
 
+Auxiliar
 Adverbial
 Verbal Copula
 Predicate
@@ -110634,7 +110634,7 @@ Verbal
 Verbal
 
 Subject
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -110664,7 +110664,7 @@ Adverbial
 Verbal
 
 Object
-
+Auxiliar
 Verbal
 Object
 Object
@@ -110766,7 +110766,7 @@ Object
 Subject
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -110830,7 +110830,7 @@ Object
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Predicate
 Verbal Copula
@@ -111033,7 +111033,7 @@ Adverbial
 Verbal
 
 Object
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -111255,7 +111255,7 @@ Object
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -111291,9 +111291,9 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
 
 
+Auxiliar
 Verbal
 
 Verbal
@@ -111348,7 +111348,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -111424,7 +111424,7 @@ Adverbial
 Verbal
 
 Indirect Object
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -111543,7 +111543,7 @@ Object
 Verbal
 Subject
 
-
+Auxiliar
 Adverbial
 Verbal
 Verbal
@@ -111878,14 +111878,14 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Object
 Object
 Object
 Verbal
 Indirect Object
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -113032,10 +113032,10 @@ Verbal
 Adverbial
 Adverbial
 Subject
-
-
 
-
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
 Verbal
@@ -113132,11 +113132,11 @@ Subject
 Verbal
 Verbal
 Indirect Object
-Subject
 Subject
 Subject
 Subject
 Subject
+Auxiliar
 Indirect Object
 Indirect Object
 Indirect Object
@@ -113181,8 +113181,8 @@ Verbal
 Object
 Object
 Object
-
-
+Auxiliar
+Auxiliar
 Object
 Object
 Verbal
@@ -113525,8 +113525,8 @@ Subject
 Verbal
 Subject
 
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -114397,7 +114397,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Object
@@ -115207,7 +115207,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 
 Object
 Object
@@ -115369,8 +115369,8 @@ Object
 Object
 Indirect Object
 Verbal
-
-
+Auxiliar
+Auxiliar
 Subject
 Adverbial
 Verbal
@@ -115576,8 +115576,8 @@ Adverbial
 Subject
 Subject
 Subject
-Object
-Object
+Auxiliar
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -115616,7 +115616,7 @@ Adverbial
 Subject
 Adverbial
 Adverbial
-
+Auxiliar
 Object
 Object
 Verbal
@@ -116006,12 +116006,12 @@ Verbal
 Object
 Verbal
 Verbal
-
-
-
 
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -116176,7 +116176,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Verbal Copula
@@ -116938,7 +116938,7 @@ Verbal
 
 Adverbial
 Adverbial
-
+Auxiliar
 Object
 Object
 Object
@@ -118440,7 +118440,7 @@ Adverbial
 Verbal
 Adverbial
 Verbal
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -118450,11 +118450,11 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
+Auxiliar
 Object
 Object
 Object
-Object
 Adverbial
 Verbal
 Object
@@ -118476,7 +118476,7 @@ Adverbial
 Verbal
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Verbal
@@ -118618,7 +118618,7 @@ Subject
 Subject
 Verbal
 
-
+Auxiliar
 Object
 Object
 Object
@@ -119625,8 +119625,8 @@ Indirect Object
 Adverbial
 Indirect Object
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -120342,11 +120342,11 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 
 Object
-
+Auxiliar
 Verbal
 Object
 Object
@@ -120409,8 +120409,8 @@ Verbal
 Object
 Object
 Verbal
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -120605,9 +120605,9 @@ Verbal
 Object
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -120646,9 +120646,9 @@ Predicate
 Predicate
 Predicate
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal Copula
 
 Subject
@@ -120730,7 +120730,7 @@ Adverbial
 Verbal
 Predicate
 Verbal Copula
-
+Auxiliar
 
 Verbal
 Adverbial
@@ -120739,7 +120739,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Predicate
 Predicate
@@ -120797,8 +120797,8 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -120868,9 +120868,9 @@ Predicate
 Predicate
 Predicate
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 
 Subject
 Subject
@@ -121000,8 +121000,8 @@ Object
 Predicate
 Subject
 Subject
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -121107,9 +121107,9 @@ Verbal
 Verbal
 
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Subject
 Subject
@@ -121118,11 +121118,11 @@ Adverbial
 Adverbial
 Predicate
 Verbal Copula
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 
-
 Adverbial
 Adverbial
 Verbal
@@ -121217,8 +121217,8 @@ Adverbial
 Subject
 Predicate
 Verbal Copula
-
-
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -121264,7 +121264,7 @@ Object
 Object
 Object
 Verbal
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -121295,7 +121295,7 @@ Verbal Copula
 
 Object
 Verbal
-
+Auxiliar
 Subject
 Subject
 Object
@@ -121390,8 +121390,8 @@ Subject
 Subject
 Adverbial
 Verbal
-
-
+Auxiliar
+Auxiliar
 Subject
 Predicate
 Verbal Copula
@@ -121410,8 +121410,8 @@ Object
 Object
 
 Verbal
-
-
+Auxiliar
+Auxiliar
 Subject
 Object
 Verbal
@@ -121561,8 +121561,8 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
+Auxiliar
 
-
 Verbal
 Object
 Subject
@@ -121635,11 +121635,11 @@ Verbal
 Adverbial
 Verbal
 Object
-
+Auxiliar
 
 Verbal
 Object
-
+Auxiliar
 Verbal
 
 Verbal
@@ -121665,7 +121665,7 @@ Object
 Adverbial
 Verbal
 Object
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -121703,13 +121703,13 @@ Subject
 
 Predicate
 Verbal Copula
-
+Auxiliar
 Verbal
 Object
 Object
 Verbal
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -121785,8 +121785,8 @@ Adverbial
 Verbal
 Verbal
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Verbal
 Adverbial
@@ -121831,7 +121831,7 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -121878,14 +121878,14 @@ Adverbial
 Verbal
 Object
 Verbal
-
 
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Subject
 Subject
 Verbal
@@ -121917,13 +121917,13 @@ Subject
 Verbal
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Subject
 Subject
 Adverbial
@@ -121932,7 +121932,7 @@ Adverbial
 Verbal
 Second Object
 Verbal
-
+Auxiliar
 Second Object
 Second Object
 Second Object
@@ -121946,7 +121946,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Verbal
@@ -121968,9 +121968,9 @@ Predicate
 Predicate
 Adverbial
 Adverbial
-
 
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -122098,8 +122098,8 @@ Verbal
 Object
 Object
 Object
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Subject
 Subject
@@ -122605,7 +122605,7 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -122629,7 +122629,7 @@ Adverbial
 Verbal
 Verbal
 
-Predicate
+Auxiliar
 Object
 Verbal
 Subject
@@ -122693,7 +122693,7 @@ Verbal
 Adverbial
 
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -122797,8 +122797,8 @@ Verbal
 Object
 Object
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -122927,7 +122927,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Indirect Object
 Indirect Object
@@ -123022,8 +123022,8 @@ Adverbial
 Verbal
 Object
 Object
-
-
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -123464,9 +123464,9 @@ Predicate
 Predicate
 Predicate
 Predicate
-Adverbial
+Auxiliar
+Auxiliar
 
-
 Verbal
 Adverbial
 Adverbial
@@ -123657,7 +123657,7 @@ Object
 Object
 Object
 Adverbial
-
+Auxiliar
 Verbal
 Indirect Object
 Subject
@@ -123730,12 +123730,12 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
+Auxiliar
 
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -123760,7 +123760,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Adverbial
 Indirect Object
@@ -123976,7 +123976,7 @@ Object
 Object
 
 Adverbial
-
+Auxiliar
 Verbal
 Second Object
 Object
@@ -124566,7 +124566,7 @@ Adverbial
 Adverbial
 Object
 Adverbial
-
+Auxiliar
 Object
 Indirect Object
 Verbal
@@ -124694,7 +124694,7 @@ Subject
 Adverbial
 Verbal
 Object
-
+Auxiliar
 Second Object
 Subject
 Subject
@@ -124801,8 +124801,8 @@ Adverbial
 Adverbial
 Subject
 Verbal
-
 
+Auxiliar
 Object
 Verbal
 Verbal
@@ -124868,7 +124868,7 @@ Adverbial
 Adverbial
 Subject
 
-
+Auxiliar
 Verbal
 Verbal
 Adverbial
@@ -125111,8 +125111,8 @@ Adverbial
 Verbal Copula
 Predicate
 Predicate
-
-
+Auxiliar
+Auxiliar
 Object
 Verbal
 Indirect Object
@@ -125205,7 +125205,7 @@ Object
 Predicate
 Predicate
 Verbal Copula
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -125218,7 +125218,7 @@ Subject
 Subject
 Adverbial
 Verbal
-
+Auxiliar
 Object
 Object
 Object
@@ -125325,7 +125325,7 @@ Object
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Adverbial
 Verbal
 Indirect Object
@@ -125337,7 +125337,7 @@ Adverbial
 Adverbial
 Verbal
 Indirect Object
-
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -125345,21 +125345,21 @@ Object
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Adverbial
 Verbal
 Object
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Adverbial
 Verbal
 Object
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -125367,7 +125367,7 @@ Object
 Object
 Verbal
 Indirect Object
-
+Auxiliar
 Object
 Predicate
 Verbal Copula
@@ -125454,7 +125454,7 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Predicate
 Predicate
 Verbal Copula
@@ -125574,7 +125574,7 @@ Object
 Object
 Object
 Verbal
-
+Auxiliar
 Object
 Verbal
 Adverbial
@@ -125620,8 +125620,8 @@ Adverbial
 Adverbial
 Verbal
 Object
-
 
+Auxiliar
 Subject
 Subject
 Object
@@ -125664,7 +125664,7 @@ Adverbial
 Adverbial
 
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -125722,7 +125722,7 @@ Adverbial
 Adverbial
 Verbal
 Object
-
+Auxiliar
 Adverbial
 Predicate
 Predicate
@@ -125805,7 +125805,7 @@ Object
 
 Verbal
 Object
-
+Auxiliar
 Subject
 Verbal
 Object
@@ -125943,7 +125943,7 @@ Subject
 Predicate
 Adverbial
 Verbal
-
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -126042,7 +126042,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Verbal
 Adverbial
@@ -126086,7 +126086,7 @@ Adverbial
 Object
 Verbal
 Object
-
+Auxiliar
 Adverbial
 Subject
 Subject
@@ -126164,8 +126164,8 @@ Adverbial
 Object
 Indirect Object
 Verbal
+Auxiliar
 
-
 Object
 Object
 Verbal
@@ -126240,7 +126240,7 @@ Predicate
 Predicate
 Predicate
 Verbal Copula
-
+Auxiliar
 
 Verbal
 Object
@@ -126303,7 +126303,7 @@ Object
 Object
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Object
@@ -126388,7 +126388,7 @@ Second Object
 Second Object
 Second Object
 Second Object
-
+Auxiliar
 Adverbial
 Adverbial
 Subject
@@ -127034,7 +127034,7 @@ Predicate
 Predicate
 Predicate
 Predicate
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -127120,7 +127120,7 @@ Adverbial
 Adverbial
 Verbal
 Object
-
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -127205,7 +127205,7 @@ Adverbial
 Object
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -127295,7 +127295,7 @@ Subject
 Verbal
 Adverbial
 Adverbial
-
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -127337,7 +127337,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 Object
 Verbal
 Object
@@ -127429,7 +127429,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 
 Verbal
 Object
@@ -127528,7 +127528,7 @@ Subject
 Subject
 Subject
 Verbal
-
+Auxiliar
 Object
 Object
 Verbal
@@ -127774,7 +127774,7 @@ Subject
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Verbal
 Subject
 Adverbial
@@ -127830,7 +127830,7 @@ Adverbial
 Adverbial
 Subject
 
-
+Auxiliar
 Verbal
 Object
 Object
@@ -127869,8 +127869,8 @@ Object
 Adverbial
 Verbal
 Subject
-
 
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -127960,7 +127960,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -128072,10 +128072,10 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -128107,8 +128107,8 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -128131,8 +128131,8 @@ Subject
 Subject
 Subject
 Subject
-
-
+Auxiliar
+Auxiliar
 Subject
 Verbal Copula
 Predicate
@@ -128366,8 +128366,8 @@ Verbal
 
 Verbal Copula
 Predicate
-
 
+Auxiliar
 Verbal
 Verbal
 Adverbial
@@ -128397,23 +128397,23 @@ Verbal
 Verbal
 Adverbial
 Adverbial
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
 Adverbial
 Adverbial
 Adverbial
 Adverbial
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -128560,7 +128560,7 @@ Subject
 Verbal
 Indirect Object
 Indirect Object
-
+Auxiliar
 Verbal
 Verbal
 Indirect Object
@@ -128628,7 +128628,7 @@ Verbal
 Object
 Verbal
 Verbal
-
+Auxiliar
 Verbal
 Verbal
 Subject
@@ -128795,7 +128795,7 @@ Subject
 Verbal
 Indirect Object
 Indirect Object
-
+Auxiliar
 Verbal
 Verbal
 Indirect Object
@@ -128914,7 +128914,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Object
 Adverbial
@@ -128999,11 +128999,11 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
 
+Auxiliar
 Verbal
-
-
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -129227,7 +129227,7 @@ Verbal
 Object
 Object
 Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -129253,7 +129253,7 @@ Verbal
 Object
 Object
 Object
-
+Auxiliar
 Verbal
 Object
 Object
@@ -129326,7 +129326,7 @@ Verbal
 Object
 Object
 Object
-
+Auxiliar
 Verbal
 Verbal
 Object
@@ -129513,7 +129513,7 @@ Verbal
 
 
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -129541,7 +129541,7 @@ Adverbial
 Subject
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Verbal
 Indirect Object
@@ -129578,8 +129578,8 @@ Indirect Object
 Adverbial
 Adverbial
 Verbal
-
 
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -129613,7 +129613,7 @@ Verbal
 Adverbial
 Adverbial
 
-
+Auxiliar
 Subject
 Verbal
 Adverbial
@@ -129840,12 +129840,12 @@ Adverbial
 Verbal
 Predicate
 Verbal Copula
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
@@ -129946,7 +129946,7 @@ Verbal
 Indirect Object
 Adverbial
 Verbal
-
+Auxiliar
 Verbal
 Subject
 Subject
@@ -130200,8 +130200,8 @@ Subject
 Subject
 Subject
 Verbal
+Auxiliar
 
-
 Subject
 Subject
 Verbal
@@ -130271,8 +130271,8 @@ Verbal
 Subject
 Subject
 Subject
-
 
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -130370,7 +130370,7 @@ Verbal
 Subject
 Subject
 
-
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -130440,12 +130440,12 @@ Adverbial
 Verbal
 Adverbial
 Adverbial
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Object
@@ -130789,7 +130789,7 @@ Adverbial
 Adverbial
 Verbal
 
-
+Auxiliar
 Subject
 Subject
 Object
@@ -130870,7 +130870,7 @@ Verbal
 Object
 Object
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -130899,7 +130899,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 
 Verbal
 Subject
@@ -130923,8 +130923,8 @@ Verbal
 
 Verbal
 Indirect Object
-Object
-Object
+Auxiliar
+Auxiliar
 Subject
 Verbal
 
@@ -131592,7 +131592,7 @@ Subject
 Subject
 Subject
 Verbal
-
+Auxiliar
 Verbal
 Adverbial
 Subject
@@ -132464,7 +132464,7 @@ Subject
 Subject
 Subject
 Verbal
-
+Auxiliar
 Subject
 Subject
 Subject
@@ -132528,16 +132528,16 @@ Object
 Object
 Verbal
 Verbal
-Object
-Object
-Object
 Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
 Adverbial
 Verbal
@@ -132668,8 +132668,8 @@ Subject
 Adverbial
 Adverbial
 Adverbial
-
 
+Auxiliar
 Subject
 Subject
 Subject
@@ -132908,9 +132908,9 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -133511,8 +133511,8 @@ Predicate
 Predicate
 
 Verbal
-
 
+Auxiliar
 Subject
 Subject
 Verbal
@@ -133853,7 +133853,7 @@ Adverbial
 Adverbial
 Verbal
 Adverbial
-
+Auxiliar
 Verbal
 Subject
 Subject
@@ -133872,8 +133872,8 @@ Adverbial
 Adverbial
 
 Verbal
-
 
+Auxiliar
 Subject
 Subject
 
@@ -134137,26 +134137,26 @@ Predicate
 Subject
 Subject
 Subject
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Predicate
 Predicate
 Predicate
 Subject
 Subject
 Subject
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Adverbial
 Adverbial
 Verbal
-
+Auxiliar
 
 Verbal
 Object
@@ -134381,13 +134381,13 @@ Subject
 Verbal
 Predicate
 Verbal Copula
-Object
+Auxiliar
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Verbal
-Object
-Object
+Auxiliar
+Auxiliar
 Adverbial
 Object
 Verbal
@@ -134409,12 +134409,12 @@ Verbal
 Subject
 Subject
 Verbal
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Predicate
 Predicate
 Predicate
@@ -134592,7 +134592,7 @@ Adverbial
 Adverbial
 Adverbial
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 Subject
@@ -135006,12 +135006,12 @@ Adverbial
 Subject
 Verbal
 Verbal
-
-
 
+Auxiliar
+Auxiliar
 Subject
 Verbal
-
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -135108,15 +135108,15 @@ Predicate
 Predicate
 Predicate
 Predicate
-
-
-
 
+Auxiliar
+Auxiliar
+Auxiliar
 Object
 Verbal
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Verbal
 Object
@@ -135273,9 +135273,9 @@ Adverbial
 Adverbial
 Verbal
 Verbal
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Object
@@ -135417,17 +135417,17 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Adverbial
@@ -135567,20 +135567,20 @@ Verbal
 Adverbial
 Verbal
 Verbal
-Object
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
 Object
 Object
 Object
 Object
 Object
-Object
+Auxiliar
 Verbal
 Adverbial
 Adverbial
@@ -135643,12 +135643,12 @@ Verbal
 Adverbial
 Verbal
 Verbal
-Object
-Object
-Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Adverbial
 Verbal
@@ -135671,16 +135671,16 @@ Verbal
 Verbal
 Adverbial
 Adverbial
-
-
-
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -135817,7 +135817,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -135863,8 +135863,8 @@ Adverbial
 
 Adverbial
 Verbal
+Auxiliar
 Object
-Object
 Subject
 Subject
 Subject
@@ -135895,8 +135895,8 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Adverbial
-Adverbial
+Auxiliar
+Auxiliar
 
 Subject
 Adverbial
@@ -135905,21 +135905,21 @@ Adverbial
 Verbal
 Verbal
 Verbal
-Object
-Object
-Object
 Object
 Object
 Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
-Object
-Object
 Object
-Object
-Object
-Object
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 
 Verbal
 Subject
@@ -135937,7 +135937,7 @@ Subject
 Subject
 Subject
 Verbal
-Object
+Auxiliar
 Adverbial
 Verbal
 Subject
@@ -136788,7 +136788,7 @@ Adverbial
 Adverbial
 Adverbial
 Verbal
-Object
+Auxiliar
 Subject
 Subject
 Subject
@@ -136846,7 +136846,7 @@ Verbal
 Adverbial
 Adverbial
 Adverbial
-Object
+Auxiliar
 Second Object
 Verbal
 Object
@@ -136901,25 +136901,25 @@ Subject
 Verbal Copula
 Adverbial
 Predicate
-
-
+Auxiliar
 
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Verbal
-
-
-
-
-
-
-
-
-
-
-
-
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject
@@ -137486,8 +137486,8 @@ Verbal
 Verbal
 Adverbial
 Adverbial
-
 
+Auxiliar
 Verbal
 Adverbial
 Predicate
@@ -137585,7 +137585,7 @@ Subject
 Subject
 Verbal
 Adverbial
-
+Auxiliar
 Verbal
 Adverbial
 
@@ -137778,14 +137778,14 @@ Adverbial
 Verbal
 Subject
 Verbal
-Object
 Object
+Auxiliar
 Verbal
 Adverbial
-
+Auxiliar
 Verbal
-
-
+Auxiliar
+Auxiliar
 Subject
 Subject
 Subject

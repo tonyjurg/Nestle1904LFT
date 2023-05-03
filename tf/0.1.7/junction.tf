@@ -12,7 +12,7 @@
 @description=Junction data related to a wordgroup
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T20:22:20Z
+@dateWritten=2023-05-03T20:45:32Z
 
 154021	
 

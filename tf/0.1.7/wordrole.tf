@@ -12,7 +12,7 @@
 @description=Role of the word (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-03T20:22:25Z
+@dateWritten=2023-05-03T20:45:37Z
 
 p
 p
@@ -335,7 +335,7 @@ o
 
 s
 v
-
+aux
 s
 s
 adv
@@ -343,9 +343,9 @@ adv
 v
 io
 v
-o
-o
-o
+aux
+aux
+aux
 adv
 v
 v
@@ -385,7 +385,7 @@ s
 
 s
 v
-
+aux
 v
 s
 v
@@ -395,7 +395,7 @@ adv
 adv
 adv
 v
-o
+aux
 s
 s
 adv
@@ -463,7 +463,7 @@ adv
 adv
 adv
 adv
-
+aux
 s
 adv
 adv
@@ -533,10 +533,10 @@ adv
 adv
 adv
 s
-adv
+aux
+aux
+aux
 adv
-adv
-adv
 p
 vc
 adv
@@ -597,8 +597,8 @@ v
 o
 o
 v
-
 
+aux
 s
 s
 o
@@ -673,7 +673,7 @@ adv
 v
 
 s
-
+aux
 s
 s
 v
@@ -818,7 +818,7 @@ v
 
 s
 s
-
+aux
 s
 s
 v
@@ -1021,8 +1021,8 @@ adv
 adv
 v
 io
-o
-o
+aux
+aux
 s
 v
 io
@@ -1202,8 +1202,8 @@ v
 adv
 adv
 adv
-
 
+aux
 v
 s
 s
@@ -1218,7 +1218,7 @@ v
 adv
 adv
 
-
+aux
 s
 adv
 adv
@@ -1395,7 +1395,7 @@ io
 s
 s
 v
-o
+aux
 v
 
 o
@@ -1412,8 +1412,8 @@ v
 o
 s
 s
-
 
+aux
 s
 v
 
@@ -1452,19 +1452,19 @@ adv
 adv
 adv
 v
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 s
 s
 s
@@ -1473,9 +1473,9 @@ adv
 adv
 o
 v
-o
 o
 o
+aux
 v
 adv
 adv
@@ -2014,7 +2014,7 @@ v
 io
 io
 io
-s
+aux
 p
 vc
 adv
@@ -2023,7 +2023,7 @@ s
 adv
 s
 v
-s
+aux
 p
 vc
 adv
@@ -2679,12 +2679,12 @@ adv
 
 v
 s
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
 v
 s
 s
@@ -3075,7 +3075,7 @@ v
 adv
 adv
 o
-
+aux
 adv
 
 v
@@ -3190,14 +3190,14 @@ adv
 adv
 adv
 
-
+aux
 s
 s
 p
 p
 p
 p
-
+aux
 v
 adv
 adv
@@ -3318,12 +3318,12 @@ o
 io
 v
 o
-
+aux
 
 adv
-
+aux
 v
-
+aux
 v
 io
 s
@@ -3466,8 +3466,8 @@ s
 s
 v
 io
-s
-s
+aux
+aux
 v
 adv
 adv
@@ -3493,9 +3493,9 @@ adv
 adv
 adv
 adv
-o2
+aux
+aux
 o2
-o2
 adv
 adv
 adv
@@ -3524,7 +3524,7 @@ o
 v
 adv
 adv
-o
+aux
 v
 o
 o
@@ -3662,14 +3662,14 @@ v
 o
 s
 s
-
 
+aux
 s
 v
 v
 o
 v
-o
+aux
 adv
 v
 v
@@ -3726,7 +3726,7 @@ v
 o
 adv
 v
-o
+aux
 s
 s
 s
@@ -3748,7 +3748,7 @@ v
 s
 s
 v
-o
+aux
 adv
 vc
 p
@@ -3963,7 +3963,7 @@ s
 s
 v
 io
-o
+aux
 v
 o
 adv
@@ -4001,7 +4001,7 @@ s
 s
 v
 io
-o
+aux
 v
 io
 adv
@@ -4038,7 +4038,7 @@ s
 s
 s
 
-
+aux
 s
 s
 v
@@ -4060,7 +4060,7 @@ v
 v
 o
 v
-o
+aux
 v
 v
 
@@ -4069,7 +4069,7 @@ io
 adv
 p
 vc
-o
+aux
 adv
 v
 v
@@ -4130,16 +4130,16 @@ adv
 adv
 adv
 
-
+aux
 v
 v
 s
 p
 p
 p
-o
-o
-o
+aux
+aux
+aux
 v
 adv
 adv
@@ -4183,7 +4183,7 @@ adv
 adv
 adv
 
-
+aux
 v
 s
 s
@@ -4214,8 +4214,8 @@ o
 o
 o
 v
-
 
+aux
 s
 s
 s
@@ -4246,7 +4246,7 @@ adv
 adv
 adv
 
-
+aux
 v
 io
 o
@@ -4264,13 +4264,13 @@ v
 io
 io
 v
-o
+aux
 v
 s
 s
 s
 
-
+aux
 s
 s
 s
@@ -4391,7 +4391,7 @@ adv
 adv
 adv
 
-
+aux
 s
 s
 s
@@ -4561,7 +4561,7 @@ o
 s
 v
 io
-
+aux
 s
 s
 v
@@ -4595,7 +4595,7 @@ s
 s
 s
 
-
+aux
 s
 v
 adv
@@ -4628,7 +4628,7 @@ v
 o
 v
 v
-o
+aux
 s
 s
 s
@@ -4707,9 +4707,9 @@ v
 adv
 v
 v
-o
 o
-o
+aux
+aux
 v
 
 adv
@@ -4731,8 +4731,8 @@ o
 v
 v
 io
-
-
+aux
+aux
 adv
 v
 o
@@ -4772,7 +4772,7 @@ adv
 s
 
 v
-
+aux
 v
 io
 o
@@ -5124,7 +5124,7 @@ adv
 adv
 adv
 adv
-
+aux
 s
 v
 o
@@ -5237,7 +5237,7 @@ adv
 adv
 adv
 adv
-
+aux
 
 v
 adv
@@ -5713,7 +5713,7 @@ o
 adv
 adv
 v
-
+aux
 s
 o
 o
@@ -5728,7 +5728,7 @@ adv
 v
 o
 v
-
+aux
 v
 io
 o
@@ -5739,7 +5739,7 @@ vc
 adv
 adv
 v
-p
+aux
 s
 v
 o
@@ -5902,10 +5902,10 @@ adv
 v
 s
 io
-
+aux
 s
 io
-
+aux
 adv
 adv
 adv
@@ -5941,7 +5941,7 @@ o
 adv
 
 s
-
+aux
 
 adv
 adv
@@ -5987,14 +5987,14 @@ s
 s
 v
 v
-o
-o
-o
 o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -6006,9 +6006,9 @@ adv
 v
 o
 io
-
-
-
+aux
+aux
+aux
 adv
 adv
 s
@@ -6050,10 +6050,10 @@ v
 v
 adv
 adv
-
-
+aux
+aux
 v
-
+aux
 v
 s
 v
@@ -6121,7 +6121,7 @@ s
 v
 v
 io
-o
+aux
 s
 s
 s
@@ -6652,8 +6652,8 @@ adv
 s
 s
 v
-
-
+aux
+aux
 adv
 v
 o
@@ -6691,10 +6691,10 @@ o
 v
 
 io
-adv
-adv
-adv
 adv
+aux
+aux
+aux
 o
 v
 s
@@ -6727,7 +6727,7 @@ s
 s
 s
 v
-o
+aux
 v
 adv
 adv
@@ -6806,7 +6806,7 @@ adv
 adv
 adv
 
-
+aux
 s
 s
 p
@@ -6834,8 +6834,8 @@ v
 o
 o
 o
-
 
+aux
 s
 s
 p
@@ -6912,7 +6912,7 @@ s
 v
 io
 io
-
+aux
 s
 s
 s
@@ -6928,7 +6928,7 @@ v
 
 s
 io
-o
+aux
 s
 s
 s
@@ -7037,7 +7037,7 @@ o
 adv
 adv
 v
-o
+aux
 v
 s
 v
@@ -7317,8 +7317,8 @@ adv
 adv
 adv
 v
+aux
 
-
 adv
 adv
 adv
@@ -7354,7 +7354,7 @@ adv
 adv
 adv
 v
-
+aux
 
 adv
 adv
@@ -7382,8 +7382,8 @@ o
 
 p
 vc
+aux
 
-
 adv
 adv
 adv
@@ -7469,10 +7469,10 @@ s
 s
 v
 io
+aux
 o
 o
 o
-o
 v
 adv
 adv
@@ -7698,10 +7698,10 @@ s
 vc
 p
 p
-
+aux
 
-
-
+aux
+aux
 s
 vc
 p
@@ -7937,7 +7937,7 @@ o
 o
 v
 io
-
+aux
 s
 
 v
@@ -8024,10 +8024,10 @@ p
 p
 p
 p
-
-
-
 
+aux
+aux
+aux
 
 s
 p
@@ -8504,7 +8504,7 @@ io
 s
 s
 v
-o
+aux
 adv
 s
 vc
@@ -8545,7 +8545,7 @@ v
 v
 v
 v
-o
+aux
 v
 o
 adv
@@ -8560,7 +8560,7 @@ o
 
 v
 io
-o
+aux
 adv
 adv
 v
@@ -8730,7 +8730,7 @@ adv
 adv
 adv
 adv
-
+aux
 adv
 v
 adv
@@ -8779,7 +8779,7 @@ v
 o
 o
 o
-o
+aux
 v
 adv
 adv
@@ -8921,8 +8921,8 @@ adv
 adv
 adv
 adv
-
 
+aux
 s
 s
 adv
@@ -8934,9 +8934,9 @@ v
 v
 v
 o
-o
-o
-o
+aux
+aux
+aux
 s
 s
 s
@@ -8983,7 +8983,7 @@ v
 v
 o
 v
-o
+aux
 v
 o
 s
@@ -9005,8 +9005,8 @@ io
 s
 
 v
-o
-o
+aux
+aux
 s
 adv
 s
@@ -9029,8 +9029,8 @@ s
 s
 v
 io
-o
-o
+aux
+aux
 p
 s
 s
@@ -9356,9 +9356,9 @@ adv
 v
 adv
 adv
+aux
 o
 o
-o
 adv
 v
 adv
@@ -9494,8 +9494,8 @@ v
 io
 p
 vc
-o
-o
+aux
+aux
 adv
 s
 s
@@ -9621,7 +9621,7 @@ o
 v
 p
 adv
-o
+aux
 adv
 adv
 vc
@@ -9636,7 +9636,7 @@ io
 v
 adv
 adv
-o
+aux
 p
 vc
 p
@@ -9812,8 +9812,8 @@ p
 adv
 adv
 adv
-
 
+aux
 v
 io
 s
@@ -9829,7 +9829,7 @@ s
 v
 io
 io
-o
+aux
 p
 vc
 s
@@ -9852,13 +9852,13 @@ o
 adv
 s
 v
-
+aux
 s
 s
 v
 o
-
 
+aux
 s
 adv
 adv
@@ -10011,7 +10011,7 @@ v
 o
 adv
 v
-o
+aux
 v
 o
 o
@@ -10048,10 +10048,10 @@ v
 s
 s
 v
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 v
 adv
 adv
@@ -10183,8 +10183,8 @@ o
 v
 o
 v
+aux
 
-
 v
 adv
 adv
@@ -10197,7 +10197,7 @@ v
 s
 adv
 v
-o
+aux
 s
 s
 s
@@ -10688,7 +10688,7 @@ s
 s
 v
 io
-o
+aux
 adv
 v
 adv
@@ -10869,12 +10869,12 @@ s
 s
 v
 io
+aux
+aux
 o
 o
 o
 o
-o
-o
 v
 io
 adv
@@ -11186,15 +11186,15 @@ o
 io
 v
 adv
-
 
+aux
 s
 v
 io
 v
+aux
 o
 o
-o
 v
 adv
 v
@@ -11371,7 +11371,7 @@ s
 s
 v
 io
-o
+aux
 s
 v
 o
@@ -11391,8 +11391,8 @@ o
 v
 io
 o
-o
-o
+aux
+aux
 v
 o
 adv
@@ -11645,7 +11645,7 @@ v
 io
 io
 v
-o2
+aux
 adv
 v
 o
@@ -11712,7 +11712,7 @@ adv
 adv
 v
 io
-o
+aux
 v
 adv
 adv
@@ -11925,7 +11925,7 @@ o
 s
 s
 
-
+aux
 s
 s
 v
@@ -11938,11 +11938,11 @@ s
 v
 v
 v
-o
+aux
 v
 o
-o
-o
+aux
+aux
 s
 
 s
@@ -11955,11 +11955,11 @@ s
 adv
 v
 v
-o
+aux
 v
 o
-o
-o
+aux
+aux
 
 v
 s
@@ -11974,7 +11974,7 @@ v
 io
 v
 io
-o
+aux
 o
 v
 s
@@ -12054,7 +12054,7 @@ o
 s
 
 v
-
+aux
 v
 s
 v
@@ -12066,7 +12066,7 @@ v
 io
 io
 io
-o
+aux
 s
 s
 s
@@ -12279,7 +12279,7 @@ s
 s
 v
 io
-o
+aux
 adv
 v
 o
@@ -12528,7 +12528,7 @@ v
 adv
 adv
 v
-o
+aux
 v
 adv
 v
@@ -12540,7 +12540,7 @@ s
 v
 v
 s
-o
+aux
 
 adv
 v
@@ -12749,7 +12749,7 @@ io
 io
 v
 io
-o
+aux
 adv
 v
 o
@@ -12777,8 +12777,8 @@ v
 adv
 adv
 adv
+aux
 o
-o
 v
 s
 v
@@ -12824,10 +12824,10 @@ adv
 adv
 adv
 v
-
+aux
 o
-
 
+aux
 v
 v
 o
@@ -12904,10 +12904,10 @@ v
 v
 io
 v
+aux
 o
 o
 o
-o
 v
 s
 s
@@ -13036,7 +13036,7 @@ o
 
 v
 io
-o
+aux
 adv
 v
 adv
@@ -13102,7 +13102,7 @@ adv
 adv
 adv
 v
-o
+aux
 v
 adv
 p
@@ -13150,7 +13150,7 @@ v
 adv
 o
 v
-o
+aux
 v
 io
 o
@@ -13210,7 +13210,7 @@ s
 v
 o
 v
-o
+aux
 s
 v
 o
@@ -13378,7 +13378,7 @@ s
 s
 v
 o
-o
+aux
 p
 s
 s
@@ -13686,10 +13686,10 @@ v
 s
 
 io
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -13710,10 +13710,10 @@ v
 v
 s
 io
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -13735,9 +13735,9 @@ o2
 o2
 s
 io
-
-
-
+aux
+aux
+aux
 v
 s
 s
@@ -13748,7 +13748,7 @@ adv
 p
 vc
 s
-
+aux
 s
 v
 adv
@@ -13757,9 +13757,9 @@ adv
 adv
 adv
 v
-
-
-
+aux
+aux
+aux
 s
 
 p
@@ -13793,7 +13793,7 @@ adv
 adv
 adv
 v
-
+aux
 s
 
 p
@@ -13855,10 +13855,10 @@ adv
 adv
 s
 io
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -13890,22 +13890,22 @@ v
 o
 adv
 v
-
-
-
+aux
+aux
+aux
 v
 o
 o
 o
-
+aux
 o
 v
 s
 io
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -13922,8 +13922,8 @@ adv
 adv
 adv
 adv
-
-
+aux
+aux
 v
 adv
 o
@@ -13939,10 +13939,10 @@ s
 p
 s
 io
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 adv
@@ -13978,10 +13978,10 @@ adv
 adv
 s
 io
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -14032,9 +14032,9 @@ o
 o
 o
 o
-
-
-
+aux
+aux
+aux
 adv
 v
 adv
@@ -14044,7 +14044,7 @@ adv
 adv
 adv
 adv
-
+aux
 s
 v
 adv
@@ -14114,13 +14114,13 @@ adv
 adv
 adv
 adv
-
-
-
+aux
+aux
+aux
 v
 o
 o
-
+aux
 v
 o
 v
@@ -14145,7 +14145,7 @@ adv
 
 adv
 v
-
+aux
 v
 io
 s
@@ -14353,8 +14353,8 @@ s
 s
 s
 s
+aux
 
-
 v
 adv
 adv
@@ -14497,11 +14497,11 @@ s
 s
 s
 adv
-
+aux
 s
 io
 v
-o
+aux
 p
 s
 s
@@ -14527,14 +14527,14 @@ p
 o
 o
 o
-
+aux
 v
 io
-
+aux
 
 v
 io
-o
+aux
 p
 p
 p
@@ -15138,8 +15138,8 @@ s
 s
 s
 v
-o
-o
+aux
+aux
 v
 io
 s
@@ -15258,15 +15258,15 @@ o
 o
 o
 v
+aux
 o
 o
-o
 io
 v
+aux
 o
 o
 o
-o
 v
 v
 io
@@ -15274,10 +15274,10 @@ s
 s
 s
 adv
-o2
-o2
-o2
-o2
+aux
+aux
+aux
+aux
 adv
 adv
 vc
@@ -15300,12 +15300,12 @@ o
 o
 o
 v
+aux
 o
 o
-o
 io
 v
-o
+aux
 o
 o
 o
@@ -15316,10 +15316,10 @@ s
 s
 s
 adv
-o2
-o2
-o2
-o2
+aux
+aux
+aux
+aux
 adv
 adv
 vc
@@ -15344,7 +15344,7 @@ o
 o
 v
 v
-o
+aux
 v
 o
 o
@@ -15370,7 +15370,7 @@ o
 adv
 adv
 adv
-o
+aux
 v
 o
 o
@@ -15381,10 +15381,10 @@ s
 s
 v
 io
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 v
 o
 v
@@ -15434,8 +15434,8 @@ io
 v
 
 v
+aux
 
-
 adv
 v
 s
@@ -15529,11 +15529,11 @@ io
 io
 io
 v
-o
+aux
 v
-o
-o
-o
+aux
+aux
+aux
 v
 o
 v
@@ -15578,8 +15578,8 @@ io
 s
 s
 v
+aux
 o
-o
 s
 v
 v
@@ -15692,8 +15692,8 @@ v
 s
 s
 v
+aux
 o
-o
 s
 v
 v
@@ -16049,12 +16049,12 @@ s
 o
 s
 vc
-o
+aux
 s
 
 v
 v
-o
+aux
 v
 adv
 adv
@@ -16107,7 +16107,7 @@ v
 o
 s
 vc
-o
+aux
 v
 io
 s
@@ -16346,8 +16346,8 @@ adv
 v
 v
 v
-o
-o
+aux
+aux
 adv
 p
 vc
@@ -16408,8 +16408,8 @@ adv
 v
 v
 v
-o
-o
+aux
+aux
 adv
 adv
 v
@@ -16460,7 +16460,7 @@ v
 adv
 o
 v
-o
+aux
 v
 s
 s
@@ -16475,7 +16475,7 @@ adv
 adv
 v
 v
-o
+aux
 v
 s
 v
@@ -16484,7 +16484,7 @@ o
 adv
 s
 v
-
+aux
 s
 s
 s
@@ -16528,7 +16528,7 @@ adv
 adv
 v
 v
-o
+aux
 
 v
 o
@@ -16537,7 +16537,7 @@ s
 s
 v
 io
-o
+aux
 adv
 adv
 v
@@ -16553,7 +16553,7 @@ adv
 v
 o
 
-
+aux
 s
 s
 s
@@ -16829,7 +16829,7 @@ adv
 o
 v
 o
-o
+aux
 adv
 v
 o
@@ -16859,7 +16859,7 @@ v
 v
 v
 io
-o
+aux
 p
 vc
 s
@@ -17424,9 +17424,9 @@ v
 o
 v
 v
-o
-o
-o
+aux
+aux
+aux
 
 v
 adv
@@ -17552,11 +17552,11 @@ o
 o
 adv
 v
-o
+aux
 v
-o
 o
 o
+aux
 adv
 adv
 adv
@@ -17652,16 +17652,16 @@ s
 adv
 adv
 v
-o
-o
+aux
+aux
 adv
 v
 s
 vc
-p
-p
-p
-p
+aux
+aux
+aux
+aux
 adv
 adv
 o
@@ -17716,7 +17716,7 @@ v
 o
 o
 
-
+aux
 s
 s
 s
@@ -17919,7 +17919,7 @@ s
 adv
 adv
 v
-o
+aux
 v
 o
 s
@@ -18006,7 +18006,7 @@ v
 o
 o
 
-
+aux
 s
 v
 s
@@ -18088,13 +18088,13 @@ v
 io
 io
 io
-
+aux
 v
 adv
 adv
 adv
-
-
+aux
+aux
 v
 adv
 adv
@@ -18103,7 +18103,7 @@ adv
 adv
 o
 v
-
+aux
 v
 io
 
@@ -18122,8 +18122,8 @@ v
 io
 io
 io
-
 
+aux
 s
 v
 o
@@ -18162,7 +18162,7 @@ v
 v
 
 s
-
+aux
 s
 s
 s
@@ -18300,7 +18300,7 @@ o
 v
 io
 
-
+aux
 s
 p
 p
@@ -18320,14 +18320,14 @@ p
 p
 p
 p
-
+aux
 v
 adv
 adv
 adv
 adv
 adv
-o
+aux
 v
 o
 o
@@ -18690,8 +18690,8 @@ s
 p
 p
 p
-o
-o
+aux
+aux
 v
 v
 o
@@ -19083,7 +19083,7 @@ o
 v
 io
 io
-o
+aux
 v
 s
 s
@@ -19472,7 +19472,7 @@ s
 s
 v
 io
-o
+aux
 adv
 v
 adv
@@ -19794,18 +19794,18 @@ o
 io
 io
 o2
-
-
-
-
-
-
-
 
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 
-
-
-
 v
 io
 o
@@ -20036,7 +20036,7 @@ s
 
 v
 io
-o
+aux
 s
 s
 s
@@ -20141,7 +20141,7 @@ adv
 adv
 adv
 v
-
+aux
 v
 s
 v
@@ -20725,8 +20725,8 @@ o
 
 v
 io
+aux
 o
-o
 v
 adv
 s
@@ -20886,12 +20886,12 @@ s
 p
 p
 p
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 v
 o
 adv
@@ -20903,10 +20903,10 @@ v
 adv
 io
 v
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 adv
 adv
 adv
@@ -21314,7 +21314,7 @@ s
 
 v
 io
-o
+aux
 s
 s
 s
@@ -21442,13 +21442,13 @@ o
 o
 v
 io
-o
+aux
 v
 s
 vc
 vc
-p
-p
+aux
+aux
 io
 v
 v
@@ -21764,7 +21764,7 @@ v
 o
 s
 v
-
+aux
 s
 v
 s
@@ -22776,8 +22776,8 @@ o
 o
 v
 
-o
 o
+aux
 adv
 adv
 adv
@@ -22798,19 +22798,19 @@ s
 s
 s
 v
-
-
-
-
-
-
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 s
 s
 s
@@ -22905,8 +22905,8 @@ v
 
 v
 io
-o
-o
+aux
+aux
 s
 s
 s
@@ -23576,7 +23576,7 @@ v
 v
 adv
 adv
-o
+aux
 adv
 adv
 v
@@ -23784,7 +23784,7 @@ s
 v
 io
 io
-o
+aux
 p
 vc
 s
@@ -23971,7 +23971,7 @@ s
 s
 s
 s
-o
+aux
 v
 o
 o
@@ -24012,9 +24012,9 @@ s
 v
 io
 v
-o
-o
-o
+aux
+aux
+aux
 adv
 adv
 p
@@ -24092,8 +24092,8 @@ s
 s
 v
 io
-o
-o
+aux
+aux
 v
 s
 p
@@ -24125,11 +24125,11 @@ o
 o
 v
 io
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
 s
 v
 io
@@ -24336,7 +24336,7 @@ v
 io
 s
 s
-o
+aux
 v
 s
 adv
@@ -24778,9 +24778,9 @@ adv
 v
 o
 v
-o
-o
 o
+aux
+aux
 o
 v
 adv
@@ -24827,9 +24827,9 @@ s
 
 v
 io
+aux
 o
 o
-o
 v
 adv
 adv
@@ -24912,7 +24912,7 @@ adv
 v
 v
 io
-o
+aux
 p
 p
 vc
@@ -24973,7 +24973,7 @@ v
 s
 s
 io
-o
+aux
 s
 v
 o
@@ -25080,12 +25080,12 @@ o
 v
 adv
 v
-o
-o
+aux
+aux
 v
 adv
 adv
-o
+aux
 s
 s
 s
@@ -25096,27 +25096,27 @@ io
 io
 io
 io
-o
+aux
 v
 o
 adv
-o
+aux
 v
 o
 io
 io
-o
+aux
 v
-o
 o
+aux
 v
 o
-o
+aux
 v
-o
 o
+aux
 v
-o
+aux
 adv
 adv
 adv
@@ -25132,7 +25132,7 @@ s
 s
 v
 io
-o
+aux
 v
 adv
 o2
@@ -25348,9 +25348,9 @@ v
 v
 o
 v
-o
-o
-o
+aux
+aux
+aux
 v
 o
 
@@ -25364,8 +25364,8 @@ s
 adv
 adv
 v
-o
-o
+aux
+aux
 v
 o
 
@@ -25411,7 +25411,7 @@ s
 s
 v
 io
-o
+aux
 o
 v
 
@@ -25579,7 +25579,7 @@ s
 s
 v
 v
-o
+aux
 v
 s
 v
@@ -25786,8 +25786,8 @@ s
 s
 v
 io
-o
-o
+aux
+aux
 s
 s
 o
@@ -25837,7 +25837,7 @@ adv
 adv
 v
 io
-
+aux
 o
 v
 v
@@ -26138,7 +26138,7 @@ o
 o
 o
 v
-
+aux
 o
 v
 s
@@ -26196,7 +26196,7 @@ adv
 v
 v
 io
-o
+aux
 v
 adv
 p
@@ -26298,7 +26298,7 @@ v
 v
 o
 v
-o
+aux
 s
 v
 io
@@ -26480,7 +26480,7 @@ o
 s
 vc
 v
-p
+aux
 s
 s
 s
@@ -26537,7 +26537,7 @@ io
 s
 s
 adv
-o2
+aux
 adv
 adv
 v
@@ -26685,7 +26685,6 @@ adv
 adv
 v
 adv
-o
 o
 o
 o
@@ -26700,12 +26699,13 @@ o
 o
 o
 o
+aux
 v
 o
 o
 o
 o
-o
+aux
 adv
 o
 v
@@ -26800,7 +26800,7 @@ s
 s
 s
 s
-o
+aux
 v
 p
 p
@@ -27010,8 +27010,8 @@ adv
 adv
 adv
 adv
+aux
 
-
 v
 adv
 adv
@@ -27134,11 +27134,11 @@ o
 o
 
 adv
-
+aux
 s
 io
 v
-o2
+aux
 p
 s
 s
@@ -27986,9 +27986,9 @@ s
 s
 
 v
-o
-o
-o
+aux
+aux
+aux
 s
 p
 adv
@@ -28016,7 +28016,7 @@ v
 v
 io
 io
-o
+aux
 v
 adv
 v
@@ -28081,7 +28081,7 @@ v
 v
 s
 s
-
+aux
 v
 s
 s
@@ -28094,7 +28094,7 @@ adv
 adv
 v
 v
-
+aux
 s
 v
 o
@@ -28151,7 +28151,7 @@ adv
 v
 adv
 v
-
+aux
 
 v
 o
@@ -28644,7 +28644,7 @@ v
 adv
 v
 o
-o
+aux
 o2
 o
 v
@@ -28813,9 +28813,9 @@ v
 v
 o
 v
-o
-o
-o
+aux
+aux
+aux
 
 v
 o
@@ -28921,11 +28921,11 @@ s
 s
 s
 v
-
-
+aux
+aux
+aux
+aux
 
-
-
 adv
 adv
 v
@@ -28950,12 +28950,12 @@ o
 o
 adv
 v
-o
-o
+aux
+aux
 v
 o
 o
-o
+aux
 v
 adv
 adv
@@ -29026,19 +29026,19 @@ s
 s
 adv
 adv
-o
-o
+aux
+aux
 adv
 v
 s
 vc
 vc
-p
-p
-p
-p
-p
-p
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 adv
 v
@@ -29049,7 +29049,7 @@ s
 v
 v
 v
-o
+aux
 o
 v
 v
@@ -29622,8 +29622,8 @@ adv
 adv
 io
 v
-
-
+aux
+aux
 adv
 v
 adv
@@ -29765,7 +29765,7 @@ s
 s
 adv
 v
-o
+aux
 adv
 v
 s
@@ -29900,8 +29900,8 @@ adv
 v
 io
 o
-
 
+aux
 vc
 v
 p
@@ -30075,15 +30075,15 @@ s
 io
 adv
 v
-o
+aux
 v
 adv
 o
 adv
 adv
 adv
-
 
+aux
 v
 adv
 adv
@@ -30168,12 +30168,12 @@ s
 vc
 p
 p
-
-
-
-
 
-
+aux
+aux
+aux
+aux
+aux
 s
 s
 v
@@ -30296,7 +30296,7 @@ s
 s
 adv
 adv
-
+aux
 
 adv
 v
@@ -30358,8 +30358,8 @@ adv
 adv
 adv
 adv
+aux
 
-
 adv
 adv
 adv
@@ -30705,8 +30705,8 @@ adv
 adv
 s
 s
-
 
+aux
 p
 p
 vc
@@ -30918,8 +30918,8 @@ s
 s
 adv
 v
-o
-o
+aux
+aux
 v
 io
 o
@@ -31145,7 +31145,7 @@ adv
 adv
 vc
 adv
-adv
+aux
 v
 o
 adv
@@ -31161,8 +31161,8 @@ o
 o
 o
 o
-
 
+aux
 s
 vc
 p
@@ -31251,7 +31251,7 @@ v
 o
 o
 o
-o
+aux
 adv
 adv
 adv
@@ -31307,7 +31307,7 @@ adv
 adv
 adv
 adv
-o
+aux
 s
 v
 adv
@@ -31544,12 +31544,12 @@ adv
 s
 s
 s
-o
+aux
 adv
 v
 io
 adv
-o
+aux
 s
 s
 s
@@ -31746,8 +31746,8 @@ io
 v
 adv
 adv
-o
-o
+aux
+aux
 s
 v
 io
@@ -31846,8 +31846,8 @@ v
 v
 adv
 adv
+aux
 o
-o
 v
 s
 
@@ -32577,10 +32577,10 @@ adv
 adv
 v
 io
-o
 o
 o
 o
+aux
 v
 o
 s
@@ -32758,13 +32758,13 @@ o
 v
 adv
 adv
-o
+aux
 s
 p
 p
 p
-o
-o
+aux
+aux
 v
 v
 o
@@ -33066,7 +33066,7 @@ adv
 v
 s
 v
-o
+aux
 adv
 adv
 adv
@@ -33131,7 +33131,7 @@ adv
 p
 p
 vc
-o
+aux
 s
 
 v
@@ -33212,7 +33212,7 @@ adv
 v
 o
 v
-o
+aux
 adv
 v
 v
@@ -33322,7 +33322,7 @@ adv
 v
 s
 
-
+aux
 s
 v
 adv
@@ -33372,7 +33372,7 @@ o
 o
 o
 v
-o
+aux
 v
 io
 s
@@ -34141,8 +34141,8 @@ adv
 adv
 
 v
+aux
 
-
 s
 s
 s
@@ -34172,20 +34172,20 @@ o
 o
 s
 io
-
+aux
 v
 adv
 adv
 v
-
-
+aux
+aux
 v
 adv
 adv
 v
 adv
 v
-
+aux
 adv
 adv
 o
@@ -34457,7 +34457,7 @@ v
 io
 io
 io
-o
+aux
 v
 v
 o
@@ -34476,7 +34476,7 @@ o
 o
 adv
 v
-
+aux
 v
 adv
 o
@@ -34565,24 +34565,24 @@ adv
 
 o
 v
-o2
-o2
+aux
+aux
 
 adv
 v
 o
 v
-
-
+aux
+aux
 v
 adv
 adv
-
+aux
 v
 o
 o
 o
-
+aux
 v
 o
 v
@@ -34748,7 +34748,7 @@ s
 s
 v
 io
-o
+aux
 adv
 v
 adv
@@ -34868,7 +34868,7 @@ adv
 adv
 adv
 
-
+aux
 v
 v
 s
@@ -34912,7 +34912,7 @@ v
 v
 
 v
-o
+aux
 io
 v
 v
@@ -35101,7 +35101,7 @@ adv
 adv
 adv
 v
-
+aux
 s
 s
 s
@@ -35118,7 +35118,7 @@ o
 v
 v
 o
-
+aux
 v
 io
 o
@@ -35129,7 +35129,7 @@ vc
 adv
 adv
 v
-p
+aux
 v
 o
 o
@@ -35377,14 +35377,14 @@ s
 v
 adv
 adv
-o
+aux
 v
 io
 o
 v
 s
 
-
+aux
 v
 v
 s
@@ -35796,7 +35796,7 @@ adv
 adv
 adv
 v
-
+aux
 
 adv
 adv
@@ -35820,12 +35820,12 @@ v
 
 adv
 v
-
-
-
+aux
 
-
-
+aux
+aux
+aux
+aux
 s
 vc
 s
@@ -35942,11 +35942,11 @@ v
 v
 adv
 adv
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
 s
 vc
 p
@@ -36004,8 +36004,8 @@ v
 v
 o
 v
-o
-o
+aux
+aux
 v
 s
 
@@ -36107,12 +36107,12 @@ s
 p
 p
 p
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 v
 o
 adv
@@ -36359,8 +36359,8 @@ adv
 s
 v
 o
-
 
+aux
 v
 s
 adv
@@ -36450,7 +36450,7 @@ s
 v
 s
 s
-o
+aux
 s
 s
 v
@@ -36501,7 +36501,7 @@ s
 
 v
 io
-o
+aux
 s
 s
 s
@@ -36595,8 +36595,8 @@ o
 o
 v
 v
-o
-o
+aux
+aux
 v
 
 v
@@ -37168,7 +37168,7 @@ s
 p
 v
 
-
+aux
 s
 s
 v
@@ -37228,7 +37228,7 @@ s
 adv
 adv
 adv
-o
+aux
 p
 vc
 s
@@ -37321,14 +37321,14 @@ o
 s
 s
 
-
+aux
 s
 s
 s
 s
 v
 v
-o
+aux
 v
 o
 v
@@ -37341,7 +37341,7 @@ p
 adv
 vc
 o
-o
+aux
 s
 v
 o
@@ -37376,10 +37376,10 @@ v
 s
 s
 v
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 v
 adv
 adv
@@ -37534,7 +37534,7 @@ v
 o
 v
 o
-
+aux
 
 p
 adv
@@ -37549,7 +37549,7 @@ v
 s
 s
 v
-o
+aux
 v
 s
 adv
@@ -37636,7 +37636,7 @@ s
 s
 s
 v
-o
+aux
 v
 v
 s
@@ -37738,7 +37738,7 @@ s
 s
 v
 o
-o
+aux
 adv
 o
 v
@@ -37823,7 +37823,7 @@ adv
 adv
 adv
 v
-
+aux
 v
 o
 adv
@@ -37984,10 +37984,10 @@ adv
 adv
 s
 io
-
+aux
 s
 io
-
+aux
 adv
 adv
 adv
@@ -38022,8 +38022,8 @@ adv
 adv
 
 s
+aux
 
-
 adv
 adv
 v
@@ -38057,7 +38057,7 @@ s
 adv
 adv
 v
-o
+aux
 s
 s
 s
@@ -38079,7 +38079,7 @@ adv
 adv
 adv
 v
-
+aux
 v
 io
 o
@@ -38135,14 +38135,14 @@ adv
 
 v
 v
-o
 o
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -38154,9 +38154,9 @@ adv
 v
 o
 io
-o
-o
-o
+aux
+aux
+aux
 adv
 adv
 s
@@ -38235,16 +38235,16 @@ v
 o
 adv
 v
-
 
+aux
 s
 s
 v
 v
 o
 v
+aux
 o
-o
 v
 o
 o
@@ -38511,7 +38511,7 @@ adv
 v
 
 v
-o
+aux
 adv
 v
 adv
@@ -38535,8 +38535,8 @@ v
 io
 s
 s
-o
-o
+aux
+aux
 v
 v
 v
@@ -38577,7 +38577,7 @@ s
 s
 adv
 adv
-o
+aux
 v
 s
 v
@@ -38594,7 +38594,7 @@ io
 adv
 v
 v
-o
+aux
 v
 s
 s
@@ -38649,7 +38649,7 @@ adv
 o
 v
 io
-o
+aux
 v
 io
 o
@@ -39121,8 +39121,8 @@ v
 o
 o
 o
-
 
+aux
 s
 s
 p
@@ -39146,7 +39146,7 @@ adv
 adv
 adv
 
-
+aux
 s
 s
 p
@@ -39285,7 +39285,7 @@ v
 o
 o
 o
-
+aux
 
 s
 v
@@ -39301,7 +39301,7 @@ v
 v
 o2
 
-
+aux
 s
 p
 adv
@@ -39378,7 +39378,7 @@ s
 s
 v
 io
-o
+aux
 o
 v
 o
@@ -39490,7 +39490,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 io
 v
@@ -39639,7 +39639,7 @@ v
 adv
 adv
 adv
-
+aux
 v
 io
 o
@@ -39677,9 +39677,9 @@ v
 v
 
 io
-
+aux
 s
-
+aux
 v
 adv
 adv
@@ -39712,8 +39712,8 @@ adv
 adv
 adv
 adv
-
 
+aux
 s
 v
 o
@@ -39775,7 +39775,7 @@ s
 s
 s
 io
-o
+aux
 v
 io
 io
@@ -39789,7 +39789,7 @@ s
 
 v
 io
-o
+aux
 s
 o
 v
@@ -39875,7 +39875,7 @@ v
 io
 io
 io
-o
+aux
 v
 o
 o
@@ -39892,7 +39892,7 @@ v
 io
 s
 s
-o
+aux
 adv
 adv
 adv
@@ -40038,7 +40038,7 @@ v
 adv
 adv
 o
-
+aux
 s
 s
 adv
@@ -40078,9 +40078,9 @@ v
 io
 adv
 v
-
-
-
+aux
+aux
+aux
 adv
 v
 s
@@ -40231,7 +40231,7 @@ v
 
 s
 s
-o
+aux
 adv
 adv
 o
@@ -40380,7 +40380,7 @@ o
 o
 v
 adv
-
+aux
 
 io
 v
@@ -40504,7 +40504,7 @@ p
 vc
 
 v
-
+aux
 o
 o
 o
@@ -40629,11 +40629,11 @@ v
 s
 adv
 v
-
-
-
 
-
+aux
+aux
+aux
+aux
 adv
 adv
 v
@@ -40642,7 +40642,7 @@ s
 s
 s
 s
-
+aux
 v
 o
 v
@@ -40657,7 +40657,7 @@ adv
 adv
 v
 adv
-
+aux
 v
 io
 adv
@@ -40722,7 +40722,7 @@ s
 v
 v
 io
-o
+aux
 v
 o
 adv
@@ -40760,8 +40760,8 @@ adv
 adv
 adv
 
-
-
+aux
+aux
 o
 v
 o
@@ -40787,7 +40787,7 @@ v
 
 v
 io
-o
+aux
 v
 adv
 adv
@@ -40844,7 +40844,7 @@ s
 s
 
 v
-o
+aux
 s
 s
 adv
@@ -40990,8 +40990,8 @@ v
 
 s
 io
+aux
 o
-o
 p
 s
 v
@@ -41034,7 +41034,7 @@ v
 o
 o
 v
-o
+aux
 v
 io
 
@@ -41071,9 +41071,9 @@ vc
 v
 adv
 adv
-o
-o
-o
+aux
+aux
+aux
 p
 vc
 s
@@ -41121,8 +41121,8 @@ adv
 adv
 adv
 adv
-
 
+aux
 v
 s
 s
@@ -41160,7 +41160,7 @@ v
 io
 io
 io
-o
+aux
 v
 o
 v
@@ -41190,13 +41190,13 @@ s
 v
 adv
 adv
-
-
-
+aux
+aux
+aux
 v
 o
 o
-
+aux
 v
 o
 v
@@ -41220,7 +41220,7 @@ adv
 
 adv
 v
-
+aux
 v
 io
 s
@@ -41265,7 +41265,7 @@ v
 v
 o
 
-
+aux
 s
 s
 vc
@@ -41396,7 +41396,7 @@ v
 o
 v
 io
-o
+aux
 v
 adv
 adv
@@ -41618,7 +41618,7 @@ adv
 v
 s
 s
-o
+aux
 v
 o
 v
@@ -41889,14 +41889,14 @@ o
 o
 o
 v
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 v
-o
 o
 o
+aux
 v
 o
 o
@@ -41971,8 +41971,8 @@ o
 v
 o
 
-
-
+aux
+aux
 o
 v
 o
@@ -42037,7 +42037,7 @@ s
 s
 io
 io
-o
+aux
 v
 io
 o
@@ -42149,7 +42149,7 @@ adv
 
 v
 io
-o
+aux
 v
 adv
 adv
@@ -42204,7 +42204,7 @@ v
 s
 s
 io
-o
+aux
 v
 adv
 adv
@@ -42342,7 +42342,7 @@ v
 v
 io
 io
-o
+aux
 adv
 adv
 v
@@ -42386,7 +42386,7 @@ s
 
 v
 io
-o
+aux
 s
 adv
 p
@@ -42859,8 +42859,8 @@ o
 s
 v
 v
-o
-o
+aux
+aux
 v
 o
 o
@@ -42888,7 +42888,7 @@ adv
 v
 
 s
-o
+aux
 v
 o
 v
@@ -42941,8 +42941,8 @@ v
 v
 o
 adv
+aux
 adv
-adv
 v
 o
 adv
@@ -42982,10 +42982,10 @@ o
 s
 
 v
-o
+aux
+aux
+aux
 o
-o
-o
 adv
 s
 adv
@@ -43217,8 +43217,8 @@ s
 v
 o
 v
-o
-o
+aux
+aux
 v
 o
 
@@ -43325,11 +43325,11 @@ adv
 adv
 o
 v
-o
+aux
 adv
 o
 adv
-o
+aux
 o
 s
 s
@@ -43566,7 +43566,7 @@ v
 v
 io
 adv
-o
+aux
 s
 
 v
@@ -43757,8 +43757,8 @@ o
 adv
 adv
 v
-o
-o
+aux
+aux
 v
 io
 o
@@ -43806,8 +43806,8 @@ o
 o
 o
 v
-o
-o
+aux
+aux
 v
 io
 io
@@ -43897,8 +43897,8 @@ s
 o
 s
 v
-o
-o
+aux
+aux
 o
 v
 o
@@ -44041,7 +44041,7 @@ v
 
 s
 s
-o
+aux
 s
 v
 o
@@ -44098,7 +44098,7 @@ o
 v
 adv
 adv
-o
+aux
 v
 adv
 adv
@@ -44186,9 +44186,9 @@ v
 
 v
 v
-o
-o
-o
+aux
+aux
+aux
 v
 o
 
@@ -44203,8 +44203,8 @@ s
 adv
 adv
 v
-o
-o
+aux
+aux
 v
 o
 v
@@ -44228,7 +44228,7 @@ v
 s
 
 v
-o
+aux
 o
 v
 
@@ -44266,7 +44266,7 @@ v
 adv
 adv
 
-
+aux
 s
 adv
 vc
@@ -44323,7 +44323,7 @@ s
 v
 adv
 adv
-o
+aux
 v
 v
 adv
@@ -44360,13 +44360,13 @@ v
 adv
 adv
 adv
+aux
 o
 o
 o
 o
-o
 v
-o
+aux
 io
 io
 v
@@ -44510,7 +44510,7 @@ v
 s
 s
 v
-o
+aux
 s
 s
 s
@@ -44521,8 +44521,8 @@ o
 v
 io
 adv
-o
-o
+aux
+aux
 adv
 adv
 adv
@@ -44542,7 +44542,7 @@ v
 s
 s
 s
-o
+aux
 v
 o
 o
@@ -44561,7 +44561,7 @@ s
 s
 v
 v
-o
+aux
 v
 s
 s
@@ -44594,9 +44594,9 @@ adv
 adv
 adv
 v
-o
 o
-o
+aux
+aux
 v
 o
 s
@@ -44648,7 +44648,7 @@ v
 
 v
 io
-o
+aux
 v
 o
 o
@@ -44864,7 +44864,7 @@ s
 v
 adv
 adv
-o
+aux
 v
 o
 o
@@ -45276,7 +45276,7 @@ vc
 s
 v
 s
-adv
+aux
 o
 v
 s
@@ -45356,7 +45356,7 @@ io
 v
 o
 v
-o
+aux
 v
 o
 adv
@@ -45447,7 +45447,7 @@ vc
 v
 o
 v
-o
+aux
 s
 v
 io
@@ -45610,7 +45610,7 @@ s
 s
 s
 v
-o
+aux
 adv
 v
 adv
@@ -45784,7 +45784,7 @@ adv
 adv
 v
 v
-
+aux
 o
 v
 v
@@ -45803,7 +45803,7 @@ v
 
 o
 v
-o
+aux
 p
 o
 s
@@ -46403,7 +46403,7 @@ s
 
 v
 io
-o
+aux
 v
 s
 adv
@@ -46586,7 +46586,7 @@ adv
 adv
 v
 o
-o
+aux
 s
 s
 s
@@ -46741,9 +46741,9 @@ o
 v
 o
 o
-
-
-
+aux
+aux
+aux
 s
 s
 v
@@ -46776,7 +46776,7 @@ s
 
 v
 io
-o
+aux
 adv
 adv
 p
@@ -46793,7 +46793,7 @@ s
 v
 v
 io
-o
+aux
 adv
 v
 adv
@@ -46872,8 +46872,8 @@ v
 s
 
 v
-o
-o
+aux
+aux
 s
 adv
 p
@@ -46926,7 +46926,7 @@ o
 o
 v
 v
-o
+aux
 adv
 v
 v
@@ -47021,7 +47021,7 @@ s
 
 v
 io
-o
+aux
 adv
 o
 o
@@ -47036,8 +47036,8 @@ s
 o
 v
 v
+aux
 o
-o
 v
 adv
 adv
@@ -47175,8 +47175,8 @@ v
 v
 adv
 v
-o
 o
+aux
 
 adv
 adv
@@ -47193,7 +47193,7 @@ s
 
 s
 v
-o
+aux
 adv
 vc
 
@@ -47220,7 +47220,7 @@ v
 
 s
 s
-o
+aux
 adv
 v
 o
@@ -47617,7 +47617,7 @@ v
 o
 o
 o
-o
+aux
 s
 adv
 adv
@@ -47641,8 +47641,8 @@ adv
 o
 adv
 adv
-
 
+aux
 s
 s
 s
@@ -47795,8 +47795,8 @@ adv
 adv
 s
 v
-o
-o
+aux
+aux
 adv
 v
 adv
@@ -47811,7 +47811,7 @@ adv
 adv
 adv
 
-
+aux
 v
 s
 adv
@@ -47892,7 +47892,7 @@ s
 
 s
 v
-o
+aux
 v
 io
 adv
@@ -48013,7 +48013,7 @@ o
 v
 
 v
-o
+aux
 v
 o
 adv
@@ -48068,7 +48068,7 @@ adv
 s
 s
 v
-o
+aux
 adv
 adv
 adv
@@ -48130,9 +48130,9 @@ adv
 adv
 v
 o
-
-
 
+aux
+aux
 adv
 p
 p
@@ -48151,11 +48151,11 @@ adv
 adv
 adv
 adv
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
 s
 v
 o
@@ -48269,8 +48269,8 @@ v
 s
 adv
 adv
-
 
+aux
 s
 s
 v
@@ -48406,7 +48406,7 @@ v
 o
 v
 
-
+aux
 s
 s
 s
@@ -48623,13 +48623,13 @@ s
 v
 adv
 adv
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 v
 adv
 adv
@@ -48976,7 +48976,7 @@ s
 p
 p
 
-
+aux
 s
 v
 o
@@ -49287,9 +49287,9 @@ o
 s
 v
 adv
-
-
-
+aux
+aux
+aux
 vc
 p
 p
@@ -49532,7 +49532,7 @@ adv
 v
 o
 
-
+aux
 v
 o
 v
@@ -49620,11 +49620,11 @@ s
 
 v
 io
-
+aux
 s
 vc
 v
-
+aux
 adv
 v
 v
@@ -49787,7 +49787,7 @@ adv
 v
 adv
 adv
-o
+aux
 adv
 p
 p
@@ -49820,7 +49820,7 @@ s
 v
 io
 s
-o
+aux
 s
 vc
 p
@@ -49926,7 +49926,7 @@ s
 p
 p
 p
-o2
+aux
 adv
 v
 s
@@ -50324,7 +50324,7 @@ adv
 
 v
 io
-o
+aux
 v
 o
 adv
@@ -50764,7 +50764,7 @@ adv
 
 v
 io
-o
+aux
 s
 vc
 p
@@ -50775,7 +50775,7 @@ adv
 io
 s
 v
-o
+aux
 s
 v
 o
@@ -51120,7 +51120,7 @@ o
 v
 v
 io
-o
+aux
 adv
 o
 v
@@ -51213,7 +51213,7 @@ adv
 adv
 s
 s
-o
+aux
 v
 io
 o
@@ -51273,7 +51273,7 @@ v
 io
 s
 s
-o
+aux
 v
 o
 p
@@ -51305,8 +51305,8 @@ s
 s
 v
 o
+aux
 o
-o
 v
 s
 adv
@@ -51470,7 +51470,7 @@ o
 s
 s
 v
-o
+aux
 v
 s
 
@@ -51525,7 +51525,7 @@ o
 s
 s
 v
-
+aux
 v
 io
 v
@@ -51783,7 +51783,7 @@ adv
 adv
 s
 s
-o
+aux
 v
 adv
 v
@@ -51990,8 +51990,8 @@ v
 io
 s
 v
+aux
 o
-o
 adv
 v
 adv
@@ -52063,7 +52063,7 @@ s
 
 v
 io
-
+aux
 v
 o
 o2
@@ -52116,7 +52116,7 @@ adv
 
 v
 io
-o
+aux
 p
 vc
 adv
@@ -52547,11 +52547,11 @@ s
 s
 o
 v
-
 
+aux
 v
 o
-
+aux
 s
 v
 adv
@@ -53117,7 +53117,7 @@ adv
 adv
 v
 io
-o
+aux
 adv
 adv
 v
@@ -53287,7 +53287,7 @@ v
 
 adv
 adv
-o
+aux
 adv
 v
 io
@@ -53373,9 +53373,9 @@ s
 s
 s
 v
-o
 o
 o
+aux
 o
 v
 io
@@ -53520,7 +53520,7 @@ v
 s
 adv
 adv
-adv
+aux
 vc
 p
 p
@@ -53713,8 +53713,8 @@ v
 adv
 adv
 adv
-
-
+aux
+aux
 v
 o
 s
@@ -53895,7 +53895,7 @@ v
 io
 s
 s
-o
+aux
 adv
 adv
 v
@@ -54229,8 +54229,8 @@ o
 o
 o
 v
+aux
 
-
 v
 o
 o
@@ -54347,8 +54347,8 @@ vc
 o
 v
 v
-
 
+aux
 adv
 v
 
@@ -54371,9 +54371,9 @@ o
 v
 p
 vc
+aux
 
-
-
+aux
 adv
 v
 s
@@ -54448,8 +54448,8 @@ adv
 adv
 
 v
-o
-o
+aux
+aux
 adv
 v
 o
@@ -54578,7 +54578,7 @@ adv
 adv
 o
 v
-
+aux
 v
 adv
 adv
@@ -54854,7 +54854,7 @@ adv
 adv
 v
 io
-o
+aux
 s
 s
 s
@@ -54962,8 +54962,8 @@ adv
 adv
 v
 io
-o
-o
+aux
+aux
 p
 vc
 s
@@ -54977,7 +54977,7 @@ s
 
 v
 s
-o
+aux
 v
 
 io
@@ -55635,7 +55635,7 @@ adv
 p
 p
 p
-
+aux
 
 adv
 o
@@ -55909,7 +55909,7 @@ s
 s
 s
 v
-o
+aux
 s
 v
 s
@@ -56500,7 +56500,7 @@ v
 o
 p
 vc
-o
+aux
 adv
 v
 adv
@@ -56523,7 +56523,7 @@ s
 
 v
 v
-o
+aux
 
 v
 o
@@ -56590,8 +56590,8 @@ v
 
 v
 io
-o
-o
+aux
+aux
 v
 adv
 adv
@@ -56601,7 +56601,7 @@ adv
 adv
 adv
 adv
-o
+aux
 v
 adv
 s
@@ -57005,8 +57005,8 @@ io
 o
 adv
 v
-
-
+aux
+aux
 o
 s
 v
@@ -57067,9 +57067,9 @@ adv
 adv
 adv
 adv
-
-
-
+aux
+aux
+aux
 o
 v
 io
@@ -57325,9 +57325,9 @@ s
 adv
 adv
 v
-o
+aux
+aux
 o
-o
 v
 v
 v
@@ -57398,7 +57398,7 @@ v
 io
 s
 s
-o
+aux
 adv
 v
 o
@@ -57469,7 +57469,7 @@ v
 s
 s
 io
-o
+aux
 adv
 v
 v
@@ -57591,7 +57591,7 @@ s
 s
 adv
 adv
-o
+aux
 adv
 vc
 p
@@ -57672,8 +57672,8 @@ v
 o
 v
 io
-o
-o
+aux
+aux
 s
 v
 o
@@ -57786,7 +57786,7 @@ adv
 adv
 v
 io
-o
+aux
 adv
 vc
 p
@@ -57796,9 +57796,9 @@ s
 v
 s
 s
+aux
 
 
-
 v
 s
 v
@@ -57821,7 +57821,7 @@ v
 o
 v
 io
-o
+aux
 v
 o
 v
@@ -57832,7 +57832,7 @@ v
 
 s
 s
-o
+aux
 adv
 v
 o
@@ -57887,7 +57887,7 @@ s
 s
 v
 s
-o
+aux
 adv
 v
 p
@@ -57921,7 +57921,7 @@ o
 adv
 
 v
-o
+aux
 v
 o
 adv
@@ -57953,7 +57953,7 @@ v
 adv
 adv
 v
-o
+aux
 v
 adv
 v
@@ -58442,7 +58442,7 @@ adv
 adv
 
 v
-o
+aux
 v
 s
 v
@@ -58462,14 +58462,14 @@ o
 v
 adv
 adv
-
+aux
 v
 v
 adv
 v
-o
-o
-o
+aux
+aux
+aux
 s
 s
 s
@@ -58546,8 +58546,8 @@ v
 o
 adv
 v
-o
 o
+aux
 s
 s
 adv
@@ -58578,7 +58578,7 @@ adv
 v
 o
 v
-o
+aux
 v
 o
 o
@@ -58692,7 +58692,7 @@ v
 
 o
 v
-
+aux
 v
 o
 adv
@@ -58707,7 +58707,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 o
 o
@@ -58892,7 +58892,7 @@ s
 v
 o
 v
-adv
+aux
 s
 v
 o
@@ -59062,8 +59062,8 @@ v
 o
 v
 o
-
-
+aux
+aux
 o
 v
 s
@@ -59080,10 +59080,10 @@ adv
 adv
 v
 adv
-adv
+aux
 v
 o
-adv
+aux
 s
 io
 o
@@ -59223,7 +59223,7 @@ adv
 adv
 v
 io
-o
+aux
 s
 o
 v
@@ -59273,7 +59273,7 @@ v
 io
 s
 s
-o
+aux
 o
 o
 o
@@ -59346,12 +59346,12 @@ io
 s
 v
 o
-
-
+aux
+aux
+aux
+aux
+aux
 
-
-
-
 adv
 v
 vc
@@ -59539,7 +59539,7 @@ adv
 adv
 v
 io
-o
+aux
 p
 vc
 v
@@ -59663,7 +59663,7 @@ adv
 adv
 v
 o
-
+aux
 adv
 adv
 p
@@ -59720,7 +59720,7 @@ v
 io
 s
 s
-o
+aux
 adv
 v
 v
@@ -59738,7 +59738,7 @@ adv
 v
 io
 s
-o
+aux
 adv
 adv
 adv
@@ -59837,7 +59837,7 @@ o
 v
 io
 s
-o
+aux
 adv
 v
 adv
@@ -59886,7 +59886,7 @@ v
 v
 io
 s
-o
+aux
 v
 io
 o
@@ -59906,8 +59906,8 @@ vc
 o
 adv
 v
-o
 o
+aux
 s
 v
 o
@@ -59978,7 +59978,7 @@ v
 
 v
 io
-o
+aux
 v
 adv
 adv
@@ -60001,8 +60001,8 @@ adv
 v
 
 o
-
-
+aux
+aux
 v
 adv
 adv
@@ -60122,12 +60122,12 @@ p
 s
 p
 p
-
+aux
 v
 o
 o
 o
-
+aux
 v
 o
 s
@@ -60157,7 +60157,7 @@ s
 adv
 p
 p
-o
+aux
 o
 s
 v
@@ -60226,13 +60226,13 @@ io
 adv
 adv
 v
-
-
-
-
+aux
 
-
-
+aux
+aux
+aux
+aux
+aux
 o
 v
 s
@@ -60362,18 +60362,18 @@ s
 p
 p
 vc
-
-
-
-
+aux
+aux
+aux
+aux
 adv
 v
 o
 v
 o
-
-
 
+aux
+aux
 o
 v
 v
@@ -60428,7 +60428,7 @@ p
 s
 p
 p
-
+aux
 v
 adv
 adv
@@ -61353,7 +61353,7 @@ v
 s
 s
 s
-o
+aux
 adv
 adv
 adv
@@ -61387,7 +61387,7 @@ io
 s
 adv
 v
-
+aux
 v
 s
 
@@ -61442,7 +61442,7 @@ adv
 adv
 adv
 v
-o
+aux
 v
 s
 s
@@ -61462,7 +61462,7 @@ o
 adv
 adv
 adv
-adv
+aux
 o
 v
 io
@@ -61507,7 +61507,7 @@ adv
 v
 o
 s
-
+aux
 adv
 adv
 adv
@@ -61624,8 +61624,8 @@ s
 adv
 adv
 v
-
-
+aux
+aux
 v
 o
 adv
@@ -61801,7 +61801,7 @@ p
 vc
 adv
 s
-adv
+aux
 p
 p
 s
@@ -61861,7 +61861,7 @@ o
 adv
 o
 v
-
+aux
 o
 v
 io
@@ -61889,8 +61889,8 @@ o
 adv
 adv
 adv
-
-
+aux
+aux
 s
 s
 s
@@ -62117,9 +62117,9 @@ o
 adv
 adv
 adv
-o
+aux
+aux
 o
-o
 v
 io
 s
@@ -62325,7 +62325,7 @@ v
 o
 v
 io
-
+aux
 s
 v
 o
@@ -62749,10 +62749,10 @@ adv
 
 v
 v
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 
 v
 io
@@ -62766,7 +62766,7 @@ s
 
 v
 io
-o
+aux
 v
 io
 o
@@ -63064,13 +63064,13 @@ adv
 v
 
 v
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 o
 
 o
@@ -63106,12 +63106,12 @@ s
 s
 o
 v
-o
-o
+aux
+aux
+aux
+aux
 o
 o
-o
-o
 s
 v
 p
@@ -63229,7 +63229,7 @@ v
 v
 io
 io
-o
+aux
 v
 p
 p
@@ -63645,9 +63645,9 @@ v
 s
 s
 v
-o
 o
-o
+aux
+aux
 s
 vc
 p
@@ -63741,7 +63741,7 @@ s
 v
 io
 s
-o
+aux
 adv
 v
 v
@@ -63777,7 +63777,7 @@ vc
 v
 io
 s
-o
+aux
 adv
 v
 o
@@ -63790,7 +63790,7 @@ p
 vc
 v
 io
-o
+aux
 adv
 s
 v
@@ -63806,16 +63806,16 @@ v
 v
 io
 s
-
+aux
 v
 s
 v
 io
 adv
-
+aux
 s
 vc
-
+aux
 v
 io
 s
@@ -64083,13 +64083,13 @@ s
 
 v
 io
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 v
 io
 s
@@ -64237,10 +64237,10 @@ v
 
 io
 s
+aux
 o
 o
 o
-o
 v
 v
 io
@@ -64430,16 +64430,16 @@ io
 io
 s
 s
-o
-o
+aux
+aux
 v
 o
 adv
 adv
 v
 io
-o
-o
+aux
+aux
 s
 v
 o
@@ -64455,14 +64455,14 @@ v
 io
 adv
 adv
-o
-o
+aux
+aux
 v
 o
 v
 io
-o
-o
+aux
+aux
 s
 v
 o
@@ -64478,8 +64478,8 @@ v
 io
 adv
 adv
-o
-o
+aux
+aux
 v
 o
 v
@@ -64495,7 +64495,7 @@ o
 
 v
 io
-o
+aux
 o
 s
 v
@@ -64579,7 +64579,7 @@ adv
 adv
 o
 v
-o
+aux
 p
 vc
 s
@@ -64593,7 +64593,7 @@ s
 v
 io
 io
-o
+aux
 s
 o
 p
@@ -64696,8 +64696,8 @@ o
 v
 adv
 adv
-
-
+aux
+aux
 o
 v
 s
@@ -64783,8 +64783,8 @@ v
 v
 o
 v
+aux
 o
-o
 adv
 adv
 adv
@@ -64863,8 +64863,8 @@ adv
 adv
 v
 s
-
 
+aux
 s
 s
 v
@@ -64875,8 +64875,8 @@ adv
 s
 adv
 v
-
-
+aux
+aux
 adv
 v
 v
@@ -64995,8 +64995,8 @@ s
 p
 p
 p
-o
-o
+aux
+aux
 v
 v
 s
@@ -65096,10 +65096,10 @@ v
 s
 v
 
-s
+aux
 v
 adv
-s
+aux
 adv
 adv
 adv
@@ -65149,9 +65149,9 @@ o
 v
 v
 s
-o
-o
-o
+aux
+aux
+aux
 v
 o
 v
@@ -65296,7 +65296,7 @@ v
 v
 v
 o
-o
+aux
 s
 s
 vc
@@ -65402,13 +65402,13 @@ o
 
 v
 io
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 v
 adv
-o
+aux
 s
 adv
 p
@@ -65546,16 +65546,16 @@ o
 o
 o
 v
-
-
+aux
+aux
 v
 o
 o
 o
-
-
-
-
+aux
+aux
+aux
+aux
 v
 adv
 adv
@@ -65676,8 +65676,8 @@ adv
 adv
 adv
 adv
-
-
+aux
+aux
 v
 v
 adv
@@ -65845,8 +65845,8 @@ adv
 adv
 o
 v
-o
-o
+aux
+aux
 s
 
 adv
@@ -66230,8 +66230,8 @@ v
 adv
 adv
 adv
-o
-o
+aux
+aux
 adv
 v
 adv
@@ -66339,7 +66339,7 @@ adv
 adv
 
 adv
-
+aux
 v
 o
 adv
@@ -66645,11 +66645,11 @@ adv
 v
 adv
 adv
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
 adv
 s
 adv
@@ -66935,7 +66935,7 @@ adv
 adv
 
 v
-o
+aux
 s
 p
 v
@@ -67031,7 +67031,7 @@ v
 
 adv
 adv
-
+aux
 v
 adv
 adv
@@ -67174,9 +67174,9 @@ adv
 s
 o
 v
-
-
+aux
 
+aux
 vc
 p
 adv
@@ -67187,10 +67187,10 @@ vc
 vc
 p
 p
-
-
-
-
+aux
+aux
+aux
+aux
 vc
 p
 s
@@ -67240,7 +67240,7 @@ v
 
 s
 s
-o
+aux
 adv
 adv
 v
@@ -67345,7 +67345,7 @@ v
 s
 
 v
-o
+aux
 adv
 s
 
@@ -67360,7 +67360,7 @@ v
 o
 o
 o
-
+aux
 s
 s
 s
@@ -67652,8 +67652,8 @@ v
 s
 v
 io
-
-
+aux
+aux
 s
 s
 o
@@ -67666,7 +67666,7 @@ adv
 adv
 adv
 v
-
+aux
 v
 o
 o
@@ -67711,7 +67711,7 @@ adv
 adv
 adv
 o
-o
+aux
 v
 o
 o
@@ -67823,8 +67823,8 @@ v
 
 adv
 adv
-o
-o
+aux
+aux
 v
 o
 adv
@@ -68023,8 +68023,8 @@ o
 v
 o
 v
-
 
+aux
 o
 o
 o
@@ -68266,10 +68266,10 @@ v
 s
 
 v
-o
-o
-o
-o
+aux
+aux
+aux
+aux
 v
 s
 s
@@ -68733,7 +68733,7 @@ o
 adv
 adv
 v
-o
+aux
 p
 vc
 adv
@@ -68881,9 +68881,9 @@ v
 o
 adv
 adv
-
-
-
+aux
+aux
+aux
 o
 v
 v
@@ -69006,11 +69006,11 @@ io
 o
 s
 v
-adv
-adv
 adv
+aux
 adv
-adv
+aux
+aux
 s
 v
 o
@@ -69070,8 +69070,8 @@ adv
 adv
 adv
 adv
-o
-o
+aux
+aux
 
 v
 o
@@ -69205,13 +69205,13 @@ s
 v
 o
 o
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 s
 adv
 o
@@ -69293,7 +69293,7 @@ adv
 adv
 
 v
-o
+aux
 v
 s
 s
@@ -69347,8 +69347,8 @@ o
 v
 adv
 v
-o
-o
+aux
+aux
 v
 o
 o
@@ -69360,7 +69360,7 @@ o
 v
 adv
 adv
-o
+aux
 adv
 v
 io
@@ -69474,9 +69474,9 @@ o
 o
 o
 v
-
-
+aux
 
+aux
 v
 o
 o
@@ -69568,9 +69568,9 @@ s
 s
 s
 s
+aux
 
-
-
+aux
 s
 s
 v
@@ -69815,7 +69815,7 @@ p
 v
 v
 
-
+aux
 s
 s
 s
@@ -70131,8 +70131,8 @@ v
 s
 v
 io
-o
-o
+aux
+aux
 adv
 o
 v
@@ -70140,7 +70140,7 @@ v
 
 p
 vc
-o
+aux
 s
 
 s
@@ -70225,13 +70225,13 @@ adv
 adv
 s
 s
-
+aux
 s
 
 v
 v
 s
-o
+aux
 s
 
 s
@@ -70253,8 +70253,8 @@ adv
 p
 adv
 o
+aux
 
-
 v
 
 v
@@ -70271,7 +70271,7 @@ v
 v
 
 s
-o
+aux
 v
 adv
 adv
@@ -70354,8 +70354,8 @@ adv
 o
 o
 v
-o
-o
+aux
+aux
 s
 s
 v
@@ -70659,7 +70659,7 @@ v
 io
 s
 s
-o
+aux
 v
 o
 s
@@ -70793,7 +70793,7 @@ adv
 adv
 adv
 v
-o
+aux
 v
 s
 
@@ -70899,7 +70899,7 @@ adv
 o
 v
 io
-o
+aux
 s
 
 v
@@ -70910,7 +70910,7 @@ vc
 v
 p
 vc
-o
+aux
 v
 
 io
@@ -71047,7 +71047,7 @@ s
 adv
 adv
 v
-o
+aux
 v
 v
 v
@@ -71056,7 +71056,7 @@ s
 s
 v
 adv
-o
+aux
 adv
 adv
 v
@@ -71105,7 +71105,7 @@ s
 s
 o
 v
-
+aux
 s
 s
 s
@@ -71142,7 +71142,7 @@ adv
 v
 s
 s
-o
+aux
 s
 s
 v
@@ -71167,7 +71167,7 @@ adv
 adv
 adv
 v
-o
+aux
 s
 vc
 o
@@ -71344,8 +71344,8 @@ adv
 adv
 adv
 adv
-o
 o
+aux
 s
 v
 adv
@@ -71355,7 +71355,7 @@ adv
 adv
 o
 v
-o
+aux
 v
 s
 s
@@ -71788,14 +71788,14 @@ s
 v
 io
 v
-o
+aux
 v
 v
 v
 v
 
 adv
-o
+aux
 adv
 s
 s
@@ -71833,8 +71833,8 @@ s
 adv
 adv
 adv
-
 
+aux
 adv
 s
 s
@@ -72180,9 +72180,9 @@ s
 v
 adv
 adv
-
-
+aux
 
+aux
 adv
 v
 s
@@ -72320,7 +72320,7 @@ v
 o
 o
 
-
+aux
 s
 s
 v
@@ -72869,18 +72869,18 @@ v
 adv
 adv
 v
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 v
 v
@@ -72892,7 +72892,7 @@ o
 o
 
 adv
-
+aux
 s
 s
 p
@@ -72988,8 +72988,8 @@ s
 adv
 adv
 v
-o
-o
+aux
+aux
 adv
 s
 vc
@@ -73009,10 +73009,10 @@ v
 adv
 adv
 v
+aux
+aux
 
-
-
-
+aux
 v
 o
 o
@@ -73165,8 +73165,8 @@ vc
 o
 vc
 s
-o
 o
+aux
 v
 adv
 adv
@@ -73179,15 +73179,15 @@ o
 o
 o
 v
-
-
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 v
 o
 o
@@ -73374,8 +73374,8 @@ p
 
 vc
 adv
-
-
+aux
+aux
 o
 adv
 adv
@@ -73409,8 +73409,8 @@ adv
 adv
 adv
 v
-o
-o
+aux
+aux
 o
 v
 o
@@ -73529,7 +73529,7 @@ o
 o2
 o2
 o2
-
+aux
 v
 adv
 adv
@@ -73869,7 +73869,7 @@ adv
 v
 adv
 v
-o
+aux
 adv
 o
 v
@@ -74250,8 +74250,8 @@ s
 v
 adv
 adv
-o
-o
+aux
+aux
 s
 v
 o
@@ -74370,8 +74370,8 @@ s
 v
 s
 v
-o
-o
+aux
+aux
 v
 o
 s
@@ -74742,13 +74742,13 @@ p
 s
 
 v
-o
+aux
 v
 adv
 adv
 adv
 adv
-o
+aux
 adv
 v
 adv
@@ -74806,7 +74806,7 @@ adv
 adv
 adv
 
-
+aux
 s
 s
 vc
@@ -75337,7 +75337,7 @@ v
 o
 adv
 v
-o
+aux
 o
 s
 v
@@ -75635,9 +75635,9 @@ adv
 adv
 v
 o
+aux
 o
 o
-o
 v
 s
 adv
@@ -75953,8 +75953,8 @@ adv
 adv
 adv
 v
-o
-o
+aux
+aux
 adv
 adv
 p
@@ -75984,9 +75984,9 @@ o
 s
 v
 io
-
-
-
+aux
+aux
+aux
 v
 o
 o
@@ -76449,8 +76449,8 @@ p
 p
 p
 p
-o
-o
+aux
+aux
 adv
 adv
 o
@@ -77146,7 +77146,7 @@ o
 o
 o
 v
-
+aux
 v
 o
 p
@@ -77349,8 +77349,8 @@ s
 o
 o
 v
-o
-o
+aux
+aux
 p
 o
 vc
@@ -77832,7 +77832,7 @@ o
 o
 
 adv
-
+aux
 v
 s
 adv
@@ -77895,7 +77895,7 @@ o
 o
 
 adv
-
+aux
 s
 v
 o
@@ -78479,7 +78479,7 @@ v
 
 io
 v
-o
+aux
 s
 s
 vc
@@ -78649,8 +78649,8 @@ adv
 o
 o
 v
-o
-o
+aux
+aux
 v
 s
 vc
@@ -78925,10 +78925,10 @@ adv
 adv
 adv
 v
-
-
-
-
+aux
+aux
+aux
+aux
 v
 o
 o
@@ -79059,8 +79059,8 @@ v
 s
 v
 io
-o
-o
+aux
+aux
 adv
 o
 v
@@ -79069,7 +79069,7 @@ s
 v
 p
 vc
-o
+aux
 v
 
 adv
@@ -79103,7 +79103,7 @@ v
 
 o
 v
-o
+aux
 s
 
 s
@@ -79162,8 +79162,8 @@ adv
 v
 v
 io
-o
-o
+aux
+aux
 v
 s
 adv
@@ -79260,7 +79260,7 @@ o
 o
 s
 v
-o
+aux
 s
 v
 o
@@ -79420,7 +79420,7 @@ vc
 s
 
 v
-
+aux
 v
 
 s
@@ -79501,8 +79501,8 @@ s
 o
 o
 v
-o
-o
+aux
+aux
 s
 adv
 adv
@@ -79537,7 +79537,7 @@ o
 v
 s
 s
-o
+aux
 v
 s
 s
@@ -79567,7 +79567,7 @@ s
 s
 adv
 v
-o
+aux
 o
 vc
 p
@@ -79599,8 +79599,8 @@ v
 adv
 adv
 adv
-o
-o
+aux
+aux
 s
 p
 vc
@@ -80203,8 +80203,8 @@ adv
 adv
 adv
 v
-o
-o
+aux
+aux
 adv
 adv
 adv
@@ -80435,12 +80435,12 @@ adv
 adv
 adv
 adv
-
-
+aux
 
-
-
-
+aux
+aux
+aux
+aux
 s
 v
 adv
@@ -81055,14 +81055,14 @@ s
 v
 s
 s
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
 v
 adv
-o
+aux
 v
 o
 adv
@@ -81119,8 +81119,8 @@ adv
 adv
 adv
 adv
-
-
+aux
+aux
 adv
 s
 s
@@ -81165,8 +81165,8 @@ o
 v
 adv
 adv
-o
-o
+aux
+aux
 v
 o
 o2
@@ -81264,7 +81264,7 @@ adv
 v
 adv
 adv
-
+aux
 adv
 p
 vc
@@ -81355,7 +81355,7 @@ adv
 adv
 adv
 v
-o
+aux
 adv
 adv
 adv
@@ -81385,8 +81385,8 @@ adv
 adv
 adv
 adv
-o
-o
+aux
+aux
 adv
 o
 v
@@ -81400,7 +81400,7 @@ s
 v
 p
 vc
-o
+aux
 s
 
 s
@@ -81482,9 +81482,9 @@ adv
 adv
 adv
 adv
-
-
 
+aux
+aux
 
 vc
 p
@@ -81588,7 +81588,7 @@ adv
 adv
 v
 v
-o
+aux
 s
 s
 o
@@ -81602,13 +81602,13 @@ s
 o
 v
 v
-o
+aux
+aux
 o
 o
 o
 o
 o
-o
 v
 v
 adv
@@ -81636,8 +81636,8 @@ adv
 v
 s
 v
-
-
+aux
+aux
 o
 o
 v
@@ -81892,7 +81892,7 @@ s
 s
 v
 io
-o
+aux
 v
 o
 p
@@ -82078,9 +82078,9 @@ adv
 adv
 v
 v
-o
-o
 o
+aux
+aux
 v
 o
 adv
@@ -82129,13 +82129,13 @@ s
 v
 adv
 v
-o
+aux
 adv
 s
 v
 v
-o
 o
+aux
 v
 io
 s
@@ -82147,7 +82147,7 @@ adv
 adv
 
 v
-
+aux
 v
 adv
 o
@@ -82794,10 +82794,10 @@ v
 adv
 adv
 s
-o
+aux
+aux
 o
 o
-o
 v
 io
 io
@@ -83272,7 +83272,7 @@ v
 
 s
 v
-
+aux
 o
 adv
 v
@@ -83498,9 +83498,9 @@ p
 adv
 adv
 adv
+aux
 adv
 adv
-adv
 v
 o
 s
@@ -83628,10 +83628,10 @@ v
 
 p
 vc
-
-
-
-
+aux
+aux
+aux
+aux
 v
 adv
 adv
@@ -83665,15 +83665,15 @@ v
 v
 
 o
-
-
-
+aux
+aux
+aux
 v
 o
 o
 o
 v
-
+aux
 v
 o
 o
@@ -83938,24 +83938,24 @@ o
 adv
 adv
 adv
-
+aux
 
 v
 o
 o
 adv
 v
-
+aux
 v
 adv
 v
 v
-
+aux
 v
 adv
 v
 v
-
+aux
 v
 o
 o
@@ -85704,7 +85704,7 @@ adv
 adv
 
 v
-
+aux
 v
 adv
 o
@@ -85769,8 +85769,8 @@ vc
 p
 p
 
-
-
+aux
+aux
 s
 s
 v
@@ -86060,7 +86060,7 @@ o
 o
 adv
 v
-
+aux
 o
 v
 
@@ -86198,11 +86198,11 @@ adv
 adv
 adv
 adv
-
+aux
 
-
-
-
+aux
+aux
+aux
 adv
 adv
 v
@@ -86376,9 +86376,9 @@ adv
 adv
 adv
 adv
-
 
 
+aux
 p
 vc
 adv
@@ -86428,9 +86428,9 @@ o
 adv
 adv
 v
-o
-o
-o
+aux
+aux
+aux
 s
 s
 s
@@ -86907,7 +86907,7 @@ p
 adv
 adv
 adv
-
+aux
 adv
 s
 
@@ -86917,12 +86917,12 @@ s
 s
 s
 s
-
-
-
-
 
 
+aux
+aux
+aux
+aux
 s
 p
 
@@ -86941,10 +86941,10 @@ s
 s
 vc
 
-
-
-
-
+aux
+aux
+aux
+aux
 s
 p
 p
@@ -87112,9 +87112,9 @@ o
 o
 s
 v
+aux
+aux
 
-
-
 s
 p
 vc
@@ -87329,9 +87329,9 @@ adv
 adv
 adv
 adv
-
+aux
 v
-o
+aux
 v
 adv
 adv
@@ -87347,7 +87347,7 @@ adv
 adv
 adv
 v
-
+aux
 s
 
 s
@@ -87404,12 +87404,12 @@ v
 s
 
 v
-o
-o
-o
 o
-o
-o
+aux
+aux
+aux
+aux
+aux
 s
 v
 s
@@ -87589,7 +87589,7 @@ o
 s
 
 v
-o
+aux
 s
 v
 o
@@ -87728,10 +87728,10 @@ o
 adv
 adv
 adv
+aux
 o
 o
 o
-o
 v
 o
 o
@@ -88094,7 +88094,7 @@ adv
 v
 s
 v
-
+aux
 o
 o
 o
@@ -88209,13 +88209,13 @@ o
 o
 v
 
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 o
 p
 s
@@ -88260,11 +88260,11 @@ s
 adv
 adv
 adv
-
+aux
 v
 
 s
-
+aux
 adv
 adv
 adv
@@ -88517,7 +88517,7 @@ v
 
 o
 v
-
+aux
 
 v
 o
@@ -88724,8 +88724,8 @@ o
 o
 o
 v
+aux
 
-
 adv
 v
 adv
@@ -88878,7 +88878,7 @@ v
 s
 p
 vc
-
+aux
 v
 o
 o
@@ -89042,7 +89042,7 @@ v
 o
 v
 adv
-
+aux
 adv
 v
 o
@@ -89059,11 +89059,11 @@ adv
 o
 s
 p
-adv
 adv
 adv
 adv
 adv
+aux
 v
 s
 p
@@ -89364,7 +89364,7 @@ v
 adv
 v
 v
-o
+aux
 adv
 adv
 adv
@@ -89372,9 +89372,9 @@ adv
 
 adv
 v
-
-
-
+aux
+aux
+aux
 o
 o
 
@@ -89427,9 +89427,9 @@ adv
 adv
 adv
 v
-
-
 
+aux
+aux
 s
 s
 s
@@ -89695,7 +89695,7 @@ v
 v
 
 s
-
+aux
 adv
 adv
 adv
@@ -89756,7 +89756,7 @@ s
 p
 p
 p
-
+aux
 v
 
 io
@@ -89992,7 +89992,7 @@ s
 v
 
 s
-
+aux
 v
 o
 o
@@ -90127,7 +90127,7 @@ s
 s
 s
 s
-
+aux
 
 v
 o
@@ -90167,9 +90167,9 @@ adv
 adv
 adv
 v
-
-
-
+aux
+aux
+aux
 adv
 adv
 adv
@@ -90181,7 +90181,7 @@ adv
 adv
 adv
 adv
-
+aux
 s
 s
 s
@@ -90323,7 +90323,7 @@ adv
 v
 
 o
-
+aux
 adv
 adv
 adv
@@ -90360,8 +90360,8 @@ v
 io
 adv
 adv
-
-
+aux
+aux
 adv
 adv
 adv
@@ -90587,7 +90587,7 @@ v
 o
 o
 o
-
+aux
 o
 adv
 p
@@ -90682,7 +90682,7 @@ s
 v
 adv
 adv
-
+aux
 v
 adv
 adv
@@ -90967,7 +90967,7 @@ o
 o
 v
 s
-
+aux
 o
 v
 v
@@ -91394,7 +91394,7 @@ adv
 adv
 o
 
-
+aux
 v
 adv
 adv
@@ -91922,7 +91922,7 @@ o
 o
 adv
 v
-
+aux
 v
 adv
 adv
@@ -92404,12 +92404,12 @@ adv
 v
 o
 
-
+aux
 s
 v
 o
 o
-
+aux
 s
 v
 v
@@ -92474,7 +92474,7 @@ s
 o
 
 v
-
+aux
 o
 o
 o
@@ -92482,7 +92482,7 @@ v
 
 o
 v
-
+aux
 o
 o
 o
@@ -92580,7 +92580,7 @@ s
 adv
 adv
 v
-
+aux
 adv
 adv
 v
@@ -92656,7 +92656,7 @@ v
 o
 
 v
-
+aux
 s
 s
 v
@@ -93509,9 +93509,9 @@ vc
 adv
 v
 adv
+aux
 adv
 adv
-adv
 v
 s
 adv
@@ -93573,7 +93573,7 @@ v
 
 s
 v
-
+aux
 o
 s
 s
@@ -93765,8 +93765,8 @@ adv
 v
 v
 
-
-
+aux
+aux
 v
 adv
 adv
@@ -94535,9 +94535,9 @@ adv
 adv
 adv
 v
-
-
 
+aux
+aux
 v
 adv
 adv
@@ -94566,7 +94566,7 @@ adv
 
 adv
 adv
-
+aux
 adv
 v
 s
@@ -95304,8 +95304,8 @@ s
 o
 v
 adv
-
 
+aux
 adv
 v
 adv
@@ -95330,9 +95330,9 @@ adv
 adv
 adv
 adv
-
-
 
+aux
+aux
 o
 v
 s
@@ -95413,8 +95413,8 @@ adv
 adv
 p
 
-
-
+aux
+aux
 adv
 p
 vc
@@ -95527,8 +95527,8 @@ o
 o
 adv
 adv
+aux
 
-
 p
 vc
 adv
@@ -95649,7 +95649,7 @@ vc
 p
 
 vc
-
+aux
 
 v
 s
@@ -95817,8 +95817,8 @@ s
 v
 v
 
-
-
+aux
+aux
 v
 o
 v
@@ -95838,7 +95838,7 @@ v
 v
 
 io
-
+aux
 o
 o
 o
@@ -96268,7 +96268,7 @@ adv
 adv
 adv
 adv
-
+aux
 o
 v
 adv
@@ -96329,7 +96329,7 @@ adv
 o
 adv
 v
-
+aux
 s
 o
 v
@@ -96534,7 +96534,7 @@ o
 o
 
 v
-
+aux
 o
 s
 s
@@ -96618,12 +96618,12 @@ adv
 adv
 p
 s
-o
+aux
 s
 s
 p
 s
-o
+aux
 s
 s
 s
@@ -96655,10 +96655,10 @@ adv
 adv
 adv
 adv
-
 
-
-
+aux
+aux
+aux
 p
 vc
 p
@@ -96883,7 +96883,7 @@ vc
 v
 
 o
-
+aux
 v
 o
 o
@@ -96984,7 +96984,7 @@ o
 o
 vc
 p
-
+aux
 v
 s
 s
@@ -97154,7 +97154,7 @@ adv
 v
 s
 v
-
+aux
 adv
 adv
 adv
@@ -98652,7 +98652,7 @@ p
 s
 s
 v
-
+aux
 v
 s
 s
@@ -98753,11 +98753,11 @@ adv
 adv
 v
 o
-
+aux
 p
 s
 s
-
+aux
 p
 s
 s
@@ -98877,7 +98877,7 @@ s
 v
 adv
 adv
-
+aux
 s
 s
 s
@@ -98999,7 +98999,7 @@ o
 v
 o
 o
-
+aux
 v
 o
 adv
@@ -99186,8 +99186,8 @@ s
 s
 o
 v
+aux
 
-
 s
 s
 s
@@ -99324,7 +99324,7 @@ adv
 v
 
 io
-
+aux
 o
 o
 o
@@ -99707,8 +99707,8 @@ p
 p
 p
 
-
-
+aux
+aux
 p
 p
 p
@@ -100315,7 +100315,7 @@ adv
 v
 
 
-
+aux
 o
 v
 s
@@ -100838,9 +100838,9 @@ adv
 adv
 adv
 v
-o
-o
-o
+aux
+aux
+aux
 adv
 adv
 adv
@@ -100866,10 +100866,10 @@ adv
 adv
 
 v
-o
-o
+aux
+aux
+aux
 o
-o
 adv
 adv
 o
@@ -101075,7 +101075,7 @@ io
 o
 o
 o
-
+aux
 o
 o
 adv
@@ -101135,7 +101135,7 @@ adv
 o
 v
 
-
+aux
 o
 v
 adv
@@ -101176,7 +101176,7 @@ v
 s
 
 s
-
+aux
 p
 p
 p
@@ -101423,7 +101423,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 v
 v
@@ -101540,12 +101540,12 @@ adv
 io
 s
 s
-adv
 adv
 adv
 adv
 adv
 adv
+aux
 v
 o
 adv
@@ -101633,7 +101633,7 @@ vc
 v
 
 io
-
+aux
 adv
 adv
 adv
@@ -102219,9 +102219,9 @@ adv
 s
 adv
 v
-
-
-
+aux
+aux
+aux
 s
 o
 v
@@ -102293,10 +102293,10 @@ adv
 adv
 v
 
-o
-o
 o
-o
+aux
+aux
+aux
 s
 p
 vc
@@ -102431,7 +102431,7 @@ v
 adv
 adv
 adv
-
+aux
 adv
 adv
 v
@@ -102455,9 +102455,9 @@ io
 io
 
 v
-
-
-
+aux
+aux
+aux
 adv
 adv
 adv
@@ -102465,10 +102465,10 @@ adv
 
 adv
 adv
-
-
-
-
+aux
+aux
+aux
+aux
 s
 vc
 p
@@ -102758,9 +102758,9 @@ adv
 adv
 adv
 v
-adv
-adv
-adv
+aux
+aux
+aux
 
 p
 vc
@@ -102832,7 +102832,7 @@ adv
 s
 adv
 s
-
+aux
 v
 o
 adv
@@ -102919,8 +102919,8 @@ v
 s
 adv
 adv
-
-
+aux
+aux
 o
 adv
 v
@@ -102947,7 +102947,7 @@ adv
 adv
 v
 io
-
+aux
 p
 p
 v
@@ -103041,14 +103041,14 @@ p
 v
 
 v
-o
-o
+aux
+aux
 adv
 v
 v
 o
 v
-o
+aux
 adv
 v
 adv
@@ -103064,8 +103064,8 @@ v
 o
 o
 s
-
 
+aux
 adv
 adv
 p
@@ -103111,7 +103111,7 @@ adv
 adv
 adv
 
-
+aux
 p
 vc
 p
@@ -103132,7 +103132,7 @@ adv
 adv
 adv
 v
-
+aux
 s
 s
 v
@@ -103233,7 +103233,7 @@ adv
 vc
 s
 
-
+aux
 adv
 o
 adv
@@ -103258,7 +103258,7 @@ s
 adv
 adv
 v
-
+aux
 
 
 o
@@ -103432,7 +103432,7 @@ o
 v
 o
 v
-
+aux
 adv
 adv
 v
@@ -103697,8 +103697,8 @@ p
 p
 p
 p
-
-
+aux
+aux
 s
 s
 s
@@ -104749,7 +104749,7 @@ adv
 adv
 adv
 adv
-
+aux
 
 v
 adv
@@ -104785,7 +104785,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 
 o
@@ -105443,7 +105443,7 @@ vc
 
 v
 v
-o
+aux
 v
 o
 v
@@ -105534,8 +105534,8 @@ io
 adv
 adv
 adv
-
-
+aux
+aux
 io
 io
 io
@@ -105574,8 +105574,8 @@ io
 io
 adv
 adv
-
-
+aux
+aux
 v
 o
 o
@@ -105724,8 +105724,8 @@ o
 v
 o
 o
-
-
+aux
+aux
 v
 o
 o
@@ -105759,9 +105759,9 @@ p
 adv
 adv
 adv
-
 
-
+aux
+aux
 v
 v
 o
@@ -105775,8 +105775,8 @@ adv
 adv
 adv
 adv
-
-
+aux
+aux
 v
 o
 o
@@ -105834,9 +105834,9 @@ adv
 p
 adv
 p
-
 
-
+aux
+aux
 o
 o
 v
@@ -106298,7 +106298,7 @@ v
 
 s
 v
-
+aux
 o
 s
 s
@@ -106763,9 +106763,9 @@ adv
 adv
 adv
 adv
-
-
 
+aux
+aux
 o
 adv
 v
@@ -107053,8 +107053,8 @@ o
 o
 adv
 adv
-
-
+aux
+aux
 v
 adv
 adv
@@ -107248,7 +107248,7 @@ v
 adv
 adv
 adv
-
+aux
 s
 s
 adv
@@ -107304,7 +107304,7 @@ v
 p
 p
 vc
-
+aux
 
 v
 o
@@ -107392,20 +107392,20 @@ io
 o
 o
 
-
-
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 v
 adv
 adv
-
+aux
 o
 v
 
@@ -107416,12 +107416,12 @@ o
 v
 adv
 adv
-
+aux
 v
 o
 o
-
-
+aux
+aux
 v
 adv
 s
@@ -107499,9 +107499,9 @@ o
 adv
 adv
 adv
-
 
 
+aux
 s
 vc
 p
@@ -107614,7 +107614,7 @@ v
 
 s
 s
-
+aux
 o
 adv
 adv
@@ -107713,7 +107713,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 o
 o
@@ -108918,10 +108918,10 @@ adv
 io
 io
 
-
+aux
 o
-
-
+aux
+aux
 v
 adv
 adv
@@ -108939,8 +108939,8 @@ o
 o
 adv
 adv
-
-
+aux
+aux
 v
 io
 io
@@ -108948,8 +108948,8 @@ adv
 v
 adv
 adv
-
-
+aux
+aux
 v
 o
 o
@@ -108958,8 +108958,8 @@ adv
 v
 adv
 adv
-
-
+aux
+aux
 v
 o
 o
@@ -108971,8 +108971,8 @@ p
 vc
 adv
 adv
-
-
+aux
+aux
 adv
 v
 o
@@ -108981,8 +108981,8 @@ o
 adv
 adv
 v
-
-
+aux
+aux
 v
 adv
 adv
@@ -109037,8 +109037,8 @@ v
 p
 vc
 s
-
-
+aux
+aux
 o
 o
 o
@@ -109384,7 +109384,7 @@ adv
 adv
 adv
 v
-
+aux
 v
 adv
 adv
@@ -109537,7 +109537,7 @@ v
 s
 
 v
-
+aux
 o
 o
 o
@@ -109674,8 +109674,8 @@ p
 adv
 vc
 v
-
 
+aux
 o
 o
 o
@@ -109784,7 +109784,7 @@ s
 
 p
 vc
-
+aux
 p
 p
 p
@@ -109856,8 +109856,8 @@ s
 adv
 adv
 s
-
 
+aux
 v
 adv
 adv
@@ -110046,7 +110046,7 @@ o
 adv
 adv
 v
-
+aux
 adv
 adv
 adv
@@ -110172,8 +110172,8 @@ adv
 adv
 adv
 adv
-
 
+aux
 v
 o
 v
@@ -110334,7 +110334,7 @@ adv
 v
 
 s
-
+aux
 v
 adv
 o
@@ -110367,7 +110367,7 @@ v
 
 s
 v
-
+aux
 adv
 adv
 v
@@ -110486,7 +110486,7 @@ adv
 adv
 adv
 adv
-
+aux
 adv
 o
 v
@@ -110527,8 +110527,8 @@ adv
 adv
 v
 s
-
 
+aux
 adv
 vc
 p
@@ -110634,7 +110634,7 @@ v
 v
 
 s
-
+aux
 v
 o
 v
@@ -110664,7 +110664,7 @@ adv
 v
 
 o
-
+aux
 v
 o
 o
@@ -110766,7 +110766,7 @@ o
 s
 adv
 v
-
+aux
 v
 adv
 adv
@@ -110830,7 +110830,7 @@ o
 adv
 adv
 adv
-
+aux
 adv
 p
 vc
@@ -111033,7 +111033,7 @@ adv
 v
 
 o
-
+aux
 adv
 adv
 adv
@@ -111255,7 +111255,7 @@ o
 adv
 adv
 adv
-
+aux
 v
 adv
 adv
@@ -111291,9 +111291,9 @@ adv
 adv
 adv
 adv
-
 
 
+aux
 v
 
 v
@@ -111348,7 +111348,7 @@ adv
 adv
 adv
 v
-
+aux
 adv
 adv
 o
@@ -111424,7 +111424,7 @@ adv
 v
 
 io
-
+aux
 adv
 adv
 adv
@@ -111543,7 +111543,7 @@ o
 v
 s
 
-
+aux
 adv
 v
 v
@@ -111878,14 +111878,14 @@ adv
 adv
 adv
 adv
-
+aux
 o
 o
 o
 v
 io
-
-
+aux
+aux
 adv
 adv
 v
@@ -113032,10 +113032,10 @@ v
 adv
 adv
 s
-
-
 
-
+aux
+aux
+aux
 o
 v
 v
@@ -113132,11 +113132,11 @@ s
 v
 v
 io
-s
 s
 s
 s
 s
+aux
 io
 io
 io
@@ -113181,8 +113181,8 @@ v
 o
 o
 o
-
-
+aux
+aux
 o
 o
 v
@@ -113525,8 +113525,8 @@ s
 v
 s
 
-
-
+aux
+aux
 v
 adv
 adv
@@ -114397,7 +114397,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 o
 o
@@ -115207,7 +115207,7 @@ s
 v
 adv
 adv
-
+aux
 
 o
 o
@@ -115369,8 +115369,8 @@ o
 o
 io
 v
-
-
+aux
+aux
 s
 adv
 v
@@ -115576,8 +115576,8 @@ adv
 s
 s
 s
-o
-o
+aux
+aux
 p
 p
 p
@@ -115616,7 +115616,7 @@ adv
 s
 adv
 adv
-
+aux
 o
 o
 v
@@ -116006,12 +116006,12 @@ v
 o
 v
 v
-
-
-
 
-
-
+aux
+aux
+aux
+aux
+aux
 v
 o
 o
@@ -116176,7 +116176,7 @@ adv
 adv
 adv
 v
-
+aux
 adv
 adv
 vc
@@ -116938,7 +116938,7 @@ v
 
 adv
 adv
-
+aux
 o
 o
 o
@@ -118440,7 +118440,7 @@ adv
 v
 adv
 v
-o
+aux
 v
 adv
 adv
@@ -118450,11 +118450,11 @@ adv
 adv
 adv
 v
-o
+aux
+aux
 o
 o
 o
-o
 adv
 v
 o
@@ -118476,7 +118476,7 @@ adv
 v
 adv
 v
-
+aux
 v
 adv
 v
@@ -118618,7 +118618,7 @@ s
 s
 v
 
-
+aux
 o
 o
 o
@@ -119625,8 +119625,8 @@ io
 adv
 io
 v
-o
-o
+aux
+aux
 adv
 v
 o
@@ -120342,11 +120342,11 @@ adv
 adv
 adv
 adv
-
+aux
 v
 
 o
-
+aux
 v
 o
 o
@@ -120409,8 +120409,8 @@ v
 o
 o
 v
-
-
+aux
+aux
 adv
 adv
 v
@@ -120605,9 +120605,9 @@ v
 o
 adv
 v
-
-
-
+aux
+aux
+aux
 s
 s
 s
@@ -120646,9 +120646,9 @@ p
 p
 p
 v
-
-
-
+aux
+aux
+aux
 vc
 
 s
@@ -120730,7 +120730,7 @@ adv
 v
 p
 vc
-
+aux
 
 v
 adv
@@ -120739,7 +120739,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 p
 p
@@ -120797,8 +120797,8 @@ v
 adv
 adv
 adv
-
-
+aux
+aux
 adv
 adv
 adv
@@ -120868,9 +120868,9 @@ p
 p
 p
 v
-
-
-
+aux
+aux
+aux
 
 s
 s
@@ -121000,8 +121000,8 @@ o
 p
 s
 s
-
-
+aux
+aux
 adv
 o
 v
@@ -121107,9 +121107,9 @@ v
 v
 
 v
-
-
-
+aux
+aux
+aux
 o
 s
 s
@@ -121118,11 +121118,11 @@ adv
 adv
 p
 vc
-
-
-
+aux
+aux
+aux
+aux
 
-
 adv
 adv
 v
@@ -121217,8 +121217,8 @@ adv
 s
 p
 vc
-
-
+aux
+aux
 v
 o
 o
@@ -121264,7 +121264,7 @@ o
 o
 o
 v
-
+aux
 s
 s
 s
@@ -121295,7 +121295,7 @@ vc
 
 o
 v
-
+aux
 s
 s
 o
@@ -121390,8 +121390,8 @@ s
 s
 adv
 v
-
-
+aux
+aux
 s
 p
 vc
@@ -121410,8 +121410,8 @@ o
 o
 
 v
-
-
+aux
+aux
 s
 o
 v
@@ -121561,8 +121561,8 @@ adv
 adv
 adv
 v
+aux
 
-
 v
 o
 s
@@ -121635,11 +121635,11 @@ v
 adv
 v
 o
-
+aux
 
 v
 o
-
+aux
 v
 
 v
@@ -121665,7 +121665,7 @@ o
 adv
 v
 o
-
+aux
 s
 v
 o
@@ -121703,13 +121703,13 @@ s
 
 p
 vc
-
+aux
 v
 o
 o
 v
 adv
-
+aux
 v
 adv
 adv
@@ -121785,8 +121785,8 @@ adv
 v
 v
 adv
-
-
+aux
+aux
 v
 v
 adv
@@ -121831,7 +121831,7 @@ v
 adv
 adv
 adv
-
+aux
 s
 s
 s
@@ -121878,14 +121878,14 @@ adv
 v
 o
 v
-
 
+aux
 adv
 adv
 adv
 adv
 adv
-
+aux
 s
 s
 v
@@ -121917,13 +121917,13 @@ s
 v
 adv
 v
-
+aux
 adv
 adv
 adv
 adv
 v
-
+aux
 s
 s
 adv
@@ -121932,7 +121932,7 @@ adv
 v
 o2
 v
-
+aux
 o2
 o2
 o2
@@ -121946,7 +121946,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 o
 v
@@ -121968,9 +121968,9 @@ p
 p
 adv
 adv
-
 
-
+aux
+aux
 adv
 v
 adv
@@ -122098,8 +122098,8 @@ v
 o
 o
 o
-
-
+aux
+aux
 adv
 s
 s
@@ -122605,7 +122605,7 @@ adv
 v
 adv
 adv
-o
+aux
 v
 adv
 adv
@@ -122629,7 +122629,7 @@ adv
 v
 v
 
-p
+aux
 o
 v
 s
@@ -122693,7 +122693,7 @@ v
 adv
 
 v
-
+aux
 v
 adv
 adv
@@ -122797,8 +122797,8 @@ v
 o
 o
 v
-
-
+aux
+aux
 v
 adv
 adv
@@ -122927,7 +122927,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 io
 io
@@ -123022,8 +123022,8 @@ adv
 v
 o
 o
-
-
+aux
+aux
 adv
 v
 adv
@@ -123464,9 +123464,9 @@ p
 p
 p
 p
-adv
+aux
+aux
 
-
 v
 adv
 adv
@@ -123657,7 +123657,7 @@ o
 o
 o
 adv
-
+aux
 v
 io
 s
@@ -123730,12 +123730,12 @@ adv
 adv
 adv
 v
-
-
+aux
 
-
-
-
+aux
+aux
+aux
+aux
 v
 o
 adv
@@ -123760,7 +123760,7 @@ adv
 adv
 adv
 adv
-
+aux
 adv
 adv
 io
@@ -123976,7 +123976,7 @@ o
 o
 
 adv
-
+aux
 v
 o2
 o
@@ -124566,7 +124566,7 @@ adv
 adv
 o
 adv
-
+aux
 o
 io
 v
@@ -124694,7 +124694,7 @@ s
 adv
 v
 o
-
+aux
 o2
 s
 s
@@ -124801,8 +124801,8 @@ adv
 adv
 s
 v
-
 
+aux
 o
 v
 v
@@ -124868,7 +124868,7 @@ adv
 adv
 s
 
-
+aux
 v
 v
 adv
@@ -125111,8 +125111,8 @@ adv
 vc
 p
 p
-
-
+aux
+aux
 o
 v
 io
@@ -125205,7 +125205,7 @@ o
 p
 p
 vc
-
+aux
 v
 adv
 adv
@@ -125218,7 +125218,7 @@ s
 s
 adv
 v
-
+aux
 o
 o
 o
@@ -125325,7 +125325,7 @@ o
 o
 v
 io
-
+aux
 adv
 v
 io
@@ -125337,7 +125337,7 @@ adv
 adv
 v
 io
-
+aux
 adv
 v
 o
@@ -125345,21 +125345,21 @@ o
 o
 v
 io
-
+aux
 adv
 v
 o
 o
 v
 io
-
+aux
 adv
 v
 o
 o
 v
 io
-
+aux
 adv
 v
 o
@@ -125367,7 +125367,7 @@ o
 o
 v
 io
-
+aux
 o
 p
 vc
@@ -125454,7 +125454,7 @@ v
 adv
 adv
 adv
-
+aux
 p
 p
 vc
@@ -125574,7 +125574,7 @@ o
 o
 o
 v
-
+aux
 o
 v
 adv
@@ -125620,8 +125620,8 @@ adv
 adv
 v
 o
-
 
+aux
 s
 s
 o
@@ -125664,7 +125664,7 @@ adv
 adv
 
 adv
-
+aux
 v
 adv
 adv
@@ -125722,7 +125722,7 @@ adv
 adv
 v
 o
-
+aux
 adv
 p
 p
@@ -125805,7 +125805,7 @@ o
 
 v
 o
-
+aux
 s
 v
 o
@@ -125943,7 +125943,7 @@ s
 p
 adv
 v
-
+aux
 adv
 v
 o
@@ -126042,7 +126042,7 @@ s
 v
 adv
 adv
-
+aux
 adv
 v
 adv
@@ -126086,7 +126086,7 @@ adv
 o
 v
 o
-
+aux
 adv
 s
 s
@@ -126164,8 +126164,8 @@ adv
 o
 io
 v
+aux
 
-
 o
 o
 v
@@ -126240,7 +126240,7 @@ p
 p
 p
 vc
-
+aux
 
 v
 o
@@ -126303,7 +126303,7 @@ o
 o
 o
 o
-
+aux
 v
 o
 o
@@ -126388,7 +126388,7 @@ o2
 o2
 o2
 o2
-
+aux
 adv
 adv
 s
@@ -127034,7 +127034,7 @@ p
 p
 p
 p
-
+aux
 v
 o
 adv
@@ -127120,7 +127120,7 @@ adv
 adv
 v
 o
-
+aux
 adv
 adv
 o
@@ -127205,7 +127205,7 @@ adv
 o
 adv
 v
-
+aux
 v
 adv
 adv
@@ -127295,7 +127295,7 @@ s
 v
 adv
 adv
-
+aux
 adv
 adv
 v
@@ -127337,7 +127337,7 @@ adv
 adv
 adv
 v
-
+aux
 o
 v
 o
@@ -127429,7 +127429,7 @@ adv
 adv
 adv
 v
-
+aux
 
 v
 o
@@ -127528,7 +127528,7 @@ s
 s
 s
 v
-
+aux
 o
 o
 v
@@ -127774,7 +127774,7 @@ s
 s
 s
 v
-o
+aux
 v
 s
 adv
@@ -127830,7 +127830,7 @@ adv
 adv
 s
 
-
+aux
 v
 o
 o
@@ -127869,8 +127869,8 @@ o
 adv
 v
 s
-
 
+aux
 v
 o
 adv
@@ -127960,7 +127960,7 @@ adv
 adv
 adv
 adv
-
+aux
 p
 p
 p
@@ -128072,10 +128072,10 @@ adv
 adv
 adv
 adv
-
+aux
 v
 o
-
+aux
 v
 o
 adv
@@ -128107,8 +128107,8 @@ adv
 adv
 adv
 adv
-
-
+aux
+aux
 v
 adv
 adv
@@ -128131,8 +128131,8 @@ s
 s
 s
 s
-
-
+aux
+aux
 s
 vc
 p
@@ -128366,8 +128366,8 @@ v
 
 vc
 p
-
 
+aux
 v
 v
 adv
@@ -128397,23 +128397,23 @@ v
 v
 adv
 adv
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
 o
 v
 adv
 adv
 adv
 adv
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
 s
 s
 s
@@ -128560,7 +128560,7 @@ s
 v
 io
 io
-
+aux
 v
 v
 io
@@ -128628,7 +128628,7 @@ v
 o
 v
 v
-
+aux
 v
 v
 s
@@ -128795,7 +128795,7 @@ s
 v
 io
 io
-
+aux
 v
 v
 io
@@ -128914,7 +128914,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 o
 adv
@@ -128999,11 +128999,11 @@ adv
 adv
 adv
 v
-
 
+aux
 v
-
-
+aux
+aux
 v
 adv
 adv
@@ -129227,7 +129227,7 @@ v
 o
 o
 o
-o
+aux
 v
 adv
 adv
@@ -129253,7 +129253,7 @@ v
 o
 o
 o
-
+aux
 v
 o
 o
@@ -129326,7 +129326,7 @@ v
 o
 o
 o
-
+aux
 v
 v
 o
@@ -129513,7 +129513,7 @@ v
 
 
 v
-
+aux
 v
 adv
 adv
@@ -129541,7 +129541,7 @@ adv
 s
 adv
 adv
-
+aux
 v
 v
 io
@@ -129578,8 +129578,8 @@ io
 adv
 adv
 v
-
 
+aux
 s
 v
 adv
@@ -129613,7 +129613,7 @@ v
 adv
 adv
 
-
+aux
 s
 v
 adv
@@ -129840,12 +129840,12 @@ adv
 v
 p
 vc
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 v
 o
 o
@@ -129946,7 +129946,7 @@ v
 io
 adv
 v
-
+aux
 v
 s
 s
@@ -130200,8 +130200,8 @@ s
 s
 s
 v
+aux
 
-
 s
 s
 v
@@ -130271,8 +130271,8 @@ v
 s
 s
 s
-
 
+aux
 v
 adv
 adv
@@ -130370,7 +130370,7 @@ v
 s
 s
 
-
+aux
 v
 adv
 adv
@@ -130440,12 +130440,12 @@ adv
 v
 adv
 adv
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 v
 o
@@ -130789,7 +130789,7 @@ adv
 adv
 v
 
-
+aux
 s
 s
 o
@@ -130870,7 +130870,7 @@ v
 o
 o
 v
-o
+aux
 s
 s
 s
@@ -130899,7 +130899,7 @@ adv
 adv
 adv
 adv
-o
+aux
 
 v
 s
@@ -130923,8 +130923,8 @@ v
 
 v
 io
-o
-o
+aux
+aux
 s
 v
 
@@ -131592,7 +131592,7 @@ s
 s
 s
 v
-
+aux
 v
 adv
 s
@@ -132464,7 +132464,7 @@ s
 s
 s
 v
-
+aux
 s
 s
 s
@@ -132528,16 +132528,16 @@ o
 o
 v
 v
-o
-o
-o
 o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 v
-o
-o
+aux
+aux
 v
 adv
 v
@@ -132668,8 +132668,8 @@ s
 adv
 adv
 adv
-
 
+aux
 s
 s
 s
@@ -132908,9 +132908,9 @@ adv
 adv
 adv
 v
-
-
-
+aux
+aux
+aux
 adv
 adv
 v
@@ -133511,8 +133511,8 @@ p
 p
 
 v
-
 
+aux
 s
 s
 v
@@ -133853,7 +133853,7 @@ adv
 adv
 v
 adv
-
+aux
 v
 s
 s
@@ -133872,8 +133872,8 @@ adv
 adv
 
 v
-
 
+aux
 s
 s
 
@@ -134137,26 +134137,26 @@ p
 s
 s
 s
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
 p
 p
 p
 s
 s
 s
-
-
-
-
+aux
+aux
+aux
+aux
 s
 adv
 adv
 v
-
+aux
 
 v
 o
@@ -134381,13 +134381,13 @@ s
 v
 p
 vc
-o
+aux
 v
-o
-o
+aux
+aux
 v
-o
-o
+aux
+aux
 adv
 o
 v
@@ -134409,12 +134409,12 @@ v
 s
 s
 v
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 p
 p
 p
@@ -134592,7 +134592,7 @@ adv
 adv
 adv
 adv
-
+aux
 v
 adv
 s
@@ -135006,12 +135006,12 @@ adv
 s
 v
 v
-
-
 
+aux
+aux
 s
 v
-
+aux
 adv
 v
 s
@@ -135108,15 +135108,15 @@ p
 p
 p
 p
-
-
-
 
+aux
+aux
+aux
 o
 v
-
-
-
+aux
+aux
+aux
 s
 v
 o
@@ -135273,9 +135273,9 @@ adv
 adv
 v
 v
-o
-o
-o
+aux
+aux
+aux
 adv
 adv
 o
@@ -135417,17 +135417,17 @@ adv
 adv
 adv
 v
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 adv
 adv
@@ -135567,20 +135567,20 @@ v
 adv
 v
 v
-o
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 v
 o
 o
 o
 o
 o
-o
+aux
 v
 adv
 adv
@@ -135643,12 +135643,12 @@ v
 adv
 v
 v
-o
-o
-o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 adv
 v
@@ -135671,16 +135671,16 @@ v
 v
 adv
 adv
-
-
-
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 adv
 v
 s
@@ -135817,7 +135817,7 @@ adv
 adv
 adv
 v
-o
+aux
 s
 s
 s
@@ -135863,8 +135863,8 @@ adv
 
 adv
 v
+aux
 o
-o
 s
 s
 s
@@ -135895,8 +135895,8 @@ adv
 adv
 adv
 v
-adv
-adv
+aux
+aux
 
 s
 adv
@@ -135905,21 +135905,21 @@ adv
 v
 v
 v
-o
-o
-o
 o
 o
 o
-o
-o
+aux
+aux
+aux
+aux
+aux
 v
-o
-o
 o
-o
-o
-o
+aux
+aux
+aux
+aux
+aux
 
 v
 s
@@ -135937,7 +135937,7 @@ s
 s
 s
 v
-o
+aux
 adv
 v
 s
@@ -136788,7 +136788,7 @@ adv
 adv
 adv
 v
-o
+aux
 s
 s
 s
@@ -136846,7 +136846,7 @@ v
 adv
 adv
 adv
-o
+aux
 o2
 v
 o
@@ -136901,25 +136901,25 @@ s
 vc
 adv
 p
-
-
+aux
 
-
-
-
+aux
+aux
+aux
+aux
 v
-
-
-
-
-
-
-
-
-
-
-
-
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
+aux
 s
 s
 s
@@ -137486,8 +137486,8 @@ v
 v
 adv
 adv
-
 
+aux
 v
 adv
 p
@@ -137585,7 +137585,7 @@ s
 s
 v
 adv
-
+aux
 v
 adv
 
@@ -137778,14 +137778,14 @@ adv
 v
 s
 v
-o
 o
+aux
 v
 adv
-
+aux
 v
-
-
+aux
+aux
 s
 s
 s
