@@ -18,6 +18,7 @@ showVerseInTuple: False
 # docs: reference to transcription.md
 interfaceDefaults: 
   fmt: layout-orig-full
+# used by tf browser
 typeDisplay:
   book:
     label: '{book}'
