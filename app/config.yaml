@@ -28,16 +28,13 @@ typeDisplay:
     style: ""
   sentence:
     hidden: false
-    level: 1
     label: '{sentence}'
     style: ""
   wg:
     hidden: false
-    level: 1
     label: '{rule} {clausetype} {wgrolelong} {junction}'
     style: ""
   word:
-    level: 0
     base: true
     featuresBare:
       - gloss
@@ -48,6 +45,6 @@ typeDisplay:
 interfaceDefaults: {}
 provenanceSpec:
   corpus: "Nestle 1904"
-  version: "0.1.7"
+  version: "0.1.8"
   org: 'tonyjurg/ETCBC'
-  webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
+
