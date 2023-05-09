@@ -16,6 +16,8 @@ dataDisplay:
 showVerseInTuple: False
 # textFormats:
 # docs: reference to transcription.md
+interfaceDefaults: 
+  fmt: layout-orig-full
 typeDisplay:
   book:
     label: '{book}'
@@ -42,7 +44,6 @@ typeDisplay:
       - lemma
       - strongs
 
-interfaceDefaults: {}
 provenanceSpec:
   corpus: "Nestle 1904"
   version: "0.1.8"
