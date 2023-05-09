@@ -9,13 +9,35 @@
 @Name=Greek New Testament (NA1904)
 @TextFabric version=11.4.10
 @Version=1904
+@description=Book
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-05-09T19:42:36Z
+@dateWritten=2023-05-09T19:42:33Z
 
-1-137779	word
-137780-137806	book
-137807-138066	chapter
-138067-146077	sentence
-146078-154020	verse
-154021-267471	wg
+137780	Matthew
+Mark
+Luke
+John
+Acts
+Romans
+I_Corinthians
+II_Corinthians
+Galatians
+Ephesians
+Philippians
+Colossians
+I_Thessalonians
+II_Thessalonians
+I_Timothy
+II_Timothy
+Titus
+Philemon
+Hebrews
+James
+I_Peter
+II_Peter
+I_John
+II_John
+III_John
+Jude
+Revelation
