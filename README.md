@@ -1,5 +1,5 @@
 # n1904_lft
-xml conversion based upon low-fat-tree data. This is an experimental version and subject to changes.
+Text-fabric presentation of xml based upon low-fat-tree data. This is an experimental version and subject to changes.
 
 versions:
 
