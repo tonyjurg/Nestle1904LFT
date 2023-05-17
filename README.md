@@ -1,4 +1,4 @@
-# n1904_lft
+# Nestle1904LFT
 Text-fabric presentation of xml based upon low-fat-tree data. This is an experimental version and subject to changes.
 
 versions:
@@ -18,3 +18,5 @@ versions:
 0.1.8 - changed presentation of wg's, etc
 
 0.1.9 - speeding up xml->pkl. TF version. Now using the latest XML input
+
+0.2   - some cleaning up
