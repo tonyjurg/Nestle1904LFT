@@ -48,5 +48,6 @@ typeDisplay:
 provenanceSpec:
   corpus: "Nestle 1904"
   version: "0.3"
-  org: 'tonyjurg/ETCBC'
+  org: "tonyjurg"
+  repro: "Nestle1904LFT"
 
