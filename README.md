@@ -20,3 +20,5 @@ versions:
 0.1.9 - speeding up xml->pkl. TF version. Now using the latest XML input
 
 0.2   - some cleaning up
+
+0.3   - new version
