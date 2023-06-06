@@ -1,4 +1,4 @@
-# Text-Fabric Nestle Greek New Testament (version 1904, based on LowFat XML node)
+# Text-Fabric Nestle 1904 Greek New Testament (based on LowFat XML node)
 
 ### Warning: this is an ongoing project. Changes will be made. ###
 
