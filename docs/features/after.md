@@ -28,5 +28,7 @@ after | explanation | Frequency
 'ὰ' | | 1
 'ὸ' | | 1
 
+Note: see also [Jupyter Notebook](https://github.com/tonyjurg/Nestle1904LFT/blob/main/resources/identifying_odd_afters.ipynb) on examining the occurences of the 'odd' values of 'after' feature. 
+
 ---
 ###### [Click here for list of all features](home.md#readme)
