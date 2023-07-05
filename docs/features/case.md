@@ -1,12 +1,14 @@
 # Feature: case
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
 
 Feature description: Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
 
-Possible values:
+## Feature values
 
 case 'short' (TBA) | case (this feature) | explanation | Frequency
 --- | --- | --- | ---
@@ -17,5 +19,8 @@ nom | Nominative | Generaly indicating the subject | 24197
 voc | Vocative | Adressee of speech | 649
 '' | '' | Empty for any other word type | 58261
 
+## Source description
+
+Taken from XML attribute `case` of tag `w` (word).
 ---
 ###### [Click here for list of all features](home.md#readme)
