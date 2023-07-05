@@ -1,12 +1,14 @@
 # Feature: book
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | --- 
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
 
-Feature description: Book name (fully spelled out).
+Book name (fully spelled out).
 
-Possible values:
+## Feature values
 
 Book ([feature: bookshort](bookshort.md#readme)) | Full name of book  (this feature) | Number ([feature: booknum](booknum.md#readme))
 --- | --- | --- 
@@ -38,6 +40,9 @@ Jas | James | 20
 Jude | Jude | 26
 Rev | Revelation | 27
 
+## Source description
+
+Taken from XML attribute `id` of tag `book`.
 
 ---
 ###### [Click here for list of all features](home.md#readme)
