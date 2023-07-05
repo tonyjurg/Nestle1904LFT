@@ -19,5 +19,9 @@ after | symbol name | Unicode punctuation | Frequency
 `; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 969
 `— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 30
 
+## Source description
+
+Taken from XML attribute `after` of tag `w` (word).
+
 ---
 ###### [Click here for list of all features](home.md#readme)
