@@ -1,12 +1,13 @@
 # Feature: person
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features)  | `String`  | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Gramatical person of a verb.
 
-Feature description: Gramatical person of a verb.
-
-Possible values:
+## Feature values
 
 person (this feature) | Explanation | Frequency
 --- | --- | ---
