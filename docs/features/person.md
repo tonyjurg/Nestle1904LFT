@@ -16,5 +16,10 @@ Second | Second person (either singular or plural) | 3729
 Third | Third person (either singular or plural) | 12747
 '' | Empty for any wordtypes other than verb | 118360
 
+
+## Source description
+
+Taken from XML attribute `person` of tag `w` (word).
+
 ---
 ###### [Click here for list of all features](home.md#readme)
