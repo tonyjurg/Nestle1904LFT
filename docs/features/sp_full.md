@@ -1,12 +1,13 @@
 # Feature: sp_full
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Full Part of Speech description for each wordtype.
 
-Feature description: Full Part of Speech description for each wordtype.
-
-Possible values:
+## Feature values 
 
 Part of Speech Full (this feature) | Label ([feature: sp](sp.md#readme)) | Frequency
 --- | --- | ---
@@ -22,6 +23,9 @@ particle | ptcl | 773
 pronoun | pron | 16177
 verb | verb | 28357
 
+## Source description
+
+Taken from (optional) XML attribute `` of tag `w` (word).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
