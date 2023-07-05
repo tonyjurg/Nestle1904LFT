@@ -15,6 +15,10 @@ value | explanation | Frequency
 ClCl | subordinate clause follows the main clause | 334
 ‎ClCl2 | subordinate clause precedes the main clause | 484
 
+## Note
+
+See also the related feature [junction](junction.md#readme).
+
 ## Source description
 
 Taken from (optional) XML attribute `rule` of tag `wg` (wordgroup).
