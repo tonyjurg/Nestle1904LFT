@@ -19,9 +19,5 @@ after | symbol name | Unicode punctuation | Frequency
 `; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 969
 `— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 30
 
-
-
-Note: see also [Jupyter Notebook](https://github.com/tonyjurg/Nestle1904LFT/blob/main/resources/identifying_odd_afters.ipynb) on examining the occurences of the 'odd' values of 'after' feature. 
-
 ---
 ###### [Click here for list of all features](home.md#readme)
