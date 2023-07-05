@@ -22,5 +22,6 @@ voc | vocative | Adressee of speech | 649
 ## Source description
 
 Taken from XML attribute `case` of tag `w` (word).
+
 ---
 ###### [Click here for list of all features](home.md#readme)
