@@ -19,9 +19,8 @@ xx.yy  | one or more entries for the Louw-Nida references | 126756
 
 Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
-Note: some wordnodes lack feature ln. Under investigation.
-
-See also: feature [lex_dom](lex_dom.md#readme)
+## Note
+Some wordnodes lack feature ln. Under investigation. See also: feature [lex_dom](lex_dom.md#readme)
 
 ## Source description
 
