@@ -10,7 +10,7 @@ Types for text objects as they are represented by nodes.
  
 type | kind | description
 --- |--- |---
-[`word`](wordnodefeatures.md#readme) | slot | single word, fills a *slot*;
+[`word`](featuresbynodetype.md#word-nodes) | slot | single word, fills a *slot*;
 [`Phrase`](phrasenodefeatures.md#readme) | functional | phrase, maybe with gaps
 [`Clause`](clausenodefeatures.md#readme) |functional | clause, maybe with gaps
 [`Sentence`](sentencenodefeatures.md#readme) |functional| clause, maybe with gaps

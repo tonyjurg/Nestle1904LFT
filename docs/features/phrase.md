@@ -2,7 +2,7 @@
 
 Datatype: `integer`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme) [`phrase`](phrasenodefeatures.md#readme)
+Available for nodetype(s): [`word`](featuresbynodetype.md#word-nodes) [`phrase`](phrasenodefeatures.md#readme)
 
 Feature description: Phrase number (counted per chapter).
 

@@ -2,7 +2,7 @@
 
 Datatype: `integer`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+Available for nodetype(s): [`word`](featuresbynodetype.md#word-nodes)
 
 Feature description: Word order within corpus.
 

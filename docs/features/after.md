@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
-[`Orthograpic`](home.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features)  | `String` | [`word`](wordnodefeatures.md#readme)
+[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features)  | `String` | [`word`](featuresbynodetype.md#word-nodes)
 
 ## Feature description 
 

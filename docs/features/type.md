@@ -2,7 +2,7 @@
 
 Datatype: `string`
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+Available for nodetype(s): [`word`](featuresbynodetype.md#word-nodes)
 
 Feature description: Gramatical type of noun or pronoun.
 

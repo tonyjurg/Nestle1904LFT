@@ -57,7 +57,7 @@ Feature | Feature group |Data type | Description
 
 Feature | Feature group |  Data type | Description
 --- | --- | --- | --- 
-[appositioncontainer](appositioncontainer.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer
+[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer
 [articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `Integer` | Indicates if wordgroup contains an article
 [clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information (`normalized`)
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class (e.g. `np` `cl`)
