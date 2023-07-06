@@ -1,4 +1,4 @@
-# Text-Fabric features Nestle 1904 (sorted by feature type)
+# Text-Fabric features Nestle1904LFT (sorted by feature type)
 ###### *(or browse by [node type](featuresbynodetype.md#readme) or [feature group](featuresbygroup.md#readme))*
 
 The features of this Text-Fabric dataset:
@@ -58,12 +58,6 @@ Name | Feature group | Description | Examples
 
 Name | Feature group |Description | Example
 --- | --- | --- | ---
-[frame](frame.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Frame |
-[framespec](framespec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Framespec |
-[parent](parent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Parent | 
-[referent](referent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
-[subj_ref](subj_ref.md#readme) |  [`Relational`](featuresbygroup.md#relational-features) |Subject reference |
-[sibling](sibling.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Sibling | 
 
 ## Config features
 
