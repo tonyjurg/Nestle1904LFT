@@ -1,24 +1,27 @@
-# Feature: After
+# Feature: after
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | --- 
+[`Orthograpic`](home.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features)  | `String` | [`word`](wordnodefeatures.md#readme)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description 
 
-Feature description: After
+This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word.
 
-This feature contains the character (space or punctuation) pressent after a word.
+## Feature values 
 
-after | explanation | Frequency
----  | --- | ---
-' ' | normal space | 119271
-',' | comma | 9443
-'.' | normal dot | 5717
-'·' | high dot | 2355
-';' | semicollon | 970
-'—' | dash | 30
+after | symbol name | Unicode punctuation | Frequency
+---  | --- | --- | ---
+` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  119272
+`, ` | Comma  | [`&#44`](https://www.codetable.net/decimal/44)   | 9441
+`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) | 5712
+`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 2355
+`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 969
+`— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 30
 
+## Source description
 
-Note: see also [Jupyter Notebook](https://github.com/tonyjurg/Nestle1904LFT/blob/main/resources/identifying_odd_afters.ipynb) on examining the occurences of the 'odd' values of 'after' feature. 
+Taken from XML attribute `after` of tag `w` (word).
 
 ---
 ###### [Click here for list of all features](home.md#readme)

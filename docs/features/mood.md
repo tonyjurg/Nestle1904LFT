@@ -1,12 +1,13 @@
 # Feature: mood
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Gramatical mood of a verb.
 
-Feature description: Gramatical mood of a verb.
-
-Possible values:
+## Feature values 
 
 mood'short' (TBA) | mood (this feature) | Comment | Frequency
 --- | --- | --- | ---
@@ -17,6 +18,10 @@ ptc | Participle | (pseudo mood) | 6653
 ? | Optative | expresses something is possible | 69
 sbj | Subjunctive | expresses a probable or desired action | 1856
 '' | '' | Any other wordtype | 109422
+
+## Source description
+
+Taken from (optional) XML attribute `mood` of tag `w` (word).
 
 ---
 ###### [Click here for list of all features](home.md#readme)

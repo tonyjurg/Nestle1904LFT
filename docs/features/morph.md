@@ -1,27 +1,18 @@
-# Feature: nu
+# Feature: morph
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
 [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes)
 
 ## Feature description
-ramatical number of a noun.
 
-## Feature values
+Morphological tag according to Sandborg-Petersen morphology.
 
-Value | Explanation | Frequency
---- | --- | ---
-Plural | Plural | 29091
-Singular | Singular | 69846
-'' | Empty for any wordtype other than noun | 38842
-
-## Note
-
-See also related feature [person](person.md).
+See [biblicalhumanities/Nestle1904/morph/parsing.txt](https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/parsing.txt) for detailed information.
 
 ## Source description
 
-Taken from XML attribute `number` of tag `w` (word).
+Taken from XML attribute `morph` of tag `w` (word).
 
 ---
 ###### [Click here for list of all features](home.md#readme)

@@ -1,12 +1,27 @@
 # Feature: clauserule
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`clause`](featuresbynodetype.md#clause-nodes)
 
-Available for nodetype(s): [`clause`](clausenodefeatures.md#readme)
+## Feature description
 
-Feature description: Clause rule information.
+Clause rule information.
 
-Note: Feature under discussion. This will be changed in next versions.
+## Feature values
+
+value | explanation | Frequency
+--- | --- | ---
+ClCl | subordinate clause follows the main clause | 334
+‎ClCl2 | subordinate clause precedes the main clause | 484
+
+## Note
+
+See also the related feature [junction](junction.md#readme).
+
+## Source description
+
+Taken from (optional) XML attribute `rule` of tag `wg` (wordgroup).
 
 ---
 ###### [Click here for list of all features](home.md#readme)

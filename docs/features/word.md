@@ -1,10 +1,16 @@
 # Feature: word
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description 
 
-Feature description: word as it appears in the text.
+The word as it appears in the text.
+
+## Source description
+
+Taken from the data of XML tag `w`.
 
 ---
 ###### [Click here for list of all features](home.md#readme)

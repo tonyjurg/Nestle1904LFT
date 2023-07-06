@@ -1,12 +1,14 @@
 # Feature: booknum
 
-Datatype: `integer`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | --- 
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
 
-Feature description: NT book number.
+NT book number.
 
-Possible values:
+## Feature values
 
 Book number (this feature) | Book short name ([feature: book_short](book_short.md#readme)) | Book full name ([feature: book_long](book_long.md#readme))
 --- | --- | --- 
@@ -37,6 +39,10 @@ Book number (this feature) | Book short name ([feature: book_short](book_short.m
 25 | 3john | III_John
 26 | Jude | Jude
 27 | Rev | Revelation
+
+## Source description
+
+Taken from XML attribute `id` of tag `book`.
 
 ---
 ###### [Click here for list of all features](home.md#readme)

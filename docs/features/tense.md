@@ -1,12 +1,13 @@
 # Feature: tense
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](wordnodefeatures.md#readme)
+## Feature description
+Gramatical tense of a verb.
 
-Feature description: Gramatical tense of a verb.
-
-Possible values:
+## Feature values
 
 tense (this feature) | Explanation | Frequency
 --- | --- | ---
@@ -18,8 +19,12 @@ Present | Describing an ongoing action in the present time | 11579
 Future | Describing a simple or ongoing action in the future | 1626
 '' | Empty for any wordtype other than a verb | 109422
 
+## Note
+The 'future perfect' tense (Describing a completed action in the future) is not found in the text.
 
-Note: The 'future perfect' tense (Describing a completed action in the future) is not found in the text.
+## Source description
+
+Taken from (optional) XML attribute `tense` of tag `w` (word).
 
 ---
 ###### [Click here for list of all features](home.md#readme)
