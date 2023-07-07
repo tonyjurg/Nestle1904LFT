@@ -10,7 +10,7 @@ Clause rule information.
 
 ## Feature values
 
-value | explanation | Frequency
+Value | Description | Frequency
 --- | --- | ---
 ClCl | subordinate clause follows the main clause | 334
 ‎ClCl2 | subordinate clause precedes the main clause | 484

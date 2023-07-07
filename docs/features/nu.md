@@ -5,14 +5,14 @@ Feature group | Feature type | Data type | Available for node types
 [`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes)
 
 ## Feature description
-ramatical number of a noun.
+Gramatical number of a noun.
 
 ## Feature values
 
-Value | Explanation | Frequency
+Value | Description | Frequency
 --- | --- | ---
-Plural | Plural | 29091
-Singular | Singular | 69846
+plural | Plural gramatical number | 29091
+singular | Singular gramatical number | 69846
 '' | Empty for any wordtype other than noun | 38842
 
 ## Note

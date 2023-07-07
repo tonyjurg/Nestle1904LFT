@@ -8,6 +8,11 @@ Feature group | Feature type | Data type | Available for node types
 
 Clause type information 
 
+## Feature values
+
+Value | Description | Frequency
+--- | --- | ---
+
 Note: Feature under discussion. This will be changed in next versions.
 
 ## Source description

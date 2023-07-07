@@ -11,5 +11,10 @@ Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX
 
 Taken from XML attribute `lemma` of tag `w` (word).
 
+## Feature values
+
+Value | Description | Frequency
+--- | --- | ---
+
 ---
 ###### [Click here for list of all features](home.md#readme)

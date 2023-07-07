@@ -9,10 +9,10 @@ Gramatical number of the verb.
 
 ## Feature values
 
-number (this feature) | Explanation | Frequency
+Value | Description | Frequency
 --- | --- | ---
-Plural | Plural form (either first, second, or third person) | 29091
-Singular | Singular form (either first, second, or third person) | 69846
+plural | Plural form (either first, second, or third person) | 29091
+singular | Singular form (either first, second, or third person) | 69846
 '' | Empty for wordtypes other than verb | 38842
 
 ## Source description

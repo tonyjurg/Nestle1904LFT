@@ -10,7 +10,7 @@ This feature indicates details coordinating and subordinating clauses.
 
 ## Feature values 
 
-value | description | Frequency
+value | Description | Frequency
 ---  | --- | --- 
 `coordinate` | coordinate | 300
 `subordinate` |  subordinate | 303

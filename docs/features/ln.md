@@ -10,17 +10,16 @@ Louw-Nida lexical classification.
 
 ## Feature values:
 
-ln (this feature) | Comment | Frequency
+Value | Desription | Frequency
 --- | --- | ---
 xx.yy  | one or more entries for the Louw-Nida references | 126756
 '' | Empty | 11023
 
-## Interpreting the data
+## Note
 
 Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
-## Note
-Some wordnodes lack feature ln. Under investigation. See also: feature [lex_dom](lex_dom.md#readme)
+See also the related feature [lex_dom](lex_dom.md#readme)
 
 ## Source description
 

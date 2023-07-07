@@ -1,10 +1,17 @@
 # Feature: sentencetype
 
-Datatype: `string`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | --- 
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`word`](featuresbynodetype.md#word-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes)
 
-Available for nodetype(s): [`sentence`](sentencenodefeatures.md#readme)
 
-Feature description: sentence type information.
+## Feature description
+
+sentence type information.
+
+## Feature values 
+
+
 
 ---
 ###### [Click here for list of all features](home.md#readme)
