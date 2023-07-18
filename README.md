@@ -1,6 +1,6 @@
-# Text-Fabric Nestle 1904 Greek New Testament (based on LowFat XML node)
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-### Warning: this is an ongoing project. Changes will be made. ###
+# Text-Fabric Nestle 1904 Greek New Testament (based on LowFat XML node)
 
 See Jupyter Notebook of conversion process on [nbviewer](TBD).
 
