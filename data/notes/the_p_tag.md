@@ -7,3 +7,7 @@ of that same sentence.
 Hence, the \<p\> tag provides a kind of redundant information, so it was not incorporate it into this LFT Text-Fabric implementation. 
 The content of the string can be recreated using Text-Fabric by using the following method:
 >T.text(node, fmt=..., ...)
+
+See also the following image:
+
+<img src="images/p_tag.png">
