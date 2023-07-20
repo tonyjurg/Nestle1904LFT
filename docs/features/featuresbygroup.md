@@ -46,7 +46,7 @@ Name | Feature type | Description | Examples
 --- | --- | --- | ---
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
-[text](text.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
+[word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
 
 ## Morphological features
 
@@ -69,7 +69,7 @@ Name | Feature type | Description | Examples
 --- | --- | --- | ---
 [appos](appos.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostioncontainer information | `1` 
 [articular](articular.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Articular information | `1`
-[clauseType](clauseType.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `normalized`
+[clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `normalized`
 [cls](cls.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `1`
