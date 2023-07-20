@@ -78,10 +78,6 @@ Name | Feature type | Description | Examples
 
 Name | Feature type |Description | Example
 --- | --- | --- | ---
-[frame](frame.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Frame |
-[framespec](framespec.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Framespec |
-[note](note.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Notes |
-[parent](parent.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Parent | 
-[referent](referent.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Referent | `n40001011005`
+[ref](ref.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Referent | `n40001011005`
 [subj_ref](subj_ref.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference |
-[sibling](sibling.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Sibling | 
+
