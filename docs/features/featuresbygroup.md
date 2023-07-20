@@ -25,7 +25,6 @@ Name | Feature type | Description | Examples
 ---|---|---|---
 [book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
-[id](id.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Unique identity of a word | `n40001003006`
 [monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | *to be added?*
 [nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node Id  | `n56001015007`
 [num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Sequence number  | `1` `2` ...   
@@ -55,7 +54,7 @@ Name | Feature type |Description | Examples
 --- | --- | --- | ---
 [case](case.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical case | `nominative` `genitive` `dative`
 [degree](degree.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
-[gender](gender.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical gender | `masculine` `feminine` `neuter`
+[gn](gn.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical gender | `masculine` `feminine` `neuter`
 [mood](mood.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical mood of a verb | `indicative` `optative `
 [morph](morph.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Morphological tag | `V-AAI-3S` `N-GSF`
 [number](number.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical number | `singular` `plural`
@@ -72,11 +71,10 @@ Name | Feature type | Description | Examples
 [articular](articular.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Articular information | `1`
 [clauseType](clauseType.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `normalized`
 [cls](cls.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
-[cltype](cltype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
-[crule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
-[discontinuous](discontinuous.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Discontinuous information | `1`
+[clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `1`
 [role](role.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Role of word or wordgroup | `s` `o` `apposition`
+[rule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `ClCl2`
 [type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of wordgroup | `conjuncted-wg` `apposition-group`
 
 ## Relational features
