@@ -11,17 +11,17 @@ abbreviated Part of Speech description for each wordtype.
 
 Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | frequency
 --- | --- | ---
-adj | adjective | 8452
-adv | adverb | 6147
-conj | conjunction | 18227
-det | determiner | 19786
-intj | interjection | 15
-noun | noun | 28455
-num | numeral | 476
-prep | preposition | 10914
-ptcl | particle | 773
-pron | pronoun | 16177
-verb | verb | 28357
+adj | Adjective | 8452
+adv | adverb (currently missing!) | 6147
+conj | Conjunction | 18227
+det | Determiner | 19786
+intj | Interjection | 15
+noun | Noun | 28455
+num | Numeral | 476
+prep | Preposition | 10914
+ptcl | Particle | 773
+pron | Pronoun | 16177
+verb | Verb | 28357
 
 
 ## Source description
