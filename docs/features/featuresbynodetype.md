@@ -2,16 +2,52 @@
 ###### *(or browse by [feature type](featuresbyfeaturetype.md#readme) or [feature group](featuresbygroup.md#readme))*
 
 This Text-Fabric dataset contains the following node types:
-* [`word` nodes](#word-nodes)
-* [`wg` (wordgroup) nodes](#wordgroup-nodes)
-* [`phrase` nodes](#phrase-nodes)
-* [`clause` nodes](#clause-nodes)
-* [`sentence` nodes](#sentence-nodes)
-* [`verse` nodes](#verse-nodes)
-* [`chapter`nodes](#chapter-nodes)
-* [`book` nodes](#book-nodes)
+* [27 `book` nodes](#book-nodes)
+* [260 `chapter`nodes](#chapter-nodes)
+* [7943 `verse` nodes](#verse-nodes)
+* [8011 `sentence` nodes](#sentence-nodes)
+* [114879 `wg` (wordgroup) nodes](#wordgroup-nodes)
+* [137779	`word` nodes](#word-nodes)
 
 Below are all node features listed: 
+
+## Book nodes 
+
+Feature | Feature group | Data type | Description
+--- | --- | --- | --- 
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (fully spelled out)
+[bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated)
+[booknum](booknum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer`  |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
+## Chapter nodes 
+
+Feature | Feature group | Data type | Description
+--- | --- | --- | --- 
+[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Chapter
+[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book
+
+## Verse nodes 
+Feature | Feature group | Data type | Short description
+--- | --- | --- | ---
+[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Verse
+
+## Sentence nodes 
+Feature | Feature group | Data type | Short description
+--- | --- | --- | ---
+[sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter)
+[sentencetype](sentencetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  sentence type information
+
+## Wordgroup nodes 
+
+Feature | Feature group |  Data type | Description
+--- | --- | --- | --- 
+[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer
+[articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `Integer` | Indicates if wordgroup contains an article
+[clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information (`normalized`)
+[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class (e.g. `np` `cl`)
+[cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type (`Verbless` `VerbElided`)
+[crule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule (`ClCl` `ClCl2`)
+[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup (`s` `o` `apposition`)
+[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun (e.g. common, personal)
 
 ## Word nodes 
 
@@ -51,67 +87,6 @@ Feature | Feature group |Data type | Description
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun (e.g. Common, Personal)
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Verse number inside chapter
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb
-
-
-## Wordgroup nodes 
-
-Feature | Feature group |  Data type | Description
---- | --- | --- | --- 
-[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer
-[articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `Integer` | Indicates if wordgroup contains an article
-[clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information (`normalized`)
-[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class (e.g. `np` `cl`)
-[cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type (`Verbless` `VerbElided`)
-[crule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule (`ClCl` `ClCl2`)
-[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup (`s` `o` `apposition`)
-[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun (e.g. common, personal)
-
-## Phrase nodes
-Feature | Feature group | Data type | Short description
---- | --- | --- | ---
-[phrase](phrase.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer`  | Phrase number (counted per chapter)
-[phrasefunction](phrasefunction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Phrase function (abbreviated)
-[phrasefunction_long](phrasefunction_long.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Phrase function (long description)
-[phrasetype](phrasetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Phrase type information
-
-
-## Clause nodes
-Feature | Feature group | Data type | Short description
---- | --- | --- | ---
-[clause](clause.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Clause number (counted per chapter)
-[clauserule](clauserule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule information
-[clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information (verb, verbless, elided, minor, etc.)
-
-## Sentence nodes 
-Feature | Feature group | Data type | Short description
---- | --- | --- | ---
-[sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter)
-[sentencetype](sentencetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  sentence type information
-
-## Verse nodes 
-Feature | Feature group | Data type | Short description
---- | --- | --- | ---
-[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Verse
-
-## Chapter nodes 
-
-Feature | Feature group | Data type | Description
---- | --- | --- | --- 
-[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Chapter
-[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book
-
-## Book nodes 
-
-Feature | Feature group | Data type | Description
---- | --- | --- | --- 
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (fully spelled out)
-[bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated)
-[booknum](booknum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer`  |  NT book number (Matthew=1, Mark=2, ..., Revelation=27)
-
-
-
-
-
 
 
 
