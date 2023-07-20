@@ -10,18 +10,18 @@ Role of the word (abbreviated)
 
 ## Feature values
 
- value	| description |frequency
- --- | --- | ---
-	 adv |	| 40891
-	 v 	|	| 25817
-	 s |	|	 22927
-	 o |	| 21523
-	 ` `  |	|	 10369
-	 p 	|	| 7482
-	 io |	|	 3948
-	 vc |	|	 2603
-	 aux |	|	 1646
-	 o2 |	|	 573
+value | description |frequency
+--- | --- | ---
+adv | Adverbial	| 40891
+v | Verbal | 25817
+s |Subject | 22927
+o | Object | 21523
+` ` | Empty | 10369
+p |Predicate | 7482
+io | Indirect Object | 3948
+vc | Verbal Copula | 2603
+aux | Auxiliar | 1646
+o2 | Second Object | 573
   
 ## Source description
 
