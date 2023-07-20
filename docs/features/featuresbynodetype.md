@@ -27,11 +27,13 @@ Feature | Feature group | Data type | Description  | Examples
 [num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book |
 
 ## Verse nodes 
+
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Verse | `2` `26`
 
 ## Sentence nodes 
+
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter) | `9`
@@ -46,7 +48,6 @@ Feature | Feature group |  Data type | Description | Examples
 [cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type | `Verbless` `VerbElided`
 [rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule | `ClCl` `ClCl2`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
-
 
 ## Word nodes 
 
