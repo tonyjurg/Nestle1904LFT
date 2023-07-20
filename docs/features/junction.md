@@ -17,7 +17,7 @@ value | Description | Frequency
 ` `  | empty | 
 
 ## Note
-See also the related feature [crule](crule.md).
+See also the related feature [rule](rule.md).
 
 ## Source description
 
