@@ -41,11 +41,10 @@ Feature | Feature group | Data type | Short description
 Feature | Feature group |  Data type | Description
 --- | --- | --- | --- 
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer
-[articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `Integer` | Indicates if wordgroup contains an article
 [clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information (`VerbElided`)
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class (e.g. `np` `cl`)
 [cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type (`Verbless` `VerbElided`)
-[crule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule (`ClCl` `ClCl2`)
+[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule (`ClCl` `ClCl2`)
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup (`s` `o` `apposition`)
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun (e.g. common, personal)
 
