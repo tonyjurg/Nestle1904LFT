@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-clause rule
+Word group rule
 
 ## Feature values
 
