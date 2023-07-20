@@ -1,4 +1,4 @@
-# Feature: crule
+# Feature: rule
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-clause rule (from xml attribute rule)
+clause rule
 
 ## Feature values
 

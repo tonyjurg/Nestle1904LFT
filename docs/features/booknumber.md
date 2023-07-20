@@ -1,4 +1,4 @@
-# Feature: booknum
+# Feature: booknumber
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | --- 
@@ -45,4 +45,4 @@ Book number (this feature) | Book short name ([feature: book_short](book_short.m
 Taken from XML attribute `id` of tag `book`.
 
 ---
-###### [Click here for list of all features](home.md#readme)
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

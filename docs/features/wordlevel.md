@@ -1,4 +1,4 @@
-# Feature: word
+# Feature: wordlevel
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -6,11 +6,11 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-The word as it appears in the text.
+number of parent wordgroups for a word
 
 ## Source description
 
-Taken from the data of XML tag `w`.
+calculated
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

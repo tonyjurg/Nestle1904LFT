@@ -22,3 +22,6 @@ where *n* is a number smaller than or equal to *m*. The range *n* `-` *n* may be
 ##### Note
 > The value of this feature for word objects is always just one number: the number of the slot the word occupies.
 All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Greek New Testament.
+
+---
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

@@ -58,3 +58,6 @@ For the textual representation of lexemes we have a variety of features, in orde
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.
 The functional object types are `sentence`, `clause`, and `phrase`.
 They correspond to possibly discontinuous stretches of text that function as a unit.
+
+---
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

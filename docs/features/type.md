@@ -4,7 +4,9 @@ Datatype: `string`
 
 Available for nodetype(s): [`word`](featuresbynodetype.md#word-nodes)
 
-Feature description: Gramatical type of noun or pronoun.
+## Feature description
+
+Gramatical type of noun or pronoun.
 
 Possible values:
 
@@ -24,4 +26,4 @@ Relative |  | 1674
 Note: table needs evaluation.
 
 ---
-###### [Click here for list of all features](home.md#readme)
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

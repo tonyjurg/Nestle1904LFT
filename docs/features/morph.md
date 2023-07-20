@@ -15,4 +15,4 @@ See [biblicalhumanities/Nestle1904/morph/parsing.txt](https://github.com/biblica
 Taken from XML attribute `morph` of tag `w` (word).
 
 ---
-###### [Click here for list of all features](home.md#readme)
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

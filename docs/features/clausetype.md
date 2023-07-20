@@ -19,4 +19,5 @@ Note: Feature under discussion. This will be changed in next versions.
 Taken from (optional) XML attribute `` of tag `wg` (wordgroup).
 
 ---
-###### [Click here for list of all features](home.md#readme)
+---
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

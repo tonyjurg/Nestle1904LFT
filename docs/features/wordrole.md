@@ -1,4 +1,4 @@
-# Feature: word
+# Feature: wordrole
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -6,11 +6,10 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-The word as it appears in the text.
+Role of the word (abbreviated)
 
 ## Source description
 
-Taken from the data of XML tag `w`.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

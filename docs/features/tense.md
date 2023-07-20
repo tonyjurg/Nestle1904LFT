@@ -27,4 +27,4 @@ The 'future perfect' tense (Describing a completed action in the future) is not 
 Taken from (optional) XML attribute `tense` of tag `w` (word).
 
 ---
-###### [Click here for list of all features](home.md#readme)
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

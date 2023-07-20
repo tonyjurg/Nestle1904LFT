@@ -24,4 +24,4 @@ See also related feature [person](person.md).
 Taken from XML attribute `number` of tag `w` (word).
 
 ---
-###### [Click here for list of all features](home.md#readme)
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

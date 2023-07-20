@@ -22,4 +22,5 @@ Value | Description | Frequency
 Taken from XML attribute `gender` of tag `w` (word).
 
 ---
-###### [Click here for list of all features](home.md#readme)
+---
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

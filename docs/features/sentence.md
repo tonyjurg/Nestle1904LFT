@@ -1,10 +1,11 @@
 # Feature: sentence
 
-Datatype: `integer`
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`word`](featuresbynodetype.md#word-nodes)
 
-Available for nodetype(s): [`word`](featuresbynodetype.md#word-nodes) [`sentence`](sentencenodefeatures.md#readme)
-
-Feature description: Sentence number (counted per chapter).
+## Feature description:
+Sentence number (counted per chapter).
 
 ---
-###### [Click here for list of all features](home.md#readme)
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

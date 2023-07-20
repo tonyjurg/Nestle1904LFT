@@ -1,16 +1,17 @@
-# Feature: word
+# Feature: roleclausedistance
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes)
+[`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes)
 
-## Feature description 
+## Feature description
+distance to wordgroup defining the role of this word
 
-The word as it appears in the text.
+## Notes
 
 ## Source description
 
-Taken from the data of XML tag `w`.
+Calculated.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
