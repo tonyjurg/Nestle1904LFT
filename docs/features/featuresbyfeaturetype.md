@@ -19,11 +19,10 @@ Name | Feature group | Description | Examples
 [clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `VerbElided` `Verbless`
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
-[discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Discontinuous information | `1`
 [domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
 [gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical gender | `masculine` `feminine` `neuter`
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | English gloss | 
-[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Junction information | `1`
+[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Junction information | `coordinate` `subordinate` 
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical lemma (cf. BDAG) |
 [ln](ln.md#readme) |  [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad | *to be added?*
@@ -35,7 +34,7 @@ Name | Feature group | Description | Examples
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | node type data | 
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
 [ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
-[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | 
+[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | `v` `o` `s` `adv`
 [rule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup Clause rule | `ClCl` `ClCl2`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
