@@ -1,14 +1,14 @@
 # Feature: type
 
-Datatype: `string`
-
-Available for nodetype(s): [`word`](featuresbynodetype.md#word-nodes)
+Feature group | Feature type | Data type | Available for node types
+---  | --- | --- | ---
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`word`](featuresbynodetype.md#word-nodes)
 
 ## Feature description
 
 Gramatical type of noun or pronoun.
 
-Possible values:
+## Feature values
 
 type (this feature) | explanation | Frequency
 ---- | ---- | ---
