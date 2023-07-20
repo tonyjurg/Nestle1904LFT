@@ -10,7 +10,7 @@ The features of this Text-Fabric dataset:
 ## Node features
 
 Name | Feature group | Description | Examples
----|---|---| ---
+--- | --- | --- | ---
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `conjuncted-wg` `modifier-scope`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
@@ -46,6 +46,7 @@ Name | Feature group | Description | Examples
 [wordlevel](wordlevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Number of parent wordgroups for a word | 
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Role of the word (abbreviated) | 
 [wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)| Role of the word (full) | 
+
 ## Edge features
 
 Name | Feature group |Description | Example
@@ -54,7 +55,7 @@ Name | Feature group |Description | Example
 ## Config features
 
 Name | Feature group | Description| Examples
----|---|---| ---
+---| --- | --- | ---
 [oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
 
