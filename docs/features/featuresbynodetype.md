@@ -83,7 +83,7 @@ Feature | Feature group |Data type | Description
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb (e.g. Present, Aorist)
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun (e.g. Common, Personal)
-[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Verse number inside chapter
+[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb
 
 
