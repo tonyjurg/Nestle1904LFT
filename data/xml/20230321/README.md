@@ -3,7 +3,7 @@
 This is a local copy of the source data obtained from the following [Clear-Bible GitHub page](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat).
 
 The Stylesheets files are also included. This will allow to nicely formatted present the source XML. This is John 1:1 using the stylesheets 
-[`treedown.css>](treedown.css) and [`boxwood.css`](boxwood.css).
+[`treedown.css`](treedown.css) and [`boxwood.css`](boxwood.css).
 
 <img src="john3v16.jpg">
 
