@@ -13,14 +13,12 @@ Name | Feature group | Description | Examples
 ---|---|---| ---
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `1` 
-[articular](articular.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Articular information | `1`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
 [clauseType](clauseType.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `normalized`
 [cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
-[cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type | `Verbless` `VerbElided`
-[crule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause rule | `ClCl` `ClCl2`
+[clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type | `Verbless` `VerbElided`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Discontinuous information | `1`
 [domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
@@ -45,6 +43,7 @@ Name | Feature group | Description | Examples
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
 [referent](referent.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
 [role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | 
+[rule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup Clause rule | `ClCl` `ClCl2`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
 [text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | 
