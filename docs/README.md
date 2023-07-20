@@ -1,4 +1,4 @@
-# Nestle 1904 GNT TextFabric (GBI nodes)
+# Nestle 1904 GNT TextFabric (LFT)
 
 See Jupyter Notebook of conversion process on [nbviewer](https://nbviewer.org/github/tonyjurg/NA1904/blob/1d314c138e67aa0e9ed8387c4d9cb92687c56b01/resources/converter/CreateTFfromXML.ipynb).
 
@@ -7,10 +7,11 @@ The source data for the conversion are the XML node files representing the macul
 The following directories contain the Text-Fabric data:
  * [/app](/app): app config data.
  * [/tf](/tf): the actual dataset.
- * [/doc](/docs): the documentation for the dataset.
+ * [/docs](/docs): the documentation for the dataset.
  
  Additionaly provided:
  * [/resources](/resources): data and tools used for production.
+ * [/docs/usecases](/docs/usecases): example use cases.
  
 See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).
  
