@@ -62,7 +62,7 @@ Feature | Feature group |Data type | Description
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Degree of an comparative or superlative adjective
 [morph](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Morphological tag (Sandborg-Petersen morphology)
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | English gloss
-[gn](gn.md#readme) | str | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical gender (Masculine, Feminine, Neuter)
+[gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical gender (Masculine, Feminine, Neuter)
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexeme (lemma)
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification (not present everywhere)
