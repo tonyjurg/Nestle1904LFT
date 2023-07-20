@@ -67,8 +67,7 @@ Name | Feature type |Description | Examples
 
 Name | Feature type | Description | Examples
 --- | --- | --- | ---
-[appos](appos.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostioncontainer information | `1` 
-[articular](articular.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Articular information | `1`
+[appos](appos.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostioncontainer information | `conjuncted-wg` `modifier-scope` 
 [clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `normalized`
 [cls](cls.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type | `Verbless` `VerbElided`
