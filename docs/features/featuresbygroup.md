@@ -36,7 +36,7 @@ Name| Feature type | Description | Examples
 ---|---|---|---
 [gloss](gloss.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | English gloss | 
 [lemma](lemma.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical lemma (cf. BDAG) |
-[domain](domain.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical domain according to SDBG | `092004`
+[lex_dom](lex_dom.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Louw-Nida lexical classification | `93.169a`
 [strongs](strongs.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Strongs number | `5547`
 
