@@ -21,8 +21,6 @@ Name | Feature group | Description | Examples
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [discontinuous](discontinuous.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Discontinuous information | `1`
 [domain](domain.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
-[frame](frame.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Frame |
-[framespec](framespec.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Framespec |
 [gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical gender | `masculine` `feminine` `neuter`
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | English gloss | 
 [junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Junction information | `1`
