@@ -67,13 +67,13 @@ Feature | Feature group |Data type | Description
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification (not present everywhere)
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Monad
-[mood](mood.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | | Gramatical mood of a verb (Indicative, Optative, etc.)
+[mood](mood.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical mood of a verb (Indicative, Optative, etc.)
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Node ID (as in the XML source data)
 [normalized](normalized.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Surface word stripped of punctations
-[nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | | Gramatical number (Singular, Plural)
-[number](number.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | | Gramatical number of the verb
+[nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical number (Singular, Plural)
+[number](number.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical number of the verb
 [orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Word order within corpus
-[person](person.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | | Gramatical person of the verb (first, second, third)
+[person](person.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical person of the verb (first, second, third)
 [phrase](phrase.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Phrase number (counted per chapter)
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter)
 [sp](sp.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Part of Speech (abbreviated)
