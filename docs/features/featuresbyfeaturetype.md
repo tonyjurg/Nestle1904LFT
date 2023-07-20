@@ -12,7 +12,7 @@ The features of this Text-Fabric dataset:
 Name | Feature group | Description | Examples
 ---|---|---| ---
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
-[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `1` 
+[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `conjuncted-wg` `modifier-scope`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
