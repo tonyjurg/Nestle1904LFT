@@ -34,7 +34,6 @@ Feature | Feature group | Data type | Short description
 Feature | Feature group | Data type | Short description
 --- | --- | --- | ---
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter)
-[sentencetype](sentencetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  sentence type information
 
 ## Wordgroup nodes 
 
