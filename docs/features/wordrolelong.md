@@ -10,7 +10,7 @@ Role of the word (full)
 
 ## Feature values
 
-value | |frequency
+value | frequency
 --- |  ---
 Adverbial	| 40891
 Verbal | 25817
