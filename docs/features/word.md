@@ -6,7 +6,10 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-The word as it appears in the text.
+The word as it appears in the text. 
+
+## Notes
+In terms of the synatax tree this is considered the terminal node.
 
 ## Source description
 

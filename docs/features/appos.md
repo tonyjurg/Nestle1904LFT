@@ -12,8 +12,18 @@ This feature indicates if a wordgroup is the containing wordgroup of an appositi
 
 value | description | Frequency
 ---  | --- | --- 
-` ` | no appositioncontainer | 
-`1` |  appositioncontainer | 
+` ` | no apposition | 46169
+`modifier-scope` | TBD | 29645
+`wrapper-clause-scope` | TBD | 12166
+`wrapper-scope` | TBD | 11264
+`conjuncted-wg` | TBD | 8075
+`group` | TBD | 4957
+`modifier-clause-scope` | TBD |	1712
+`apposition-group` | TBD | 891
+
+## Note
+
+This use and meaning of this feature is not stable (yet) in the source data.
 
 ## Source description
 

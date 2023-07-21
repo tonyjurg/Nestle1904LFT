@@ -6,11 +6,11 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Feature description: Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
+Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
 
 ## Feature values
 
-case 'short' (TBA) | case (this feature) | explanation | Frequency
+case 'short' (TBA?) | case (this feature) | explanation | Frequency
 --- | --- | --- | ---
 acc | accusative | Generaly indicating the direct object of a verb | 23031
 dat | dative | Generaly indicating indirect object of a verb | 12126

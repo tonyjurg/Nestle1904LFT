@@ -12,14 +12,13 @@ Degree of an comparative or superlative adjective.
 
 Value | Description | Frequency
 --- | --- | ---
-Comparitative | Comparitative adjective | 313
-Superlative | Superlative adjective | 200
-'' | Empty for any other adjectives or other wordtypes | 137266
+`comparitative` | Comparitative adjective | 313
+`superlative` | Superlative adjective | 200
+` ` | Empty for any other adjectives or other wordtypes | 137266
 
 ## Source description
 
 Taken from (optional) XML attribute `degree` of tag `w` (word).
 
----
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
