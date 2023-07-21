@@ -14,7 +14,7 @@ Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme
 adj | Adjective | 8452
 adv | adverb (currently missing!) | 6147
 conj | Conjunction | 18227
-det | Determiner | 19786
+det | Determiner (article) | 19786
 intj | Interjection | 15
 noun | Noun | 28455
 num | Numeral | 476
