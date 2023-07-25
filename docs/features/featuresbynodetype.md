@@ -17,7 +17,7 @@ Feature | Feature group | Data type | Description | Examples
 --- | --- | --- | --- | ---
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (fully spelled out) | `Luke`
 [bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated) | `MAT`
-[booknum](booknum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer`  |  NT book number (Matthew=1, ... , Revelation=27) | `3` `8`
+[booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer`  |  NT book number (Matthew=1, ... , Revelation=27) | `3` `8`
 
 ## Chapter nodes 
 
