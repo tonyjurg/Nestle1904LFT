@@ -11,22 +11,21 @@ Types for text objects as they are represented by nodes.
 type | kind | description
 --- |--- |---
 [`word`](featuresbynodetype.md#word-nodes) | slot | single word, fills a *slot*;
-[`Phrase`](phrasenodefeatures.md#readme) | functional | phrase, maybe with gaps
-[`Clause`](clausenodefeatures.md#readme) |functional | clause, maybe with gaps
-[`Sentence`](sentencenodefeatures.md#readme) |functional| clause, maybe with gaps
-[`verse`](versenodefeatures.md#readme) |section | numbered unit of a chapter
-[`chapter`](chapternodefeatures.md#readme) | section | numbered unit of a book
-[`Book`](booknodefeatures.md#readme) | section | named part of the Greek New Testament
+[`wg`](featuresbynodetype.md#wordgroup-nodes) | functional | word groups, maybe with gaps
+[`Sentence`](featuresbynodetype.md#sentence-nodes) |functional| 
+[`verse`](featuresbynodetype.md#verse-nodes) |section | numbered unit of a chapter
+[`chapter`](featuresbynodetype.md#chapter-nodes) | section | numbered unit of a book
+[`Book`](featuresbynodetype.md#book-nodes) | section | named part of the Greek New Testament
 
 All objects have a type, which is just a label.
 Objects and their slots are represented in Text-Fabric as *nodes*.
-The information which object occupies which slot is stored in the edge feature [oslots](oslots.md).
+The information which object occupies which slot is stored in the edge feature [oslots](oslots.md#).
 
 type|description
 ---|---
 [Section types](#section-types) |division in books, chapters, etc.
-[Word type](#word-type)  |all about the individual words
-[Linguistic types](#linguistic-types) |wordgroups (wg), phrases, clauses, etc.
+[Word type](#word-type)  | all about the individual words
+[Linguistic types](#linguistic-types) |wordgroups (wg) that can represent phrases and clauses.
 
 # Section types
 
@@ -34,11 +33,10 @@ The section types correspond to the various divisional units in the Bible.
 The Greek New Testament is divided in books, books are divided in chapters, chapters are divided in verses.
 The sectional types `book`, `chapter`, `verse` specify features which indicate which book, chapter, verse their objects refer to.
 
-A `book` object carries the [book](book.md) feature, which contains the name of the book.
-A `chapter` object carries the [chapter](chapter.md) feature, which contains the number of the chapter.
-It carries also the [book](book.md) feature to indicate the book of which it is a chapter.
-Analogously, the `verse` object carries the [verse](verse.md) feature, which contains the number of the chapter,
-and the [book](book.md) and [chapter](chapter.md) features.
+A `book` object carries the [book](book.md#readme) feature, which contains the name of the book.
+A `chapter` object carries the [chapter](chapter.md#readme) feature, which contains the number of the chapter.
+It carries also the [book](book.md#readme) feature to indicate the book of which it is a chapter.
+Analogously, the `verse` object carries the [verse](verse.md#readme) feature, which contains the number of the chapter, and the [book](book.md#readme) and [chapter](chapter.md#readme) features.
 
 # Word type
 
@@ -52,12 +50,10 @@ with a slot number.
 Word occurrences corresponds to lexemes, i.e. dictionary entries, for which we have a separate object type.
 For the textual representation of lexemes we have a variety of features, in order to get their 
 
-
 # Linguistic types
 
 Linguistic types correspond to syntactical entities such as sentences, clauses and phrases.
-The functional object types are `sentence`, `clause`, and `phrase`.
-They correspond to possibly discontinuous stretches of text that function as a unit.
+The functional object types in this dataset are `sentence` and `wg`; where a wordgroup can function either as a phrase or a clause.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
