@@ -45,6 +45,7 @@ Name | Feature type | Description | Examples
 --- | --- | --- | ---
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
+[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text (in unicode) |
 [word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
 
 ## Morphological features
