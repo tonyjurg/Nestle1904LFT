@@ -68,7 +68,7 @@ Feature | Feature group |Data type | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexeme (lemma) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG |
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification (not present everywhere) |
-[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Monad |
+[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Monad | **WARNING (see feature description)**
 [mood](mood.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical mood of a verb | `indicative` `optative`
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Node ID (as in the XML source data) |
 [normalized](normalized.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Surface word stripped of punctations |
