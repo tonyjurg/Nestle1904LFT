@@ -71,7 +71,8 @@ Name | Feature type | Description | Examples
 [clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `Verbless` `VerbElided`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
 [wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Synctactic role of word | `s` `o` `adv` `aux` 
-[rule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `DetNP` `Conj-CL` `S-V-O`
+[roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | distance to wg describing word function |
+[rule](rule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `DetNP` `Conj-CL` `S-V-O`
 [type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of word | `personal` `common` `demonstrative`
 
 ## Relational features
