@@ -26,7 +26,7 @@ Name | Feature type | Description | Examples
 [book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
 [monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | *to be added?*
-[nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node Id  | `n56001015007`
+[nodeID](nodeID.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node ID  | `n56001015007`
 [num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Sequence number  | `1` `2` ...   
 [verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Verse number inside chapter | `1` `2`
 
