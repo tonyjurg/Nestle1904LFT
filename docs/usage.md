@@ -11,7 +11,6 @@ The following example Jupyter Notebooks contain use cases for this Text-Fabric d
 
 ## Grammatical
 
-* [Differences between formal and functional tags](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/formal_versus_functional_tag.ipynb)
 * [The particles μέν and δέ](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/particles_men_and_de.ipynb)
 * [The use of μονογενής](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/use_of_monogenes.ipynb)
 * [The use of προσκυνέω](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/use_of_proskyneo.ipynb)
