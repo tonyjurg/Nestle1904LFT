@@ -43,10 +43,10 @@ Feature | Feature group | Data type | Short description | Examples
 Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer |
-[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup rule | `ClCl` `ClCl2`
-[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
 [wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class |  `np` `cl`
+[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup level |
 [wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |WordGroup number |
+[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
 [wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |WordGroup type | `Verbless` `VerbElided`
 
 ## Word nodes 
@@ -85,6 +85,8 @@ Feature | Feature group |Data type | Description | Examples
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter | 
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb |
 [word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text |
+[wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text (abbriviated)|
+[wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text |
 
 
 
