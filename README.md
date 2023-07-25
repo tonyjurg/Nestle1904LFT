@@ -12,8 +12,7 @@ The following directories contain the actual Text-Fabric data:
  * [doc](docs/home.md#readme): the documentation for the dataset.
  
  Additionaly provided:
- * [resources](resources#readme): production tools and related files.
- * [data](data#readme): input XML data and related files.
+ * [resources](resources#readme): production tools and related data files.
  * [usecases](docs/usecases#readme): examples of using this Text-Fabric dataset.
  
 See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).
