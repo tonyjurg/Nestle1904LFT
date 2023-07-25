@@ -60,7 +60,6 @@ Feature | Feature group |Data type | Description | Examples
 [booknum](booknum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` |  NT book number (Matthew=1, ...,  Revelation=27) | 
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical case | `nominative` `accusative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book |
-[clause](clause.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Clause number (counted per chapter) | 
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Degree of an comparative or superlative adjective | 
 [morph](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Morphological tag (Sandborg-Petersen morphology) | 
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | English gloss |
@@ -76,17 +75,16 @@ Feature | Feature group |Data type | Description | Examples
 [number](number.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical number of the verb | `plural`
 [orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Word order within corpus | 
 [person](person.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical person of the verb | `first` `second` `third`
-[phrase](phrase.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Phrase number (counted per chapter) | 
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter) | 
 [sp](sp.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Part of Speech (abbreviated) | 
 [sp_full](sp_full.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Part of Speech (long description) | 
 [strongs](strongs.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String`  | Strongs number | 
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String`  | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
-[text](text.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text |
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter | 
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb |
+[word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text |
 
 
 
