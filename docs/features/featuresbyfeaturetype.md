@@ -24,7 +24,7 @@ Name | Feature group | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) |  [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
-[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad | *to be added?*
+[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad | **WARNING (see feature description)**
 [mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical mood of a verb | `indicative` `optative `
 [morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Morphological tag | `V-AAI-3S` `N-GSF`
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Node ID | `n56001015007`
