@@ -43,11 +43,11 @@ Feature | Feature group | Data type | Short description | Examples
 Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer |
-[clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause type information | `VerbElided`
-[cltype](cltype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Clause type | `Verbless` `VerbElided`
-[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Clause rule | `ClCl` `ClCl2`
-[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
+[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup rule | `ClCl` `ClCl2`
+[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
 [wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class |  `np` `cl`
+[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |WordGroup number |
+[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |WordGroup type | `Verbless` `VerbElided`
 
 ## Word nodes 
 
