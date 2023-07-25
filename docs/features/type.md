@@ -23,6 +23,9 @@ proper | Name of a person, place, thing, etc. | 4639
 relative |  | 1674
 '' | Empty for wordtypes other than noun or pronoun | 93321
 
+## Source description
+
+Taken from (optional) XML attribute `type` of tag `w` (word).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
