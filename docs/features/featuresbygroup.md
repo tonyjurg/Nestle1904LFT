@@ -26,7 +26,7 @@ Name | Feature type | Description | Examples
 [book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
 [monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | *to be added?*
-[nodeId](nodeId.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node Id  | `n56001015007`
+[nodeID](nodeID.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node ID  | `n56001015007`
 [num](num.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Sequence number  | `1` `2` ...   
 [verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Verse number inside chapter | `1` `2`
 
@@ -71,7 +71,8 @@ Name | Feature type | Description | Examples
 [clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `Verbless` `VerbElided`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
 [wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Synctactic role of word | `s` `o` `adv` `aux` 
-[rule](crule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `DetNP` `Conj-CL` `S-V-O`
+[roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | distance to wg describing word function |
+[rule](rule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `DetNP` `Conj-CL` `S-V-O`
 [type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of word | `personal` `common` `demonstrative`
 
 ## Relational features

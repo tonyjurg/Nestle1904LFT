@@ -46,8 +46,8 @@ typeDisplay:
       - strongs
 
 provenanceSpec:
-  corpus: "Nestle 1904 (LowFat Tree)"
-  version: "0.3"
+  corpus: "Nestle 1904 (Low Fat Tree)"
+  version: "0.4"
   org: "tonyjurg"
   repro: "Nestle1904LFT"
 

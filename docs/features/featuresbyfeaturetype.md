@@ -17,7 +17,6 @@ Name | Feature group | Description | Examples
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
 [clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `VerbElided` `Verbless`
-[cls](cls.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Word and WordGroup class (Part of Speech) | `noun` `verb` / `np` `cl`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical gender | `masculine` `feminine` `neuter`
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | English gloss | 
@@ -28,14 +27,14 @@ Name | Feature group | Description | Examples
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad | *to be added?*
 [mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical mood of a verb | `indicative` `optative `
 [morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Morphological tag | `V-AAI-3S` `N-GSF`
-[nodeId](nodeId.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Node Id | `n56001015007`
+[nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Node ID | `n56001015007`
 [normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Surface word stripped of punctations |
 [nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical number| `singular` `plural`
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | node type data | 
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
 [ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
-[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | `v` `o` `s` `adv`
-[rule](crule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup Clause rule | `ClCl` `ClCl2`
+[roleclausedistance](roleclausedistance.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | distance to wg describing word function|
+[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup Clause rule | `ClCl` `ClCl2`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
