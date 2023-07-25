@@ -10,7 +10,7 @@ NT book number.
 
 ## Feature values
 
-Book number (this feature) | Book short name ([feature: book_short](book_short.md#readme)) | Book full name ([feature: book_long](book_long.md#readme))
+Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#readme)) | Book full name ([feature: book_long](book_long.md#readme))
 --- | --- | --- 
 1 | Matt | Matthew
 2 | Mark | Mark
