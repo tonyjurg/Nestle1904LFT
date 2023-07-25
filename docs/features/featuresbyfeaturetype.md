@@ -33,7 +33,7 @@ Name | Feature group | Description | Examples
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | node type data | 
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
 [ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
-[role](role.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Syntactic role | `v` `o` `s` `adv`
+[roleclausedistance](roleclausedistance.tf.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | distance to wg describing word function|
 [rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup Clause rule | `ClCl` `ClCl2`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
