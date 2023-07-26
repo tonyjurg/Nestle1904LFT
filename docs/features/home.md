@@ -1,6 +1,8 @@
 # All Nestle1904LFT Text-Fabric Corpus Features
 
-The full featureset can be viewed by different grouping methods:
+In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
+
+The full featureset of this Text-Fabric dataset can be viewed by different grouping methods:
 * [Grouped by feature type](featuresbyfeaturetype.md)
      * [`Node`](featuresbyfeaturetype.md#node-features): the fundamental units or entities in the data model.
      * [`Edge`](featuresbyfeaturetype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
