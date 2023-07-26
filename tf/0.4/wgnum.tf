@@ -16,7 +16,7 @@
 @description=Wordgroup number (counted per book)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T12:58:16Z
+@dateWritten=2023-07-26T14:08:43Z
 
 154021	1
 2

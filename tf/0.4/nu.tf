@@ -16,7 +16,7 @@
 @description=Gramatical number (Singular, Plural)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T12:58:13Z
+@dateWritten=2023-07-26T14:08:41Z
 
 singular
 singular

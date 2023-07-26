@@ -16,7 +16,7 @@
 @description=Class of the wordgroup ()
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T12:58:16Z
+@dateWritten=2023-07-26T14:08:43Z
 
 154021	to be skipped?
 cl

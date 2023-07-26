@@ -16,7 +16,7 @@
 @description=Role of the wordgroup (abbreviated)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T12:58:16Z
+@dateWritten=2023-07-26T14:08:44Z
 
 154021	
 
