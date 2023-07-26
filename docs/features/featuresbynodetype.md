@@ -43,12 +43,12 @@ Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer information | `conjuncted-wg` `modifier-scope`
 [junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Junction information | `coordinate` `subordinate` 
-[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class |  `np` `cl`
-[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup level |
-[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |WordGroup number |
-[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
-[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Rule wordgroup | 
-[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |WordGroup type | `Verbless` `VerbElided`
+[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup class |  `np` `cl`
+[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup level |
+[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |Wordgroup number |
+[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup role | `s` `o` `apposition`
+[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup rule | 
+[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup type | `Verbless` `VerbElided`
 
 ## Word nodes 
 
