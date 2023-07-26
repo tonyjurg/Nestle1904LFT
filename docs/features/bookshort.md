@@ -10,7 +10,7 @@ Short book abbreviation
 
 ## Feature values
 
-Bookshort (this feature) | Full name of book ([feature: book_long](book_long.md#readme)) | Number ([feature: booknum](booknum.md#readme))
+Bookshort (this feature) | Full name of book ([feature: book](book.md#readme)) | Number ([feature: booknumber](booknumber.md#readme))
 --- | --- | --- 
 Matt | Matthew | 1
 Mark | Mark | 2
