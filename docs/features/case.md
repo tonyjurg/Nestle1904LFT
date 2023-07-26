@@ -10,14 +10,14 @@ Gramatical case for wordtypes noun, pronoun, adjective, article, or participle.
 
 ## Feature values
 
-case 'short' (TBA?) | case (this feature) | explanation | Frequency
---- | --- | --- | ---
-acc | accusative | Generaly indicating the direct object of a verb | 23031
-dat | dative | Generaly indicating indirect object of a verb | 12126
-gen | genitive | Generaly indicating possesion | 19515
-nom | nominative | Generaly indicating the subject | 24197
-voc | vocative | Adressee of speech | 649
-'' | '' | Empty for any other word type | 58261
+Value | Description | Frequency
+--- | --- | ---
+accusative | Generaly indicating the direct object of a verb | 23031
+dative | Generaly indicating indirect object of a verb | 12126
+genitive | Generaly indicating possesion | 19515
+nominative | Generaly indicating the subject | 24197
+vocative | Adressee of speech | 649
+'' | Empty for any other word type | 58261
 
 ## Source description
 
