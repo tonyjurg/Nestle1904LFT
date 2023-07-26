@@ -13,10 +13,10 @@ Word Group type
 Value | Description | Frequency
 --- |  --- | ---
 
-## Notes
-
 
 ## Source description
+
+Taken from (optional) XML attribute `type` of tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
