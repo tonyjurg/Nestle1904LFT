@@ -13,16 +13,16 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 ## Grid features
 
-Name|Feature type|Available on node|Description|Examples
----|---|---|---|---
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
 [oslots](oslots.md) | [`Config`](featuresbyfeaturetype.md#config-features) | - | slot containment | `1` `1-11` `2010-2015,2020-2030`
 [otext](otext.md) | [`Config`](featuresbyfeaturetype.md#config-features) |  - |  configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
 [otype](otype.md) | [`Node`](featuresbyfeaturetype.md#node-features) |  | node type | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
 
-Name|Feature type|Available on node|Description|Examples
----|---|---|---|---
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
 [book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) | Chapter number inside book | `1` `2` ...
 [monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Monad (word order in corpus) | `1` .. `137779`
@@ -32,37 +32,37 @@ Name|Feature type|Available on node|Description|Examples
 
 ## Lexical features
 
-Name| Feature type | Description | Examples
----|---|---|---
-[gloss](gloss.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | English gloss | `faith`
-[lemma](lemma.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical lemma (cf. BDAG) |
-[lex_dom](lex_dom.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical domain according to SDBG | `092004`
-[ln](ln.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Louw-Nida lexical classification | `93.169a`
-[strongs](strongs.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Strongs number | `5547`
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
+[gloss](gloss.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | English gloss | `faith`
+[lemma](lemma.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Lexical lemma (cf. BDAG) |
+[lex_dom](lex_dom.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Lexical domain according to SDBG | `092004`
+[ln](ln.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Louw-Nida lexical classification | `93.169a`
+[strongs](strongs.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Strongs number | `5547`
 
 ## Orthograpic features
 
-Name | Feature type | Description | Examples
---- | --- | --- | ---
-[after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
-[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
-[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text (in unicode) |
-[word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
+[after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Space or punctuation after word | ` ` `.`
+[normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Surface word stripped of punctations |
+[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text (in unicode) |
+[word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text | 
 
 ## Morphological features
 
-Name | Feature type |Description | Examples
---- | --- | --- | ---
-[case](case.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical case | `nominative` `genitive` `dative`
-[degree](degree.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
-[gn](gn.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical gender | `masculine` `feminine` `neuter`
-[mood](mood.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical mood of a verb | `indicative` `optative `
-[morph](morph.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Morphological tag | `V-AAI-3S` `N-GSF`
-[number](number.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical number | `singular` `plural`
-[person](person.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical person | `first` `second` `third`
-[tense](tense.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical tense of the verb | `present` `aorist`
-[type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical type of noun or pronoun | `common` `personal`
-[voice](voice.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Gramatical voice of the verb | `active` `passive`
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
+[case](case.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical case | `nominative` `genitive` `dative`
+[degree](degree.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Degree of an comparative or superlative adjective | `superlative` `comparative`
+[gn](gn.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical gender | `masculine` `feminine` `neuter`
+[mood](mood.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical mood of a verb | `indicative` `optative `
+[morph](morph.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Morphological tag | `V-AAI-3S` `N-GSF`
+[number](number.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical number | `singular` `plural`
+[person](person.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical person | `first` `second` `third`
+[tense](tense.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical tense of the verb | `present` `aorist`
+[type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical type of noun or pronoun | `common` `personal`
+[voice](voice.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical voice of the verb | `active` `passive`
 
 ## Syntactic features
 
