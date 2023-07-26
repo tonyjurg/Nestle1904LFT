@@ -34,7 +34,7 @@ Name | Feature type | Description | Examples
 
 Name| Feature type | Description | Examples
 ---|---|---|---
-[gloss](gloss.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | English gloss | 
+[gloss](gloss.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | English gloss | `faith`
 [lemma](lemma.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Louw-Nida lexical classification | `93.169a`
