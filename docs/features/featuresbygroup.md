@@ -45,6 +45,7 @@ Name | Feature type | Description | Examples
 --- | --- | --- | ---
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Space or punctuation after word | ` ` `.`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Surface word stripped of punctations |
+[unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text (in unicode) |
 [word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word as it appears in the text | 
 
 ## Morphological features
@@ -71,8 +72,8 @@ Name | Feature type | Description | Examples
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
 [wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Synctactic role of word | `s` `o` `adv` `aux` 
 [roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | distance to wg describing word function |
-[rule](rule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause rule | `ClCl` `DetNP` `Conj-CL` `S-V-O`
-[type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Syntactical type of word | `personal` `common` `demonstrative`
+[wgrole](wgrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word Group role | `ClCl` `DetNP` `Conj-CL` `S-V-O`
+
 
 ## Relational features
 

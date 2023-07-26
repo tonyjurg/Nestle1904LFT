@@ -39,8 +39,14 @@ Name | Feature group | Description | Examples
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | Gramatical type of noun or pronoun | `common` `personal`
+[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text (in unicode)| 
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical voice of the verb | `active` `passive`
+[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class |  `np` `cl`
+[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup level |
+[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |WordGroup number |
+[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
+[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |WordGroup type | `Verbless` `VerbElided`
 [word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | 
 [wordlevel](wordlevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Number of parent wordgroups for a word | 
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Role of the word (abbreviated) | 
