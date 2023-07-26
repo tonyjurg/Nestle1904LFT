@@ -47,6 +47,7 @@ Feature | Feature group |  Data type | Description | Examples
 [wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup level |
 [wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |WordGroup number |
 [wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
+[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Rule wordgroup | 
 [wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |WordGroup type | `Verbless` `VerbElided`
 
 ## Word nodes 
