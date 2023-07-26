@@ -25,8 +25,9 @@ Name | Feature type | Description | Examples
 ---|---|---|---
 [book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
-[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad | **WARNING (see feature description)**
+[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad (word order in corpus) | `1` .. `137779`
 [nodeID](nodeID.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node ID  | `n56001015007`
+[orig_order](orig_order.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Orig Order (word order in XML file)  | `1` .. `137779`
 [verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Verse number inside chapter | `1` `2`
 
 ## Lexical features
