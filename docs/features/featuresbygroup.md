@@ -72,7 +72,7 @@ Name | Feature type | Available on node | Description | Examples
 [wgtype](wgtype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup type information | `Verbless` `VerbElided`
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) |Junction information | `coordinate` `subordinate`
 [wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Synctactic role of word | `s` `o` `adv` `aux` 
-[roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | distance to wg describing word function |
+[roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | distance to wg describing word function | `1` `3`
 [wgrole](wgrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Word Group role | `ClCl` `DetNP` `Conj-CL` `S-V-O`
 
 
