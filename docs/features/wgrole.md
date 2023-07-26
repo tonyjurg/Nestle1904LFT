@@ -6,17 +6,19 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description 
 
-Role of the wordgroup
+Word Group role
 
 ## Feature values
-
 
 Value | Description | Frequency
 --- |  --- | ---
 
+## Notes
 
+See also feature [wgrolelong](wgrolelong.md#readme)
 
 ## Source description
+
 
 
 ---
