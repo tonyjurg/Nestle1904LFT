@@ -1,16 +1,16 @@
-# Feature: rule
+# Feature: wgrule
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String` | [`wg`](featuresbynodetype.md#wordgroup-nodes)
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `String`  | [`wg`](featuresbynodetype.md#wordgroup-nodes)
 
-## Feature description
+## Feature description 
 
-Word group rule
+Word Group rule
 
 ## Feature values
 
-There are almost countless number of values possible. The list below will provide the top 25.
+here are almost countless number of values possible. The list below will provide the top 25.
 
 value | explanation | Frequency
 --- | --- | ---
@@ -47,6 +47,5 @@ See also the related feature [junction](junction.md#readme).
 ## Source description
 
 Taken from (optional) XML attribute `rule` of tag `wg` (wordgroup).
-
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*

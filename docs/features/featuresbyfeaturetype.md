@@ -35,7 +35,6 @@ Name | Feature group | Description | Examples
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
 [ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
 [roleclausedistance](roleclausedistance.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | distance to wg describing word function|
-[rule](rule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup Clause rule | `ClCl` `ClCl2`
 [strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
@@ -43,11 +42,12 @@ Name | Feature group | Description | Examples
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text (in unicode)| `λόγος`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical voice of the verb | `active` `passive`
-[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup class |  `np` `cl`
-[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | WordGroup level |
-[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |WordGroup number | `34`
-[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Role wordgroup | `s` `o` `apposition`
-[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |WordGroup type | `Verbless` `VerbElided`
+[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup class |  `np` `cl`
+[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup level |
+[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Wordgroup number | `34`
+[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup role  | `s` `o` `apposition`
+[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup rule | `ClCl` `ClCl2`
+[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup type | `Verbless` `VerbElided`
 [word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | `λόγος`
 [wordlevel](wordlevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Number of parent wordgroups for a word | 
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Role of the word (abbreviated) | 
