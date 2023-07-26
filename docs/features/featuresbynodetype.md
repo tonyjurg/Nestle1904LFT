@@ -55,7 +55,6 @@ Feature | Feature group |Data type | Description | Examples
 --- | --- | --- | --- | ---
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | space or punctuation after word | 
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Short book abbreviation | 
-[book_long](book_long.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |  Book name (fully spelled out) |
 [bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated) | 
 [booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` |  NT book number (Matthew=1, ...,  Revelation=27) | 
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical case | `nominative` `accusative`
