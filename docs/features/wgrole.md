@@ -12,10 +12,20 @@ Word Group role
 
 Value | Description | Frequency
 --- |  --- | ---
-
-## Notes
-
-See also feature [wgrolelong](wgrolelong.md#readme)
+` ` | | 77251
+`adv` || 16710
+`o` || 9329
+`s` || 6710
+`p` || 1770
+`io` || 702
+`v` ||405
+`aux` || 360
+`o2` || 171
+`topic` || 25
+`vc` || 10
+`ellipsis` || 2
+`err_clause-complex-met-no-conditionsClCl2` || 1
+`tail` || 1
 
 ## Source description
 
