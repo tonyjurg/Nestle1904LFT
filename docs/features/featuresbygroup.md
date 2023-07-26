@@ -13,22 +13,22 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 ## Grid features
 
-Name | Feature type | Description| Examples
----|---|---| ---
-[oslots](oslots.md) | [`Config`](featuresbyfeaturetype.md#config-features)  | slot containment | `1` `1-11` `2010-2015,2020-2030`
-[otext](otext.md) | [`Config`](featuresbyfeaturetype.md#config-features) | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
-[otype](otype.md) | [`Node`](featuresbyfeaturetype.md#node-features) | node type | `book` `verse` `clause` `phrase` `word`
+Name|Feature type|Available on node|Description|Examples
+---|---|---|---|---
+[oslots](oslots.md) | [`Config`](featuresbyfeaturetype.md#config-features) | - | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[otext](otext.md) | [`Config`](featuresbyfeaturetype.md#config-features) |  - |  configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
+[otype](otype.md) | [`Node`](featuresbyfeaturetype.md#node-features) |  | node type | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
 
-Name | Feature type | Description | Examples
----|---|---|---
-[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Short book name | `MAT` `MAR` ... `REV`
-[chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Chapter number inside book | `1` `2` ...
-[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Monad (word order in corpus) | `1` .. `137779`
-[nodeID](nodeID.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Node ID  | `n56001015007`
-[orig_order](orig_order.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Orig Order (word order in XML file)  | `1` .. `137779`
-[verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Verse number inside chapter | `1` `2`
+Name|Feature type|Available on node|Description|Examples
+---|---|---|---|---
+[book](book.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes) | Short book name | `MAT` `MAR` ... `REV`
+[chapter](chapter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) | Chapter number inside book | `1` `2` ...
+[monad](monad.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Monad (word order in corpus) | `1` .. `137779`
+[nodeID](nodeID.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Node ID  | `n56001015007`
+[orig_order](orig_order.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Orig Order (word order in XML file)  | `1` .. `137779`
+[verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`verse`](featuresbynodetype.md#verse-nodes)| Verse number inside chapter | `1` `2`
 
 ## Lexical features
 
