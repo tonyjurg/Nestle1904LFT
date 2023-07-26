@@ -19,7 +19,7 @@ See also feature [wgrolelong](wgrolelong.md#readme)
 
 ## Source description
 
-
+Taken from (optional) XML attribute `role` of tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
