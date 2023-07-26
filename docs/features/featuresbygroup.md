@@ -62,24 +62,23 @@ Name | Feature type | Available on node | Description | Examples
 [person](person.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical person | `first` `second` `third`
 [tense](tense.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical type of noun or pronoun | `common` `personal`
-[voice](voice.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) |Gramatical voice of the verb | `active` `passive`
+[voice](voice.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical voice of the verb | `active` `passive`
 
 ## Syntactic features
 
-Name | Feature type | Description | Examples
---- | --- | --- | ---
-[appos](appos.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Appostioncontainer information | `conjuncted-wg` `modifier-scope` 
-[clausetype](clausetype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Clause type information | `Verbless` `VerbElided`
-[junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Junction information | `coordinate` `subordinate`
-[wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Synctactic role of word | `s` `o` `adv` `aux` 
-[roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | distance to wg describing word function |
-[wgrole](wgrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | Word Group role | `ClCl` `DetNP` `Conj-CL` `S-V-O`
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
+[appos](appos.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Appostioncontainer information | `conjuncted-wg` `modifier-scope` 
+[wgtype](wgtype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup type information | `Verbless` `VerbElided`
+[junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) |Junction information | `coordinate` `subordinate`
+[wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Synctactic role of word | `s` `o` `adv` `aux` 
+[roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | distance to wg describing word function |
+[wgrole](wgrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Word Group role | `ClCl` `DetNP` `Conj-CL` `S-V-O`
 
 
 ## Relational features
 
-Name | Feature type |Description | Example
---- | --- | --- | ---
-[ref](ref.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Referent | `n40001011005`
-[subj_ref](subj_ref.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | Subject reference |
+Name | Feature type | Available on node | Description | Examples
+--- | --- | --- | --- | ---
+[subj_ref](subj_ref.md#readme) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
 
