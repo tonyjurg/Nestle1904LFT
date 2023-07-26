@@ -17,7 +17,7 @@ value | Description | Frequency
 ` `  | empty | 96958
 
 ## Note
-See also the related feature [rule](rule.md).
+See also the related feature [wgrule](wgrule.md#readme).
 
 ## Source description
 
