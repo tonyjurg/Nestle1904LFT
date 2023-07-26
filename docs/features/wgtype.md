@@ -12,7 +12,9 @@ Word Group type
 
 Value | Description | Frequency
 --- |  --- | ---
-
+` ` | | 100949
+`group` | | 9699
+`apposition` | | 2799
 
 ## Source description
 
