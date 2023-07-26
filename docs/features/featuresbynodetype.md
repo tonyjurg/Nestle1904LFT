@@ -73,8 +73,7 @@ Feature | Feature group |Data type | Description | Examples
 [normalized](normalized.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Surface word stripped of punctations |
 [nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical number | `singular` `plural`
 [number](number.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical number of the verb | `plural`
-[orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Orig Order (word order in XML file)  | `1` .. `137779`
-[orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Word order within corpus | 
+[orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Orig Order (word order in XML file) | `1` .. `137779`
 [person](person.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical person of the verb | `first` `second` `third`
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter) | 
 [sp](sp.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Part of Speech (abbreviated) | 
