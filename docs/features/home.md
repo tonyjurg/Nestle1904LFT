@@ -1,6 +1,24 @@
 # All Nestle1904LFT Text-Fabric Corpus Features
 
-The full featureset can be viewed by different grouping methods:
-* [grouped by feature type](featuresbyfeaturetype.md): [`Node`](featuresbyfeaturetype.md#node-features) (e.g. `Word`), [`Edge`](featuresbyfeaturetype.md#edge-features), and [`Config`](featuresbyfeaturetype.md#config-features).   
-* [grouped by feature group](featuresbygroup.md): [`Grid`](featuresbygroup.md#grid-features), [`Sectional`](featuresbygroup.md#sectional-features), [`Lexical`](featuresbygroup.md#lexical-features), [`Orthograpic`](featuresbygroup.md#Orthograpic-features), [`Morphological`](featuresbygroup.md#morphological-features), [`Syntactic`](featuresbygroup.md#syntactic-features), and [`Relational`](featuresbygroup.md#relational-features).
-* [grouped by node type](featuresbynodetype.md): [`word`](featuresbynodetype.md#word-nodes), [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup), [`sentence`](featuresbynodetype.md#sentence-nodes), [`verse`](featuresbynodetype.md#verse-nodes), [`chapter`](featuresbynodetype.md#chapter-nodes), and [`book`](featuresbynodetype.md#book-nodes).  
+In Text-Fabric, a "feature" refers to attributes associated with nodes, which represent linguistic elements in the text, including words, word groups, sentences, and verses. These features contain additional information specific to these nodes, facilitating diverse linguistic analyses and data extraction.
+
+The full featureset of this Text-Fabric dataset can be viewed by different grouping methods:
+* [Grouped by feature type](featuresbyfeaturetype.md)
+     * [`Node`](featuresbyfeaturetype.md#node-features): the fundamental units or entities in the data model.
+     * [`Edge`](featuresbyfeaturetype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
+     * [`Config`](featuresbyfeaturetype.md#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
+* [Grouped by feature group](featuresbygroup.md):
+     * [`Grid`](featuresbygroup.md#grid-features): pertains to the arrangement and organization of the data.
+     * [`Sectional`](featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
+     *  [`Lexical`](featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
+     *  [`Orthograpic`](featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
+     *  [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
+     *  [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
+     *  [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
+* [Grouped by node type](featuresbynodetype.md):
+     *  [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
+     *  [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
+     *  [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
+     *  [`verse`](featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
+     *  [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
+     *  [`book`](featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.

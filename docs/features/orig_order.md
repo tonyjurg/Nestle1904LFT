@@ -6,12 +6,15 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-Word order within corpus.
+Word order as it is found in the XML Low Fat Tree implementation of the corpus.
 
 ## Feature values
 
-Value | Description | Frequency
---- | --- | ---
+A running number between 1 and 137779.
+
+## Note
+
+See also feature [monad](monad.md#readme).
 
 ## Source description
 

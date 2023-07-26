@@ -24,12 +24,13 @@ Name | Feature group | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) |  [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
-[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad | **WARNING (see feature description)**
+[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad (word order in corpus)| `1` .. `137779`
 [mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical mood of a verb | `indicative` `optative `
 [morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Morphological tag | `V-AAI-3S` `N-GSF`
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Node ID | `n56001015007`
 [normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Surface word stripped of punctations |
 [nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical number| `singular` `plural`
+[orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Orig Order (word order in XML file)  | `1` .. `137779`
 [otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | node type data | 
 [person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
 [ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
