@@ -10,7 +10,7 @@ Book name (fully spelled out).
 
 ## Feature values
 
-Book ([feature: bookshort](bookshort.md#readme)) | Full name of book  (this feature) | Number ([feature: booknum](booknum.md#readme))
+Book ([feature: bookshort](bookshort.md#readme)) | Full name of book  (this feature) | Number ([feature: booknumber](booknumber.md#readme))
 --- | --- | --- 
 Matt | Matthew | 1
 Mark | Mark | 2
