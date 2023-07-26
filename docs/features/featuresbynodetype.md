@@ -24,7 +24,6 @@ Feature | Feature group | Data type | Description | Examples
 Feature | Feature group | Data type | Description  | Examples
 --- | --- | --- | --- | ---
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Chapter | `1` `28`
-[num](num.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book |
 
 ## Verse nodes 
 
