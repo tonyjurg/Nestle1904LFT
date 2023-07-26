@@ -73,9 +73,11 @@ Name | Feature type | Available on node | Description | Examples
 [junction](junction.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) |Junction information | `coordinate` `subordinate`
 [wordrole](wordrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Synctactic role of word | `s` `o` `adv` `aux` 
 [roleclausedistance](roleclausedistance.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | distance to wg describing word function | `1` `3`
-[wgrole](wgrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Word Group role | `ClCl` `DetNP` `Conj-CL` `S-V-O`
-[wgrolelong](wgrolelong.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Word Group role (full)| 
-[wgtype](wgtype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup type information | `Verbless` `VerbElided`
+[wgclass](wgclass.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup class | 
+[wgrole](wgrole.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup role | `ClCl` `DetNP` `Conj-CL` `S-V-O`
+[wgrolelong](wgrolelong.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup role (full)| 
+[wgrule](wgrule.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup rule | 
+[wgtype](wgtype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup type | `Verbless` `VerbElided`
 
 ## Relational features
 
