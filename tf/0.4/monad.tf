@@ -13,10 +13,10 @@
 @Title=Greek New Testament (Nestle1904LFT)
 @XML source date=June 28, 2023
 @XML source location=https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml/20230628
-@description=Monad (currently: order of words in XML tree file!)
+@description=Monad (word order in the corpus)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:40Z
+@dateWritten=2023-07-26T16:23:13Z
 
 1
 2

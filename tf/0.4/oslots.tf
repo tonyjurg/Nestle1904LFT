@@ -15,7 +15,7 @@
 @XML source location=https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml/20230628
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:44Z
+@dateWritten=2023-07-26T16:23:18Z
 
 137780	1-18299
 18300-29576

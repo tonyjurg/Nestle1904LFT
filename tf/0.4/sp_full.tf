@@ -16,7 +16,7 @@
 @description=Part of Speech (long description)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:42Z
+@dateWritten=2023-07-26T16:23:15Z
 
 Noun
 Noun

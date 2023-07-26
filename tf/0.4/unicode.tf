@@ -16,7 +16,7 @@
 @description=Word as it arears in the text in Unicode (incl. punctuations)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:43Z
+@dateWritten=2023-07-26T16:23:16Z
 
 Βίβλος
 γενέσεως

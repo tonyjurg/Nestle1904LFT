@@ -16,7 +16,7 @@
 @description=NT book number (Matthew=1, Mark=2, ..., Revelation=27)
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:38Z
+@dateWritten=2023-07-26T16:23:12Z
 
 1
 1

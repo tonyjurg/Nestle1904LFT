@@ -16,7 +16,7 @@
 @description=Strongs number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:42Z
+@dateWritten=2023-07-26T16:23:15Z
 
 976
 1078

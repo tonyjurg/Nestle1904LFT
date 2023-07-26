@@ -16,7 +16,7 @@
 @description=number of parent wordgroups for a word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-26T14:08:44Z
+@dateWritten=2023-07-26T16:23:17Z
 
 4
 5
