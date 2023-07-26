@@ -16,7 +16,7 @@
 @description=Gramatical gender (Masculine, Feminine, Neuter)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-25T15:45:26Z
+@dateWritten=2023-07-26T12:58:12Z
 
 feminine
 feminine

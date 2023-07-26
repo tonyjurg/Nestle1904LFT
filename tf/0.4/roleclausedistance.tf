@@ -16,7 +16,7 @@
 @description=distance to wordgroup defining the role of this word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-25T15:45:28Z
+@dateWritten=2023-07-26T12:58:14Z
 
 1
 2

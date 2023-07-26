@@ -16,7 +16,7 @@
 @description=Wordgroup type details
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-25T15:45:31Z
+@dateWritten=2023-07-26T12:58:16Z
 
 154021	
 

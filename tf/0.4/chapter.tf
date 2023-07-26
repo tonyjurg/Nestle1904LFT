@@ -16,7 +16,7 @@
 @description=Chapter number inside book
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2023-07-25T15:45:26Z
+@dateWritten=2023-07-26T12:58:11Z
 
 1
 1
