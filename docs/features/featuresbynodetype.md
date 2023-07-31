@@ -67,6 +67,9 @@ Feature | Feature group |Data type | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexeme (lemma) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG | `092004`
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification | `93.169a`
+[markafter](markafter.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker after word | `-`, `)`, `]` , `]]`
+[markbefore](markbefore.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker before word| `-`, `(`, `[`, `[[`
+[markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Order of punctuation and text critical marker | ` `, `0`,  .. `3`
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Monad (word order in corpus) | `1` .. `137779`
 [mood](mood.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical mood of a verb | `indicative` `optative`
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Node ID (as in the XML source data) |
