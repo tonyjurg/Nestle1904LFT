@@ -8,6 +8,15 @@ Feature group | Feature type | Data type | Available for node types
 
 Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
 
+## Note
+
+Use the option `fmt='text-normalized'` to print results in transliterated format. Following example will print Mark 1:1 in normalized format:
+
+<pre>
+T.text(139200,fmt='text-normalized')
+Ἀρχή τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ Υἱοῦ Θεοῦ. 
+</pre>
+
 ## Source description
 
 Taken from XML attribute `normalized` of tag `w` (word).
