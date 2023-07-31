@@ -55,6 +55,8 @@ Name | Feature group | Description | Examples
 [wordlevel](wordlevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Number of parent wordgroups for a word | 
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Role of the word (abbreviated) | 
 [wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)| Role of the word (full) | 
+[wordtranslit](wordtranslit.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word transliterated to Latin characters| `logos`
+[wordunacc](wordunacc.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word without accents| `λογος`
 
 ## Edge features
 

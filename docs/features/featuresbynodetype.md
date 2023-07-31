@@ -91,7 +91,9 @@ Feature | Feature group |Data type | Description | Examples
 [word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text | `λόγος`
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text (abbriviated)|
 [wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text |
-
+[word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text | `λόγος`
+[wordtranslit](wordtranslit.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word transliterated to Latin characters| `logos`
+[wordunacc](wordunacc.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word without accents| `λογος`
 
 
  
