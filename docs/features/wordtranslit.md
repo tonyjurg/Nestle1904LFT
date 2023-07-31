@@ -17,6 +17,7 @@ T.text(139200,fmt='text-transliterated')
 Arkhe tou euaggeliou Iesou Khristou Uiou Theou. 
 </pre>
 
+See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb).
 
 ## Source description
 
