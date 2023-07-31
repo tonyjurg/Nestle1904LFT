@@ -17,6 +17,8 @@ T.text(139200,fmt='text-unaccented')
 Αρχη του ευαγγελιου Ιησου Χριστου Υιου Θεου. 
 </pre>
 
+See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb).
+
 ## Source description
 
 Calculated from XML attribute `unicode` of tag `w` (word).
