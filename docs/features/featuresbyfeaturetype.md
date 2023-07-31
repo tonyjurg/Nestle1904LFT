@@ -24,6 +24,9 @@ Name | Feature group | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) |  [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
+
+Name | Feature group | Description | Examples
+--- | --- | --- | ---
 [markafter](markafter.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker after word | `-`, `)`, `]` 
 [markbefore](markbefore.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker before word| `-`, `(`, `[`
 [markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Order of punctuation and text critical marker | ` `, `0`,  .. `3`
@@ -42,6 +45,9 @@ Name | Feature group | Description | Examples
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | Gramatical type of noun or pronoun | `common` `personal`
+
+Name | Feature group | Description | Examples
+--- | --- | --- | ---
 [unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text (in unicode)| `λόγος`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical voice of the verb | `active` `passive`
