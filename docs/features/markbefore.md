@@ -18,6 +18,15 @@ markbefore | Description | Frequency
 `[[` |Double opening square brackets | 7
 `[` |Single opening square bracket | 1
 
+## Note
+
+Use the option `fmt='text-critical'` to print the text including text critical marks, see following example from Mark 1:1.
+
+<pre>
+T.text(139200,fmt='text-critical')
+Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ (Υἱοῦ Θεοῦ). 
+</pre>
+
 ## Source description
 
 Computed based upon from XML attribute `unicode` of tag `w` (word).
