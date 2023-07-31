@@ -8,6 +8,15 @@ Feature group | Feature type | Data type | Available for node types
 
 Unaccented Greek text (diacritics removed).
 
+## Note
+
+Use the option `fmt='text-unaccented'` to print results in unaccented format, Following example will print Mark 1:1 in uaccented format:
+
+<pre>
+T.text(139200,fmt='text-unaccented')
+Αρχη του ευαγγελιου Ιησου Χριστου Υιου Θεου. 
+</pre>
+
 ## Source description
 
 Calculated from XML attribute `unicode` of tag `w` (word).
