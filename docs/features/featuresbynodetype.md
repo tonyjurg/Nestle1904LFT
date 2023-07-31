@@ -67,6 +67,9 @@ Feature | Feature group |Data type | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexeme (lemma) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG | `092004`
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification | `93.169a`
+
+Feature | Feature group |Data type | Description | Examples
+--- | --- | --- | --- | ---
 [markafter](markafter.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker after word | `-`, `)`, `]` , `]]`
 [markbefore](markbefore.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker before word| `-`, `(`, `[`, `[[`
 [markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Order of punctuation and text critical marker | 
@@ -82,6 +85,9 @@ Feature | Feature group |Data type | Description | Examples
 [sp](sp.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Part of Speech (abbreviated) | 
 [sp_full](sp_full.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Part of Speech (long description) | 
 [strongs](strongs.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String`  | Strongs number | 
+
+Feature | Feature group |Data type | Description | Examples
+--- | --- | --- | --- | ---
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String`  | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
