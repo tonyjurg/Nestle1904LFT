@@ -18,6 +18,17 @@ markorder | Description | Frequency
 `2` | Mark is after word, punctuations is after mark | 10
 `3` | Mark is after word, punctuations is before mark | 32
 
+## Note
+
+Use the option `fmt='text-critical'` to print the text including text critical marks, see following example from Mark 1:1.
+
+<pre>
+T.text(139200,fmt='text-critical')
+Ἀρχὴ τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ (Υἱοῦ Θεοῦ). 
+</pre>
+
+See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb).
+
 ## Source description
 
 Computed based upon from XML attribute `unicode` of tag `w` (word).
