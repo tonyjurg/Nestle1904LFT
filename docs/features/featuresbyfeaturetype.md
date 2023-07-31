@@ -23,10 +23,10 @@ Name | Feature group | Description | Examples
 [junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Junction information | `coordinate` `subordinate` 
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
-[ln](ln.md#readme) |  [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
-[markafter](markafter.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker after word | `-`, `)`
-[markbefore](markbefore.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker before word| `-`, `(`
-[markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Order of punctuation and text critical marker | ` `, `0`,  .. `3`
+[ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
+[markafter](markafter.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker after word | `-` `)`
+[markbefore](markbefore.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker before word| `-` `(`
+[markorder](markorder.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Order of punctuation and text critical marker | ` ` `0` 
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad (word order in corpus)| `1` .. `137779`
 [mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical mood of a verb | `indicative` `optative `
 [morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Morphological tag | `V-AAI-3S` `N-GSF`
