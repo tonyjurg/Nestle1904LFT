@@ -20,7 +20,7 @@ Each of these Text-Fabric implementations has distinct features and was created 
 
 2. Production tools used to perform the conversion to Text-Fabric:
 *	Module [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) with dedicated director function).
-*	Module [tf.convert.xml(https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)].
+*	Module [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)].
 
 3. Level of syntactical information:
 *	‘Basic implementation’: limited syntactical information (e.g., ‘subject’, ‘object’).
@@ -29,18 +29,18 @@ Each of these Text-Fabric implementations has distinct features and was created 
 4. Method of handling syntactic information (as present in the LowFatTree data):
 *	an almost ‘as found’ presentation of wordgroups (lacks ‘clause’ and ‘phrase’ nodes).
 *	a significant amount of 'interpretation' by adding clauses and phrases.
+*	'hybrid': offering option to present data either 'as found' or 'interpreted'. 
 
 The following table shows how each of the previous mentioned Text-Fabric implementations relate to these areas:
 
 Text-Fabric implementation | Starting data | Production tool | Syntactic information | handling syntactic info
 --- | --- | --- | --- | ---
-[Nestle1904GBI](https://tonyjurg.github.io/Nestle1904GBI/) | [‘GBI nodes’](https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/sourcedata) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | ‘Basic implementation’ |
-[Nestle1904LFT](https://tonyjurg.github.io/Nestle1904LFT/) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | 'Full implementation' |
-[tfgreek2](https://github.com/saulocantanhede/tfgreek2) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml(https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full implementation' |
-[Nestle1904](https://github.com/ETCBC/nestle1904) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml(https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full implementation' |
+[Nestle1904GBI](https://tonyjurg.github.io/Nestle1904GBI/) | [‘GBI nodes’](https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/sourcedata) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | ‘Basic’ | 'interpretation' 
+[Nestle1904LFT](https://tonyjurg.github.io/Nestle1904LFT/) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | 'Full' | ‘as found’ 
+[tfgreek2](https://github.com/saulocantanhede/tfgreek2) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full' | 'hybrid'
+[Nestle1904](https://github.com/ETCBC/nestle1904) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full' | 'hybrid'
 
-
-The Text-Fabric datasets vary in terms of the included syntactical information, which is evident when comparing their presentation of text, grammar, and syntax. Below are two images depicting the graphical representation of John 1:1.
+One of main differences between the Text-Fabric datasets is the handling and presenation of syntactical information. The effects can be demonstrated by the two images depicting the graphical representation of John 1:1.
 
 ## The Nestle1904GBI implementation
 
