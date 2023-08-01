@@ -13,9 +13,9 @@ Name | Feature group | Node type | Description | Examples
 --- | --- | --- | --- | ---
 [after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Space or punctuation after word | ` ` `.`
 [appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Appostioncontainer information | `conjuncted-wg` `modifier-scope`
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) | Short book name | `MAT` `MAR` ... `REV`
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) [`word`](featuresbynodetype.md#word-nodes)| Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical case | `nominative` `genitive` `dative`
-[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
+[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`word`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) |  Chapter number inside book | `1` `2` ...
 [clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `VerbElided` `Verbless`
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical gender | `masculine` `feminine` `neuter`
