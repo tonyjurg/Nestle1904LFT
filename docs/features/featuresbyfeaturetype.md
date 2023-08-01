@@ -9,54 +9,54 @@ The features of this Text-Fabric dataset:
 
 ## Node features
 
-Name | Feature group | Description | Examples
---- | --- | --- | ---
-[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) |Space or punctuation after word | ` ` `.`
-[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Appostioncontainer information | `conjuncted-wg` `modifier-scope`
-[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Short book name | `MAT` `MAR` ... `REV`
-[case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical case | `nominative` `genitive` `dative`
+Name | Feature group | Node type | Description | Examples
+--- | --- | --- | --- | ---
+[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Space or punctuation after word | ` ` `.`
+[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Appostioncontainer information | `conjuncted-wg` `modifier-scope`
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) | Short book name | `MAT` `MAR` ... `REV`
+[case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Chapter number inside book | `1` `2` ...
 [clausetype](clausetype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Clause type information | `VerbElided` `Verbless`
-[degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Degree of an comparative or superlative adjective | `superlative` `comparative`
-[gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical gender | `masculine` `feminine` `neuter`
-[gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | English gloss | 
+[degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Degree of an comparative or superlative adjective | `superlative` `comparative`
+[gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical gender | `masculine` `feminine` `neuter`
+[gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes)  | English gloss | 
 [junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Junction information | `coordinate` `subordinate` 
-[lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical lemma (cf. BDAG) |
-[lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Lexical domain according to SDBG | `092004`
-[ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Louw-Nida lexical classification | `93.169a`
-[markafter](markafter.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker after word | `-` `)`
-[markbefore](markbefore.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Text critical marker before word| `-` `(`
-[markorder](markorder.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Order of punctuation and text critical marker | ` ` `0` 
-[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features)| Monad (word order in corpus)| `1` .. `137779`
-[mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical mood of a verb | `indicative` `optative `
-[morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Morphological tag | `V-AAI-3S` `N-GSF`
-[nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Node ID | `n56001015007`
-[normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Surface word stripped of punctations |
-[nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical number| `singular` `plural`
-[orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Orig Order (word order in XML file)  | `1` .. `137779`
-[otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | node type data | 
-[person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical person | `first` `second` `third`
-[ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Referent | `n40001011005`
-[roleclausedistance](roleclausedistance.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | distance to wg describing word function|
-[strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | Strongs number | `5547`
-[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | Subject reference |
-[tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) |  Gramatical tense of the verb | `present` `aorist`
-[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | Gramatical type of noun or pronoun | `common` `personal`
-[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text (in unicode)| `λόγος`
-[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
-[voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | Gramatical voice of the verb | `active` `passive`
-[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup class |  `np` `cl`
-[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup level |
-[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | Wordgroup number | `34`
-[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup role  | `s` `o` `apposition`
-[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Wordgroup rule | `ClCl` `ClCl2`
-[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | WordGroup type | `Verbless` `VerbElided`
-[word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word as it appears in the text | `λόγος`
-[wordlevel](wordlevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Number of parent wordgroups for a word | 
-[wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Role of the word (abbreviated) | 
-[wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features)| Role of the word (full) | 
-[wordtranslit](wordtranslit.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word transliterated to Latin characters| `logos`
-[wordunacc](wordunacc.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | Word without accents| `λογος`
+[lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Lexical lemma (cf. BDAG) |
+[lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Lexical domain according to SDBG | `092004`
+[ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Louw-Nida lexical classification | `93.169a`
+[markafter](markafter.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-` `)`
+[markbefore](markbefore.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker before word| `-` `(`
+[markorder](markorder.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Order of punctuation and text critical marker | ` ` `0` 
+[monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`word`](featuresbynodetype.md#word-nodes)  | Monad (word order in corpus)| `1` .. `137779`
+[mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical mood of a verb | `indicative` `optative `
+[morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) |  Morphological tag | `V-AAI-3S` `N-GSF`
+[nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`word`](featuresbynodetype.md#word-nodes) | Node ID | `n56001015007`
+[normalized](normalized.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Surface word stripped of punctations |
+[nu](nu.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes)  | Gramatical number| `singular` `plural`
+[orig_order](orig_order.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`word`](featuresbynodetype.md#word-nodes) | Orig Order (word order in XML file)  | `1` .. `137779`
+[otype](otype.md) | [`Grid`](featuresbygroup.md#grid-features) | | node type data | 
+[person](person.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical person | `first` `second` `third`
+[ref](ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features)  | [`word`](featuresbynodetype.md#word-nodes) | Referent | `n40001011005`
+[roleclausedistance](roleclausedistance.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`word`](featuresbynodetype.md#word-nodes) | distance to wg describing word function|
+[strongs](strongs.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Strongs number | `5547`
+[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
+[tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) |  Gramatical tense of the verb | `present` `aorist`
+[type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) [`Syntactic`](featuresbygroup.md#syntactic-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical type of noun or pronoun | `common` `personal`
+[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features)  | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text (in unicode)| `λόγος`
+[verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | | Sequence number  | `1` `2` ...   Verse number inside chapter | `1` `2`
+[voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical voice of the verb | `active` `passive`
+[wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup class |  `np` `cl`
+[wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup level |
+[wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup number | `34`
+[wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup role  | `s` `o` `apposition`
+[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup rule | `ClCl` `ClCl2`
+[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | WordGroup type | `Verbless` `VerbElided`
+[word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text | `λόγος`
+[wordlevel](wordlevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`word`](featuresbynodetype.md#word-nodes) | Number of parent wordgroups for a word | 
+[wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`word`](featuresbynodetype.md#word-nodes) | Role of the word (abbreviated) | 
+[wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`word`](featuresbynodetype.md#word-nodes) | Role of the word (full) | 
+[wordtranslit](wordtranslit.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Word transliterated to Latin characters| `logos`
+[wordunacc](wordunacc.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | [`word`](featuresbynodetype.md#word-nodes) | Word without accents| `λογος`
 
 ## Edge features
 
