@@ -40,13 +40,15 @@ Text-Fabric implementation | Starting data | Production tool | Syntactic informa
 [tfgreek2](https://github.com/saulocantanhede/tfgreek2) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full' | 'hybrid'
 [Nestle1904](https://github.com/ETCBC/nestle1904) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml)] | 'Full' | 'hybrid'
 
-One of main differences between the Text-Fabric datasets is the handling and presenation of syntactical information. The effects can be demonstrated by the two images depicting the graphical representation of John 1:1.
+## Example showing the difference betwen GBI and LFT
 
-## The Nestle1904GBI implementation
+One of main differences between the GBI and LFT Text-Fabric implementation is the handling and presenation of syntactical information. The effects can be demonstrated by the two images depicting the graphical representation of John 1:1.
+
+**The Nestle1904GBI implementation**
 
 <img src="assets/images/john1v1GBI.jpg" alt="John 1v1 in Nestle1904GBI Text-Fabric">
 
-## The Nestle1904LFT implementation
+**The Nestle1904LFT implementation**
 
 <img src="assets/images/john1v1LFT.jpg" alt="John 1v1 in Nestle1904LFT Text-Fabric">
 
