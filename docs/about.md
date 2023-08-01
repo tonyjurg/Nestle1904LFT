@@ -2,13 +2,13 @@
 
 This repository is part of a set of repositories dedicated to storing the code and data generated for the 'Nestle 1904 Text-Fabric conversion project'. One of the objectives of this project is to create a high-quality Text-Fabric presentation of the Treebank Nestle 1904 Greek New Testament, resembling the Text-Fabric implementation of the Hebrew Old Testament ([BHSA](https://github.com/ETCBC/bhsa)). The project is a collaboration between [ETCBC](https://github.com/ETCBC) (Vrije Universiteit Amsterdam) and [CBLC](https://github.com/CenterBLC) (Andrews University). 
 
-The project comprises various TextFabric presentations of the Nestle 1904 version of the Greek New Testament, including:
+The project project various TextFabric presentations of the Nestle 1904 Greek New Testament, including:
 * Nestle 1904 (GBI nodes): [`Webpage`](https://tonyjurg.github.io/Nestle1904GBI/) [`Github`](https://github.com/tonyjurg/Nestle1904GBI)
 * Nestle 1904 (LFT nodes): [`Webpage`](https://tonyjurg.github.io/Nestle1904LFT/) [`Github`](https://github.com/tonyjurg/Nestle1904LFT)
 * Nestle 1904 (test version for final product): [`Github`](https://github.com/saulocantanhede/tfgreek2)
 * Nestle 1904 (ETCBC version; planned): [`Github`](https://github.com/ETCBC/nestle1904)
 
-Each version of this project utilizes a different conversion method and/or employs different sourcedata, resulting in a distinct set of features that have been tailored to its specific intended use.
+Each version utilizes a different conversion method and/or employs different sourcedata, resulting in a distinct set of features that have been tailored to its specific intended use.
 
 # Differences between datasets
 
