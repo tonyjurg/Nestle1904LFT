@@ -3,10 +3,10 @@
 TThis repository is part of a set of repositories dedicated to storing the code and data generated for the 'Nestle 1904 Text-Fabric conversion project'. The project is a collaboration between [ETCBC](https://github.com/ETCBC) (Vrije Universiteit Amsterdam) and [CBLC](https://github.com/CenterBLC) (Andrews University). 
 
 The project comprises various TextFabric presentations of the Nestle 1904 version of the Greek New Testament, including:
-* Nestle 1904 (GBI nodes): [Webpage](https://tonyjurg.github.io/Nestle1904GBI/) [Github](https://github.com/tonyjurg/Nestle1904GBI)
-* Nestle 1904 (LFT nodes): [Webpage](https://tonyjurg.github.io/Nestle1904LFT/) [Github](https://github.com/tonyjurg/Nestle1904LFT)
-* Nestle 1904 (test version for final product): [Github](https://github.com/saulocantanhede/tfgreek2)
-* Nestle 1904 (ETCBC version; planned): [Github](https://github.com/ETCBC/nestle1904)
+* Nestle 1904 (GBI nodes): `[Webpage](https://tonyjurg.github.io/Nestle1904GBI/)` `[Github](https://github.com/tonyjurg/Nestle1904GBI)`
+* Nestle 1904 (LFT nodes): `[Webpage](https://tonyjurg.github.io/Nestle1904LFT/)` `[Github](https://github.com/tonyjurg/Nestle1904LFT)`
+* Nestle 1904 (test version for final product): `[Github](https://github.com/saulocantanhede/tfgreek2)`
+* Nestle 1904 (ETCBC version; planned): `[Github](https://github.com/ETCBC/nestle1904)`
 
 Each of these version used a different conversion method and/or used different sourcedata, resulting in a distinct set of features, tweaked towards the intended use. 
 
