@@ -21,7 +21,7 @@ Name | Feature group | Node type | Description | Examples
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Degree of an comparative or superlative adjective | `superlative` `comparative`
 [gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical gender | `masculine` `feminine` `neuter`
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes)  | English gloss | 
-[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | Junction information | `coordinate` `subordinate` 
+[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Junction information | `coordinate` `subordinate` 
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Lexical lemma (cf. BDAG) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Lexical domain according to SDBG | `092004`
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Louw-Nida lexical classification | `93.169a`
