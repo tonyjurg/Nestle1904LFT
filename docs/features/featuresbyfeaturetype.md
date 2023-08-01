@@ -62,6 +62,7 @@ Name | Feature group | Description | Examples
 
 Name | Feature group |Description | Example
 --- | --- | --- | ---
+[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features)  | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
 
 ## Config features
 
