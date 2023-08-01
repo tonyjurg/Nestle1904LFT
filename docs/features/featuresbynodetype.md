@@ -69,7 +69,7 @@ Feature | Feature group |Data type | Description | Examples
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification | `93.169a`
 [markafter](markafter.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker after word | `-`, `)`, `]` , `]]`
 [markbefore](markbefore.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker before word| `-`, `(`, `[`, `[[`
-[markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Order of punctuation and text critical marker | ` `, `0`,  .. `3`
+[markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Order of punctuation and text critical marker | 
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Monad (word order in corpus) | `1` .. `137779`
 [mood](mood.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical mood of a verb | `indicative` `optative`
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Node ID (as in the XML source data) |

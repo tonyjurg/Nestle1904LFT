@@ -48,7 +48,7 @@ Name | Feature type | Available on node | Description | Examples
 [after](after.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Space or punctuation after word | ` ` `.`
 [markafter](markafter.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-`, `)`, `]` , `]]`
 [markbefore](markbefore.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Text critical marker before word| `-`, `(`, `[`, `[[`
-[markorder](markorder.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Order of punctuation and text critical marker | ` `, `0`,  .. `3`
+[markorder](markorder.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Order of punctuation and text critical marker | `0`
 [normalized](normalized.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Surface word stripped of punctations |
 [unicode](unicode.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text (in unicode) | `λόγος`
 [word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text | `λόγος`
