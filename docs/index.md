@@ -8,8 +8,8 @@ This dataset is [one of the datasets](about.md) created as part of the conversio
 
 * [About Text-Fabric](tf.md)
 * [About this dataset](about.md)
-* [Feature descriptions](features/home.md)
-* [Using Text-Fabric](usage.md)
+* [Featureset of this Text-Farbric dataset](features/home.md)
+* [Use cases for Text-Fabric](usage.md)
 * [Provenance, Legal Notes, and License](legal.md)
 
 ## Eberhard Nestle 
