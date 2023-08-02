@@ -1,1 +1,1 @@
-# Text-Fabric APP config
+# Text-Fabric APP config data
