@@ -7,7 +7,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Node`](featuresbyfeaturetype.md#node-features): the fundamental units or entities in the data model.
      * [`Edge`](featuresbyfeaturetype.md#edge-features): relationships or links, establishing connections between nodes in the data model.
      * [`Config`](featuresbyfeaturetype.md#config-features): contains the configuration or settings that define the behavior and parameters of the data processing or analysis.
-* [Grouped by feature group](featuresbygroup.md):
+* [Grouped by feature group](featuresbygroup.md#readme):
      * [`Grid`](featuresbygroup.md#grid-features): pertains to the arrangement and organization of the data.
      * [`Sectional`](featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
      *  [`Lexical`](featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
@@ -15,7 +15,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      *  [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
      *  [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
      *  [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
-* [Grouped by node type](featuresbynodetype.md):
+* [Grouped by node type](featuresbynodetype.md#readme):
      *  [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
      *  [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
      *  [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
