@@ -4,7 +4,7 @@
 
 See Jupyter Notebook of conversion process on [nbviewer](TBD).
 
-The source data for the conversion are the XML LowFat files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testment (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markup by the Global Bible Initiative (GBI).   The most recent source data can be found on github [https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat]
+The source data for the conversion are the XML LowFat files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testament (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markup by the Global Bible Initiative (GBI). The most recent source data can be found on github [https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat]
 
 The following directories contain the actual Text-Fabric data:
  * [app](app#readme): app config data.
@@ -17,4 +17,4 @@ The following directories contain the actual Text-Fabric data:
  
 See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904).
  
- Attribution: "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/".  See [here](resources/sourcedata#readme) for licence of the source data.
+Attribution: "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/". See [here](resources/sourcedata#readme) for licence of the source data.
