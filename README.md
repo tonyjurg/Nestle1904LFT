@@ -2,7 +2,12 @@
 
 # Text-Fabric Nestle 1904 Greek New Testament (based on LowFat XML node)
 
-See Jupyter Notebooks of the conversion process on [nbviewer](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/tree/main/resources/converter/).
+## Quick starters
+* [Install, load and use Text-Fabric in Jupyter Notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/load_text_fabric.ipynb)
+* [Read about Text-Fabric, the project, this dataset, and the features](https://tonyjurg.github.io/Nestle1904LFT/)
+* [Understand the conversion process](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/tree/main/resources/converter/).
+
+## Repository overview
 
 The source data for the conversion are the XML LowFat files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testament (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markup by the Global Bible Initiative (GBI). The most recent source data can be found on github [https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat]
 
