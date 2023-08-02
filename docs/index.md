@@ -13,8 +13,21 @@ This dataset is [one of the datasets](about.md) created as part of the conversio
 * [Provenance, Legal Notes, and License](legal.md)
 
 ## Eberhard Nestle 
+<!--
+<style>
+  .image-container {
+    margin: 5px;
+    float: right;
+  }
 
-<div style="clear: right;">
+  @media (max-width: 600px) {
+    .image-container {
+      float: none;
+    }
+  }
+</style>
+-->
+<div class="image-container">
     <img src="assets/images/Eberhard_Nestle.jpg" width="150" style="float: right;" alt="Eberhard Nestle (photo: Public Domain)">
 </div>
 <div>
