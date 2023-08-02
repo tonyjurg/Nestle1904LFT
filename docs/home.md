@@ -2,7 +2,7 @@
 
 ## Provenance
 
-Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. Transcription by Diego Santos, morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 
+Greek New Testament, edited by Eberhard Nestle, published in 1904 by the British and Foreign Bible Society. The 1913 reprint is available [here](https://archive.org/details/hkainediathekete00lond/). Transcription by [Diego Santos](https://sites.google.com/site/nestle1904/home), morphology by Ulrik Sandborg-Petersen, markup by Jonathan Robie. 
 
 ## Sourcedata
 
