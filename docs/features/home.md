@@ -23,6 +23,6 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      *  [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
      *  [`book`](featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.
 
-## The concept features in Text-Fabric
+## The concept 'features' in Text-Fabric
 
-Text-Fabric, true to its name, implements the concepts of "warp" and "weft," inspired by textile weaving, to represent its data. The "warp" denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the "weft" refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the "warp" data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
+Text-Fabric, true to its name, implements the concepts of 'warp' and 'weft', inspired by textile weaving, to represent its data. The 'warp' denotes the foundational structured data, encompassing linguistic annotations like words, and phrases, while the 'weft' refers to the additional layers of information, known as features. These features encompass linguistic data, annotations, and metadata, seamlessly woven into the 'warp' data, resulting in a clear separation between structure and content. This approach enables Text-Fabric to efficiently handle complex linguistic datasets with versatility.
