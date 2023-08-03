@@ -10,6 +10,7 @@ The following are several use-case examples that demonstrate the utilization of 
 * [Print a specific verse](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/print_verse.ipynb)
 * [Some system statistics](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/Some_system_statistics.ipynb)
 * [Some corpus statistics](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/Some_corpus_statistics.ipynb)
+* [Various text formats](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb)
 
 ## Grammatical
 
@@ -26,4 +27,10 @@ The following are several use-case examples that demonstrate the utilization of 
 * [Articulated proper nouns](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/articulated_proper_nouns.ipynb)
 * [Constituents order and phrase structure](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/constituents_order_and_phrase_structure.ipynb)
 * [Repetition of nouns](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/repetition_of_nouns.ipynb)
-* [Appositions](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/appostions.ipynb)
+* [Appositions](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/appositions.ipynb)
+* [Speaking to objects](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/find_objects.ipynb)
+
+## Advanced
+  
+* [Advanced search options](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/advanced_search_options.ipynb)
+* [Data is interpretation](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/interpretation.ipynb)
