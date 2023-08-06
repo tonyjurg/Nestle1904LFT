@@ -54,7 +54,7 @@ Feature | Feature group |  Data type | Description | Examples
 
 Feature | Feature group |Data type | Description | Examples
 --- | --- | --- | --- | ---
-[after](after.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | space or punctuation after word | 
+[after](after.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | space or punctuation after word | 
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Short book abbreviation | 
 [bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (abbreviated) | 
 [booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` |  NT book number (Matthew=1, ...,  Revelation=27) | 
@@ -67,9 +67,9 @@ Feature | Feature group |Data type | Description | Examples
 [lemma](lemma.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexeme (lemma) |
 [lex_dom](lex_dom.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Lexical domain according to Semantic Dictionary of Biblical Greek, SDBG | `092004`
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | Louw-Nida lexical classification | `93.169a`
-[markafter](markafter.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker after word | `-`, `)`, `]` , `]]`
-[markbefore](markbefore.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Text critical marker before word| `-`, `(`, `[`, `[[`
-[markorder](markorder.md) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Order of punctuation and text critical marker | 
+[markafter](markafter.md) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Text critical marker after word | `-`, `)`, `]` , `]]`
+[markbefore](markbefore.md) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Text critical marker before word| `-`, `(`, `[`, `[[`
+[markorder](markorder.md) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Order of punctuation and text critical marker | 
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Monad (word order in corpus) | `1` .. `137779`
 [mood](mood.md#readme) |  [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical mood of a verb | `indicative` `optative`
 [nodeID](nodeID.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Node ID (as in the XML source data) |
@@ -85,15 +85,15 @@ Feature | Feature group |Data type | Description | Examples
 [subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features) | `String`  | Subject reference (to nodeID in XML source data) |
 [tense](tense.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical tense of the verb | `present` `aorist`
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
-[unicode](unicode.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text (in unicode)| `λόγος`
+[unicode](unicode.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` |  Word as it appears in the text (in unicode)| `λόγος`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter | 
 [voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb |
-[word](word.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` |  Word as it appears in the text | `λόγος`
+[word](word.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` |  Word as it appears in the text | `λόγος`
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text (abbriviated)|
 [wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text |
 [word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text | `λόγος`
-[wordtranslit](wordtranslit.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word transliterated to Latin characters| `logos`
-[wordunacc](wordunacc.md#readme) | [`Orthograpic`](featuresbygroup.md#orthograpic-features) | `String` | Word without accents| `λογος`
+[wordtranslit](wordtranslit.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Word transliterated to Latin characters| `logos`
+[wordunacc](wordunacc.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Word without accents| `λογος`
 
 
  
