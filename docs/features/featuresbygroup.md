@@ -6,7 +6,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [Grid features](#grid-features)
 * [Sectional features](#sectional-features)
 * [Lexical features](#lexical-features)
-* [Orthograpic features](#orthograpic-features)
+* [Orthographic features](#Orthographic-features)
 * [Morphological features](#morphological-features)
 * [Syntactic features](#syntactic-features)
 * [Relational features](#relational-features)
@@ -41,7 +41,7 @@ Name | Feature type | Available on node | Description | Examples
 [ln](ln.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Louw-Nida lexical classification | `93.169a`
 [strongs](strongs.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Strongs number | `5547`
 
-## Orthograpic features
+## Orthographic features
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
