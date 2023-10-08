@@ -35,7 +35,7 @@ typeDisplay:
     style: ""
   wg:
     hidden: false
-    label: '{rule} {clausetype} {wgrolelong} {junction}'
+    label: '{wgrule} {clausetype} {wgrolelong} {junction}'
     style: ""
   word:
     base: true
