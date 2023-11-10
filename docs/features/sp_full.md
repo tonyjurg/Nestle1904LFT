@@ -18,7 +18,7 @@ determiner | det | 19786 | τὸν, ταῖς, ὁ
 interjection | intj | 15 |
 noun | noun | 28455 |
 numeral | num | 476 |
-preposition | prep | 10914 |
+preposition | prep | 10914 | `περὶ` `εἰς`
 particle | ptcl | 773 | 
 pronoun | pron | 16177 | 
 verb | verb | 28357 | 
