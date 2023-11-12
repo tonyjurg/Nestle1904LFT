@@ -10,7 +10,7 @@ This feature includes either a regular space character or a punctuation mark fol
 
 ## Feature values 
 
-after | symbol name | Unicode punctuation | Frequency
+after | symbol name | Unicode codepoint | Frequency
 ---  | --- | --- | ---
 ` ` | Space | [`&#32`](https://www.codetable.net/decimal/32)  |  119272
 `, ` | Comma  | [`&#44`](https://www.codetable.net/decimal/44)   | 9441
