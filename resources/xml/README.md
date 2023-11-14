@@ -8,10 +8,6 @@ The following are local copies of the source data which was obtained from the fo
 * [XML data Jun 28, 2023](xml/20230628/README.md)
 * [XML data Aug 16, 2023](xml/20230816/README.md) - [source commit details](https://github.com/Clear-Bible/macula-greek/commit/0e0c2fbcd63d25270fe6ada8b662f8c06f291879)
 
-## Notes on the source data
-
-* [The \<p\> tag](notes/the_p_tag.md#readme)
-
 # Attribution and legal notices
 
 ## MACULA Greek Linguistic Datasets
