@@ -12,9 +12,10 @@ This feature indicates details coordinating and subordinating clauses.
 
 value | Description | Frequency
 ---  | --- | --- 
-`coordinate` | coordinate | 9367
-`subordinate` |  subordinate | 8554
-` `  | empty | 96958
+`coordinate` | Coordinate | 9178
+`subordinate` |  Subordinate | 8491
+`apposition` | Appostion | 2386
+` `  | Empty | 93392
 
 ## Note
 See also the related feature [wgrule](wgrule.md#readme).
