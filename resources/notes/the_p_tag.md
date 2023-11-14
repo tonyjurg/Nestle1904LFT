@@ -1,4 +1,4 @@
-# The \<p\> tag in Low Fat Trees XML
+# The \<p\> tag in LowFat Trees XML
 
 Examining the data the most logical conclusion is that the \<p\> tag contains the full surface text of a single sentence.
 This can also be seen in the following image, the \<p\>..\</p\>  pair is at the same level (i.e. parallel) to the top \<wg\> ..\</wg\>
