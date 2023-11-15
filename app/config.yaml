@@ -3,6 +3,8 @@
 # check whether a list with (- - - ) works or whether I need to do a list with commas "a, b, c"
 apiVersion: 3
 dataDisplay:
+  textFormat: text-orig-full
+  sectionSep1: '@' #this is to display sections well in table
   noneValues: 
   - none
   - unknown
@@ -11,44 +13,45 @@ dataDisplay:
   - ''
   excludedFeatures:
   - reference
-# sectionSep1: #this is to display sections well in table
-# sectionSep2: #this is to display sections well in table
 showVerseInTuple: False
 # textFormats:
 # docs: reference to transcription.md
 interfaceDefaults: 
-  fmt: layout-orig-full
-# used by tf browser
+  fmt: layout-orig-full   # used by tf browser
 typeDisplay:
   book:
     label: '{book}'
+    hidden: true
     style: ""
   chapter:
     label: '{chapter}'
+    hidden: true
     style: ""
   verse:
-    label: '{verse}'
+    label: '{book} {chapter}:{verse}'
     style: ""
   sentence:
-    hidden: false
     label: '{sentence}'
     style: ""
   wg:
     hidden: false
-    label: '{wgrule} {clausetype} {wgrolelong} {junction}'
+    label: '#{wg}: {wgrule} {clausetype} {wgrolelong} {junction}'
     style: ""
   word:
     base: true
-    featuresBare:
-      - gloss
-    features:
-      - lemma
-      - strongs
+    featuresBare: gloss
+    features: lemma strongs
 
 provenanceSpec:
   corpus: "Nestle 1904 (Low Fat Tree)"
-  version: "0.5"
   org: "tonyjurg"
   repro: "Nestle1904LFT"
+  version: "0.6"
+  doi: "notyet"
+  webBase: https://learner.bible/text/show_text/nestle1904/
+  webHint: Show this on the Bible Online Learner website
+  webLang: en
   webUrl: "https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>"
+  webUrlLex: '{webBase}/word?version={version}&id=<lid>'
+writing: grc
 
