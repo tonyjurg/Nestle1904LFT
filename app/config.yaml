@@ -53,5 +53,5 @@ provenanceSpec:
   webLang: en
   webUrl: "https://learner.bible/text/show_text/nestle1904/<1>/<2>/<3>"
   webUrlLex: '{webBase}/word?version={version}&id=<lid>'
-writing: hbo
+writing: grc
 
