@@ -4,7 +4,7 @@
 apiVersion: 3
 dataDisplay:
   textFormat: text-orig-full
-  sectionSep1: '@' #this is to display sections well in table
+  #sectionSep1: '@' #this is to display sections well in table
   noneValues: 
   - none
   - unknown
@@ -12,10 +12,16 @@ dataDisplay:
   - NA
   - ''
   excludedFeatures:
-  - reference
-showVerseInTuple: False
-# textFormats:
-# docs: reference to transcription.md
+  - orig_order
+  - verse
+  - book
+  - chapter
+showVerseInTuple: false
+docs:
+  docRoot: "https://github.com/tonyjurg/Nestle1904LFT"
+  docBase: "https://github.com/tonyjurg/Nestle1904LFT/blob/main/docs/"
+  docPage: "about"
+  featureBase: "https://github.com/tonyjurg/Nestle1904LFT/blob/main/docs/features/<feature>.md"
 interfaceDefaults: 
   fmt: layout-orig-full   # used by tf browser
 typeDisplay:
@@ -30,18 +36,21 @@ typeDisplay:
   verse:
     label: '{book} {chapter}:{verse}'
     style: ""
+    excludedFeatures: chapter verse
   sentence:
-    label: '{sentence}'
+    label: '#{sentence} ({book} {chapter}:{verse})'
+    hidden: false
     style: ""
+    excludedFeatures: chapter verse
   wg:
     hidden: false
-    label: '#{wg}: {wgrule} {clausetype} {wgrolelong} {junction}'
+    label: '#{wgnum}: {wgclass} {wgrole} {wgrule} {junction}'
     style: ""
   word:
     base: true
     featuresBare: gloss
-    features: lemma strongs
-
+    features: lemma
+    surpress: chapter verse
 provenanceSpec:
   corpus: "Nestle 1904 (Low Fat Tree)"
   org: "tonyjurg"
