@@ -16,7 +16,7 @@ dataDisplay:
   - verse
   - book
   - chapter
-showVerseInTuple: false
+  showVerseInTuple: false
 docs:
   docRoot: "https://github.com/tonyjurg/Nestle1904LFT"
   docBase: "https://github.com/tonyjurg/Nestle1904LFT/blob/main/docs/"
@@ -29,22 +29,24 @@ typeDisplay:
     label: '{book}'
     hidden: true
     style: ""
+    condense: true
   chapter:
     label: '{chapter}'
     hidden: true
     style: ""
+    condense: true
   verse:
     label: '{book} {chapter}:{verse}'
     style: ""
     excludedFeatures: chapter verse
+    condense: true
   sentence:
-    label: '#{sentence} ({book} {chapter}:{verse})'
+    label: '#{sentence} (start: {book} {chapter}:{headverse})'
     hidden: false
     style: ""
-    excludedFeatures: chapter verse
   wg:
     hidden: false
-    label: '#{wgnum}: {wgclass} {wgrole} {wgrule} {junction}'
+    label: '#{wgnum}: {wgtype} {wgclass} {clausetype} {wgrole} {wgrule} {junction}'
     style: ""
   word:
     base: true
