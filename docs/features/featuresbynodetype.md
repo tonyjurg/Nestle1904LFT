@@ -23,18 +23,24 @@ Feature | Feature group | Data type | Description | Examples
 
 Feature | Feature group | Data type | Description  | Examples
 --- | --- | --- | --- | ---
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (fully spelled out) | `Luke` `Jude`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Chapter | `1` `28`
 
 ## Verse nodes 
 
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (fully spelled out) | `Luke` `Jude`
+[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Chapter | `1` `28`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Verse | `2` `26`
 
 ## Sentence nodes 
 
 Feature | Feature group | Data type | Short description | Examples
 --- | --- | --- | --- | ---
+[book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Book name (fully spelled out) | `Luke` `Jude`
+[chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Chapter | `1` `28`
+[headverse](headverse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Verse where the sentence starts | `2` `26`
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter) | `9`
 
 ## Wordgroup nodes 
