@@ -24,4 +24,4 @@ The following directories contain the actual Text-Fabric data:
  
 See [here](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition/mode/2up) a scan of the orginal publication: Nestle, Eberhard. Η Καινή Διαθήκη Novum Testamentum Graece (New York: Fleming H. Revell Company, 1904). The 1913 reprint is available [here](https://archive.org/details/hkainediathekete00lond/).
  
-Attribution: "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/". See [here](docs/legal.md#readme) for licence of the source data.
+Attribution: "MACULA Greek Linguistic Datasets, available at github.com/Clear-Bible/macula-greek". See [here](docs/legal.md#readme) for licence of the source data.
