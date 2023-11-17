@@ -5,7 +5,7 @@
 @converterVersion=0.6
 @converters=Tony Jurg
 @dataSource=MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes
-@description=✅ Clause type details (e.g. XXXX)
+@description=✅ Clause type details (e.g. Verbless, Minor)
 @editors=Eberhart Nestle (1904)
 @sourceDescription=Greek New Testment (British Foreign Bible Society, 1904)
 @sourceFormat=XML (Low Fat tree XML data)
@@ -15,10 +15,10 @@
 @xmlSourceDate=August 16, 2023
 @xmlSourceLocation=https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml/20230816
 @writtenBy=Text-Fabric
-@dateWritten=2023-11-15T14:14:45Z
+@dateWritten=2023-11-17T13:35:26Z
 
-154021	
-Verbless
+154021	Verbless
+
 
 
 
@@ -182,6 +182,8 @@ Verbless
 
 
 
+
+Verbless
 
 
 
@@ -190,6 +192,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -197,6 +200,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -243,6 +247,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -287,10 +292,12 @@ Verbless
 
 
 
-Verbless
 
 
 
+
+
+
 Verbless
 
 
@@ -300,29 +307,24 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -364,6 +366,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -381,17 +384,18 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
@@ -461,7 +465,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -570,7 +573,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -596,7 +598,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -612,7 +613,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -711,6 +711,8 @@ Minor
 
 
 
+VerbElided
+
 
 
 
@@ -732,6 +734,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -776,6 +779,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -839,6 +843,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -959,6 +964,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -1035,6 +1041,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -1078,11 +1085,11 @@ Minor
 
 
 
-VerbElided
 
 
 
 
+Minor
 
 
 
@@ -1104,13 +1111,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -1180,7 +1187,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -1275,7 +1281,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -1342,6 +1347,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -1385,6 +1391,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -1446,7 +1453,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -1520,11 +1526,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
@@ -1552,7 +1560,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -1575,6 +1582,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -1628,9 +1636,7 @@ Minor
 
 
 
-Minor
 
-Minor
 
 
 
@@ -1648,7 +1654,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -1742,6 +1747,8 @@ Minor
 
 
 
+Verbless
+Verbless
 
 
 
@@ -1752,8 +1759,10 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -1770,6 +1779,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -1884,6 +1894,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -1976,7 +1987,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -1999,6 +2009,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -2021,6 +2032,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -2035,7 +2047,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -2087,6 +2098,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -2117,6 +2129,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -2218,6 +2231,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -2229,16 +2243,17 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
-Minor
 
 
 
 
+VerbElided
 
 
 
@@ -2249,7 +2264,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -2295,6 +2309,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -2309,7 +2324,9 @@ Minor
 
 
 
+VerbElided
 
+Minor
 
 
 
@@ -2324,7 +2341,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -2351,6 +2367,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -2406,6 +2423,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -2501,6 +2519,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -2521,8 +2540,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -2537,8 +2558,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -2562,8 +2585,6 @@ VerbElided
 
 
 
-Verbless
-Verbless
 
 
 
@@ -2572,6 +2593,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -2580,17 +2602,16 @@ Verbless
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -2609,16 +2630,18 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
+Minor
+Minor
 
 
 
 
+VerbElided
 
 
 
@@ -2635,6 +2658,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -2655,6 +2680,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -2755,6 +2781,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -2769,6 +2796,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -2780,7 +2808,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -2814,6 +2841,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -2828,6 +2856,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -2859,12 +2888,14 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -2945,7 +2976,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -2978,7 +3008,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -3006,6 +3035,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -3016,6 +3046,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -3031,6 +3062,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -3073,12 +3105,13 @@ Minor
 
 
 
-VerbElided
+Minor
 
 
 
 
 
+Minor
 
 
 
@@ -3122,7 +3155,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -3134,6 +3166,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -3233,6 +3266,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -3272,7 +3306,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -3288,7 +3321,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -3302,7 +3334,7 @@ VerbElided
 
 
 
-VerbElided
+
 
 
 
@@ -3370,6 +3402,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -3380,6 +3413,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -3408,10 +3442,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-Minor
 
 
 
@@ -3447,6 +3479,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -3470,7 +3503,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -3489,6 +3521,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -3518,6 +3551,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -3539,6 +3573,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -3553,7 +3588,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -3583,6 +3617,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -3601,6 +3636,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -3689,6 +3726,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -3696,17 +3734,16 @@ Minor
 
 
 
-Minor
+Verbless
 
 
+Verbless
 
 
 
 
 
-Minor
 
-Minor
 
 
 
@@ -3729,18 +3766,19 @@ Minor
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
+
+Verbless
 
 
 
 
+VerbElided
 
 
 
@@ -3753,11 +3791,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -3799,7 +3835,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -3836,6 +3871,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -3861,8 +3897,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -3873,7 +3907,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -3891,8 +3924,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -3912,21 +3943,25 @@ Minor
 
 
 
+
+VerbElided
 
 
 
 
+VerbElided
 
 
 
 
 
 
-Minor
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -3958,6 +3993,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -3971,6 +4007,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -3984,6 +4021,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -3999,6 +4037,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -4030,10 +4069,12 @@ Minor
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -4041,6 +4082,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -4071,7 +4113,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -4090,7 +4131,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -4147,7 +4187,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -4162,24 +4201,27 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
-Minor
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
 
+Verbless
 
 
 
@@ -4222,7 +4264,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -4232,7 +4273,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -4337,12 +4377,14 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -4360,7 +4402,9 @@ VerbElided
 
 
 
+Minor
 
+VerbElided
 
 
 
@@ -4425,7 +4469,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -4440,7 +4483,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -4470,11 +4512,11 @@ VerbElided
 
 
 
-Minor
 
 
 
 
+Verbless
 
 
 
@@ -4501,7 +4543,9 @@ Minor
 
 
 
+Minor
 
+Minor
 
 
 
@@ -4524,10 +4568,10 @@ Minor
 
 
 
-Minor
 
 
 
+VerbElided
 
 
 
@@ -4557,6 +4601,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -4564,6 +4609,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -4579,6 +4625,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -4593,22 +4641,24 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
@@ -4636,6 +4686,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -4680,6 +4731,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -4699,9 +4751,11 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -4732,6 +4786,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -4742,7 +4797,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -4797,6 +4851,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -4906,6 +4961,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -4931,7 +4987,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -4943,14 +4998,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -5041,10 +5094,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
+VerbElided
 
 
 
@@ -5052,6 +5105,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -5060,6 +5114,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -5088,6 +5143,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -5099,7 +5155,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -5115,6 +5170,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -5128,6 +5184,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -5140,7 +5197,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -5174,7 +5230,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -5239,7 +5294,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -5264,8 +5318,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -5303,6 +5355,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -5360,6 +5413,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -5387,7 +5441,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -5396,19 +5449,15 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -5425,8 +5474,11 @@ Verbless
 
 
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
@@ -5457,7 +5509,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -5468,12 +5519,10 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -5577,7 +5626,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -5591,10 +5639,10 @@ VerbElided
 
 
 
-Verbless
 
 
 
+Minor
 
 
 
@@ -5622,6 +5670,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -5645,6 +5694,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -5665,7 +5715,9 @@ Verbless
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -5712,15 +5764,14 @@ Verbless
 
 
 
+Minor
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -5728,7 +5779,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -5787,7 +5837,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -5808,11 +5857,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -5829,7 +5876,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -5849,10 +5895,8 @@ VerbElided
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -5882,6 +5926,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -5903,11 +5948,9 @@ Minor
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -5919,7 +5962,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -5960,6 +6002,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -6071,6 +6114,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -6090,7 +6134,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -6106,7 +6149,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -6122,7 +6164,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -6132,16 +6173,22 @@ Verbless
 
 
 
+Verbless
+
+
+
 
 
 
 
 
+Minor
 
 
 
 
 
+VerbElided
 
 
 
@@ -6151,6 +6198,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -6347,7 +6395,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -6357,6 +6404,7 @@ VerbElided
 
 
 VerbElided
+
 
 
 
@@ -6379,10 +6427,6 @@ VerbElided
 
 
 
-Minor
-
-VerbElided
-
 
 
 
@@ -6392,9 +6436,7 @@ VerbElided
 
 
 
-
-
-
+VerbElided
 
 
 
@@ -6497,6 +6539,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -6529,6 +6572,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -6538,6 +6582,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -6550,12 +6595,10 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -6583,9 +6626,7 @@ Verbless
 
 
 
-Minor
 
-Minor
 
 
 
@@ -6627,12 +6668,10 @@ Minor
 
 
 
-VerbElided
 
 
 
 
-Minor
 
 
 
@@ -6669,9 +6708,9 @@ Minor
 
 
 
+Minor
 
 
-VerbElided
 
 
 
@@ -6682,7 +6721,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -6705,10 +6743,6 @@ Minor
 
 
 Minor
-Minor
-
-
-
 
 
 
@@ -6723,8 +6757,6 @@ Minor
 
 
 
-VerbElided
-
 
 
 
@@ -6732,8 +6764,6 @@ VerbElided
 
 
 
-
-VerbElided
 
 
 
@@ -6741,7 +6771,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -6750,7 +6779,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -6785,11 +6813,9 @@ Minor
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -6823,6 +6849,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -6845,19 +6872,20 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
+Minor
 
 
 
@@ -6873,6 +6901,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -6884,16 +6913,15 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
+Minor
 
 
 
@@ -6933,7 +6961,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -6945,6 +6972,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -6980,6 +7008,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -6992,6 +7021,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7016,12 +7046,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -7072,6 +7102,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -7102,6 +7133,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7138,6 +7170,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -7154,10 +7187,10 @@ VerbElided
 
 
 
+VerbElided
 
 
 
-VerbElided
 
 
 
@@ -7184,6 +7217,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7212,10 +7246,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -7242,6 +7279,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -7249,6 +7287,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7335,6 +7374,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -7344,6 +7384,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -7351,6 +7392,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7364,7 +7406,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -7377,7 +7418,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -7393,7 +7433,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -7437,7 +7476,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -7482,7 +7520,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -7494,6 +7531,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -7503,7 +7541,9 @@ Minor
 
 VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
@@ -7548,6 +7588,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7621,6 +7662,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -7635,6 +7677,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7650,6 +7693,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -7687,6 +7731,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -7749,17 +7794,18 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
 
-Verbless
 
 
 
 
+Minor
 
 
 
@@ -7768,6 +7814,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -7778,6 +7825,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -7834,7 +7882,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -7892,14 +7939,17 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
+VerbElided
 
 
 
@@ -7938,14 +7988,11 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -8017,6 +8064,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -8137,18 +8185,22 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -8181,16 +8233,13 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -8231,16 +8280,13 @@ Minor
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -8273,7 +8319,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -8283,7 +8328,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -8307,11 +8351,9 @@ Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -8385,7 +8427,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -8396,6 +8437,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -8417,7 +8459,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -8514,6 +8555,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -8535,10 +8577,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -8556,6 +8600,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -8602,11 +8647,9 @@ VerbElided
 
 
 
-Minor
 
 
 
-Minor
 
 
 
@@ -8618,6 +8661,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -8638,6 +8682,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -8655,6 +8700,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -8699,6 +8745,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -8726,7 +8773,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -8838,6 +8884,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -8851,6 +8898,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -8868,6 +8916,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -8887,7 +8936,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -8939,15 +8987,16 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -8970,7 +9019,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -8981,7 +9029,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -8991,7 +9038,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -9003,7 +9049,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -9059,6 +9104,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -9070,6 +9116,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -9083,6 +9130,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -9126,6 +9174,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -9218,11 +9267,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -9286,7 +9337,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -9314,6 +9364,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -9325,6 +9376,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -9334,10 +9386,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -9362,6 +9412,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -9452,8 +9503,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -9463,6 +9516,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -9471,6 +9525,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -9484,7 +9539,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -9497,6 +9551,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9506,6 +9561,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9527,6 +9583,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -9534,7 +9591,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -9550,7 +9606,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -9663,6 +9718,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9680,6 +9736,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9717,6 +9774,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9735,7 +9793,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -9786,8 +9843,8 @@ Minor
 
 
 
-Minor
 
+Verbless
 
 
 
@@ -9796,10 +9853,12 @@ Minor
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -9880,6 +9939,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9907,6 +9967,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -9921,6 +9982,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -9945,14 +10007,15 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
-Minor
 
 
+Minor
 
 
 
@@ -9961,18 +10024,21 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -9981,14 +10047,12 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -10019,7 +10083,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -10028,6 +10091,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -10045,7 +10109,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -10058,6 +10121,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -10077,6 +10141,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -10102,6 +10167,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -10119,13 +10185,13 @@ Minor
 
 
 
-Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -10157,10 +10223,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+VerbElided
 
 
 
@@ -10168,9 +10236,9 @@ Verbless
 
 
 
-VerbElided
 
 
+VerbElided
 
 
 
@@ -10184,8 +10252,8 @@ VerbElided
 
 
 
-VerbElided
 
+Verbless
 
 
 
@@ -10221,10 +10289,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -10303,7 +10369,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -10353,8 +10418,8 @@ Verbless
 
 
 
-VerbElided
 
+Minor
 
 
 
@@ -10374,6 +10439,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10393,13 +10459,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -10413,18 +10479,20 @@ Minor
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -10442,10 +10510,13 @@ VerbElided
 
 
 
+Minor
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -10467,7 +10538,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -10494,6 +10564,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10503,17 +10574,14 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -10526,6 +10594,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10536,6 +10605,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10549,23 +10619,23 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
 
 
-VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -10583,6 +10653,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -10593,6 +10664,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10639,6 +10711,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10678,7 +10751,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -10690,7 +10762,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -10703,11 +10774,13 @@ Minor
 
 
 
-VerbElided
 
 
 
 
+Minor
+Minor
+Minor
 
 
 
@@ -10741,6 +10814,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -10791,6 +10865,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -10840,6 +10915,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -10847,6 +10923,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -10888,6 +10965,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -10916,7 +10994,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -10926,12 +11003,9 @@ Minor
 
 
 
-VerbElided
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -10956,6 +11030,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -10994,7 +11069,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -11007,8 +11081,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -11022,6 +11098,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -11036,6 +11113,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -11099,7 +11177,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -11121,7 +11198,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -11141,7 +11217,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -11149,6 +11224,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -11186,18 +11262,20 @@ Minor
 
 
 
+VerbElided
 
 
-VerbElided
 
 
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -11284,7 +11362,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -11298,7 +11375,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -11311,12 +11387,11 @@ Minor
 
 
 
+Verbless
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -11325,7 +11400,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -11406,6 +11480,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -11490,28 +11565,25 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-Verbless
+Minor
+Minor
 
-Verbless
 
 
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -11538,7 +11610,10 @@ VerbElided
 
 
 
+VerbElided
 
+VerbElided
+VerbElided
 
 
 
@@ -11557,6 +11632,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -11595,6 +11671,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -11605,6 +11682,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -11623,10 +11701,11 @@ VerbElided
 
 
 
-
+VerbElided
 
 
 
+Minor
 
 
 
@@ -11637,6 +11716,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -11660,18 +11740,17 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -11690,6 +11769,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -11735,6 +11815,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -11767,6 +11848,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -11797,6 +11879,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -11806,6 +11889,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -11833,6 +11917,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -11849,9 +11934,9 @@ VerbElided
 
 
 
+Minor
 
 
-Minor
 
 
 
@@ -11860,26 +11945,26 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
+Verbless
 
 
-VerbElided
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -11937,6 +12022,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -11949,8 +12035,10 @@ VerbElided
 
 
 
+Minor
 
 
+Verbless
 
 
 
@@ -11978,6 +12066,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -12049,7 +12138,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -12067,6 +12155,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -12197,7 +12286,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -12210,10 +12298,12 @@ Verbless
 
 
 
+Minor
 
 
 
 
+Minor
 
 
 
@@ -12230,6 +12320,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -12251,6 +12342,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -12373,7 +12465,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -12407,7 +12498,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -12418,7 +12508,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -12430,6 +12519,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -12439,10 +12529,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
+VerbElided
 
 
 
@@ -12468,14 +12558,17 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -12525,7 +12618,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -12539,6 +12631,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -12551,10 +12644,8 @@ VerbElided
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -12569,6 +12660,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -12641,13 +12733,12 @@ Minor
 
 
 
-
-Verbless
 
 
 
 
 
+VerbElided
 
 
 
@@ -12812,6 +12903,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -12836,7 +12928,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -12856,7 +12947,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -12879,7 +12969,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -12940,6 +13029,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -12985,12 +13075,10 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -13072,6 +13160,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -13126,6 +13215,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -13160,10 +13250,8 @@ VerbElided
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -13172,15 +13260,14 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -13197,7 +13284,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -13216,6 +13302,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -13225,6 +13312,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -13255,10 +13343,10 @@ Minor
 
 
 
-VerbElided
 
 
 
+Verbless
 
 
 
@@ -13310,8 +13398,10 @@ VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -13324,6 +13414,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -13394,21 +13485,23 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
+Minor
+Minor
 
 
 
 
+Minor
 
+Minor
 
 
 
@@ -13528,7 +13621,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -13545,8 +13637,8 @@ Verbless
 
 
 
-Minor
 
+Verbless
 
 
 
@@ -13599,7 +13691,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -13611,6 +13702,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -13697,6 +13789,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -13731,11 +13824,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -13747,7 +13838,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -13766,7 +13856,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -13805,7 +13894,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -13819,7 +13907,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -13856,7 +13943,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -13911,6 +13997,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -13933,6 +14020,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -13982,6 +14070,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -14053,7 +14142,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -14073,7 +14161,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -14126,7 +14213,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -14136,7 +14222,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -14194,6 +14279,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -14212,12 +14298,14 @@ Minor
 
 
 
+Minor
 
 
 
 
 
 
+Verbless
 
 
 
@@ -14235,7 +14323,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -14245,14 +14332,13 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
+Verbless
 
 
-VerbElided
 
 
 
@@ -14386,7 +14472,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -14422,9 +14507,7 @@ Minor
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -14443,7 +14526,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -14477,7 +14559,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -14489,7 +14570,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -14501,7 +14581,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -14510,7 +14589,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -14522,13 +14600,13 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
+Minor
 
 
 
@@ -14548,13 +14626,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
-Minor
 
 
 
@@ -14595,7 +14673,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -14638,7 +14715,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -14668,12 +14744,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -14707,15 +14781,16 @@ VerbElided
 
 
 
-Verbless
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -14739,7 +14814,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -14783,14 +14857,13 @@ Minor
 
 
 
+VerbElided
 
-Verbless
 
 
 
 
 
-VerbElided
 
 
 
@@ -14814,9 +14887,10 @@ VerbElided
 
 
 
-
+VerbElided
 
 
+VerbElided
 
 
 
@@ -14826,7 +14900,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -14873,6 +14946,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -14888,6 +14962,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -15081,12 +15156,12 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
-Minor
 
 
 
@@ -15097,6 +15172,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -15121,7 +15197,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15149,7 +15224,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15183,7 +15257,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15191,11 +15264,9 @@ Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -15233,15 +15304,12 @@ VerbElided
 
 
 
-Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -15291,6 +15359,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -15306,7 +15375,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -15349,7 +15417,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15364,7 +15431,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15389,7 +15455,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15405,7 +15470,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15427,7 +15491,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -15436,7 +15499,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -15445,7 +15507,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -15507,7 +15568,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -15592,15 +15652,11 @@ Minor
 
 
 
-Minor
-Minor
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -15612,6 +15668,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -15639,7 +15696,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -15689,6 +15745,9 @@ Verbless
 
 
 
+VerbElided
+VerbElided
+Verbless
 
 
 
@@ -15702,7 +15761,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -15712,6 +15770,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -15771,7 +15830,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -15784,7 +15842,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -15816,6 +15873,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -15839,10 +15897,8 @@ Verbless
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -15939,6 +15995,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -15947,20 +16004,18 @@ Minor
 
 
 
-VerbElided
 
 
-VerbElided
 
+Minor
 
-VerbElided
 
 
 
 
-VerbElided
 
 
+Verbless
 
 
 
@@ -16022,11 +16077,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -16048,7 +16101,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -16068,13 +16120,13 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
 
-Verbless
 
 
 
@@ -16142,6 +16194,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -16256,7 +16309,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -16280,6 +16332,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -16321,7 +16374,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -16329,14 +16381,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -16380,8 +16430,10 @@ VerbElided
 
 
 
+Minor
 
 
+Minor
 
 
 
@@ -16431,7 +16483,9 @@ VerbElided
 
 
 
+VerbElided
 
+Verbless
 
 
 
@@ -16472,6 +16526,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -16492,7 +16547,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -16503,7 +16557,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -16525,8 +16578,12 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
+VerbElided
+VerbElided
 
 
 
@@ -16611,6 +16668,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -16618,6 +16676,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -16636,7 +16695,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -16740,6 +16798,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -16765,8 +16824,6 @@ Verbless
 
 
 
-Minor
-Minor
 
 
 
@@ -16816,13 +16873,10 @@ Minor
 
 
 
-VerbElided
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -16851,7 +16905,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -16903,6 +16956,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -16912,7 +16966,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -16927,7 +16980,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -16940,6 +16992,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -16951,13 +17004,11 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
-Minor
 
 
 
@@ -16972,7 +17023,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -16998,6 +17048,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -17005,7 +17056,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -17039,13 +17089,13 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
 
-Minor
 
 
 
@@ -17118,14 +17168,12 @@ Minor
 
 
 
-Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -17171,7 +17219,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -17217,10 +17264,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -17231,7 +17276,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -17271,7 +17315,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -17291,7 +17334,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -17324,7 +17366,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -17332,7 +17373,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -17398,6 +17438,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -17411,9 +17452,9 @@ Verbless
 
 
 
+Minor
 
 
-Verbless
 
 
 
@@ -17428,11 +17469,10 @@ Verbless
 
 
 
+Minor
 
 
-Minor
 
-Verbless
 
 
 
@@ -17472,12 +17512,11 @@ Verbless
 
 
 
+Verbless
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -17505,6 +17544,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -17600,7 +17640,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -17676,6 +17715,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -17773,6 +17813,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -17803,13 +17844,11 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -17829,8 +17868,10 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -17838,7 +17879,6 @@ Minor
 
 
 
-VerbElided
 
 VerbElided
 
@@ -17849,7 +17889,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -17869,7 +17908,7 @@ VerbElided
 
 
 
-Minor
+
 
 
 
@@ -17930,13 +17969,17 @@ Minor
 
 
 
+
+VerbElided
 
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
@@ -18001,11 +18044,13 @@ Minor
 
 
 
+Minor
 
 
 
 
 
+VerbElided
 
 
 
@@ -18112,7 +18157,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -18130,8 +18174,6 @@ Minor
 
 
 
-VerbElided
-
 
 
 
@@ -18159,22 +18201,22 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
-Verbless
 
 
-Verbless
+VerbElided
 
+VerbElided
 
+VerbElided
 
-Verbless
 
 
-Verbless
 
 
 
@@ -18184,7 +18226,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -18198,6 +18239,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -18269,12 +18311,12 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
-VerbElided
 
 
 
@@ -18284,7 +18326,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -18295,6 +18336,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -18316,7 +18358,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -18362,6 +18403,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -18370,6 +18412,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -18383,6 +18426,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -18409,6 +18453,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -18428,7 +18473,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -18461,6 +18505,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -18518,6 +18563,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -18558,11 +18604,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -18675,7 +18723,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -18700,6 +18747,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -18784,6 +18832,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -18839,7 +18888,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -18850,6 +18898,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -18868,6 +18917,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -18879,6 +18929,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -18898,6 +18949,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -18962,6 +19014,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -18993,10 +19046,13 @@ Verbless
 
 
 
+Verbless
 
 
+VerbElided
 
 
+Verbless
 
 
 
@@ -19016,7 +19072,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -19041,6 +19096,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -19052,6 +19108,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -19101,7 +19158,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -19122,6 +19178,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -19136,9 +19193,11 @@ VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -19166,7 +19225,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -19226,7 +19284,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -19241,7 +19298,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -19260,6 +19316,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -19285,17 +19342,18 @@ Minor
 
 
 
+Minor
 
 
 
 
-Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -19328,6 +19386,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -19360,11 +19419,9 @@ Verbless
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -19383,13 +19440,11 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -19447,6 +19502,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -19459,11 +19515,14 @@ Minor
 
 
 
+Minor
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -19472,6 +19531,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -19498,8 +19558,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -19507,12 +19565,11 @@ Minor
 
 
 
-Minor
 
-Minor
 
 
 
+VerbElided
 
 
 
@@ -19618,6 +19675,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -19656,6 +19714,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -19714,7 +19773,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -19736,6 +19794,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -19746,6 +19805,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -19753,6 +19813,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -19811,7 +19872,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -19823,6 +19883,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -19881,6 +19942,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -19923,6 +19985,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -19937,7 +20000,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -19946,6 +20008,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -19964,6 +20027,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -19971,6 +20035,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -19978,6 +20043,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -19995,6 +20061,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -20031,6 +20098,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -20058,6 +20126,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -20093,6 +20162,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -20103,6 +20173,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -20123,6 +20194,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -20155,10 +20227,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+VerbElided
 
 
 
@@ -20166,6 +20240,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -20197,6 +20272,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -20229,7 +20305,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -20259,7 +20334,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -20275,6 +20349,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -20288,6 +20363,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -20326,7 +20402,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -20364,7 +20439,9 @@ VerbElided
 
 
 
+Minor
 
+Verbless
 
 
 
@@ -20436,6 +20513,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -20443,11 +20521,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -20491,6 +20571,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -20500,6 +20581,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -20515,6 +20597,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -20560,6 +20643,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -20615,11 +20699,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
-VerbElided
 
 
 
@@ -20629,6 +20713,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -20645,7 +20730,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -20655,7 +20739,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -20695,7 +20778,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -20744,6 +20826,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -20751,6 +20834,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -20762,6 +20846,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -20822,6 +20907,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -21046,6 +21132,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -21068,6 +21155,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -21075,7 +21163,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -21100,7 +21187,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -21172,6 +21258,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -21199,6 +21286,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -21252,6 +21340,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -21261,6 +21350,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -21272,6 +21362,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -21284,8 +21375,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -21324,14 +21417,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -21347,6 +21438,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -21376,6 +21468,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -21406,6 +21499,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -21428,7 +21522,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -21462,7 +21555,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -21474,13 +21566,11 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -21556,7 +21646,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -21579,7 +21668,9 @@ VerbElided
 
 
 
-VerbElided
+
+
+
 
 
 
@@ -21847,7 +21938,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -21864,7 +21954,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -21874,7 +21963,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -21882,7 +21970,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -21933,6 +22020,8 @@ VerbElided
 
 
 
+Minor
+
 
 
 
@@ -21940,8 +22029,10 @@ VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -21955,6 +22046,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -22013,13 +22106,17 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
 
 
+Minor
 
 
+Minor
 
 
 
@@ -22082,6 +22179,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -22141,7 +22239,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -22263,6 +22360,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -22473,6 +22571,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -22492,14 +22591,18 @@ Verbless
 
 
 
+Verbless
+Verbless
 
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -22582,13 +22685,13 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -22644,6 +22747,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -22695,9 +22799,6 @@ VerbElided
 
 
 
-VerbElided
-VerbElided
-Verbless
 
 
 
@@ -22735,7 +22836,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -22784,14 +22884,17 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -22802,6 +22905,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -22818,6 +22922,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -22887,6 +22992,8 @@ Verbless
 
 
 Minor
+
+
 
 
 
@@ -22907,6 +23014,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -22962,9 +23070,11 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -22996,6 +23106,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -23037,9 +23148,11 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -23055,7 +23168,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -23071,7 +23183,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -23083,7 +23194,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -23145,6 +23255,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -23182,6 +23293,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -23226,7 +23338,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -23263,6 +23374,8 @@ VerbElided
 
 
 
+VerbElided
+
 
 
 
@@ -23303,6 +23416,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -23326,7 +23440,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -23375,6 +23488,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -23500,8 +23614,10 @@ Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -23529,7 +23645,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -23577,7 +23692,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -23606,6 +23720,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -23641,6 +23756,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -23649,6 +23765,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -23661,16 +23778,15 @@ VerbElided
 
 
 
+Verbless
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -23723,6 +23839,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -23735,9 +23852,7 @@ Minor
 
 
 
-VerbElided
 
-Verbless
 
 
 
@@ -23792,24 +23907,22 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
+Verbless
 
 
 
@@ -23820,6 +23933,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -23862,12 +23976,9 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
-VerbElided
-VerbElided
+
 
 
 
@@ -23966,6 +24077,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -23975,6 +24087,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -23991,7 +24104,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -24000,7 +24112,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -24079,6 +24190,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -24105,6 +24217,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -24122,6 +24235,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -24178,7 +24292,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -24197,6 +24310,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -24260,6 +24374,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -24396,7 +24511,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -24446,7 +24560,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -24524,7 +24637,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -24580,7 +24692,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -24719,6 +24830,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -24728,6 +24840,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -24788,6 +24901,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -24836,6 +24950,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -24854,6 +24969,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -24922,14 +25038,17 @@ Verbless
 
 
 
+Minor
 
 
+Minor
 
 
 
 
 
 
+Verbless
 
 
 
@@ -24978,7 +25097,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -25102,7 +25220,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -25124,13 +25241,17 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
-Minor
+
+
+
+
+
+
 
 
 
@@ -25206,6 +25327,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -25219,9 +25341,9 @@ Minor
 
 
 
-Verbless
 
 
+VerbElided
 
 
 
@@ -25260,7 +25382,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -25271,6 +25392,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -25395,6 +25517,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -25411,6 +25534,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -25497,6 +25621,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -25508,7 +25633,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -25552,11 +25676,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -25569,6 +25695,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -25618,6 +25745,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -25637,19 +25765,20 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
+Verbless
 
 
 
@@ -25717,14 +25846,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -25736,7 +25864,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -25863,19 +25990,16 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
-Verbless
 
 
 
@@ -25892,6 +26016,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -25968,7 +26093,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -25977,6 +26101,8 @@ Minor
 
 
 
+
+
 VerbElided
 
 
@@ -26011,11 +26137,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
@@ -26196,7 +26324,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -26205,12 +26332,9 @@ Minor
 
 
 
-VerbElided
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -26239,6 +26363,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -26246,7 +26371,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -26254,6 +26378,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -26319,10 +26444,13 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
 
+Minor
 
 
 
@@ -26343,7 +26471,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -26376,7 +26503,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -26420,7 +26546,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -26450,6 +26575,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -26469,7 +26595,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -26481,7 +26606,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -26490,17 +26614,18 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
 
-Minor
 
 
 
@@ -26540,13 +26665,11 @@ Minor
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -26593,6 +26716,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -26616,7 +26740,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -26702,7 +26825,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -26729,12 +26851,14 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -26751,9 +26875,12 @@ Verbless
 
 
 
+VerbElided
 
+Minor
 
 
+VerbElided
 
 
 
@@ -26763,14 +26890,12 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-Minor
 
 
 
@@ -26858,6 +26983,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -26943,6 +27069,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -26956,10 +27083,13 @@ Minor
 
 
 
+Minor
 
 
 
+VerbElided
 
+Minor
 
 
 
@@ -26970,8 +27100,8 @@ Minor
 
 
 
-Verbless
 
+VerbElided
 
 
 
@@ -27004,6 +27134,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -27085,6 +27216,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -27094,7 +27226,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -27198,7 +27329,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -27229,7 +27359,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -27244,7 +27373,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -27253,6 +27381,10 @@ VerbElided
 
 
 
+Verbless
+
+
+
 
 
 
@@ -27269,6 +27401,7 @@ VerbElided
 
 
 
+
 Minor
 
 
@@ -27289,6 +27422,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -27326,6 +27460,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -27363,7 +27498,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -27381,6 +27515,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -27404,6 +27539,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -27411,17 +27547,13 @@ Minor
 
 
 
-Verbless
 
 
 
-VerbElided
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -27440,6 +27572,9 @@ Verbless
 
 
 
+
+Minor
+Minor
 
 
 
@@ -27457,6 +27592,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -27478,7 +27614,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -27486,7 +27621,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -27495,7 +27629,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -27509,6 +27642,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -27524,6 +27658,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -27562,6 +27697,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -27607,7 +27743,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -27629,7 +27764,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -27637,7 +27771,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -27723,6 +27856,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -27779,6 +27913,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -27786,6 +27921,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -27821,8 +27957,8 @@ VerbElided
 
 
 
+Minor
 
-VerbElided
 
 
 
@@ -27855,11 +27991,11 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
-Minor
 
 
 
@@ -27873,7 +28009,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -27888,6 +28023,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -27917,7 +28053,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -27943,9 +28078,13 @@ Minor
 
 
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
@@ -28080,9 +28219,7 @@ Minor
 
 
 
-VerbElided
 
-VerbElided
 
 
 
@@ -28093,6 +28230,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -28100,14 +28238,11 @@ VerbElided
 
 
 
-Minor
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -28121,7 +28256,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -28182,6 +28316,8 @@ VerbElided
 
 
 
+VerbElided
+
 
 
 
@@ -28195,6 +28331,8 @@ VerbElided
 
 
 
+
+Verbless
 
 
 
@@ -28323,16 +28461,17 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
-Minor
 
 
 
@@ -28379,6 +28518,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -28386,14 +28526,16 @@ Minor
 
 
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
 
 
-Minor
 
 
 
@@ -28450,6 +28592,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -28484,6 +28627,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -28506,7 +28650,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -28521,7 +28664,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -28538,7 +28680,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -28607,6 +28748,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -28616,6 +28758,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -28634,14 +28777,11 @@ Verbless
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -28682,6 +28822,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -28707,7 +28848,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -28715,6 +28855,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -28755,6 +28896,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -28769,7 +28911,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -28801,10 +28942,11 @@ Minor
 
 
 
-VerbElided
 
+Verbless
 
 
+Verbless
 
 
 
@@ -28820,13 +28962,15 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
+VerbElided
 
-Verbless
 
 
 
@@ -28836,8 +28980,8 @@ Verbless
 
 
 
-Verbless
 
+VerbElided
 
 
 
@@ -28846,7 +28990,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -28864,13 +29007,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
-Minor
 
 
 
@@ -28923,7 +29066,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -28939,11 +29081,14 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
+Minor
 
+Minor
 
 
 
@@ -28961,7 +29106,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -28970,9 +29114,11 @@ VerbElided
 
 
 
+VerbElided
 
 
 
+Minor
 
 
 
@@ -28997,6 +29143,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -29008,11 +29155,11 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
-Verbless
 
 
 
@@ -29026,7 +29173,9 @@ Verbless
 
 
 
-Verbless
+
+
+
 
 
 
@@ -29054,6 +29203,7 @@ Verbless
 
 
 
+
 Minor
 
 
@@ -29070,6 +29220,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -29085,11 +29236,13 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -29101,13 +29254,11 @@ Minor
 
 
 
-Verbless
 
 
 
 
 
-VerbElided
 
 
 
@@ -29117,7 +29268,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -29137,6 +29287,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -29161,7 +29312,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -29180,6 +29330,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -29268,24 +29419,20 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
-Minor
 
 
 
@@ -29296,8 +29443,8 @@ Minor
 
 
 
-Minor
 
+VerbElided
 
 
 
@@ -29320,6 +29467,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -29345,6 +29493,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -29361,6 +29510,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -29371,6 +29522,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -29391,6 +29543,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -29400,12 +29553,11 @@ Minor
 
 
 
-Minor
 
-Verbless
 
 
 
+Minor
 
 
 
@@ -29443,6 +29595,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -29497,7 +29650,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -29510,7 +29662,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -29520,7 +29671,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -29587,7 +29737,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -29599,7 +29748,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -29619,10 +29767,8 @@ VerbElided
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -29698,18 +29844,15 @@ Minor
 
 
 
-VerbElided
 
 
-VerbElided
 
 
-VerbElided
 
 
 
 
-VerbElided
+
 
 
 
@@ -29734,6 +29877,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -29745,6 +29889,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -29769,6 +29914,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -29781,7 +29927,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -29804,7 +29949,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -29834,6 +29978,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -29879,6 +30024,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -29931,6 +30077,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -29976,12 +30123,10 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -29989,7 +30134,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -30004,15 +30148,14 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
+Minor
 
 
 
-VerbElided
 
 
 
@@ -30020,7 +30163,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -30100,9 +30242,9 @@ VerbElided
 
 
 
+Minor
 
 
-VerbElided
 
 
 
@@ -30164,6 +30306,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -30210,6 +30353,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30236,6 +30380,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30263,6 +30408,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30288,6 +30434,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -30307,6 +30454,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30315,6 +30463,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30382,6 +30531,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30396,6 +30546,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30405,6 +30556,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -30423,6 +30575,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -30463,7 +30616,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -30477,12 +30629,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -30498,6 +30650,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30527,6 +30680,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -30572,9 +30726,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -30588,6 +30744,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -30604,7 +30761,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -30643,15 +30799,16 @@ VerbElided
 
 
 
-Verbless
 
 
 
+Minor
 
 
 
 
 
+VerbElided
 
 
 
@@ -30672,6 +30829,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -30721,7 +30879,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -30736,7 +30893,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -30752,7 +30908,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -30768,17 +30923,14 @@ Minor
 
 
 
-Verbless
 
 
-Verbless
+Minor
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -30805,8 +30957,10 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -30817,25 +30971,32 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
+VerbElided
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -30862,19 +31023,18 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -30882,7 +31042,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -30907,7 +31066,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -30945,6 +31103,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -30952,9 +31111,9 @@ Minor
 
 
 
+Minor
 
 
-VerbElided
 
 
 
@@ -30975,6 +31134,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31003,6 +31163,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31021,6 +31182,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31040,6 +31202,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31050,6 +31213,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31072,6 +31236,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31107,6 +31272,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31117,6 +31283,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31226,6 +31393,8 @@ VerbElided
 
 
 
+Minor
+Verbless
 
 
 
@@ -31244,6 +31413,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31262,6 +31432,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31288,6 +31459,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31300,6 +31472,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31381,6 +31554,9 @@ VerbElided
 
 
 
+Minor
+Minor
+Minor
 
 
 
@@ -31395,6 +31571,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31413,6 +31590,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -31452,6 +31630,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -31534,6 +31713,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -31563,7 +31743,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -31599,6 +31778,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -31687,21 +31867,19 @@ Minor
 
 
 
-Minor
 
 
 
 
 
 
+Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -31719,14 +31897,11 @@ VerbElided
 
 
 
-Minor
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -31799,19 +31974,15 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
 
 
 
-Minor
 
 
 
-Minor
 
 
 
@@ -31839,6 +32010,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -31856,6 +32028,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -31902,9 +32075,9 @@ Minor
 
 
 
-Verbless
 
 
+Minor
 
 
 
@@ -31941,7 +32114,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -31967,6 +32139,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -31975,6 +32148,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -32005,6 +32179,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -32026,6 +32201,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -32111,6 +32287,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -32123,6 +32300,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -32153,6 +32331,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -32169,7 +32348,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -32183,6 +32361,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -32300,6 +32479,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -32397,6 +32577,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -32413,6 +32594,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -32476,7 +32658,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -32499,14 +32680,11 @@ Minor
 
 
 
-Verbless
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -32514,8 +32692,8 @@ Verbless
 
 
 
+VerbElided
 
-Verbless
 
 
 
@@ -32537,11 +32715,13 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -32599,6 +32779,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -32638,7 +32819,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -32653,6 +32833,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -32661,6 +32842,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -32684,6 +32866,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -32693,6 +32876,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -32721,6 +32905,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -32729,7 +32914,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -32753,6 +32937,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -32781,6 +32967,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -32854,6 +33041,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -32915,7 +33103,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -32923,7 +33110,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -32931,7 +33117,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -32942,11 +33127,12 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
 
-Verbless
 
 
 
@@ -32970,7 +33156,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -32989,12 +33174,14 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -33026,7 +33213,9 @@ Minor
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -33067,7 +33256,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -33103,7 +33291,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -33166,6 +33353,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -33187,13 +33375,11 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -33220,9 +33406,11 @@ Verbless
 
 
 
+Minor
 
 
 
+Verbless
 
 
 
@@ -33237,7 +33425,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -33290,14 +33477,12 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -33354,25 +33539,30 @@ Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -33397,6 +33587,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -33445,7 +33636,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -33454,6 +33644,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -33461,6 +33652,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -33471,6 +33663,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -33502,7 +33695,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -33587,6 +33779,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -33629,7 +33822,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -33645,12 +33837,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -33674,6 +33864,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -33686,11 +33877,11 @@ VerbElided
 
 
 
+Minor
 
 
 
 
-Minor
 
 
 
@@ -33703,6 +33894,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -33731,11 +33923,13 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -33771,6 +33965,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -33793,7 +33988,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -33807,6 +34001,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -33912,13 +34107,16 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
 
+VerbElided
 
+Minor
 
 
 
@@ -33933,6 +34131,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -33946,6 +34145,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -33962,16 +34162,15 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
 
 
+Minor
 
 
 
@@ -34013,6 +34212,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -34108,12 +34308,10 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -34160,7 +34358,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -34169,9 +34366,10 @@ Minor
 
 
 
-VerbElided
+Verbless
 
 
+Verbless
 
 
 
@@ -34182,8 +34380,8 @@ VerbElided
 
 
 
+Minor
 
-Verbless
 
 
 
@@ -34269,7 +34467,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -34283,6 +34480,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -34346,6 +34544,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -34356,6 +34555,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -34363,6 +34563,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -34373,6 +34574,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -34388,7 +34590,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -34406,7 +34607,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -34486,6 +34686,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -34548,6 +34749,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -34566,6 +34768,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -34579,6 +34782,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -34587,6 +34791,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -34614,9 +34819,9 @@ Verbless
 
 
 
+Minor
 
 
-Minor
 
 
 
@@ -34631,7 +34836,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -34687,6 +34891,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -34727,6 +34932,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -34735,6 +34941,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -34790,7 +34997,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -34826,7 +35032,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -34848,7 +35053,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -34870,6 +35074,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -34881,6 +35086,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -34918,6 +35124,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -34925,6 +35132,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -34962,7 +35170,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -35051,10 +35258,10 @@ Minor
 
 
 
-Verbless
 
 
 
+VerbElided
 
 
 
@@ -35065,7 +35272,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -35073,6 +35279,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -35099,6 +35306,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -35210,6 +35418,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -35392,6 +35601,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -35461,12 +35671,14 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
 
+Verbless
 
 
 
@@ -35499,6 +35711,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -35537,6 +35750,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -35546,6 +35760,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -35553,6 +35768,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -35560,6 +35776,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -35603,11 +35820,14 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
 
 
+VerbElided
 
 
 
@@ -35624,6 +35844,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -35635,6 +35856,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -35646,12 +35868,12 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
+VerbElided
 
 
 
@@ -35692,6 +35914,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -35728,6 +35951,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -35735,6 +35959,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -35743,7 +35968,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -35798,6 +36022,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -35809,10 +36034,10 @@ Minor
 
 
 
+Minor
 
 
 
-VerbElided
 
 
 
@@ -35840,7 +36065,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -35852,6 +36076,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -35915,6 +36140,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -35926,6 +36152,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -35939,14 +36166,13 @@ VerbElided
 
 
 
-Minor
 
 
 
 
-Minor
 
 
+Minor
 
 
 
@@ -35954,7 +36180,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -36278,7 +36503,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -36355,12 +36579,12 @@ Minor
 
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
@@ -36368,6 +36592,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -36378,10 +36603,8 @@ Minor
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -36389,7 +36612,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -36397,6 +36619,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -36429,13 +36652,16 @@ VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -36450,7 +36676,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -36483,6 +36708,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -36526,6 +36752,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -36567,6 +36794,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -36615,12 +36843,13 @@ Minor
 
 
 
+Minor
 
 
 
 
-Minor
 
+Verbless
 
 
 
@@ -36641,7 +36870,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -36758,7 +36986,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -36825,6 +37052,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -36837,18 +37065,17 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
+Verbless
 
 
 
@@ -36859,7 +37086,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -36881,6 +37107,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -36893,6 +37120,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -36906,6 +37134,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -36934,7 +37163,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -36962,7 +37190,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -36981,7 +37208,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -37002,6 +37228,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -37083,7 +37310,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -37149,6 +37375,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -37269,6 +37496,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -37318,7 +37546,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -37369,6 +37596,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -37429,7 +37657,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -37475,7 +37702,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -37483,7 +37709,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -37496,6 +37721,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -37533,6 +37759,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -37541,6 +37768,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -37624,6 +37852,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -37670,6 +37899,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -37714,6 +37944,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -37738,9 +37969,11 @@ Minor
 
 
 
+Minor
 
 
 
+Minor
 
 
 
@@ -37816,7 +38049,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -37837,9 +38069,9 @@ Minor
 
 
 
+VerbElided
 
 
-Minor
 
 
 
@@ -37884,8 +38116,7 @@ Minor
 
 
 
-
-
+Minor
 
 
 
@@ -37937,8 +38168,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -37946,7 +38175,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -37969,6 +38197,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -38119,6 +38348,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -38131,7 +38361,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -38191,7 +38420,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -38201,7 +38429,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -38266,6 +38493,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -38274,6 +38502,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -38346,7 +38575,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -38421,6 +38649,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -38511,6 +38740,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -38537,7 +38767,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -38547,12 +38776,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -38570,13 +38797,10 @@ VerbElided
 
 
 
-VerbElided
 
 
-Minor
 
 
-VerbElided
 
 
 
@@ -38604,6 +38828,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -38730,11 +38955,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -38761,11 +38984,13 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -38857,7 +39082,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -38867,6 +39091,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -38876,16 +39101,13 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
-VerbElided
 
 
-Minor
 
 
 
@@ -38895,16 +39117,15 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -38942,6 +39163,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -38954,7 +39176,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -38984,6 +39205,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -39006,6 +39228,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -39046,6 +39269,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -39072,7 +39296,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -39112,7 +39335,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -39131,6 +39353,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -39203,6 +39426,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -39312,10 +39536,8 @@ Verbless
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -39345,22 +39567,20 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
 
-Minor
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
@@ -39381,12 +39601,10 @@ Minor
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -39410,6 +39628,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -39446,11 +39665,9 @@ Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -39517,6 +39734,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -39528,7 +39746,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -39566,12 +39783,12 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -39609,8 +39826,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -39632,7 +39847,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -39702,7 +39916,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -39725,7 +39938,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -39782,7 +39994,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -39814,11 +40025,13 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -39843,6 +40056,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -39922,6 +40136,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -40021,7 +40236,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -40113,7 +40327,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -40122,7 +40335,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -40134,6 +40346,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -40148,6 +40361,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -40174,7 +40388,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -40220,7 +40433,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -40228,7 +40440,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -40265,7 +40476,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -40292,6 +40502,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -40324,6 +40535,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -40340,19 +40552,16 @@ Minor
 
 
 
+Minor
 
 
 
-VerbElided
 
 
-VerbElided
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -40471,6 +40680,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -40522,6 +40732,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -40534,6 +40745,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -40570,7 +40782,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -40644,6 +40855,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -40690,11 +40902,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -40720,7 +40930,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -40783,6 +40992,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -40794,6 +41004,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -40907,7 +41118,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -40916,14 +41126,13 @@ Verbless
 
 
 
-Verbless
 
-Verbless
 
 
 
 
 
+Minor
 
 
 
@@ -40960,6 +41169,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -40991,7 +41201,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -41000,12 +41209,9 @@ Minor
 
 
 
-VerbElided
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -41093,7 +41299,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -41104,6 +41309,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -41140,7 +41346,7 @@ Minor
 
 
 
-Minor
+Verbless
 
 
 
@@ -41167,6 +41373,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -41211,6 +41418,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -41259,6 +41467,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -41314,6 +41523,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -41327,17 +41537,14 @@ Minor
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -41347,7 +41554,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -41415,6 +41621,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -41440,7 +41647,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -41484,7 +41690,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -41527,6 +41732,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -41545,7 +41751,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -41608,18 +41813,15 @@ Minor
 
 
 
-Verbless
 
 
-Verbless
 
 
 
-Verbless
 
 
-Verbless
 
+Minor
 
 
 
@@ -41638,15 +41840,12 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
-VerbElided
 
 
 
@@ -41668,7 +41867,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -41698,6 +41896,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -41706,12 +41905,11 @@ VerbElided
 
 
 
+Minor
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -41783,6 +41981,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -41820,22 +42019,20 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
-Minor
 
-Minor
 
 
 
@@ -41878,12 +42075,10 @@ Minor
 
 
 
-VerbElided
 
 
 
 
-Minor
 
 
 
@@ -41913,6 +42108,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -41920,7 +42116,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -41935,7 +42130,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -42007,7 +42201,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -42032,7 +42225,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -42053,7 +42245,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -42062,7 +42253,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -42070,7 +42260,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -42126,7 +42315,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -42171,10 +42359,12 @@ Minor
 
 
 
+Verbless
 
 
 
 
+Minor
 
 
 
@@ -42188,7 +42378,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -42253,6 +42442,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -42365,6 +42555,7 @@ VerbElided
 
 
 
+Minor
 VerbElided
 
 
@@ -42378,7 +42569,7 @@ VerbElided
 
 
 
-
+VerbElided
 
 
 
@@ -42398,7 +42589,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -42433,7 +42623,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -42458,8 +42647,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -42467,6 +42654,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -42478,7 +42666,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -42515,7 +42702,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -42534,7 +42720,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -42589,7 +42774,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -42804,6 +42988,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -42820,6 +43005,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -42870,6 +43056,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -42882,6 +43069,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -42959,6 +43147,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -43023,14 +43212,12 @@ Minor
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -43038,7 +43225,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -43048,7 +43234,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -43072,7 +43257,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -43170,11 +43354,11 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
+Minor
 
 
 
@@ -43217,6 +43401,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -43239,7 +43424,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -43255,6 +43439,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -43320,9 +43505,10 @@ Verbless
 
 
 
-Minor
+Verbless
 
 
+Verbless
 
 
 
@@ -43403,6 +43589,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43414,6 +43601,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -43423,7 +43611,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -43455,6 +43642,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43504,6 +43692,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43550,7 +43739,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -43592,6 +43780,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43638,7 +43827,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -43650,8 +43838,8 @@ VerbElided
 
 
 
-VerbElided
 
+Minor
 
 
 
@@ -43707,7 +43895,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -43739,6 +43926,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43747,6 +43935,7 @@ Minor
 
 
 Minor
+
 
 
 
@@ -43765,6 +43954,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43789,7 +43979,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -43814,6 +44003,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -43832,13 +44022,13 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
+Minor
 
 
 
@@ -43864,7 +44054,6 @@ VerbElided
 
 
 Minor
-
 
 
 
@@ -43875,7 +44064,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -43969,7 +44157,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -43986,9 +44173,9 @@ Minor
 
 
 
+VerbElided
 
 
-Minor
 
 
 
@@ -44005,7 +44192,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -44030,7 +44216,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -44045,7 +44230,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -44122,7 +44306,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -44145,7 +44328,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -44189,7 +44371,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -44245,18 +44426,17 @@ Minor
 
 
 
+Minor
 
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -44267,6 +44447,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -44276,7 +44457,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -44348,6 +44528,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -44360,7 +44541,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -44368,7 +44548,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -44396,7 +44575,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -44407,7 +44585,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -44435,6 +44612,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -44445,6 +44623,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -44477,6 +44656,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -44543,12 +44723,10 @@ Verbless
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -44577,6 +44755,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -44594,11 +44773,9 @@ Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -44616,11 +44793,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -44629,30 +44804,26 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
 
 
+VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -44664,6 +44835,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -44691,7 +44863,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -44714,6 +44885,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -44726,6 +44898,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -44816,7 +44989,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -44828,7 +45000,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -44843,7 +45014,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -44858,15 +45028,17 @@ Minor
 
 
 
-Minor
 
 
 
 
 
 
+Minor
+VerbElided
 
 
+VerbElided
 
 
 
@@ -44887,6 +45059,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -44895,7 +45068,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -44913,6 +45085,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -44922,7 +45095,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -44952,7 +45124,7 @@ Minor
 
 
 
-VerbElided
+Verbless
 
 
 
@@ -44970,7 +45142,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -45002,7 +45173,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -45054,10 +45224,9 @@ Minor
 
 
 
-VerbElided
-
 
 
+Minor
 
 
 
@@ -45067,7 +45236,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -45143,6 +45311,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -45177,6 +45346,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -45186,6 +45356,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -45224,6 +45395,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -45235,9 +45407,7 @@ Minor
 
 
 
-Minor
 
-Verbless
 
 
 
@@ -45251,6 +45421,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -45272,7 +45443,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -45283,6 +45453,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -45296,6 +45467,7 @@ VerbElided
 
 
 Minor
+
 
 
 
@@ -45304,6 +45476,8 @@ Minor
 
 
 
+
+Verbless
 
 
 
@@ -45325,22 +45499,25 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
 
+VerbElided
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
@@ -45351,15 +45528,14 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
+Minor
 
-VerbElided
 
 
 
@@ -45436,13 +45612,17 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
+Verbless
 
 
+Minor
 
 
 
@@ -45465,19 +45645,18 @@ VerbElided
 
 
 
+Verbless
 
-Minor
-Minor
 
 Minor
 
 
 
 
-Minor
 
 
 
+VerbElided
 
 
 
@@ -45486,7 +45665,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -45513,7 +45691,9 @@ VerbElided
 
 
 
+
 Verbless
+
 
 
 
@@ -45521,6 +45701,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -45569,7 +45750,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -45619,6 +45799,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -45626,6 +45807,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -45640,6 +45822,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -45657,12 +45840,15 @@ VerbElided
 
 
 
+Verbless
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
@@ -45675,6 +45861,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -45686,7 +45873,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -45782,7 +45968,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -45910,7 +46095,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -45970,6 +46154,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -46115,6 +46300,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -46128,16 +46314,17 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
 
 
-Verbless
 
 
 
@@ -46163,10 +46350,12 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -46209,7 +46398,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -46217,7 +46405,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -46299,7 +46486,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -46308,7 +46494,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -46352,7 +46537,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -46377,17 +46561,20 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
-Minor
+
+
 
 
 
 
 
+Minor
 
 
 
@@ -46417,6 +46604,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -46472,6 +46660,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -46482,6 +46671,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -46499,6 +46689,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -46507,8 +46698,8 @@ Minor
 
 
 
-Minor
 
+VerbElided
 
 
 
@@ -46528,7 +46719,6 @@ Minor
 
 
 VerbElided
-
 
 
 
@@ -46572,7 +46762,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -46609,19 +46798,22 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
+Verbless
+Minor
 
+Verbless
 
 
 
@@ -46641,8 +46833,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -46659,6 +46853,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -46676,6 +46871,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -46763,6 +46959,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -46789,10 +46986,10 @@ VerbElided
 
 
 
+VerbElided
 
 
 
-Minor
 
 
 
@@ -46841,6 +47038,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -46924,7 +47122,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -46947,7 +47144,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -47022,6 +47218,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -47061,6 +47258,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -47097,7 +47295,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -47133,7 +47330,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -47142,7 +47338,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -47234,7 +47429,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -47265,6 +47459,8 @@ Verbless
 
 
 
+VerbElided
+VerbElided
 
 
 
@@ -47295,6 +47491,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -47309,7 +47506,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -47319,7 +47515,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -47329,6 +47524,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -47352,7 +47548,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -47367,7 +47562,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -47411,7 +47605,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -47449,20 +47642,20 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
 
-Minor
-Minor
 
 
 
 
 
 
+Verbless
 
 
 
@@ -47481,6 +47674,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -47509,6 +47703,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -47522,6 +47717,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -47555,6 +47751,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -47581,13 +47778,16 @@ VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -47610,7 +47810,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -47622,7 +47821,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -47630,11 +47828,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -47653,13 +47849,16 @@ VerbElided
 
 
 
+Minor
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -47736,8 +47935,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -47807,10 +48004,8 @@ Minor
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -47821,7 +48016,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -47868,11 +48062,10 @@ VerbElided
 
 
 
+Verbless
 
 
-VerbElided
 
-VerbElided
 
 
 
@@ -47982,6 +48175,8 @@ VerbElided
 
 
 
+Minor
+
 
 
 
@@ -48039,9 +48234,11 @@ VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -48051,6 +48248,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -48069,7 +48267,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -48077,6 +48274,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -48085,15 +48283,19 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
+Minor
 
 
+Minor
 
 
 
@@ -48151,18 +48353,17 @@ Verbless
 
 
 
-Minor
 
 
 
 
-Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -48256,6 +48457,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -48270,6 +48472,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -48295,10 +48498,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+Minor
 
 
 
@@ -48311,6 +48516,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -48344,11 +48550,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -48357,14 +48561,12 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
 
-Verbless
 
 
 
@@ -48376,10 +48578,8 @@ Verbless
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -48415,16 +48615,17 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
 
+Minor
 
 
 
+VerbElided
 
 
 
@@ -48482,6 +48683,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -48501,7 +48703,6 @@ Minor
 
 
 VerbElided
-
 
 
 
@@ -48513,7 +48714,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -48526,7 +48726,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -48552,7 +48751,9 @@ VerbElided
 
 
 
+VerbElided
 
+Verbless
 
 
 
@@ -48566,10 +48767,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
+Minor
+Minor
 
 
 
@@ -48578,9 +48782,12 @@ VerbElided
 
 
 
+Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -48590,6 +48797,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -48600,6 +48808,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -48658,6 +48867,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -48666,6 +48876,8 @@ VerbElided
 
 
 
+Minor
+Verbless
 
 
 
@@ -48693,14 +48905,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -48743,6 +48953,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -48808,6 +49019,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -48823,7 +49035,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -48842,7 +49053,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -48865,7 +49075,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -48881,6 +49090,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -48903,7 +49114,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -48912,7 +49122,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -48963,7 +49172,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -48977,6 +49185,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -49017,7 +49227,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -49057,6 +49266,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -49097,6 +49307,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -49163,11 +49374,11 @@ Minor
 
 
 
+VerbElided
 
 
 
 
-Minor
 
 
 
@@ -49178,10 +49389,8 @@ Minor
 
 
 
-VerbElided
 
 
-Minor
 
 
 
@@ -49201,7 +49410,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -49220,7 +49428,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -49256,7 +49463,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -49307,6 +49513,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -49316,7 +49523,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -49394,8 +49600,10 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -49405,6 +49613,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -49424,10 +49633,13 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
 
+Minor
 
 
 
@@ -49517,6 +49729,9 @@ Minor
 
 
 
+Minor
+Minor
+Verbless
 
 
 
@@ -49539,11 +49754,9 @@ Minor
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -49558,7 +49771,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -49651,8 +49863,11 @@ Minor
 
 
 
+Minor
+Minor
 
 
+VerbElided
 
 
 
@@ -49679,6 +49894,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -49702,7 +49918,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -49788,7 +50003,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -49801,7 +50015,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -49817,7 +50030,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -49835,7 +50047,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -49965,6 +50176,8 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
@@ -49993,7 +50206,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -50048,10 +50260,12 @@ Minor
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
@@ -50090,7 +50304,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -50139,7 +50352,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -50150,7 +50362,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -50193,7 +50404,7 @@ VerbElided
 
 
 
-Minor
+
 
 
 
@@ -50255,6 +50466,8 @@ Minor
 
 
 
+
+VerbElided
 
 
 
@@ -50282,6 +50495,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -50303,6 +50517,9 @@ Minor
 
 
 VerbElided
+
+
+
 
 
 
@@ -50361,6 +50578,7 @@ VerbElided
 
 
 
+
 Verbless
 
 
@@ -50374,7 +50592,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -50393,6 +50610,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -50440,6 +50658,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -50496,6 +50715,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -50591,7 +50811,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -50648,7 +50867,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -50658,7 +50876,10 @@ VerbElided
 
 
 
-VerbElided
+
+
+
+
 
 
 
@@ -50686,6 +50907,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -50715,6 +50937,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -50739,6 +50962,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -50764,6 +50988,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -50773,6 +50998,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -50819,17 +51045,21 @@ VerbElided
 
 
 
+Minor
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -50852,17 +51082,15 @@ VerbElided
 
 
 
-VerbElided
 
+Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -50879,7 +51107,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -50919,7 +51146,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -51076,7 +51302,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -51092,6 +51317,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51137,6 +51363,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51157,6 +51384,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51165,6 +51393,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51190,6 +51419,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -51201,6 +51431,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -51318,6 +51550,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -51326,7 +51559,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -51355,6 +51587,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -51419,7 +51652,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -51427,7 +51659,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -51443,14 +51674,11 @@ Verbless
 
 
 
-Verbless
 
 
-Verbless
 
 
 
-VerbElided
 
 
 
@@ -51463,7 +51691,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -51486,7 +51713,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -51542,11 +51768,12 @@ VerbElided
 
 
 
-Verbless
+
 
 
 
 
+VerbElided
 
 
 
@@ -51557,7 +51784,8 @@ Verbless
 
 
 
-Verbless
+Minor
+Minor
 
 
 
@@ -51568,7 +51796,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -51579,7 +51806,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -51621,6 +51847,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51628,6 +51855,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51643,14 +51871,11 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
 
 
-VerbElided
 
 
 
@@ -51670,7 +51895,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -51685,10 +51909,11 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
-Minor
 
 
 
@@ -51713,7 +51938,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -51724,7 +51948,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -51737,6 +51960,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -51776,7 +52000,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -51828,7 +52051,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -51839,7 +52061,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -51921,6 +52142,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -51930,7 +52152,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -51950,7 +52171,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -51980,6 +52200,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -52006,7 +52227,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -52034,6 +52254,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -52080,6 +52301,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -52107,7 +52329,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -52122,12 +52343,12 @@ Minor
 
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
@@ -52152,7 +52373,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -52176,6 +52396,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -52253,8 +52474,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -52265,6 +52488,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -52274,6 +52498,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -52285,6 +52510,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -52386,6 +52612,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -52395,6 +52622,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -52483,6 +52711,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -52505,6 +52734,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -52559,6 +52789,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -52762,7 +52993,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -52774,7 +53004,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -52813,7 +53042,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -52825,10 +53053,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+Verbless
 
 
 
@@ -52862,7 +53092,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -52871,7 +53100,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -52937,7 +53165,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -52996,10 +53223,13 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
 
+Minor
 
 
 
@@ -53009,7 +53239,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -53061,18 +53290,21 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+Minor
 
 
-Minor
 
 
+Minor
 
 
+VerbElided
 
 
 
@@ -53088,6 +53320,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -53096,6 +53329,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -53103,6 +53337,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -53149,7 +53384,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -53165,19 +53399,18 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -53192,6 +53425,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -53392,6 +53626,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -53402,6 +53637,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -53426,6 +53662,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -53460,7 +53697,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -53492,7 +53728,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -53503,6 +53738,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -53541,7 +53777,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -53552,12 +53787,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -53574,7 +53809,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -53588,6 +53822,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -53595,6 +53830,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -53679,6 +53915,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -53701,6 +53938,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -53789,6 +54027,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -53908,7 +54147,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -53929,6 +54167,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -54077,7 +54316,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -54161,6 +54399,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -54218,7 +54457,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -54256,11 +54494,13 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
@@ -54355,6 +54595,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -54380,6 +54621,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -54387,6 +54629,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -54396,7 +54639,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -54425,6 +54667,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -54443,7 +54686,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -54456,7 +54698,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -54541,6 +54782,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -54553,6 +54795,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -54562,11 +54805,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -54626,7 +54867,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -54691,7 +54931,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -54724,12 +54963,10 @@ Verbless
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -54792,6 +55029,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -54859,7 +55097,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -54919,8 +55156,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -54929,7 +55168,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -55045,8 +55283,8 @@ Minor
 
 
 
-Minor
 
+Verbless
 
 
 
@@ -55087,12 +55325,16 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
 
 
+Minor
 
+Minor
 
 
 
@@ -55104,6 +55346,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -55177,6 +55420,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -55196,7 +55441,10 @@ Minor
 
 
 
+Minor
+Minor
 
+Minor
 
 
 
@@ -55242,6 +55490,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -55268,7 +55517,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -55321,6 +55569,9 @@ VerbElided
 
 
 
+Minor
+Minor
+Minor
 
 
 
@@ -55348,6 +55599,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -55464,6 +55716,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -55490,9 +55744,9 @@ VerbElided
 
 
 
-Verbless
 
 
+Minor
 
 
 
@@ -55504,7 +55758,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -55705,14 +55958,12 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -55738,6 +55989,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -55774,8 +56026,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -55834,7 +56088,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -55864,6 +56117,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -55906,6 +56160,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -55964,7 +56219,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -56158,6 +56412,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -56186,6 +56442,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -56196,7 +56453,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -56204,7 +56460,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -56223,6 +56478,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -56250,6 +56506,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -56307,6 +56565,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -56346,7 +56605,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -56361,6 +56619,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -56375,6 +56634,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -56382,7 +56642,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -56430,6 +56689,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -56451,7 +56711,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -56510,7 +56769,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -56541,6 +56799,7 @@ Minor
 
 
 Minor
+
 
 
 
@@ -56591,6 +56850,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -56601,7 +56861,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -56720,13 +56979,14 @@ Verbless
 
 
 
-Minor
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -56766,6 +57026,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -56784,6 +57045,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -56818,7 +57080,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -56994,6 +57255,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -57044,7 +57306,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -57089,6 +57350,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -57109,7 +57371,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -57188,6 +57449,8 @@ VerbElided
 
 
 
+VerbElided
+
 
 
 
@@ -57234,6 +57497,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -57269,7 +57533,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -57302,6 +57565,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -57346,7 +57610,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -57395,6 +57658,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -57421,6 +57685,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -57441,6 +57706,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -57485,7 +57751,9 @@ Minor
 
 
 
+Minor
 
+Verbless
 
 
 
@@ -57500,12 +57768,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+Minor
 
 
 
@@ -57645,6 +57915,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -57652,6 +57923,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -57669,6 +57941,8 @@ Minor
 
 
 
+Verbless
+Verbless
 
 
 
@@ -57685,7 +57959,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -57695,7 +57968,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -57735,12 +58007,13 @@ VerbElided
 
 
 
-VerbElided
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -57754,6 +58027,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -57841,7 +58115,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -57856,6 +58129,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -57902,6 +58176,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -57971,6 +58246,8 @@ Minor
 
 
 
+Verbless
+Verbless
 
 
 
@@ -58063,6 +58340,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -58076,6 +58354,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -58092,6 +58371,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -58148,7 +58428,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -58377,6 +58656,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -58388,11 +58668,11 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
+Minor
 
 
 
@@ -58435,7 +58715,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -58456,11 +58735,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
-Minor
 
 
 
@@ -58532,6 +58811,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -58540,6 +58820,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -58642,7 +58923,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -58718,7 +58998,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -58734,7 +59013,7 @@ VerbElided
 
 
 
-Minor
+Verbless
 
 
 
@@ -58885,7 +59164,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -58914,6 +59192,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -58960,6 +59239,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -59087,7 +59367,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -59103,7 +59382,7 @@ VerbElided
 
 
 
-Minor
+
 
 
 
@@ -59147,9 +59426,12 @@ Minor
 
 
 
+
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -59267,6 +59549,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -59281,7 +59564,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -59332,7 +59614,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -59403,6 +59684,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -59530,10 +59812,11 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
-VerbElided
 
 
 
@@ -59562,6 +59845,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -59581,7 +59865,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -59618,12 +59901,10 @@ Verbless
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -59686,7 +59967,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -59716,6 +59996,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -59744,6 +60025,8 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
@@ -59751,14 +60034,12 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -59806,6 +60087,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -59836,7 +60118,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -59848,10 +60129,13 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
 
+Minor
 
 
 
@@ -59877,6 +60161,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -59926,6 +60211,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -59976,7 +60263,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -60000,6 +60286,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -60117,6 +60404,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -60139,7 +60427,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -60182,6 +60469,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -60205,6 +60494,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -60229,6 +60519,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -60248,14 +60539,18 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Minor
+Minor
 
 
 
+Verbless
 
 
 
@@ -60266,7 +60561,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -60310,6 +60604,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -60379,7 +60674,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -60393,7 +60687,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -60497,7 +60790,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -60658,6 +60950,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -60679,7 +60972,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -60710,6 +61002,8 @@ Verbless
 
 
 
+Minor
+
 
 
 
@@ -60863,6 +61157,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -60873,6 +61168,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -60895,6 +61191,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -61054,13 +61351,11 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
-Minor
 
 
 
@@ -61164,7 +61459,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -61253,6 +61547,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -61291,6 +61586,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -61319,10 +61615,8 @@ VerbElided
 
 
 
-Minor
 
 
-VerbElided
 
 
 
@@ -61335,11 +61629,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
-VerbElided
+
+
 
 
 
@@ -61380,6 +61676,8 @@ VerbElided
 
 
 
+Minor
+
 
 
 
@@ -61412,6 +61710,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61458,7 +61757,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -61484,6 +61782,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61550,6 +61849,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61573,13 +61873,17 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
+Verbless
 
 
 
 
 
+Minor
 
 
 
@@ -61644,6 +61948,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61705,8 +62010,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -61723,6 +62030,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61732,6 +62040,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61753,6 +62062,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -61760,6 +62070,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -61768,6 +62079,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -61842,6 +62154,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -61920,7 +62233,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -61942,7 +62254,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -61952,6 +62263,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -61979,6 +62291,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -62018,7 +62331,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -62029,7 +62341,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -62039,7 +62350,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -62099,6 +62409,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -62135,6 +62446,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -62147,7 +62459,7 @@ Verbless
 
 
 
-Verbless
+Minor
 
 
 
@@ -62380,10 +62692,13 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -62421,7 +62736,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -62476,7 +62790,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -62498,6 +62811,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -62531,7 +62845,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -62553,6 +62866,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -62625,10 +62939,10 @@ VerbElided
 
 
 
-Verbless
 
+Minor
+Minor
 
-Verbless
 
 
 
@@ -62742,7 +63056,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -62761,7 +63074,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -62820,7 +63132,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -62853,6 +63164,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -62893,7 +63205,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -62919,6 +63230,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -62999,6 +63311,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -63014,11 +63327,11 @@ Minor
 
 
 
+VerbElided
 
 
 
 
-Minor
 
 
 
@@ -63027,6 +63340,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -63100,7 +63414,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -63176,6 +63489,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -63227,7 +63541,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -63236,10 +63549,11 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
 
-Minor
 
 
 
@@ -63258,6 +63572,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -63268,7 +63583,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -63288,6 +63602,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -63335,7 +63650,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -63345,6 +63659,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -63355,8 +63670,10 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -63368,11 +63685,11 @@ Minor
 
 
 
+VerbElided
 
 
 
 
-Minor
 
 
 
@@ -63384,6 +63701,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -63407,11 +63725,11 @@ Minor
 
 
 
-Minor
 
 
 
 
+Verbless
 
 
 
@@ -63501,17 +63819,21 @@ Minor
 
 
 
+Minor
 
 
 
+Minor
 
 
 
 
+Minor
 
 
 
 
+Minor
 
 
 
@@ -63580,20 +63902,23 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
-VerbElided
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -63602,17 +63927,21 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -63635,6 +63964,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -63658,6 +63988,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -63704,6 +64035,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -63720,6 +64052,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -63737,6 +64070,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -63756,9 +64090,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -63797,6 +64133,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -63811,6 +64148,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -63880,14 +64218,19 @@ VerbElided
 
 
 
+Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -63896,18 +64239,23 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -63931,6 +64279,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -63973,6 +64322,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -63981,11 +64331,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
-Minor
 
+Verbless
 
 
 
@@ -64009,8 +64360,9 @@ Minor
 
 
 
+Verbless
 
-Minor
+Verbless
 
 
 
@@ -64038,9 +64390,11 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -64057,6 +64411,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -64068,11 +64423,13 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -64084,11 +64441,13 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -64117,7 +64476,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -64156,6 +64514,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -64190,6 +64549,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -64241,7 +64601,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -64250,18 +64609,20 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
-Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -64303,7 +64664,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -64333,6 +64693,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -64346,6 +64707,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -64357,6 +64719,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -64398,6 +64761,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -64427,6 +64791,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -64435,16 +64800,17 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
 
 
-Minor
 
 
 
@@ -64474,6 +64840,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -64539,7 +64906,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -64561,7 +64927,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -64630,14 +64995,15 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
 
-Minor
 
 
 
@@ -64656,7 +65022,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -64666,6 +65031,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -64676,13 +65042,16 @@ Minor
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -64693,8 +65062,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -64752,6 +65123,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -64768,15 +65140,18 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -64788,6 +65163,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -64819,7 +65195,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -64837,6 +65212,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -64856,14 +65232,11 @@ Minor
 
 
 
-Minor
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -64891,16 +65264,17 @@ VerbElided
 
 
 
-VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -64919,6 +65293,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -64933,7 +65308,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -64954,8 +65328,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -64992,7 +65368,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -65005,7 +65380,13 @@ Verbless
 
 
 
+Verbless
+
+
+
 
+VerbElided
+
 
 
 
@@ -65024,6 +65405,8 @@ Verbless
 
 
 
+
+VerbElided
 
 
 
@@ -65033,6 +65416,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -65041,6 +65425,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -65089,6 +65474,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -65096,6 +65482,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -65111,9 +65498,11 @@ Verbless
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
@@ -65133,10 +65522,10 @@ Verbless
 
 
 
-Minor
 
 
 
+Minor
 
 
 
@@ -65179,16 +65568,20 @@ Minor
 
 
 
+VerbElided
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -65230,11 +65623,14 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -65267,6 +65663,7 @@ Minor
 
 Minor
 
+VerbElided
 
 
 
@@ -65300,6 +65697,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -65313,12 +65711,14 @@ Minor
 
 
 
+Verbless
 
 
-Minor
 
+Verbless
 
 
+Verbless
 
 
 
@@ -65327,12 +65727,12 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
-Minor
 
 
 
@@ -65422,7 +65822,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -65441,10 +65840,10 @@ Minor
 
 
 
-VerbElided
 
 
 
+Verbless
 
 
 
@@ -65460,9 +65859,9 @@ VerbElided
 
 
 
+VerbElided
 
 
-Minor
 
 
 
@@ -65479,7 +65878,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -65494,6 +65892,7 @@ Minor
 
 
 Verbless
+
 
 
 
@@ -65512,10 +65911,13 @@ Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -65523,13 +65925,11 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -65538,7 +65938,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -65549,7 +65948,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -65577,7 +65975,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -65615,6 +66012,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -65636,6 +66034,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -65648,8 +66047,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -65662,8 +66063,10 @@ Minor
 
 
 
+Minor
 
 
+VerbElided
 
 
 
@@ -65672,6 +66075,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -65685,8 +66089,8 @@ Minor
 
 
 
-Verbless
 
+Minor
 
 
 
@@ -65694,14 +66098,11 @@ Verbless
 
 
 
-Verbless
 
 
-Verbless
 
 
 
-Minor
 
 
 
@@ -65710,11 +66111,11 @@ Minor
 
 
 
-Minor
 
 
 
 
+VerbElided
 
 
 
@@ -65735,11 +66136,9 @@ Minor
 
 
 
-Verbless
 
 
 
-Minor
 
 
 
@@ -65751,7 +66150,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -65761,6 +66159,8 @@ VerbElided
 
 
 
+
+Verbless
 
 
 
@@ -65777,6 +66177,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -65802,7 +66203,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -65812,14 +66212,12 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -65829,6 +66227,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -65854,8 +66253,10 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -65908,6 +66309,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -65918,6 +66320,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -65951,17 +66354,14 @@ Minor
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
@@ -65987,6 +66387,7 @@ Minor
 VerbElided
 
 
+VerbElided
 
 
 
@@ -66007,19 +66408,17 @@ VerbElided
 
 
 
+Minor
+Verbless
 
 
-Verbless
 
 
-Minor
 
 
 
 
 
-VerbElided
-Minor
 
 
 
@@ -66031,6 +66430,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -66038,7 +66438,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -66048,6 +66447,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66057,6 +66457,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -66094,6 +66495,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66148,6 +66550,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66179,6 +66582,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66189,13 +66593,16 @@ VerbElided
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -66212,6 +66619,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -66289,6 +66697,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -66320,12 +66729,14 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -66384,6 +66795,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66395,10 +66807,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -66430,26 +66844,29 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
 
-VerbElided
 
 
 
@@ -66476,6 +66893,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -66483,6 +66901,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -66507,6 +66926,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66551,6 +66971,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -66589,15 +67010,18 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -66629,6 +67053,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -66636,9 +67061,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -66653,6 +67080,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -66661,14 +67089,14 @@ VerbElided
 
 
 
-VerbElided
 
 
 
+Minor
 
 
-VerbElided
 
+Minor
 
 
 
@@ -66681,23 +67109,23 @@ VerbElided
 
 
 
+VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
+Verbless
 
 
 
@@ -66738,19 +67166,18 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -66766,33 +67193,41 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
@@ -66800,10 +67235,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -66851,18 +67288,21 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
 
 
 
+Verbless
 
 
 
@@ -66898,6 +67338,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -66953,11 +67394,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -66980,20 +67423,25 @@ VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -67004,6 +67452,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -67012,6 +67461,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -67024,10 +67474,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+Verbless
 
 
 
@@ -67035,10 +67487,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
-Minor
+Verbless
 
 
 
@@ -67054,7 +67507,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -67066,10 +67518,13 @@ Minor
 
 
 
+VerbElided
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -67088,6 +67543,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -67097,7 +67553,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -67115,6 +67570,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -67173,7 +67629,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -67188,7 +67643,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -67217,7 +67671,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -67229,7 +67682,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -67240,6 +67692,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -67256,8 +67709,8 @@ VerbElided
 
 
 
+Minor
 
-VerbElided
 
 
 
@@ -67285,6 +67738,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -67293,12 +67747,14 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -67319,12 +67775,15 @@ VerbElided
 
 
 
+Verbless
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -67341,6 +67800,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -67352,10 +67812,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -67366,7 +67828,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -67383,10 +67844,7 @@ VerbElided
 
 
 
-Verbless
-Minor
 
-Verbless
 
 
 
@@ -67415,11 +67873,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -67440,7 +67896,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -67465,7 +67920,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -67477,13 +67931,16 @@ Minor
 
 
 
+Minor
 
 
 
 
 
+VerbElided
 
 
+Minor
 
 
 
@@ -67525,6 +67982,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -67590,7 +68048,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -67631,7 +68088,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -67705,7 +68161,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -67720,6 +68175,10 @@ Minor
 
 
 
+Minor
+
+
+
 
 
 
@@ -67758,9 +68217,13 @@ Minor
 
 
 
+Verbless
+
 
 
 
+
+Minor
 
 
 
@@ -67951,6 +68414,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -68001,6 +68465,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -68013,6 +68478,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -68031,9 +68497,8 @@ VerbElided
 
 
 
-Verbless
 
-Verbless
+
 
 
 
@@ -68057,6 +68522,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -68100,6 +68566,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -68138,8 +68605,10 @@ Verbless
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -68197,6 +68666,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -68212,6 +68682,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -68241,6 +68712,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -68256,8 +68728,11 @@ Verbless
 
 
 
+Verbless
 
+Verbless
 
+Verbless
 
 
 
@@ -68274,6 +68749,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -68324,9 +68800,7 @@ Verbless
 
 
 
-VerbElided
 
-VerbElided
 
 
 
@@ -68335,6 +68809,9 @@ VerbElided
 
 
 
+Verbless
+Verbless
+Verbless
 
 
 
@@ -68369,7 +68846,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -68377,8 +68853,11 @@ Minor
 
 
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
@@ -68398,6 +68877,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -68406,10 +68886,15 @@ Minor
 
 
 
+Minor
 
 
+Verbless
 
+Verbless
 Verbless
+
+
 
 
 
@@ -68471,6 +68956,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -68484,6 +68970,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -68530,6 +69017,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -68595,9 +69083,9 @@ Verbless
 
 
 
-Verbless
 
 
+VerbElided
 
 
 
@@ -68608,6 +69096,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -68629,6 +69118,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -68646,13 +69136,11 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -68674,16 +69162,19 @@ VerbElided
 
 
 
-Minor
+
+
 
 
 
 
 
 
+Minor
 
 
 
+VerbElided
 
 
 
@@ -68691,6 +69182,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -68700,6 +69192,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -68717,12 +69210,14 @@ Minor
 
 
 
+VerbElided
+Verbless
 
 
 
 
 
-Minor
+Verbless
 
 
 
@@ -68745,9 +69240,11 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -68765,14 +69262,12 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -68782,7 +69277,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -68847,6 +69341,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -68875,9 +69370,7 @@ Verbless
 
 
 
-Minor
 
-Verbless
 
 
 
@@ -68885,7 +69378,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -68896,6 +69388,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -68904,6 +69397,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -68917,6 +69411,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -68931,9 +69426,12 @@ Verbless
 
 
 
+Verbless
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -68994,6 +69492,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -69002,6 +69501,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -69048,13 +69548,19 @@ Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
+Verbless
 
+Verbless
 
+Verbless
 
 
 
@@ -69100,6 +69606,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -69156,10 +69663,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -69167,6 +69676,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -69178,6 +69688,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -69192,7 +69703,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -69241,6 +69751,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -69283,6 +69794,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -69316,6 +69828,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -69339,6 +69852,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -69358,13 +69872,14 @@ Verbless
 
 
 
-Minor
+VerbElided
 
 
 
 
 
 
+Minor
 
 
 
@@ -69387,6 +69902,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -69404,6 +69920,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -69443,13 +69960,11 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -69457,13 +69972,14 @@ VerbElided
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
-Minor
 
 
 
@@ -69471,11 +69987,13 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -69498,7 +70016,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -69510,7 +70027,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -69520,14 +70036,11 @@ Minor
 
 
 
-Minor
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -69572,6 +70085,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -69592,6 +70106,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -69601,6 +70116,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -69611,6 +70127,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -69624,7 +70141,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -69637,6 +70153,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -69651,7 +70168,9 @@ VerbElided
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -69710,6 +70229,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -69760,15 +70280,16 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
-Verbless
 
 
 
@@ -69787,7 +70308,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -69798,6 +70318,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -69807,6 +70328,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -69825,7 +70347,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -69848,7 +70369,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -69857,6 +70377,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -69882,10 +70403,12 @@ Verbless
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
@@ -69895,21 +70418,25 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -69975,6 +70502,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -69997,14 +70525,12 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -70048,6 +70574,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -70095,13 +70622,12 @@ VerbElided
 
 
 Verbless
-
 
 
 
 
 
-
+Verbless
 
 
 
@@ -70117,27 +70643,34 @@ Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
-VerbElided
+Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -70183,10 +70716,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-Verbless
 
 
 
@@ -70206,7 +70737,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -70214,8 +70744,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -70226,14 +70754,11 @@ Minor
 
 
 
-Minor
 
 
 
 
 
-Minor
-Minor
 
 
 
@@ -70245,7 +70770,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -70259,7 +70783,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -70281,6 +70804,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -70342,21 +70866,18 @@ Minor
 
 
 
-Minor
 
 
 
 
+VerbElided
 
 
 
 
 
 
-Minor
-Verbless
 
-Verbless
 
 
 
@@ -70368,6 +70889,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -70415,6 +70937,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -70437,6 +70960,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -70479,11 +71003,11 @@ Verbless
 
 
 
-Minor
 
 
 
 
+Verbless
 
 
 
@@ -70507,6 +71031,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -70533,9 +71058,12 @@ Minor
 
 
 
+VerbElided
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -70554,6 +71082,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -70577,7 +71106,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -70620,6 +71148,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -70674,8 +71203,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -70687,7 +71214,9 @@ Minor
 
 
 
+VerbElided
 
+Verbless
 
 
 
@@ -70706,6 +71235,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -70733,6 +71263,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -70778,12 +71309,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -70802,12 +71335,11 @@ Minor
 
 
 
+VerbElided
 
 
 
 
-Minor
-Minor
 
 
 
@@ -70816,6 +71348,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -70902,6 +71435,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -70918,15 +71452,16 @@ Minor
 
 
 
-Minor
 
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -70963,6 +71498,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -70976,7 +71512,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -70986,6 +71521,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -70993,6 +71529,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -71006,14 +71543,17 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -71022,6 +71562,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -71058,6 +71599,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -71069,7 +71611,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -71170,6 +71711,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -71250,6 +71792,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -71267,7 +71810,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -71296,6 +71838,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -71318,10 +71861,13 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
+VerbElided
 
 
 
@@ -71329,6 +71875,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -71336,6 +71883,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -71343,6 +71891,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -71371,22 +71920,28 @@ Minor
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -71397,12 +71952,10 @@ Minor
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -71414,7 +71967,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -71432,6 +71984,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -71441,14 +71994,11 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -71478,11 +72028,13 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -71505,7 +72057,9 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -71516,6 +72070,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -71571,9 +72126,6 @@ Minor
 
 
 
-Minor
-Minor
-Verbless
 
 
 
@@ -71581,7 +72133,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -71590,18 +72141,29 @@ Verbless
 
 
 
+
+Verbless
 
 
 
 
 
+VerbElided
+VerbElided
+VerbElided
+VerbElided
+VerbElided
 
 
 
 
+Verbless
 
+Verbless
 
+Verbless
 
+Verbless
 
 
 
@@ -71713,10 +72275,13 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -71751,6 +72316,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -71767,15 +72333,12 @@ Verbless
 
 
 
-Minor
-Minor
+Verbless
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -71788,6 +72351,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -71809,7 +72373,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -71818,9 +72381,11 @@ Verbless
 
 
 
+Verbless
 
 
 
+VerbElided
 
 
 
@@ -71832,6 +72397,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -71851,6 +72417,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -71893,6 +72460,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -71904,11 +72472,13 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
+Minor
 
 
 
@@ -71992,9 +72562,11 @@ Verbless
 
 
 
+VerbElided
 
 
 
+Minor
 
 
 
@@ -72030,6 +72602,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -72086,6 +72659,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -72099,6 +72673,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -72152,8 +72727,10 @@ Verbless
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -72209,6 +72786,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -72224,6 +72802,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -72232,8 +72811,6 @@ Verbless
 
 
 
-Minor
-Minor
 
 
 
@@ -72270,6 +72847,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -72283,12 +72861,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -72321,6 +72901,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -72360,6 +72941,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -72369,13 +72951,11 @@ Minor
 
 
 
-Minor
 
 
 
 
 
-VerbElided
 
 
 
@@ -72421,6 +73001,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -72435,10 +73016,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+Verbless
+VerbElided
 
 
 
@@ -72470,7 +73054,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -72487,6 +73070,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -72525,6 +73109,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -72567,6 +73152,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -72579,6 +73165,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -72594,21 +73181,28 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
+VerbElided
 
 
 
@@ -72616,21 +73210,27 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
 
 
 
+VerbElided
 
 
 
@@ -72669,6 +73269,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -72679,22 +73280,28 @@ VerbElided
 VerbElided
 
 
+VerbElided
 
+VerbElided
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -72711,11 +73318,11 @@ VerbElided
 
 
 
+Minor
 
 
 
 
-Minor
 
 
 
@@ -72747,7 +73354,7 @@ Minor
 
 
 
-VerbElided
+
 
 
 
@@ -72777,22 +73384,27 @@ VerbElided
 
 
 
+Minor
 
 
 
+Minor
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
+VerbElided
 
 
 
@@ -72805,6 +73417,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -72821,6 +73434,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -72849,7 +73463,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -72906,12 +73519,10 @@ Verbless
 
 
 
-Verbless
 
 
 
 Verbless
-
 
 
 
@@ -72970,6 +73581,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -72978,7 +73590,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -73037,6 +73648,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -73046,24 +73658,27 @@ VerbElided
 
 
 
+Minor
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
 
 
 
-Minor
 
 
 
@@ -73084,6 +73699,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -73169,6 +73785,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -73178,13 +73795,13 @@ Minor
 
 
 
-Minor
 
 
 
 
 
 
+Minor
 
 
 
@@ -73213,6 +73830,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -73271,6 +73889,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -73293,6 +73912,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -73352,7 +73972,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -73369,7 +73988,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -73380,11 +73998,13 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+VerbElided
 
 
 
@@ -73392,6 +74012,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -73401,7 +74022,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -73442,7 +74062,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -73451,6 +74070,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -73477,7 +74097,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -73487,11 +74106,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-VerbElided
 
 
 
@@ -73561,18 +74178,14 @@ VerbElided
 
 
 
-Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
-Verbless
 
 
 
@@ -73584,14 +74197,12 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -73626,17 +74237,20 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -73644,9 +74258,11 @@ Verbless
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -73706,6 +74322,10 @@ Verbless
 
 
 
+Verbless
+
+
+
 
 
 
@@ -73754,6 +74374,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -73775,6 +74396,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -73827,6 +74449,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -73848,6 +74471,8 @@ Verbless
 
 
 
+VerbElided
+VerbElided
 
 
 
@@ -73863,9 +74488,11 @@ Verbless
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -73935,11 +74562,14 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
@@ -73971,9 +74601,9 @@ Verbless
 
 
 
-VerbElided
 
 
+Verbless
 
 
 
@@ -74058,7 +74688,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -74073,11 +74702,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -74107,7 +74734,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -74116,20 +74742,21 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
 
-Minor
-Minor
 
 
 
@@ -74177,6 +74804,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -74243,7 +74871,9 @@ Minor
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -74273,6 +74903,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -74306,7 +74937,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -74322,6 +74952,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -74367,7 +74998,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -74452,7 +75082,9 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -74476,6 +75108,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -74487,6 +75120,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -74500,6 +75134,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -74510,17 +75145,22 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -74576,6 +75216,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -74605,6 +75246,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -74625,6 +75267,8 @@ Minor
 
 
 
+Verbless
+Verbless
 
 
 
@@ -74636,7 +75280,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -74649,8 +75292,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -74679,6 +75320,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -74741,7 +75383,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -74752,7 +75393,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -74804,6 +75444,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -74831,12 +75472,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
+
 VerbElided
 
 
@@ -74903,7 +75544,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -74951,6 +75591,8 @@ VerbElided
 
 
 
+VerbElided
+
 
 
 
@@ -74977,6 +75619,9 @@ VerbElided
 
 
 
+VerbElided
+VerbElided
+Verbless
 
 
 
@@ -75002,10 +75647,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -75034,6 +75681,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -75043,7 +75691,9 @@ VerbElided
 
 
 
+Verbless
 
+VerbElided
 
 
 
@@ -75091,6 +75741,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -75098,7 +75749,9 @@ VerbElided
 
 
 
+VerbElided
 
+Verbless
 
 
 
@@ -75106,7 +75759,9 @@ VerbElided
 
 
 
+Minor
 
+Verbless
 
 
 
@@ -75174,15 +75829,16 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -75223,6 +75879,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -75258,7 +75915,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -75266,7 +75922,7 @@ Verbless
 
 
 
-Verbless
+VerbElided
 
 
 
@@ -75334,7 +75990,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -75342,6 +75997,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -75357,8 +76013,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -75389,13 +76047,14 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
-VerbElided
 
 
 
@@ -75436,6 +76095,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -75457,7 +76117,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -75465,18 +76124,20 @@ Minor
 
 
 
-Minor
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -75511,6 +76172,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -75536,7 +76198,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -75570,6 +76231,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -75637,7 +76299,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -75645,8 +76306,8 @@ Verbless
 Verbless
 
 
-Verbless
 
+VerbElided
 
 
 
@@ -75656,7 +76317,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -75668,7 +76328,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -75684,7 +76343,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -75724,8 +76382,10 @@ VerbElided
 
 
 
+VerbElided
 
 
+Verbless
 
 
 
@@ -75761,8 +76421,10 @@ VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -75772,6 +76434,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -75816,19 +76479,27 @@ VerbElided
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
@@ -75836,7 +76507,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -75845,26 +76515,39 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
+Verbless
 
+Verbless
 
+Verbless
 
+Verbless
 
-Minor
+Verbless
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
+Verbless
 
 
 
+Verbless
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -75938,6 +76621,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -75947,9 +76631,11 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -75960,14 +76646,17 @@ Minor
 
 
 
+Minor
 
 
 
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -75976,13 +76665,11 @@ Minor
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
@@ -75993,6 +76680,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -76022,7 +76710,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -76096,14 +76783,12 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -76121,12 +76806,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -76148,6 +76835,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -76165,6 +76853,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -76176,6 +76865,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -76191,6 +76881,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -76290,6 +76981,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -76322,6 +77014,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -76352,6 +77045,8 @@ Minor
 
 
 
+VerbElided
+Minor
 
 
 
@@ -76374,6 +77069,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -76391,6 +77087,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -76416,6 +77113,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -76453,6 +77151,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -76500,14 +77199,12 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
 
-Verbless
 
 
 
@@ -76517,6 +77214,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -76532,6 +77230,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -76552,7 +77251,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -76622,6 +77320,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -76632,6 +77331,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -76705,6 +77405,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -76731,6 +77432,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -76755,19 +77457,17 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
-Minor
-Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -76787,12 +77487,15 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -76863,31 +77566,30 @@ Minor
 
 Verbless
 
+Verbless
 
 
 
 
 
 
-Minor
 
 
 
+VerbElided
 
 
 
-Minor
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -76904,7 +77606,6 @@ VerbElided
 
 
 Verbless
-
 
 
 
@@ -76914,7 +77615,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -76925,7 +77625,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -76950,8 +77649,10 @@ Minor
 
 
 
+Verbless
 
 
+Minor
 
 
 
@@ -76975,6 +77676,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -77001,6 +77703,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -77013,7 +77716,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -77036,6 +77738,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -77048,7 +77751,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -77078,6 +77780,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -77099,6 +77802,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -77116,14 +77820,18 @@ VerbElided
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
+VerbElided
 
+Minor
 
 
 
@@ -77149,6 +77857,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -77158,6 +77867,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -77180,6 +77890,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -77266,10 +77977,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -77333,6 +78046,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -77342,7 +78056,6 @@ VerbElided
 
 
 Verbless
-
 
 
 
@@ -77357,7 +78070,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -77382,14 +78094,16 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
+Minor
 
 
 
-Verbless
 
 
 
@@ -77410,10 +78124,13 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
+Verbless
 
 
 
@@ -77421,6 +78138,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -77441,10 +78159,12 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
+Minor
 
 
 
@@ -77465,6 +78185,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -77494,11 +78215,11 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
-Minor
 
 
 
@@ -77540,6 +78261,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -77547,19 +78269,23 @@ Minor
 
 
 
+Minor
 
 
 
 
+Verbless
 
 
 
 
+VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -77577,7 +78303,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -77593,6 +78318,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -77626,7 +78352,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -77638,14 +78363,15 @@ Minor
 
 
 
-Minor
 
+VerbElided
 
 
 
 
 
 
+Verbless
 
 
 
@@ -77671,6 +78397,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -77684,8 +78411,10 @@ Minor
 
 
 
+Minor
 
 
+VerbElided
 
 
 
@@ -77706,6 +78435,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -77731,6 +78461,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -77754,7 +78485,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -77783,7 +78513,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -77791,7 +78520,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -77799,6 +78527,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -77838,6 +78567,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -77895,6 +78625,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -77911,13 +78642,11 @@ Minor
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -77934,6 +78663,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -77984,6 +78714,9 @@ Verbless
 
 
 
+Minor
+Minor
+VerbElided
 
 
 
@@ -78000,6 +78733,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -78009,6 +78743,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -78100,6 +78835,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -78112,7 +78848,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -78220,6 +78955,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -78230,6 +78966,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -78352,6 +79089,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -78407,7 +79145,9 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -78433,6 +79173,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -78440,7 +79181,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -78531,6 +79271,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -78571,19 +79312,18 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
 
-Minor
 
 
 
 
 
+Verbless
 
 
 
@@ -78681,7 +79421,7 @@ Minor
 
 
 
-
+Verbless
 
 
 
@@ -78709,7 +79449,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -78746,7 +79485,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -78757,7 +79495,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -78793,6 +79530,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -78813,9 +79551,9 @@ Verbless
 
 
 
-VerbElided
 
 
+Minor
 
 
 
@@ -78844,6 +79582,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -78882,6 +79621,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -78995,7 +79735,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -79013,11 +79752,9 @@ Verbless
 
 
 
-Minor
 
 
 
-Minor
 
 
 
@@ -79184,6 +79921,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -79229,6 +79967,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -79260,12 +79999,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -79302,12 +80043,15 @@ Minor
 
 
 
+Verbless
 
 
 
 
+VerbElided
 
 
+Verbless
 
 
 
@@ -79350,6 +80094,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -79364,9 +80109,10 @@ Minor
 
 
 
-Verbless
 
+VerbElided
 
+VerbElided
 
 
 
@@ -79377,6 +80123,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -79415,10 +80162,12 @@ Verbless
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
@@ -79426,10 +80175,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -79443,6 +80194,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -79484,6 +80236,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -79549,15 +80302,15 @@ Verbless
 
 
 
+VerbElided
 
 
-Verbless
 
 
-Verbless
 
 
 
+Minor
 
 
 
@@ -79583,6 +80336,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -79594,6 +80348,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -79607,13 +80362,16 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -79624,8 +80382,10 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -79636,9 +80396,12 @@ Verbless
 
 
 
+Verbless
 
+Verbless
 
 
+Minor
 
 
 
@@ -79748,7 +80511,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -79805,9 +80567,7 @@ Verbless
 
 
 
-Minor
 
-Minor
 
 
 
@@ -79815,8 +80575,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -79834,7 +80592,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -79849,6 +80606,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -79859,6 +80617,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -79869,6 +80628,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -79886,6 +80646,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -79943,8 +80704,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -79975,11 +80734,8 @@ Minor
 
 
 
-Minor
-Minor
 
 
-Minor
 
 
 
@@ -80013,6 +80769,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -80048,10 +80805,10 @@ Minor
 
 
 
+VerbElided
 
 
 
-VerbElided
 
 
 
@@ -80060,6 +80817,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -80071,11 +80829,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -80128,14 +80888,17 @@ VerbElided
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
 
+VerbElided
 
 
 
@@ -80157,7 +80920,9 @@ VerbElided
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -80166,10 +80931,7 @@ VerbElided
 
 
 
-Minor
-Minor
 
-Minor
 
 
 
@@ -80213,16 +80975,13 @@ Minor
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -80233,8 +80992,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -80264,15 +81025,19 @@ VerbElided
 
 
 
+Verbless
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -80288,6 +81053,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -80299,11 +81065,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+Verbless
 
 
 
@@ -80324,6 +81092,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -80356,20 +81125,24 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -80404,8 +81177,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -80415,6 +81186,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -80447,7 +81219,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -80471,6 +81242,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -80480,6 +81252,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -80574,13 +81347,17 @@ Minor
 
 
 
+Minor
 
 
+Verbless
 
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -80615,12 +81392,18 @@ Minor
 
 
 
+Verbless
+Verbless
 
 
+Verbless
 
+Verbless
 
 
+Verbless
 
+Verbless
 
 
 
@@ -80716,9 +81499,11 @@ Minor
 
 
 
+Minor
 
 
 
+VerbElided
 
 
 
@@ -80740,6 +81525,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -80748,12 +81534,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+Minor
 
 
 
@@ -80768,22 +81556,27 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -80806,7 +81599,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -80818,6 +81610,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -80827,6 +81620,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -80836,8 +81630,10 @@ Verbless
 
 
 
+Minor
 
 
+Minor
 
 
 
@@ -80852,6 +81648,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -80865,17 +81662,13 @@ Verbless
 
 
 Verbless
-
 
 
 
 
-Verbless
-
 
 
 
-Verbless
 
 
 
@@ -80903,13 +81696,22 @@ Verbless
 
 
 
+Minor
 
+Minor
 
 
+Verbless
+Verbless
+Verbless
+Verbless
+Verbless
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -80979,6 +81781,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -80993,6 +81796,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -81008,7 +81812,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -81057,6 +81860,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -81075,6 +81879,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -81083,6 +81888,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -81101,6 +81907,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -81362,6 +82169,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -81404,6 +82212,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -81447,8 +82256,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -81491,8 +82298,8 @@ Minor
 
 
 
-VerbElided
 
+Verbless
 
 
 
@@ -81547,7 +82354,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -81591,8 +82397,6 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
@@ -81677,7 +82481,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -81749,16 +82552,15 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -81773,12 +82575,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -81788,7 +82588,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -81846,6 +82645,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -81853,12 +82653,11 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
+
 
 
 
@@ -81938,7 +82737,9 @@ VerbElided
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -81965,6 +82766,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -82014,7 +82816,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -82025,12 +82826,14 @@ Minor
 
 
 
+Minor
 
 
 
 
 
 
+Minor
 
 
 
@@ -82038,6 +82841,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -82045,12 +82849,14 @@ Minor
 
 
 
+Minor
 
 
 
 
 
 
+Minor
 
 
 
@@ -82061,6 +82867,8 @@ Minor
 
 
 
+VerbElided
+VerbElided
 
 
 
@@ -82090,10 +82898,10 @@ Minor
 
 
 
-Verbless
 
 
 
+Minor
 
 
 
@@ -82209,6 +83017,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -82289,26 +83098,23 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 VerbElided
-
-
-
 
-VerbElided
 
 
 
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -82321,6 +83127,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -82356,6 +83163,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -82364,7 +83172,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -82394,7 +83201,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -82475,6 +83281,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -82502,6 +83309,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -82538,6 +83346,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -82550,6 +83359,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -82574,6 +83384,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -82606,9 +83417,11 @@ VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -82654,6 +83467,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -82672,6 +83486,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -82691,6 +83506,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -82709,6 +83525,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -82726,16 +83543,17 @@ VerbElided
 
 
 
+VerbElided
 
 
 
-Minor
 
 
 
 
 
 
+Verbless
 
 
 
@@ -82743,6 +83561,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -82853,16 +83672,17 @@ Minor
 
 
 
+VerbElided
 
 
 
+Minor
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -82929,6 +83749,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -82955,6 +83776,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -82984,6 +83806,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -83004,6 +83827,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -83023,7 +83847,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -83073,6 +83896,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -83091,18 +83915,19 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
+Minor
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -83189,6 +84014,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -83196,12 +84022,12 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -83216,11 +84042,13 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
+VerbElided
 
 
 
@@ -83236,6 +84064,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -83266,6 +84095,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -83298,6 +84128,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -83317,6 +84148,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -83342,11 +84174,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
-VerbElided
 
 
 
@@ -83385,12 +84217,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
-VerbElided
+Minor
 
 
 
@@ -83403,6 +84236,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -83410,6 +84244,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -83423,6 +84258,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -83432,17 +84268,16 @@ VerbElided
 
 
 
-Verbless
 
 
 
+Minor
 
 
 
 
 
 
-Verbless
 
 
 
@@ -83499,6 +84334,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -83506,8 +84342,6 @@ Verbless
 
 
 
-Minor
-Verbless
 
 
 
@@ -83531,7 +84365,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -83541,7 +84374,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -83595,6 +84427,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -83607,6 +84440,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -83751,19 +84585,15 @@ Minor
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
-Verbless
 
-Verbless
 
 
 
@@ -83779,13 +84609,12 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
-Verbless
-Verbless
 
 
 
@@ -83809,6 +84638,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -83857,6 +84687,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -83868,6 +84699,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -83879,6 +84711,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -83886,7 +84719,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -83896,7 +84728,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -83915,11 +84746,11 @@ Verbless
 
 
 
-Verbless
 
 
 
 
+Minor
 
 
 
@@ -83932,6 +84763,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -84002,8 +84834,7 @@ Verbless
 
 
 
-
-
+Minor
 
 
 
@@ -84021,8 +84852,10 @@ Verbless
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -84033,6 +84866,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -84045,6 +84879,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -84053,6 +84888,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -84063,7 +84899,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -84072,6 +84907,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -84100,6 +84936,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -84142,7 +84979,7 @@ Minor
 
 
 
-Verbless
+VerbElided
 
 
 
@@ -84246,17 +85083,17 @@ Verbless
 
 
 
-Verbless
-Verbless
 
 
 
 
 
 
+Minor
 
 
 
+Minor
 
 
 
@@ -84310,6 +85147,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -84328,6 +85166,8 @@ Verbless
 
 
 
+Verbless
+Verbless
 
 
 
@@ -84391,9 +85231,7 @@ Verbless
 
 
 
-VerbElided
 
-VerbElided
 
 
 
@@ -84404,6 +85242,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -84417,13 +85256,13 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
+Verbless
 
 
 
@@ -84441,7 +85280,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -84477,6 +85315,8 @@ VerbElided
 
 
 
+VerbElided
+Verbless
 
 
 
@@ -84494,6 +85334,8 @@ VerbElided
 
 
 
+VerbElided
+Verbless
 
 
 
@@ -84513,6 +85355,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -84549,7 +85392,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -84597,9 +85439,11 @@ VerbElided
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -84651,6 +85495,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -84735,8 +85580,11 @@ VerbElided
 
 
 
+VerbElided
 
+VerbElided
 
+VerbElided
 
 
 
@@ -84847,6 +85695,8 @@ VerbElided
 
 
 
+Verbless
+Verbless
 
 
 
@@ -84860,13 +85710,11 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -84889,12 +85737,12 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
-Minor
 
 
 
@@ -84903,6 +85751,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -84910,6 +85759,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -84963,6 +85813,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -84991,7 +85842,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -85103,6 +85953,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -85111,7 +85962,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -85124,7 +85974,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -85193,6 +86042,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -85207,6 +86057,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -85217,6 +86068,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -85227,6 +86079,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -85242,8 +86095,10 @@ Minor
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -85259,6 +86114,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -85313,6 +86169,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -85335,6 +86192,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -85412,7 +86270,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -85492,6 +86349,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -85560,6 +86418,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -85578,6 +86437,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -85683,15 +86543,16 @@ Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -85757,7 +86618,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -85772,8 +86632,10 @@ VerbElided
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -86025,19 +86887,15 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 VerbElided
-
 
 
 
-VerbElided
-
 
 
 
@@ -86057,8 +86915,9 @@ VerbElided
 
 
 
-
+VerbElided
 
+VerbElided
 
 
 
@@ -86080,6 +86939,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -86147,6 +87007,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -86171,12 +87032,15 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
+VerbElided
 
 
 
@@ -86220,7 +87084,7 @@ VerbElided
 
 
 
-Verbless
+VerbElided
 
 
 
@@ -86269,6 +87133,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -86319,6 +87184,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -86340,9 +87206,11 @@ Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -86409,6 +87277,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -86421,7 +87290,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -86515,6 +87383,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -86577,6 +87446,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -86605,8 +87475,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -86661,6 +87529,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -86686,6 +87555,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -86747,6 +87617,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -86763,6 +87634,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -86817,6 +87689,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -86829,7 +87702,9 @@ Verbless
 
 
 
+VerbElided
 
+VerbElided
 
 
 
@@ -86841,6 +87716,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -86859,6 +87735,8 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
@@ -86887,7 +87765,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -86897,6 +87774,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -86930,9 +87808,7 @@ Verbless
 
 
 
-Minor
 
-Minor
 
 
 
@@ -86990,28 +87866,34 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
+Minor
 
 
 
 
 
 
+Verbless
 
 
 
@@ -87026,7 +87908,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -87037,6 +87918,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -87052,12 +87934,15 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
+VerbElided
 
 
 
@@ -87087,15 +87972,12 @@ VerbElided
 
 
 
-Minor
-Minor
 
 
 
 
 
 
-Minor
 
 
 
@@ -87141,7 +88023,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -87207,9 +88088,11 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -87218,12 +88101,11 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
 
+Verbless
 
 
 
@@ -87248,6 +88130,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87320,7 +88203,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -87329,6 +88211,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -87345,6 +88228,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87366,6 +88250,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -87382,6 +88267,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87412,6 +88298,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87458,6 +88345,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -87493,7 +88381,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -87504,6 +88391,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87511,6 +88399,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87520,6 +88409,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87535,6 +88425,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87559,6 +88450,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87584,8 +88476,6 @@ Minor
 
 
 
-Minor
-Minor
 
 
 
@@ -87620,7 +88510,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -87659,7 +88548,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -87671,6 +88559,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -87691,7 +88580,6 @@ Minor
 Verbless
 
 
-Verbless
 
 
 
@@ -87700,13 +88588,10 @@ Verbless
 
 
 
-Minor
-Minor
 
 
 
 
-Verbless
 
 
 
@@ -87724,12 +88609,14 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -87788,7 +88675,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -87802,6 +88688,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -87815,6 +88702,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -87834,11 +88722,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+VerbElided
 
 
 
@@ -87884,6 +88774,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -87977,6 +88868,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88030,17 +88922,21 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -88048,6 +88944,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88079,6 +88976,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88116,6 +89014,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88138,6 +89037,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88146,7 +89046,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -88205,6 +89104,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88228,6 +89128,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88315,7 +89216,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -88374,6 +89274,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -88395,9 +89296,9 @@ Verbless
 
 
 
+VerbElided
 
 
-Minor
 
 
 
@@ -88414,6 +89315,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -88424,6 +89326,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -88484,6 +89387,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -88495,6 +89399,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -88507,6 +89412,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -88545,6 +89451,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -88640,7 +89547,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -88648,22 +89554,20 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -88685,6 +89589,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -88695,7 +89600,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -88713,6 +89617,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88735,6 +89640,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88747,6 +89653,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88766,6 +89673,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88783,6 +89691,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -88807,6 +89716,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -88954,6 +89864,8 @@ VerbElided
 
 
 
+Verbless
+Verbless
 
 
 
@@ -89000,6 +89912,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -89028,6 +89941,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -89037,6 +89951,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -89093,6 +90008,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -89143,10 +90059,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -89176,6 +90094,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -89264,17 +90183,16 @@ VerbElided
 
 
 
+Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -89292,6 +90210,8 @@ VerbElided
 
 
 
+VerbElided
+Verbless
 
 
 
@@ -89299,6 +90219,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -89319,13 +90240,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
-VerbElided
 
-VerbElided
 
 
 
@@ -89344,6 +90264,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -89358,6 +90279,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -89376,6 +90298,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -89391,7 +90314,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -89423,12 +90345,15 @@ Minor
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
@@ -89469,7 +90394,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -89518,7 +90442,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -89633,7 +90556,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -89655,6 +90577,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -89680,12 +90603,14 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
 
+Verbless
 
 
 
@@ -89743,7 +90668,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -89759,6 +90683,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -89779,11 +90704,8 @@ Minor
 
 
 
-Minor
-Minor
 
 
-Verbless
 
 
 
@@ -89791,7 +90713,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -89813,6 +90734,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -89875,7 +90797,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -89941,6 +90862,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -89972,12 +90894,10 @@ Minor
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -90002,7 +90922,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -90020,7 +90939,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -90057,6 +90975,7 @@ Minor
 
 
 
+VerbElided
 Minor
 
 
@@ -90065,12 +90984,9 @@ Minor
 
 
 
-
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -90084,9 +91000,9 @@ VerbElided
 VerbElided
 
 
+Verbless
 
 
-VerbElided
 
 
 
@@ -90127,6 +91043,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -90136,6 +91053,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -90145,6 +91063,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -90197,12 +91116,12 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -90359,6 +91278,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -90369,7 +91289,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -90378,6 +91297,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -90385,15 +91305,18 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
 
 
+Verbless
 
 
 
@@ -90410,11 +91333,11 @@ Minor
 
 
 
+Verbless
 
 
 
 
-VerbElided
 
 
 
@@ -90431,13 +91354,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
-
-
+VerbElided
 
 
 
@@ -90445,6 +91368,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -90548,6 +91472,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -90597,16 +91522,17 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+Minor
 
 
 
 Minor
-
 
 
 
@@ -90637,10 +91563,11 @@ Minor
 
 
 
-
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -90657,11 +91584,6 @@ Minor
 
 
 Minor
-
-
-
-
-
 
 
 
@@ -90672,8 +91594,6 @@ Minor
 
 
 
-Minor
-
 
 
 
@@ -90723,7 +91643,7 @@ Minor
 
 
 
-
+Verbless
 
 
 
@@ -90747,6 +91667,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -90816,6 +91737,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -90847,6 +91769,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -90856,9 +91779,11 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -90885,6 +91810,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -90893,6 +91819,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -90910,6 +91837,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -90959,6 +91887,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -91018,6 +91947,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -91066,20 +91996,16 @@ Minor
 
 
 
+VerbElided
 
 
 
 
 
-VerbElided
 
-VerbElided
 
 
 VerbElided
-
-
-
 
 
 
@@ -91115,13 +92041,14 @@ VerbElided
 
 
 
-
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -91196,6 +92123,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -91204,6 +92132,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -91251,6 +92180,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -91258,7 +92188,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -91275,6 +92204,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -91338,7 +92268,9 @@ Verbless
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -91384,6 +92316,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -91409,6 +92342,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -91424,12 +92358,15 @@ Verbless
 
 
 
+Minor
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
 
@@ -91449,8 +92386,6 @@ Verbless
 
 
 
-Minor
-Minor
 
 
 
@@ -91464,11 +92399,14 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -91477,6 +92415,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -91489,9 +92428,12 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
 
+Verbless
 
 
 
@@ -91534,6 +92476,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -91590,8 +92533,10 @@ Minor
 
 
 
+Minor
 
 
+Minor
 
 
 
@@ -91604,6 +92549,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -91612,6 +92558,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -91640,11 +92587,13 @@ Minor
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
@@ -91676,6 +92625,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -91708,6 +92658,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -91787,6 +92738,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -91808,14 +92760,13 @@ Minor
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
 
+Minor
 
 
 
@@ -91825,6 +92776,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -91854,6 +92806,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -91868,6 +92821,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -91887,7 +92841,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -91897,7 +92850,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -91906,7 +92858,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -91956,6 +92907,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -91979,6 +92931,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -92003,13 +92956,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
-Minor
 
 
 
@@ -92034,7 +92987,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -92047,7 +92999,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -92059,7 +93010,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -92165,6 +93115,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -92185,6 +93136,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -92214,6 +93166,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -92263,7 +93216,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -92276,9 +93228,11 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -92326,6 +93280,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -92339,6 +93294,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -92355,10 +93311,8 @@ Minor
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -92371,6 +93325,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -92380,6 +93335,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -92387,11 +93343,11 @@ Verbless
 
 
 
+Verbless
 
 
 
 
-Minor
 
 
 
@@ -92418,13 +93374,18 @@ Minor
 
 
 
+Verbless
 
+Verbless
 
 
+Verbless
 
 
+Verbless
 
 
+Minor
 
 
 
@@ -92439,13 +93400,13 @@ Minor
 
 
 
-Minor
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -92487,6 +93448,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -92495,6 +93457,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -92505,6 +93468,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -92519,34 +93483,27 @@ Minor
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
-VerbElided
 
 
 
@@ -92555,11 +93512,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -92582,10 +93537,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -92612,6 +93565,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -92626,7 +93580,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -92683,13 +93636,16 @@ Verbless
 
 
 
+Minor
 
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -92699,6 +93655,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -92706,6 +93663,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -92727,6 +93685,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -92743,13 +93702,16 @@ Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -92767,26 +93729,23 @@ Verbless
 
 
 
-Minor
 
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
 
 
 
+Verbless
 
-Minor
 
 
 
@@ -92794,7 +93753,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -92815,6 +93773,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -92829,6 +93788,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -92909,17 +93869,14 @@ Minor
 
 
 Verbless
-
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -92928,11 +93885,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -92946,8 +93901,6 @@ Verbless
 
 
 
-Verbless
-Verbless
 
 
 
@@ -92956,20 +93909,16 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -92979,6 +93928,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -92987,6 +93937,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -92995,18 +93946,18 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -93021,7 +93972,9 @@ Verbless
 
 
 
+Minor
 
+Minor
 
 
 
@@ -93042,7 +93995,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -93075,6 +94027,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -93083,6 +94036,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -93094,6 +94048,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -93110,7 +94065,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -93131,7 +94085,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -93153,7 +94106,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -93171,6 +94123,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -93181,14 +94134,12 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -93208,6 +94159,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -93227,6 +94179,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -93241,16 +94194,15 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
 
 
+Minor
 
 
 
@@ -93264,20 +94216,17 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
@@ -93285,10 +94234,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
+VerbElided
 
 
 
@@ -93367,8 +94318,7 @@ VerbElided
 
 
 
-Verbless
-Verbless
+VerbElided
 
 
 
@@ -93382,39 +94332,33 @@ VerbElided
 
 
 
-VerbElided
 
 VerbElided
 
 
 
 
-
+VerbElided
 
 
 
 
+VerbElided
 
-Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
-Verbless
 
 
 
 
 
 
-Verbless
-VerbElided
 
 
 
@@ -93429,6 +94373,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -93449,7 +94394,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -93511,7 +94455,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -93522,19 +94465,15 @@ Verbless
 
 
 
-Verbless
 
 
-Verbless
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -93560,13 +94499,12 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -93604,13 +94542,10 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -93631,7 +94566,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -93644,14 +94578,11 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -93659,7 +94590,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -93678,14 +94608,12 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -93708,6 +94636,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -93750,6 +94679,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -93768,12 +94698,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
-VerbElided
 
 
 
@@ -93830,7 +94760,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -93870,11 +94799,13 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -93913,7 +94844,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -93926,17 +94856,13 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
@@ -93972,13 +94898,16 @@ VerbElided
 
 
 
+Minor
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -94034,7 +94963,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -94052,8 +94980,8 @@ VerbElided
 
 
 
+Minor
 
-VerbElided
 
 
 
@@ -94068,7 +94996,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -94092,6 +95019,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -94101,6 +95029,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -94122,11 +95051,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
-VerbElided
+Verbless
 
 
 
@@ -94175,32 +95105,24 @@ VerbElided
 
 
 Verbless
-
 
 
 
 
 
 
-Verbless
-
-
-Verbless
 
 
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -94253,7 +95175,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -94294,6 +95215,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -94313,6 +95235,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -94362,6 +95285,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -94371,6 +95295,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -94447,6 +95372,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -94454,24 +95380,29 @@ VerbElided
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
 
+Minor
 
 
 
 
+Minor
 
 
 
 
 
+Minor
 
 
 
@@ -94495,15 +95426,12 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -94545,14 +95473,12 @@ Verbless
 
 
 
-
-
+Minor
 
 
 
 
 
-VerbElided
 
 
 
@@ -94569,11 +95495,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-VerbElided
 
 
 
@@ -94582,7 +95506,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -94598,12 +95521,10 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -94611,6 +95532,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -94638,6 +95560,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -94659,6 +95582,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -94668,6 +95592,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -94692,15 +95617,14 @@ Verbless
 
 
 
-Verbless
 
-Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -94722,22 +95646,18 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
-VerbElided
 
 
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -94746,11 +95666,10 @@ Verbless
 
 
 
-Verbless
+Minor
 
 
 
-Verbless
 
 
 
@@ -94765,7 +95684,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -94809,6 +95727,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -94842,7 +95761,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -94871,6 +95789,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -94902,10 +95821,12 @@ Minor
 
 
 
+Verbless
 
 
 
 
+Minor
 
 
 
@@ -94923,7 +95844,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -94932,7 +95852,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -94962,7 +95881,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -94981,6 +95899,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -95014,18 +95933,16 @@ Verbless
 
 
 
+Minor
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -95063,6 +95980,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -95070,11 +95988,13 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
+Minor
 
 
 
@@ -95094,7 +96014,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -95102,12 +96021,10 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -95132,16 +96049,16 @@ VerbElided
 
 
 
+Minor
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
+VerbElided
 
 
 
@@ -95157,7 +96074,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -95173,14 +96089,13 @@ Minor
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
+Minor
 
 
 
@@ -95242,6 +96157,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -95250,7 +96166,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -95262,13 +96177,13 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -95285,14 +96200,11 @@ VerbElided
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
-Verbless
 
 
 
@@ -95301,6 +96213,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -95321,7 +96234,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -95329,10 +96241,8 @@ Minor
 
 
 
-Minor
 
 
-Minor
 
 
 
@@ -95395,23 +96305,18 @@ Minor
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -95420,11 +96325,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -95478,6 +96381,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -95485,6 +96389,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -95497,23 +96402,20 @@ Verbless
 
 
 
-Verbless
 
 
 Verbless
 
 
-
-Verbless
+VerbElided
 
 
+VerbElided
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -95529,6 +96431,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -95560,9 +96463,7 @@ Verbless
 
 
 
-Minor
 
-VerbElided
 
 
 
@@ -95620,7 +96521,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -95638,21 +96538,16 @@ Minor
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
-Verbless
 
-Verbless
 
 
-Verbless
 
 
 
@@ -95663,19 +96558,16 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -95748,7 +96640,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -95757,9 +96648,11 @@ VerbElided
 
 
 
+Minor
 
 
 
+VerbElided
 
 
 
@@ -95820,9 +96713,11 @@ VerbElided
 
 
 
+Minor
 
 
 
+VerbElided
 
 
 
@@ -95840,7 +96735,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -95864,7 +96758,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -95881,6 +96774,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -95917,7 +96811,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -95942,6 +96835,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -95949,13 +96843,12 @@ Verbless
 
 
 
+Minor
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -95971,23 +96864,23 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
 
 
 
+Minor
 
 
 
 
 
 
+VerbElided
 
 
 
@@ -96044,8 +96937,10 @@ Verbless
 
 
 
+Minor
 
 
+VerbElided
 
 
 
@@ -96080,7 +96975,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -96091,11 +96985,13 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
+VerbElided
 
 
 
@@ -96109,7 +97005,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -96117,6 +97012,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96129,12 +97025,10 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -96150,11 +97044,9 @@ Verbless
 
 
 
-Minor
 
 
 
-VerbElided
 
 
 
@@ -96162,7 +97054,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -96189,7 +97080,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -96233,7 +97123,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -96252,6 +97141,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -96282,6 +97172,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -96306,7 +97197,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -96331,22 +97221,18 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -96361,6 +97247,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96392,6 +97279,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96406,7 +97294,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -96438,7 +97325,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -96447,7 +97333,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -96464,6 +97349,8 @@ VerbElided
 
 
 
+Minor
+Verbless
 
 
 
@@ -96514,20 +97401,22 @@ VerbElided
 
 
 
+Verbless
 
+VerbElided
 
 
 
 
 
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -96564,6 +97453,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96592,6 +97482,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96611,6 +97502,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96621,6 +97513,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -96635,12 +97528,10 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -96669,20 +97560,16 @@ VerbElided
 
 
 
-Minor
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -96695,7 +97582,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -96706,7 +97592,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -96717,6 +97602,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -96740,16 +97626,16 @@ VerbElided
 
 
 Verbless
-
 
-
+VerbElided
 
+Verbless
 
 
 
 
 
-Minor
+Verbless
 
 
 
@@ -96761,6 +97647,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -96809,11 +97696,9 @@ Minor
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -96843,6 +97728,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -96890,11 +97776,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -96920,6 +97804,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -96939,7 +97824,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -96952,22 +97836,19 @@ Verbless
 
 
 
-Minor
 
 
 
+VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -96984,6 +97865,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -96992,12 +97874,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -97028,6 +97908,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -97037,6 +97918,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -97094,8 +97976,8 @@ VerbElided
 
 
 
-Minor
 
+Verbless
 
 
 
@@ -97140,7 +98022,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -97150,10 +98031,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
+VerbElided
 
 
 
@@ -97170,6 +98051,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -97190,6 +98072,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -97212,6 +98095,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -97230,13 +98114,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -97250,7 +98134,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97258,7 +98141,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97311,7 +98193,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97321,7 +98202,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97329,7 +98209,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97338,9 +98217,9 @@ Verbless
 
 
 
-Verbless
 
 
+Minor
 
 
 
@@ -97392,7 +98271,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -97402,7 +98280,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -97444,10 +98321,8 @@ VerbElided
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -97525,7 +98400,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -97582,20 +98456,16 @@ Minor
 
 
 
-Verbless
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -97604,9 +98474,7 @@ Verbless
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -97617,6 +98485,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -97650,23 +98519,19 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -97685,7 +98550,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97701,16 +98565,16 @@ Verbless
 
 
 
-Minor
 
 
 
 
-Minor
+VerbElided
 
 
 
 
+Verbless
 
 
 
@@ -97726,7 +98590,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -97747,13 +98610,11 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -97802,8 +98663,10 @@ Verbless
 
 
 
+VerbElided
 
 
+Minor
 
 
 
@@ -97833,11 +98696,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -97861,7 +98722,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -97870,49 +98730,46 @@ VerbElided
 
 
 
+Verbless
 
-VerbElided
 
 
 
 
 
+Verbless
 
-VerbElided
 
 
 
 
+Verbless
 
 
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
+Verbless
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
 
 
-Verbless
 
 
 
@@ -97922,7 +98779,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -97933,7 +98789,9 @@ Verbless
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -97948,10 +98806,12 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -97962,6 +98822,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -97982,11 +98843,11 @@ Verbless
 
 
 
+Verbless
 
 
 
 
-Verbless
 
 
 
@@ -97994,7 +98855,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -98002,7 +98862,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -98045,12 +98904,12 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
-VerbElided
 
 
 
@@ -98091,6 +98950,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -98141,7 +99001,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -98149,14 +99008,12 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
 
-Verbless
 
 
 
@@ -98184,22 +99041,18 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -98207,7 +99060,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -98222,11 +99074,9 @@ VerbElided
 
 
 
-Minor
 
 
 
-Minor
 
 
 
@@ -98238,7 +99088,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -98257,14 +99106,12 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
 
 
-Verbless
 
 
 
@@ -98275,15 +99122,12 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -98325,14 +99169,11 @@ Verbless
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -98361,8 +99202,8 @@ VerbElided
 
 
 
+Minor
 
-VerbElided
 
 
 
@@ -98406,7 +99247,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -98431,6 +99271,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -98483,8 +99324,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -98516,6 +99359,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -98571,6 +99415,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -98594,7 +99439,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -98610,7 +99454,7 @@ Minor
 
 
 
-Minor
+VerbElided
 
 
 
@@ -98658,7 +99502,6 @@ Minor
 
 
 
-Verbless
 
 
 
@@ -98666,10 +99509,8 @@ Verbless
 
 
 
-Verbless
 
 
-Verbless
 
 
 
@@ -98681,7 +99522,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -98709,16 +99549,12 @@ Verbless
 
 
 
-Verbless
 
-Verbless
 
 
 
 
 
-Verbless
-Verbless
 
 
 
@@ -98726,7 +99562,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -98741,7 +99576,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -98762,7 +99596,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -98770,7 +99603,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -98820,33 +99652,43 @@ Verbless
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
+VerbElided
 
 
 
@@ -98881,6 +99723,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -98888,6 +99731,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -98925,6 +99769,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -98940,17 +99785,15 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
+Minor
 
-VerbElided
 
 
-Minor
 
 
 
@@ -98967,6 +99810,7 @@ Minor
 
 
 
+Minor
 
 
 
@@ -99011,7 +99855,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -99216,6 +100059,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -99279,6 +100123,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -99290,7 +100135,7 @@ Minor
 
 
 
-Minor
+VerbElided
 
 
 
@@ -99339,6 +100184,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -99359,9 +100205,7 @@ Minor
 
 
 
-Verbless
 
-Verbless
 
 
 
@@ -99370,7 +100214,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -99381,6 +100224,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -99427,6 +100271,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -99434,12 +100279,15 @@ Minor
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
+Verbless
 
 
 
@@ -99460,6 +100308,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -99476,8 +100325,10 @@ Minor
 
 
 
+Verbless
 
 
+Verbless
 
 
 
@@ -99494,6 +100345,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -99561,6 +100413,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -99587,6 +100440,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -99637,6 +100491,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -99644,7 +100499,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -99687,7 +100541,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -99715,21 +100568,23 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
 
-Verbless
 
 
 
@@ -99748,17 +100603,16 @@ Verbless
 
 
 
+VerbElided
 
 
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -99807,7 +100661,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -99815,7 +100668,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -99863,7 +100715,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -99882,7 +100733,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -99917,6 +100767,7 @@ Minor
 
 
 
+VerbElided
 
 
 
@@ -99939,11 +100790,9 @@ Minor
 
 
 
-Verbless
 
 
 
-VerbElided
 
 
 
@@ -99952,10 +100801,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
+Verbless
 
 
 
@@ -100021,12 +100870,10 @@ VerbElided
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
@@ -100039,7 +100886,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -100081,11 +100927,11 @@ Minor
 
 
 
-Minor
 
 
 
 
+Verbless
 
 
 
@@ -100102,14 +100948,11 @@ Minor
 
 
 
-Verbless
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -100135,7 +100978,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -100237,10 +101079,7 @@ VerbElided
 
 
 
-Verbless
 
-Verbless
-Verbless
 
 
 
@@ -100281,6 +101120,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -100301,21 +101141,17 @@ Verbless
 
 
 
-VerbElided
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
 
 VerbElided
-
 
 
 
@@ -100342,7 +101178,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -100356,14 +101191,10 @@ Verbless
 
 
 
-Minor
 
 
-Verbless
 
 
-Verbless
-Verbless
 
 
 
@@ -100389,11 +101220,13 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -100426,6 +101259,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -100463,7 +101297,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -100480,7 +101313,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -100502,6 +101334,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -100547,11 +101380,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -100613,6 +101444,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -100624,7 +101456,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -100633,7 +101464,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -100657,7 +101487,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -100669,12 +101498,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -100701,7 +101528,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -100753,11 +101579,13 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
+Verbless
 
 
 
@@ -100770,10 +101598,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
@@ -100785,21 +101615,19 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
-VerbElided
 
+VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -100814,7 +101642,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -100828,6 +101655,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -100841,12 +101669,10 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
-Verbless
 
 
 
@@ -100857,7 +101683,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -100866,7 +101691,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -100892,14 +101716,12 @@ Verbless
 
 
 
-VerbElided
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -100916,6 +101738,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -100946,6 +101769,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -101059,12 +101883,10 @@ VerbElided
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -101076,6 +101898,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -101101,6 +101924,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -101115,6 +101939,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -101139,17 +101964,18 @@ VerbElided
 
 
 
-Verbless
+VerbElided
 
 
 
 
+VerbElided
 
 
 
+Verbless
 
 
-VerbElided
 
 
 
@@ -101172,9 +101998,9 @@ VerbElided
 
 
 
-Verbless
 
 
+VerbElided
 
 
 
@@ -101182,27 +102008,21 @@ Verbless
 
 
 
-Verbless
 
 
-Verbless
 
 
 
 
 Verbless
-
 
 
-Verbless
 
-Verbless
 
 
 
 
 
-VerbElided
 
 
 
@@ -101288,7 +102108,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -101300,7 +102119,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -101370,21 +102188,15 @@ VerbElided
 
 
 
-Verbless
 
 
-Verbless
 
 
 
-Verbless
 
-Verbless
 
 
-Verbless
 
-Verbless
 
 
 
@@ -101392,12 +102204,14 @@ Verbless
 
 
 
+Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -101414,6 +102228,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -101428,6 +102243,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -101449,7 +102265,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -101541,7 +102356,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -101550,7 +102364,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -101561,11 +102374,9 @@ Verbless
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -101574,7 +102385,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -101640,6 +102450,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -101649,12 +102460,14 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
 
+Minor
 
 
 
@@ -101677,7 +102490,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -101739,7 +102551,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -101747,7 +102558,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -101790,7 +102600,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -101822,7 +102631,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -101849,8 +102657,8 @@ VerbElided
 
 
 
-VerbElided
 
+Minor
 
 
 
@@ -101864,7 +102672,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -101877,6 +102684,8 @@ Minor
 
 
 
+Minor
+Minor
 
 
 
@@ -101894,7 +102703,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -101918,7 +102726,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -101982,12 +102789,11 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
+VerbElided
 
 
 
@@ -101999,11 +102805,9 @@ Verbless
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -102012,7 +102816,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -102035,6 +102838,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -102088,6 +102892,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -102152,11 +102957,9 @@ Verbless
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102190,8 +102993,6 @@ VerbElided
 
 
 
-VerbElided
-VerbElided
 
 
 
@@ -102204,7 +103005,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102220,7 +103020,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102253,7 +103052,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102273,11 +103071,9 @@ VerbElided
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102347,6 +103143,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -102370,15 +103167,14 @@ VerbElided
 
 
 
-Minor
 
 
 
 
 
-Minor
 
 
+Minor
 
 
 
@@ -102436,6 +103232,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -102449,7 +103246,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -102458,7 +103254,6 @@ Minor
 
 
 Minor
-
 
 
 
@@ -102505,8 +103300,6 @@ Minor
 
 
 
-VerbElided
-
 
 
 
@@ -102519,7 +103312,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -102558,7 +103350,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -102594,13 +103385,13 @@ Minor
 
 
 
-Verbless
 
 
 
 
 
 
+Minor
 
 
 
@@ -102638,13 +103429,11 @@ Verbless
 
 
 
-Minor
 
 
 
 
 
-VerbElided
 
 
 
@@ -102658,7 +103447,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -102668,7 +103456,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -102678,17 +103465,16 @@ Verbless
 
 
 
-Verbless
 
 
 
 
 
 
+Verbless
 
 
 
-Verbless
 
 
 
@@ -102720,6 +103506,8 @@ Verbless
 
 
 
+Minor
+Minor
 
 
 
@@ -102785,11 +103573,9 @@ Verbless
 
 
 
-VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102835,6 +103621,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -102880,6 +103668,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -102897,6 +103686,8 @@ VerbElided
 
 
 
+Minor
+Minor
 
 
 
@@ -102910,7 +103701,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -102918,6 +103708,7 @@ VerbElided
 
 
 
+Minor
 
 
 
@@ -102989,7 +103780,6 @@ VerbElided
 
 
 
-Verbless
 
 
 
@@ -102997,7 +103787,6 @@ Verbless
 
 
 
-Verbless
 
 
 
@@ -103019,43 +103808,33 @@ Verbless
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
 
 
-Verbless
 
 
 
-Verbless
-Verbless
 
 
 
 
 
-Verbless
 
 
 
 
-Verbless
 
 
 
-Verbless
-Verbless
 
 
 
-Verbless
 
 
 
@@ -103074,6 +103853,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -103103,6 +103883,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -103111,6 +103892,7 @@ Verbless
 
 
 
+Minor
 
 
 
@@ -103178,6 +103960,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -103204,6 +103987,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -103250,28 +104034,24 @@ Verbless
 
 
 
+Verbless
 
 
 
 
+Verbless
 
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
 VerbElided
-
-
-
-
 
 
 
@@ -103354,10 +104134,6 @@ VerbElided
 
 
 
-VerbElided
-
-
-
 
 
 
@@ -103381,7 +104157,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -103448,11 +104223,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -103491,7 +104264,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -103550,12 +104322,12 @@ VerbElided
 
 
 
+VerbElided
 
 
 
 
 
-Verbless
 
 
 
@@ -103586,7 +104358,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -103599,9 +104370,11 @@ Minor
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -103633,17 +104406,14 @@ Minor
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
 
-VerbElided
 
 
 
@@ -103660,6 +104430,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -103670,7 +104441,6 @@ VerbElided
 
 
 
-Minor
 
 
 
@@ -103707,6 +104477,7 @@ Minor
 
 
 
+Verbless
 
 
 
@@ -103771,7 +104542,6 @@ Minor
 
 
 
-VerbElided
 
 
 
@@ -103860,10 +104630,8 @@ VerbElided
 
 
 
-VerbElided
 
 
-Verbless
 
 
 
@@ -103872,6 +104640,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -103889,7 +104658,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -103929,38 +104697,6 @@ Minor
 
 
 Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -103990,13 +104726,13 @@ Verbless
 
 
 
+Minor
 
 
 
 
 
 
-VerbElided
 
 
 
@@ -104005,7 +104741,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -104029,7 +104764,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -104047,11 +104781,9 @@ VerbElided
 
 
 
-Verbless
 
 
 
-Verbless
 
 
 
@@ -104079,6 +104811,7 @@ Verbless
 
 
 
+VerbElided
 
 
 
@@ -104092,6 +104825,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -104104,15 +104838,19 @@ Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
+Verbless
 
 
 
@@ -104123,6 +104861,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -104155,6 +104894,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -104183,21 +104923,16 @@ Verbless
 
 
 Verbless
-
-
 
 
 
 
 
 
-
-
-
-
-
+Verbless
 
 
+Verbless
 
 
 
@@ -104208,168 +104943,29 @@ Verbless
 
 
 
+Verbless
 
 
 
 Verbless
 
-
 Verbless
-
 
-
 Verbless
-
 
 Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Verbless
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Verbless
-
-
-
 
 Verbless
 
-
-
-
-
-
-
-
 Verbless
-
-
-
-
-
-
-
-
-
 
-
-
-
+Verbless
 
 Verbless
 
@@ -104386,6 +104982,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -104423,6 +105020,7 @@ Verbless
 
 
 
+Verbless
 
 
 
@@ -104438,7 +105036,6 @@ Verbless
 
 
 
-VerbElided
 
 
 
@@ -104469,6 +105066,7 @@ VerbElided
 
 
 
+VerbElided
 
 
 
@@ -104493,6 +105091,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104513,6 +105112,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104543,6 +105143,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104573,6 +105174,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104596,6 +105198,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104604,9 +105207,9 @@ VerbElided
 
 
 
+Verbless
 
 
-VerbElided
 
 
 
@@ -104624,7 +105227,6 @@ VerbElided
 
 
 
-VerbElided
 
 
 
@@ -104679,15 +105281,7 @@ VerbElided
 
 
 
-
-
-
-
-
-
-
-
-
+Verbless
 
 
 
@@ -104696,6 +105290,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104709,6 +105304,7 @@ VerbElided
 
 
 
+Verbless
 
 
 
@@ -104727,12 +105323,12 @@ VerbElided
 
 
 
+Verbless
 
 
 
 
 
-Verbless
 
 
 
@@ -104769,7 +105365,6 @@ Verbless
 
 
 
-Minor
 
 
 
@@ -104805,7 +105400,6 @@ Minor
 
 
 
-Minor
 
 
 
@@ -104841,48516 +105435,15 @@ Minor
 
 
 
-Verbless
 
-
-
-
-Verbless
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-
-
-Verbless
-
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-Verbless
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-Verbless
-
-
-VerbElided
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-VerbElided
-VerbElided
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-VerbElided
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-VerbElided
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-Minor
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-VerbElided
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-Minor
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-VerbElided
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-Verbless
-
-
-
-Verbless
-
-Verbless
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-Minor
-
-
-Verbless
-Verbless
-Verbless
-Verbless
-Verbless
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-Verbless
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-VerbElided
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-Verbless
-
-
-
-
-Minor
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-Verbless
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-VerbElided
-
-Verbless
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-Verbless
-
-
-VerbElided
-
-Verbless
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-VerbElided
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-Minor
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-Verbless
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-VerbElided
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-Verbless
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-Minor
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Minor
-
-
-
-
-
-Minor
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-VerbElided
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-Verbless
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-Verbless
-
-
-
-Verbless
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Verbless
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Minor
-
 
 Minor
 Minor
 
-
-
 Verbless
 
 
 
-Verbless
 
 
