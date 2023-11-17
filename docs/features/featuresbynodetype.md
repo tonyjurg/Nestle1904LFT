@@ -47,13 +47,13 @@ Feature | Feature group | Data type | Short description | Examples
 
 Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
-[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Junction information | `coordinate` `subordinate` 
+[junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Junction information | `apposition` ` ` 
 [wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup class |  `np` `cl`
 [wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup level |
 [wgnum](wgnum.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` |Wordgroup number |
 [wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup role | `s` `o` `apposition`
-[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup rule | 
-[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup type | `Verbless` `VerbElided`
+[wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup rule | `PrepNp` `Conj-CL`
+[wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup type | `group` `apposition`
 
 ## Word nodes 
 
@@ -65,7 +65,7 @@ Feature | Feature group |Data type | Description | Examples
 [booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` |  NT book number (Matthew=1, ...,  Revelation=27) | 
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical case | `nominative` `accusative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Chapter number inside book |
-[degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Degree of an comparative or superlative adjective | 
+[degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Degree of an  adjective | ` ` `comparative` `superlative`
 [morph](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Morphological tag (Sandborg-Petersen morphology) | 
 [gloss](gloss.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | `String` | English gloss |
 [gn](gn.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical gender | `masculine` `feminine` `neuter`
@@ -92,10 +92,10 @@ Feature | Feature group |Data type | Description | Examples
 [type](type.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical type of noun or pronoun | `common` `personal`
 [unicode](unicode.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` |  Word as it appears in the text (in unicode)| `λόγος`
 [verse](verse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Verse number inside chapter | 
-[voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb |
+[voice](voice.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `String` | Gramatical voice of the verb | `active` `passive`
 [word](word.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` |  Word as it appears in the text | `λόγος`
 [wordrole](wordrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text (abbriviated)|
-[wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text |
+[wordrolelong](wordrolelong.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  Word role in the text | `Adverbial` `Subject` `Verbal`
 [word](word.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Word as it appears in the text | `λόγος`
 [wordtranslit](wordtranslit.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Word transliterated to Latin characters| `logos`
 [wordunacc](wordunacc.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | `String` | Word without accents| `λογος`
