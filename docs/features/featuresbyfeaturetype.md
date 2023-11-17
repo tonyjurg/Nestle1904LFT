@@ -12,7 +12,6 @@ The features of this Text-Fabric dataset:
 Name | Feature group | Node type | Description | Examples
 --- | --- | --- | --- | ---
 [after](after.md#readme) | [`Orthographic`](featuresbygroup.md#orthographic-features) | [`word`](featuresbynodetype.md#word-nodes) | Space or punctuation after word | ` ` `.`
-[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Appostioncontainer information | `conjuncted-wg` `modifier-scope`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) [`word`](featuresbynodetype.md#word-nodes)| Book name | `Matthew` `Mark`
 [bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) [`word`](featuresbynodetype.md#word-nodes)| Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical case | `nominative` `genitive` `dative`
