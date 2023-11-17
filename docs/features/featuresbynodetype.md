@@ -41,7 +41,6 @@ Feature | Feature group | Data type | Short description | Examples
 
 Feature | Feature group |  Data type | Description | Examples
 --- | --- | --- | --- | ---
-[appos](appos.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |  appositioncontainer information | `conjuncted-wg` `modifier-scope`
 [junction](junction.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Junction information | `coordinate` `subordinate` 
 [wgclass](wgclass.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup class |  `np` `cl`
 [wglevel](wglevel.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` | Wordgroup level |
