@@ -1,6 +1,6 @@
 # Nestle1904LFT versions:
 
-Version | date | short description
+Version | Releasedate | Short description 
 --- | --- | ---
 [0.6](https://github.com/tonyjurg/Nestle1904LFT/blob/main/resources/converter/CreateTFfromLowFatXML(ver%200_6).ipynb) | November 17, 2023 | Various corrections in the code in order to properly display wordgroups. Added more labels. Used the latest input XLM data (August 16, 2023). 
 [0.5](https://github.com/tonyjurg/Nestle1904LFT/blob/main/resources/converter/CreateTFfromLowFatXML(ver%200_5).ipynb) | July 25, 2023 |  This included adding textual critics details, and adding unaccented and transliterated text formating.
