@@ -4,9 +4,13 @@
 This Text-Fabric dataset contains the following node types:
 * [27 `book` nodes](#book-nodes)
 * [260 `chapter`nodes](#chapter-nodes)
-* [7943 `verse` nodes](#verse-nodes)
-* [8011 `sentence` nodes](#sentence-nodes)
-* [114879 `wg` (wordgroup) nodes](#wordgroup-nodes)
+* [7944 `verse` nodes](#verse-nodes)
+* [18609 `sentence` nodes](#sentence-nodes)
+* [8964 `group` nodes](#group-nodes)
+* [30479 `clause` nodes](#clause-nodes)
+* [106868 `wg` (wordgroup) nodes](#wordgroup-nodes)
+* [113750 `phrase` nodes](#phrase-nodes)
+* [72845 `subphrase` nodes](#subphrase-nodes)
 * [137779	`word` nodes](#word-nodes)
 
 Below are all node features listed: 
@@ -43,6 +47,16 @@ Feature | Feature group | Data type | Short description | Examples
 [headverse](headverse.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `String` | Verse where the sentence starts | `2` `26`
 [sentence](sentence.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `Integer` | Sentence number (counted per chapter) | `9`
 
+## Group nodes
+
+Feature | Feature group |  Data type | Description | Examples
+--- | --- | --- | --- | ---
+
+## Clause nodes
+
+Feature | Feature group |  Data type | Description | Examples
+--- | --- | --- | --- | ---
+
 ## Wordgroup nodes 
 
 Feature | Feature group |  Data type | Description | Examples
@@ -54,6 +68,16 @@ Feature | Feature group |  Data type | Description | Examples
 [wgrole](wgrole.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup role | `s` `o` `apposition`
 [wgrule](wgrule.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup rule | `PrepNp` `Conj-CL`
 [wgtype](wgtype.md#readme) | [`Syntactic`](featuresbygroup.md#syntactic-features) | `String` |Wordgroup type | `group` `apposition`
+
+## Phrase nodes
+
+Feature | Feature group |  Data type | Description | Examples
+--- | --- | --- | --- | ---
+
+## Subphrase nodes
+
+Feature | Feature group |  Data type | Description | Examples
+--- | --- | --- | --- | ---
 
 ## Word nodes 
 
