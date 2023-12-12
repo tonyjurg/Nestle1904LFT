@@ -9,17 +9,16 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
   * Download the data and use it: process, copy, modify;
   * Use the data to create new software applications;
   * Use the data for research and publish any amount of results;
-  * When you publish this data or results you obtained from them, you have to comply with the following:
-    * give proper attribution to the data when you use it in new applications,
-      by citing this persistent identifier:
-      [10.17026/10.5281/zenodo.10182594](http://dx.doi.org/10.5281/zenodo.10182594).
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 ### Under the following terms:
 
- * **Attribution** — You must attribute the work as follows: "Nestle1904LFT, available at https://github.com/tonyjurg/Nestle1904LFT". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
+ * **Attribution**
+   * When deriving software or a dataset, attribute the work as follows: "Nestle1904LFT, available at https://github.com/tonyjurg/Nestle1904LFT". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  * When you publish this data or results you obtained from them, you have to comply with the following:
+    * give proper attribution to the data used by citing this persistent identifier: [10.17026/10.5281/zenodo.10182594](http://dx.doi.org/10.5281/zenodo.10182594).
+      
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 ### Notices:
