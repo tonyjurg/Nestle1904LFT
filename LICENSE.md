@@ -6,8 +6,13 @@ This is a human-readable summary of (and not a substitute for) the [license](htt
 
 ### You are free to:
 
- * **Share** — copy and redistribute the material in any medium or format
- * **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+  * Download the data and use it: process, copy, modify;
+  * Use the data to create new software applications;
+  * Use the data for research and publish any amount of results;
+  * When you publish this data or results you obtained from them, you have to comply with the following:
+    * give proper attribution to the data when you use it in new applications,
+      by citing this persistent identifier:
+      [10.17026/10.5281/zenodo.10182594](http://dx.doi.org/10.5281/zenodo.10182594).
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
