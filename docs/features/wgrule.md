@@ -47,5 +47,6 @@ See also the related feature [junction](junction.md#readme).
 ## Source description
 
 Taken from (optional) XML attribute `rule` of tag `wg` (wordgroup).
+
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
