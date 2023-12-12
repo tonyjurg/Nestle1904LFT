@@ -18,6 +18,8 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
 * [Grouped by node type](featuresbynodetype.md#readme):
      *  [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
      *  [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
+     *  [`subphrase`](featuresbynodetype.md#subphrase-nodes): Subprase
+     *  [`phrase`](featuresbynodetype.md#phrase-nodes): Phrase
      *  [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
      *  [`verse`](featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
      *  [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
