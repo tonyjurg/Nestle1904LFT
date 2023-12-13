@@ -2,6 +2,8 @@
 
 ## Creative Commons Attribution 4.0 International (CC BY 4.0)
 
+<img src="resources/images/CC-BY-40.png" style="float: right;">
+
 This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by/4.0/).
 
 ### You are free to:
