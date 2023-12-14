@@ -2,7 +2,7 @@
 
 Feature group | Feature type |  Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | All node types
+[`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | All node types | ✅
 
 
 ## Feature description 
@@ -20,6 +20,7 @@ The slot set is given as a comma separated list of slot *ranges*, where a range 
 where *n* is a number smaller than or equal to *m*. The range *n* `-` *n* may be abbreviated to *n*.
 
 ##### Note
+
 > The value of this feature for word objects is always just one number: the number of the slot the word occupies.
 All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Greek New Testament.
 
