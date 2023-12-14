@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types
 
 ## Feature description
 
-NT book number.
+Sequence number of the book within the New Testament corpus.
 
 ## Feature values
 
