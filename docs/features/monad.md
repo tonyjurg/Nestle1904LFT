@@ -18,7 +18,7 @@ See also feature [orig_order](orig_order.md#readme).
 
 ## Source description
 
-Calculated.
+Derived from .... 
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
