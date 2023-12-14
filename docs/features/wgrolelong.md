@@ -28,7 +28,7 @@ Verbal Copula | vc | 10
 
 ## Source description
 
-
+Based upon (optional) XML attribute `role` of tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
