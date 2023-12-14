@@ -19,8 +19,12 @@ markafter | Description | Frequency
 `(` | Opening round bracket|1 
 `]` |Single closing square bracket | 1
 
-## Note
+## Notes
 
+See also the following related features:
+   * [markbefore](markbefore.md#readme): Text critical marker before word.
+   * [markorder](markorder.md#readme): Order of punctuation and text critical marker.
+    
 Use the option `fmt='text-critical'` to print the text including text critical marks, see following example from Mark 1:1.
 
 <pre>
