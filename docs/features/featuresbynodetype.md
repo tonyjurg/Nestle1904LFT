@@ -63,7 +63,7 @@ Feature | Feature group |Data type | Description | Examples
 [after](after.md#readme) | [`Orthographic`](featuresbygroup.md#Orthographic-features) | [`string`](featuresbydatatype.md#string-datatype) | space or punctuation after word | 
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Short book abbreviation | 
 [bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`string`](featuresbydatatype.md#string-datatype) | Book name (abbreviated) | 
-[booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [[`integer`](featuresbydatatype.md#integer-datatype)](featuresbydatatype.md#integer-datatype)|  NT book number (Matthew=1, ...,  Revelation=27) | 
+[booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | NT book number (Matthew=1, ...,  Revelation=27) | 
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Gramatical case | `nominative` `accusative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`integer`](featuresbydatatype.md#integer-datatype) | Chapter number inside book |
 [degree](degree.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`string`](featuresbydatatype.md#string-datatype) | Degree of an  adjective | ` ` `comparative` `superlative`
