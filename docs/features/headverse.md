@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer`  | [`sentence`](featuresbynodetype.md#sentence-nodes) 
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [[`integer`](featuresbydatatype.md#integer-datatype)](featuresbydatatype.md#integer-datatype) | [`sentence`](featuresbynodetype.md#sentence-nodes) 
 
 ## Feature description
 Starting location of a sentence (verse number in current chapter).

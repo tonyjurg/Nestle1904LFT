@@ -1,18 +1,14 @@
-# Text-Fabric features Nestle 1904LFT (sorted by feature group)
+# Text-Fabric features Nestle 1904LFT (sorted by data type)
 ###### *(or browse by [node type](featuresbynodetype.md#readme) or [feature type](featuresbyfeaturetype.md#readme))*
 
 This is the key to the meaning of the features in this TextFabric dataset. The available features can be taken together in the following groups: 
 
-* [Grid features](#grid-features)
-* [Sectional features](#sectional-features)
-* [Lexical features](#lexical-features)
-* [Orthographic features](#orthographic-features)
-* [Textcritical_features](#textcritical-features)
-* [Morphological features](#morphological-features)
-* [Syntactic features](#syntactic-features)
-* [Relational features](#relational-features)
+* [String datatype features](#string-datatype)
+* [Integer datatype features](#integer-datatype)
+* [Link datatype features](#link-datatype)
 
-## Grid features
+
+## String datatype
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
@@ -20,7 +16,7 @@ Name | Feature type | Available on node | Description | Examples
 [otext](otext.md) | [`Config`](featuresbyfeaturetype.md#config-features) |  - |  configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
 [otype](otype.md) | [`Node`](featuresbyfeaturetype.md#node-features) |  | node type | `book` `verse` `clause` `phrase` `word`
 
-## Sectional features
+## Integer datatype
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
@@ -35,7 +31,7 @@ Name | Feature type | Available on node | Description | Examples
 [verse](verse.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`verse`](featuresbynodetype.md#verse-nodes)| Verse number inside chapter | `1` `2`
 [wgnum](wgnum.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`wg`](featuresbynodetype.md#wordgroup-nodes) | Wordgroup number | `1` `2`
 
-## Lexical features
+## Link datatype
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---

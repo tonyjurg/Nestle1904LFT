@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | `Integer` | [`word`](featuresbynodetype.md#word-nodes)
+[`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [[`integer`](featuresbydatatype.md#integer-datatype)](featuresbydatatype.md#integer-datatype)| [`word`](featuresbynodetype.md#word-nodes)
 
 ## Feature description
 Sentence number (counted per chapter).
