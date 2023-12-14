@@ -8,7 +8,15 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 Normalized Greek text (changed accents and diacritics to their standard forms). Also trailing punctuations are removed.
 
-## Note
+## Notes
+
+See also the following related features:
+    * [normalized](normalized.md#readme): Surface word stripped of punctations	
+    * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
+    * [word](word.md#readme): Word as it appears in the text
+    * [wordtranslit](wordtranslit.md#readme): Word transliterated to Latin characters	
+    * [wordunacc](wordunacc.md#readme): Word without accents
+
 
 Use the option `fmt='text-normalized'` to print results in transliterated format. Following example will print Mark 1:1 in normalized format:
 
