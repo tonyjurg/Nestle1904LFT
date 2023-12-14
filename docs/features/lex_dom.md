@@ -1,4 +1,4 @@
-# Feature: lex_dom
+# Feature: lex_dom <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
