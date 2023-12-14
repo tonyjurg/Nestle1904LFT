@@ -11,7 +11,7 @@ The word as it appears in the text (formated in unicode).
 ## Notes
 
 See also the following related features:
-   * [normalized](normalized.md#readme): Surface word stripped of punctations	
+   * [normalized](normalized.md#README): Surface word stripped of punctations	
    * [word](word.md#readme): Word as it appears in the text
    * [wordtranslit](wordtranslit.md#readme): Word transliterated to Latin characters	
    * [wordunacc](wordunacc.md#readme): Word without accents
