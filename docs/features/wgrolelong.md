@@ -1,7 +1,7 @@
 # Feature: wgrolelong
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | ---
+Feature group | Feature type | Data type | Available for node types | Feature status
+---  | --- | --- | --- | ---
 [`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`wg`](featuresbynodetype.md#word-group-nodes)
 
 ## Feature description 

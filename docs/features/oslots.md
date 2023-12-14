@@ -1,7 +1,7 @@
 # Feature: oslots
 
-Feature group | Feature type |  Data type | Available for node types
----  | --- | --- | ---
+Feature group | Feature type |  Data type | Available for node types | Feature status
+---  | --- | --- | --- | ---
 [`Grid`](featuresbygroup.md#grid-features) | [`Edge`](featuresbyfeaturetype.md#edge-features) | [`string`](featuresbydatatype.md#string-datatype)  | All node types
 
 

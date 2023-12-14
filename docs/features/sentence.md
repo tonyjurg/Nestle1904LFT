@@ -1,7 +1,7 @@
 # Feature: sentence
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | ---
+Feature group | Feature type | Data type | Available for node types | Feature status
+---  | --- | --- | --- | ---
 [`Sectional`](featuresbygroup.md#sectional-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [[`integer`](featuresbydatatype.md#integer-datatype)](featuresbydatatype.md#integer-datatype)| [`word`](featuresbynodetype.md#word-nodes)
 
 ## Feature description

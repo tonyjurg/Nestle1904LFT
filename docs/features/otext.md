@@ -1,7 +1,7 @@
 # Feature: otext
 
-Feature group | Feature type | Data type | Available for node types
----  | --- | --- | ---
+Feature group | Feature type | Data type | Available for node types | Feature status
+---  | --- | --- | --- | ---
 [`Grid`](featuresbygroup.md#grid-features) | [`Config`](featuresbyfeaturetype.md#config-features) | Text configuration | Not applicable
 
 ## Feature description
