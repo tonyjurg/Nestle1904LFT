@@ -25,7 +25,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`book`](featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.
 * [Grouped by datatype](featuresbydatatype.md#readme):
      * [`string`](featuresbydatatype.md#string-datatype): Datatype of feature is string.
-     * [`integer`](featuresbydatatype.md#integer-datatype) Datatype of feature is integer.
+     * [`integer`](featuresbydatatype.md#integer-datatype): Datatype of feature is integer.
      * [`link`](featuresbydatatype.md#link-datatype): Datatype of feature is link.
      * [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
 
