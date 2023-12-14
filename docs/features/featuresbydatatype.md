@@ -6,7 +6,7 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [String datatype features](#string-datatype)
 * [Integer datatype features](#integer-datatype)
 * [Link datatype features](#link-datatype)
-* [Configuration data`](featuresbydatatype.md#configuration-data)
+* [Configuration data](featuresbydatatype.md#configuration-data)
 
 ## String datatype
 
