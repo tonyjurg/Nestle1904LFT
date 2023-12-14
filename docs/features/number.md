@@ -16,6 +16,10 @@ plural | Plural form (either first, second, or third person) | 29091
 singular | Singular form (either first, second, or third person) | 69846
 '' | Empty for wordtypes other than verb | 38842
 
+## Note
+
+For gramatical number of a noun see feature [nu](nu.md#readme).
+
 ## Source description
 
 Taken from XML attribute `number` of tag `w` (word).
