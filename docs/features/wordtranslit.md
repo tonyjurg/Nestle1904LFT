@@ -10,6 +10,12 @@ Transliterated Greek text (changed Greek letters into their Latin equivalent).
 
 ## Note
 
+See also the following related features:
+   * [normalized](normalized.md#readme): Surface word stripped of punctations	
+   * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
+   * [word](word.md#readme): Word as it appears in the text
+   * [wordunacc](wordunacc.md#readme): Word without accents
+
 Use the option `fmt='text-transliterated'` to print results in transliterated format. Following example will print Mark 1:1 in transliterated format:
 
 <pre>
