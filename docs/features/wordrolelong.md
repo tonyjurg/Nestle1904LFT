@@ -10,19 +10,18 @@ Role of the word (full)
 
 ## Feature values
 
-value | frequency
---- |  ---
-Adverbial	| 40891
-Verbal | 25817
-Subject | 22927
-Object | 21523
-` ` | 10369
-Predicate | 7482
-Indirect Object | 3948
-Verbal Copula | 2603
-Auxiliar | 1646
-Second Object | 573
-
+Value (this feature) | Short (feature [wordrole](wordrole.md#readme) | Frequency
+--- | --- | ---
+Adverbial	| adv | 41598
+Verbal | v | 25817
+Subject | s | 22908
+Object | o | 21929
+Empty | ` ` | 9347
+Predicate | p | 7474
+Indirect Object | io | 3948
+Verbal Copula | vc | 2603
+Auxiliar | aux | 1654
+Second Object | o2 | 501
 
 ## Source description
 
