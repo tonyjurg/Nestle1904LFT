@@ -10,8 +10,20 @@ Word Group role (full description)
 
 ## Feature values
 
-Value | Description | Frequency
+Value (this feature) | Abreviated (feature [wgrole](wgrole.md#readme)) | Frequency
 --- |  --- | ---
+Adverbial | adv | 16710
+Object |o | 9329
+Subject | s | 6710
+Predicate | p | 1770
+Indirect Object | io | 702
+Verbal | v | 405
+Auxiliar | aux | 360
+Second Object | o2 | 171
+Verbal Copula | vc | 10
+? | ellipsis | 2
+? | err_clause-complex-met-no-conditionsClCl2 | 1
+?  | tail | 1
 
 ## Notes
 
