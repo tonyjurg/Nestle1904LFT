@@ -16,9 +16,9 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
-[oslots](oslots.md) | [`Config`](featuresbyfeaturetype.md#config-features) | - | slot containment | `1` `1-11` `2010-2015,2020-2030`
-[otext](otext.md) | [`Config`](featuresbyfeaturetype.md#config-features) |  - |  configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
-[otype](otype.md) | [`Node`](featuresbyfeaturetype.md#node-features) |  | node type | `book` `verse` `clause` `phrase` `word`
+[oslots](oslots.md#readme) | [`Config`](featuresbyfeaturetype.md#config-features) | - | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[otext](otext.md#readme) | [`Config`](featuresbyfeaturetype.md#config-features) |  - |  configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
+[otype](otype.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) |  | node type | `book` `verse` `clause` `phrase` `word`
 
 ## Sectional features
 
@@ -60,9 +60,9 @@ Name | Feature type | Available on node | Description | Examples
 
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
-[markafter](markafter.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-`, `)`, `]` , `]]`
-[markbefore](markbefore.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Text critical marker before word| `-`, `(`, `[`, `[[`
-[markorder](markorder.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Order of punctuation and text critical marker | `0`, `2`
+[markafter](markafter.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-`, `)`, `]` , `]]`
+[markbefore](markbefore.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Text critical marker before word| `-`, `(`, `[`, `[[`
+[markorder](markorder.md#readme) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Order of punctuation and text critical marker | `0`, `2`
 
 ## Morphological features
 
