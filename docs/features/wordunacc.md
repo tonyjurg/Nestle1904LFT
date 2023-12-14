@@ -10,6 +10,12 @@ Unaccented Greek text (diacritics removed).
 
 ## Note
 
+See also the following related features:
+   * [normalized](normalized.md#readme): Surface word stripped of punctations	
+   * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
+   * [word](word.md#readme): Word as it appears in the text
+   * [wordtranslit](wordtranslit.md#readme): Word transliterated to Latin characters	
+
 Use the option `fmt='text-unaccented'` to print results in unaccented format, Following example will print Mark 1:1 in uaccented format:
 
 <pre>
