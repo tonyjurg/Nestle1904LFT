@@ -2,11 +2,11 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Orthographic`](featuresbygroup.md#orthographic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes)
+[`Orthographic`](featuresbygroup.md#orthographic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes) | ✅
 
 ## Feature description 
 
-The word as it appears in the text. 
+The word as it appears in the text (excl. [punctuations](after.md#readme) and [critical markers](featuresbygroup.md#textcritical-features)). 
 
 ## Notes
 In terms of the synatax tree this is considered the terminal node.
