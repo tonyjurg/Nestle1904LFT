@@ -25,7 +25,7 @@ Name | Feature type | Available on node | Description | Examples
 Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
 [book](book.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes) | Full book name | `Matthew` ... `Revelation`
-[booknumber](booknumber.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [[`integer`](featuresbydatatype.md#integer-datatype)](featuresbydatatype.md#integer-datatype) |  [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes) | NT book number (Matthew=1, ... , Revelation=27) | `3` `8`
+[booknumber](booknumber.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype) |  [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes) | NT book number (Matthew=1, ... , Revelation=27) | `3` `8`
 [bookshort](bookshort.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`book`](featuresbynodetype.md#book-notes) | Short book name | `MAT` `MAR` ... `REV`
 [chapter](chapter.md#start) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) | Chapter number inside book | `1` `2` ...
 [headverse](headverse.md#start) | [`node`](featuresbyfeaturetype.md#node-features) | [`sentence`](featuresbynodetype.md#sentence-nodes) | Verse number of start of sentence | `1` `2`
