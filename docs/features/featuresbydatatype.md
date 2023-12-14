@@ -1,4 +1,4 @@
-# Text-Fabric features Nestle 1904LFT (sorted by data type)  <a name="start"></a>
+# Features by data type  <a name="start"></a>
 ###### *(or browse by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), or [feature type](featuresbyfeaturetype.md#start))*
 
 This is the key to the meaning of the features in this TextFabric dataset. The available features can be taken together in the following groups: 
