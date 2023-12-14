@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 ## Feature description 
 
-This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word.
+This feature includes either a regular space character or a punctuation mark followed by a regular space character, occurring after a word. 
 
 ## Feature values 
 
@@ -18,6 +18,16 @@ after | symbol name | Unicode codepoint | Frequency
 `· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) | 2355
 `; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) | 969
 `— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) | 30
+
+## Note
+
+This feature does not include  textcritical markers. These details can be found in the following features:
+Name | Data type | Availble for node types | Description | Examples
+--- | --- | --- | --- | --- 
+[markafter](markafter.md#readme) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-` `)`
+[markbefore](markbefore.md#readme) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker before word| `-` `(`
+[markorder](markorder.md#readme) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Order of punctuation and text critical marker | ` ` `0` 
+
 
 ## Source description
 
