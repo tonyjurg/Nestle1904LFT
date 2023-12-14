@@ -10,19 +10,17 @@ Syntactical role of the wordgroup (abbreviated).
 
 ## Feature values
 
-Value | Description | Frequency
+Value (this feature) | Description (feature [wgrolelong](wgrolelong.md#readme) | Frequency
 --- |  --- | ---
-` ` | | 77251
-`adv` || 16710
-`o` || 9329
-`s` || 6710
-`p` || 1770
-`io` || 702
-`v` ||405
-`aux` || 360
-`o2` || 171
-`topic` || 25
-`vc` || 10
+adv | Adverbial | 16710
+o | Object | 9329
+s | Subject | 6710
+p | Predicate | 1770
+io | Indirect Object | 702
+v | Verbal |405
+aux | Auxiliar | 360
+o2 | Second Object | 171
+vc | Verbal Copula | 10
 `ellipsis` || 2
 `err_clause-complex-met-no-conditionsClCl2` || 1
 `tail` || 1
