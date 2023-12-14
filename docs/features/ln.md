@@ -17,7 +17,7 @@ xx.yy  | one or more entries for the Louw-Nida references | 126756
 
 ## Note
 
-Lookup of values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
+Lookup values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
 See also the related feature [lex_dom](lex_dom.md#readme)
 
