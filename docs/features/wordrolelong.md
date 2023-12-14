@@ -10,7 +10,7 @@ Role of the word (full)
 
 ## Feature values
 
-Value (this feature) | Short (feature [wordrole](wordrole.md#readme) | Frequency
+Value (this feature) | Short (feature [wordrole](wordrole.md#readme)) | Frequency
 --- | --- | ---
 Adverbial	| adv | 41598
 Verbal | v | 25817
@@ -25,6 +25,7 @@ Second Object | o2 | 501
 
 ## Source description
 
+Based upon information taken from XML tag `??` of `w` node.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
