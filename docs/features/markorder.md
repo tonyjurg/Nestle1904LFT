@@ -18,7 +18,11 @@ markorder | Description | Frequency
 `2` | Mark is after word, punctuations is after mark | 10
 `3` | Mark is after word, punctuations is before mark | 32
 
-## Note
+## Notes
+
+See also the following related features:
+   * [markafter](markafter.md#readme): Text critical marker after word.
+   * [markbefore](markbefore.md#readme): Text critical marker before word.
 
 Use the option `fmt='text-critical'` to print the text including text critical marks, see following example from Mark 1:1.
 
