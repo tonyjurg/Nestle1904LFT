@@ -19,6 +19,8 @@ singular | Singular gramatical number | 69846
 
 See also related feature [person](person.md#readme).
 
+For gramatical number of a verb see feature [number](number.md#readme).
+
 ## Source description
 
 Taken from XML attribute `number` of tag `w` (word).
