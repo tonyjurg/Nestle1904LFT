@@ -11,17 +11,17 @@ abbreviated Part of Speech description for each wordtype.
 
 Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | frequency | Example words
 --- | --- | --- | ---
-adj | Adjective | 8452 | 
-adv | adverb (currently missing!) | 6147 |
-conj | Conjunction | 18227 |
+adj | Adjective | 8452 | `ἕκαστον` `ἰδίου`
+adv | adverb | 6147 | `οὐκ` 
+conj | Conjunction | 18227 | `καὶ` `δὲ` `ὅτι`
 det | Determiner (article) | 19786 | `τὸν` `ταῖς` `ὁ`
-intj | Interjection | 15 |
-noun | Noun | 28455 |
-num | Numeral | 476 |
+intj | Interjection | 15 | `Ὦ` `ναί`
+noun | Noun | 28455 | `βίβλῳ` `Θεὸς`
+num | Numeral | 476 | `Ἑπτά` `πέντε`
 prep | Preposition | 10914 | `περὶ` `εἰς`
-ptcl | Particle | 773 |
-pron | Pronoun | 16177 |
-verb | Verb | 28357 | 
+ptcl | Particle | 773 | `λέγων`
+pron | Pronoun | 16177 | `Ἐγὼ`
+verb | Verb | 28357 | `εἶπεν` `ἀνέγνωτε`
 
 
 ## Source description
