@@ -10,24 +10,24 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
 * [Grouped by feature group](featuresbygroup.md#readme):
      * [`Grid`](featuresbygroup.md#grid-features): pertains to the arrangement and organization of the data.
      * [`Sectional`](featuresbygroup.md#sectional-features): encompasses attributes or elements related to divisions within the text.
-     *  [`Lexical`](featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
-     *  [`Orthograpic`](featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
-     *  [`Textcritical`](featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
-     *  [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
-     *  [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
-     *  [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
+     * [`Lexical`](featuresbygroup.md#lexical-features): focuses on aspects related to individual words, their meanings, and lexical properties.
+     * [`Orthograpic`](featuresbygroup.md#Orthograpic-features): deals with features related to the visual representation of the text.
+     * [`Textcritical`](featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
+     * [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
+     * [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
+     * [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
 * [Grouped by node type](featuresbynodetype.md#readme):
-     *  [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
-     *  [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
-     *  [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
-     *  [`verse`](featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
-     *  [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
-     *  [`book`](featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.
+     * [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
+     * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
+     * [`sentence`](featuresbynodetype.md#sentence-nodes): represents individual sentences in the text.
+     * [`verse`](featuresbynodetype.md#verse-nodes): pertains to divisions within a larger textual unit, specificaly the biblical verse.
+     * [`chapter`](featuresbynodetype.md#chapter-nodes): divisions within the text that group related content together, specificaly the biblical chapter.
+     * [`book`](featuresbynodetype.md#book-nodes): the highest-level division within the text, corresponding to a bible book.
 * [Grouped by datatype](featuresbydatatype.md#readme):
-     *  [`string`](featuresbydatatype.md#string-datatype): Datatype of feature is string.
-     *  [`integer`](featuresbydatatype.md#integer-datatype) Datatype of feature is integer.
-     *  [`link`](featuresbydatatype.md#link-datatype): Datatype of feature is link.
-
+     * [`string`](featuresbydatatype.md#string-datatype): Datatype of feature is string.
+     * [`integer`](featuresbydatatype.md#integer-datatype) Datatype of feature is integer.
+     * [`link`](featuresbydatatype.md#link-datatype): Datatype of feature is link.
+     * [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
 
 ## The concept 'features' in Text-Fabric
 
