@@ -6,15 +6,15 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 ## Feature description 
 
-The word as it appears in the text (excl. [punctuations](after.md#readme) and [critical markers](featuresbygroup.md#textcritical-features)). 
+The word as it appears in the text (excl. [punctuations](after.md#start) and [critical markers](featuresbygroup.md#textcritical-features)). 
 
 ## Notes
 
 See also the following related features:
-   * [normalized](normalized.md#readme): Surface word stripped of punctations	
-   * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
-   * [wordtranslit](wordtranslit.md#readme): Word transliterated to Latin characters	
-   * [wordunacc](wordunacc.md#readme): Word without accents
+   * [normalized](normalized.md#start): Surface word stripped of punctations	
+   * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
+   * [wordtranslit](wordtranslit.md#start): Word transliterated to Latin characters	
+   * [wordunacc](wordunacc.md#start): Word without accents
 
 In terms of the synatax tree this is considered the terminal node.
 
@@ -23,4 +23,4 @@ In terms of the synatax tree this is considered the terminal node.
 Taken from the data of XML tag `w`.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

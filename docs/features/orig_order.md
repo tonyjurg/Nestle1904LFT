@@ -14,11 +14,11 @@ A running number between 1 and 137779.
 
 ## Note
 
-See also feature [monad](monad.md#readme).
+See also feature [monad](monad.md#start).
 
 ## Source description
 
 Computed from the order of XML elements in the source data.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

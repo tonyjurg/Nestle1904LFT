@@ -11,10 +11,10 @@ Normalized Greek text (changed accents and diacritics to their standard forms). 
 ## Notes
 
 See also the following related features:
-   * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
-   * [word](word.md#readme): Word as it appears in the text
-   * [wordtranslit](wordtranslit.md#readme): Word transliterated to Latin characters	
-   * [wordunacc](wordunacc.md#readme): Word without accents
+   * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
+   * [word](word.md#start): Word as it appears in the text
+   * [wordtranslit](wordtranslit.md#start): Word transliterated to Latin characters	
+   * [wordunacc](wordunacc.md#start): Word without accents
 
 
 Use the option `fmt='text-normalized'` to print results in transliterated format. Following example will print Mark 1:1 in normalized format:
@@ -31,4 +31,4 @@ See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/N
 Taken from XML attribute `normalized` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

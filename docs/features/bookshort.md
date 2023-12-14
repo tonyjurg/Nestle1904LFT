@@ -10,7 +10,7 @@ Short book abbreviation
 
 ## Feature values
 
-Bookshort (this feature) | Full name of book ([feature: book](book.md#readme)) | Number ([feature: booknumber](booknumber.md#readme))
+Bookshort (this feature) | Full name of book ([feature: book](book.md#start)) | Number ([feature: booknumber](booknumber.md#start))
 --- | --- | --- 
 Matt | Matthew | 1
 Mark | Mark | 2
@@ -45,4 +45,4 @@ Rev | Revelation | 27
 Taken from XML attribute `id` of tag `book`.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

@@ -11,10 +11,10 @@ Transliterated Greek text (changed Greek letters into their Latin equivalent).
 ## Note
 
 See also the following related features:
-   * [normalized](normalized.md#readme): Surface word stripped of punctations	
-   * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
-   * [word](word.md#readme): Word as it appears in the text
-   * [wordunacc](wordunacc.md#readme): Word without accents
+   * [normalized](normalized.md#start): Surface word stripped of punctations	
+   * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
+   * [word](word.md#start): Word as it appears in the text
+   * [wordunacc](wordunacc.md#start): Word without accents
 
 Use the option `fmt='text-transliterated'` to print results in transliterated format. Following example will print Mark 1:1 in transliterated format:
 
@@ -30,4 +30,4 @@ See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/N
 Calculated from XML attribute `unicode` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

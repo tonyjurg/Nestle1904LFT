@@ -11,10 +11,10 @@ Unaccented Greek text (diacritics removed).
 ## Note
 
 See also the following related features:
-   * [normalized](normalized.md#readme): Surface word stripped of punctations	
-   * [unicode](unicode.md#readme): Word as it appears in the text (in unicode)
-   * [word](word.md#readme): Word as it appears in the text
-   * [wordtranslit](wordtranslit.md#readme): Word transliterated to Latin characters	
+   * [normalized](normalized.md#start): Surface word stripped of punctations	
+   * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
+   * [word](word.md#start): Word as it appears in the text
+   * [wordtranslit](wordtranslit.md#start): Word transliterated to Latin characters	
 
 Use the option `fmt='text-unaccented'` to print results in unaccented format, Following example will print Mark 1:1 in uaccented format:
 
@@ -30,4 +30,4 @@ See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/N
 Calculated from XML attribute `unicode` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

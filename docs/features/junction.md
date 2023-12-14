@@ -18,7 +18,7 @@ value | Description | Frequency
 ` `  | Empty | 93392
 
 ## Note
-See also the related feature [wgrule](wgrule.md#readme).
+See also the related feature [wgrule](wgrule.md#start).
 
 ## Source description
 
@@ -26,4 +26,4 @@ Taken from (optional) XML attribute `junction` of tag `wg` (wordgroup).
 
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

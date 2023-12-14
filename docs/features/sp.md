@@ -9,7 +9,7 @@ abbreviated Part of Speech description for each wordtype.
 
 ## Feature values 
 
-Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | Frequency | Examples
+Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#start)) | Frequency | Examples
 --- | --- | --- | ---
 adj | Adjective | 8452 | `ἕκαστον` `ἰδίου`
 adv | adverb | 6147 | `οὐκ` 
@@ -29,4 +29,4 @@ verb | Verb | 28357 | `εἶπεν` `ἀνέγνωτε`
 Taken from XML attribute `class` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

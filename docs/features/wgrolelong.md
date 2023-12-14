@@ -10,7 +10,7 @@ Word Group role (full description)
 
 ## Feature values
 
-Value (this feature) | Abreviated (feature [wgrole](wgrole.md#readme)) | Frequency
+Value (this feature) | Abreviated (feature [wgrole](wgrole.md#start)) | Frequency
 --- |  --- | ---
 Adverbial | adv | 16710
 Object |o | 9329
@@ -31,4 +31,4 @@ Verbal Copula | vc | 10
 Based upon (optional) XML attribute `role` of tag `wg` (wordgroup).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

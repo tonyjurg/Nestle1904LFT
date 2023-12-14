@@ -10,7 +10,7 @@ Syntactical role of the word (abbreviated)
 
 ## Feature values
 
-Value (this feature) | Description (feature [wordrolelong](wordrolelong.md#readme)) | Frequency
+Value (this feature) | Description (feature [wordrolelong](wordrolelong.md#start)) | Frequency
 --- | --- | ---
 adv | Adverbial	| 41598
 v | Verbal | 25817
@@ -28,4 +28,4 @@ o2 | Second Object | 501
 Taken from XML tag `??` of `w` node.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

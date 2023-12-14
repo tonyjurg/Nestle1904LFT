@@ -10,7 +10,7 @@ Sequence number of the book within the New Testament corpus.
 
 ## Feature values
 
-Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#readme)) | Book full name ([feature: book](book.md#readme))
+Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#start)) | Book full name ([feature: book](book.md#start))
 --- | --- | --- 
 1 | Matt | Matthew
 2 | Mark | Mark
@@ -45,4 +45,4 @@ Book number (this feature) | Book short name ([feature: bookshort](bookshort.md#
 Taken from XML attribute `id` of tag `book`.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

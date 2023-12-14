@@ -42,11 +42,11 @@ value | explanation | Frequency
 
 ## Note
 
-See also the related feature [junction](junction.md#readme).
+See also the related feature [junction](junction.md#start).
 
 ## Source description
 
 Taken from (optional) XML attribute `rule` of tag `wg` (wordgroup).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

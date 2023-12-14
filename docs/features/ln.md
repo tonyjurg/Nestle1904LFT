@@ -19,11 +19,11 @@ xx.yy  | one or more entries for the Louw-Nida references | 126756
 
 Lookup values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
-See also the related feature [lex_dom](lex_dom.md#readme)
+See also the related feature [lex_dom](lex_dom.md#start)
 
 ## Source description
 
 Taken from XML attribute `domain` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

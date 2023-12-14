@@ -33,10 +33,10 @@ The section types correspond to the various divisional units in the Bible.
 The Greek New Testament is divided in books, books are divided in chapters, chapters are divided in verses.
 The sectional types `book`, `chapter`, `verse` specify features which indicate which book, chapter, verse their objects refer to.
 
-A `book` object carries the [book](book.md#readme) feature, which contains the name of the book.
-A `chapter` object carries the [chapter](chapter.md#readme) feature, which contains the number of the chapter.
-It carries also the [book](book.md#readme) feature to indicate the book of which it is a chapter.
-Analogously, the `verse` object carries the [verse](verse.md#readme) feature, which contains the number of the chapter, and the [book](book.md#readme) and [chapter](chapter.md#readme) features.
+A `book` object carries the [book](book.md#start) feature, which contains the name of the book.
+A `chapter` object carries the [chapter](chapter.md#start) feature, which contains the number of the chapter.
+It carries also the [book](book.md#start) feature to indicate the book of which it is a chapter.
+Analogously, the `verse` object carries the [verse](verse.md#start) feature, which contains the number of the chapter, and the [book](book.md#start) and [chapter](chapter.md#start) features.
 
 # Word type
 
@@ -56,4 +56,4 @@ Linguistic types correspond to syntactical entities such as sentences, clauses a
 The functional object types in this dataset are `sentence` and `wg`; where a wordgroup can function either as a phrase or a clause.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

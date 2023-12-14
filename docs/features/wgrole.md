@@ -10,7 +10,7 @@ Syntactical role of the wordgroup (abbreviated).
 
 ## Feature values
 
-Value (this feature) | Description (feature [wgrolelong](wgrolelong.md#readme)) | Frequency
+Value (this feature) | Description (feature [wgrolelong](wgrolelong.md#start)) | Frequency
 --- |  --- | ---
 adv | Adverbial | 16710
 o | Object | 9329
@@ -30,5 +30,5 @@ vc | Verbal Copula | 10
 Taken from (optional) XML attribute `role` of tag `wg` (wordgroup).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
 
