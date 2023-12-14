@@ -1,5 +1,4 @@
-<a name="start"></a>
-# Feature: after
+# Feature: after <a name="start"></a>
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | --- 
