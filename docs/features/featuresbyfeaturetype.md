@@ -62,15 +62,15 @@ Name | Feature group | Data type | Availble for node types | Description | Examp
 
 ## Edge features
 
-Name | Feature group | Node type | Description | Example
---- | --- | --- | --- | ---
-[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features)  | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
+Name | Feature group | Data type | Node type | Description | Example
+--- | --- | --- | --- | --- | ---
+[subj_ref](subj_ref.md#readme) | [`Relational`](featuresbygroup.md#relational-features)  | | [`word`](featuresbynodetype.md#word-nodes) | Subject reference |
 
 ## Config features
 
-Name | Feature group | Node type | Description| Examples
----| --- | --- | --- | ---
-[oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | | slot containment | `1` `1-11` `2010-2015,2020-2030`
-[otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | | configuration for sections, structure, and text formats (textapi) | *no data, only specifications*  
+Name | Feature group | Data type | Node type | Description| Examples
+---| --- | --- | --- | --- | ----
+[oslots](oslots.md) | [`Grid`](featuresbygroup.md#grid-features) | | | slot containment | `1` `1-11` `2010-2015,2020-2030`
+[otext](otext.md) | [`Grid`](featuresbygroup.md#grid-features) | | | configuration for sections, structure, and text formats (textapi) |  *no data, only specifications*  
 
 
