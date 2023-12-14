@@ -7,6 +7,8 @@ This is the key to the meaning of the features in this TextFabric dataset. The a
 * [Integer datatype features](#integer-datatype)
 * [Link datatype features](#link-datatype)
 
+*note: still to be sorted*
+
 
 ## String datatype
 
