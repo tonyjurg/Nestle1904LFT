@@ -1,5 +1,5 @@
 # Text-Fabric features Nestle 1904LFT (sorted per node type)
-###### *(or browse by [feature type](featuresbyfeaturetype.md#readme) or [feature group](featuresbygroup.md#readme))*
+###### *(or browse by [feature type](featuresbyfeaturetype.md#readme), [data type](featuresbydatatype.md#readme), or [feature group](featuresbygroup.md#readme))*
 
 This Text-Fabric dataset contains the following node types:
 * [27 `book` nodes](#book-nodes)
