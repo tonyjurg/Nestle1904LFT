@@ -25,4 +25,4 @@ where *n* is a number smaller than or equal to *m*. The range *n* `-` *n* may be
 All word occurrences are numbered from 1 to more than 400,000, in the order as they occur in the Greek New Testament.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
+###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme), [Datatype](featuresbydatatype.md#readme)  or [feature type](featuresbyfeaturetype.md#readme).*
