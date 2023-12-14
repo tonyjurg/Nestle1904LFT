@@ -9,7 +9,7 @@ abbreviated Part of Speech description for each wordtype.
 
 ## Feature values 
 
-Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | frequency | Example
+Label (this feature) | Part of Speech Full ([feature: sp_full](sp_full.md#readme)) | frequency | Example words
 --- | --- | --- | ---
 adj | Adjective | 8452 | 
 adv | adverb (currently missing!) | 6147 |
