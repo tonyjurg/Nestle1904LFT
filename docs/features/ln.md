@@ -12,7 +12,7 @@ Louw-Nida lexical classification.
 
 Value | Desription | Frequency
 --- | --- | ---
-xx.yy  | one or more entries for the Louw-Nida references | 126756
+xx.yy  | one #or more# entries for the Louw-Nida references | 126756
 '' | Empty | 11023
 
 ## Note
