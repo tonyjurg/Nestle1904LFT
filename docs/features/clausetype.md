@@ -25,7 +25,7 @@ Press, 2009).
 
 
 ## Source description
-Taken from (optional) XML attribute `` of tag `wg` (wordgroup).
+Taken from (optional) XML attribute `????` of tag `wg` (wordgroup).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
