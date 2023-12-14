@@ -13,11 +13,11 @@ This feature includes either a regular space character or a punctuation mark fol
 after | symbol name | Unicode codepoint | Frequency
 ---  | --- | --- | ---
 ` ` | Space | [`&#32`](https://www.codetable.net/decimal/32) |  119272
-`, ` | Comma  | [`&#44`](https://www.codetable.net/decimal/44) + [`&#32`](https://www.codetable.net/decimal/32)  | 9441
-`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) + [`&#32`](https://www.codetable.net/decimal/32) | 5712
-`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) + [`&#32`](https://www.codetable.net/decimal/32)| 2355
-`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) + [`&#32`](https://www.codetable.net/decimal/32) | 969
-`— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) + [`&#32`](https://www.codetable.net/decimal/32) | 30
+`, ` | Comma  | [`&#44`](https://www.codetable.net/decimal/44) & [`&#32`](https://www.codetable.net/decimal/32)  | 9441
+`. ` | Full Stop | [`&#46`](https://www.codetable.net/decimal/46) & [`&#32`](https://www.codetable.net/decimal/32) | 5712
+`· ` | Midle Dot | [`&#183`](https://www.codetable.net/decimal/183) & [`&#32`](https://www.codetable.net/decimal/32)| 2355
+`; ` | Semicolon | [`&#59`](https://www.codetable.net/decimal/59) & [`&#32`](https://www.codetable.net/decimal/32) | 969
+`— ` | Em Dash | [`&#8212`](https://www.codetable.net/decimal/8212) & [`&#32`](https://www.codetable.net/decimal/32) | 30
 
 ## Source description
 
