@@ -14,10 +14,10 @@ markafter | Description | Unicode codepoint | Frequency
 ---  | --- | --- | ---
 `` | no mark | - | 137728
 `—` | Em dash |  [`&#8212`](https://www.codetable.net/decimal/8212) | 31
-`)` | Right Parenthesis [`&#41`](https://www.codetable.net/decimal/41) | 11
-`]]` | Right Square Bracket (2x) | [`&#93`](https://www.codetable.net/decimal/91) (2x) | 7
-`(` | Left Parenthesis  | [`&#40`](https://www.codetable.net/decimal/40) | 1 
-`]` | Right Square Bracket | [`&#93`](https://www.codetable.net/decimal/93) | 1
+`)` | Right parenthesis | [`&#41`](https://www.codetable.net/decimal/41) | 11
+`]]` | Right square bracket (2x) | [`&#93`](https://www.codetable.net/decimal/91) (2x) | 7
+`(` | Left parenthesis  | [`&#40`](https://www.codetable.net/decimal/40) | 1 
+`]` | Right square bracket | [`&#93`](https://www.codetable.net/decimal/93) | 1
 
 ## Notes
 
