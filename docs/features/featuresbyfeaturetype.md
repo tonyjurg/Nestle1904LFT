@@ -13,6 +13,7 @@ Name | Feature group | Node type | Description | Examples
 --- | --- | --- | --- | ---
 [after](after.md#readme) | [`Orthographic`](featuresbygroup.md#orthographic-features) | [`word`](featuresbynodetype.md#word-nodes) | Space or punctuation after word | ` ` `.`
 [book](book.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) [`sentence`](featuresbynodetype.md#sentence-nodes) [`verse`](featuresbynodetype.md#verse-nodes) [`word`](featuresbynodetype.md#word-nodes)| Book name | `Matthew` `Mark`
+[booknumber](booknumber.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) [`word`](featuresbynodetype.md#word-nodes)| Sequence number of book | `1` `2` ... `27`
 [bookshort](bookshort.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`book`](featuresbynodetype.md#book-nodes) [`word`](featuresbynodetype.md#word-nodes)| Short book name | `MAT` `MAR` ... `REV`
 [case](case.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | [`word`](featuresbynodetype.md#word-nodes) | Gramatical case | `nominative` `genitive` `dative`
 [chapter](chapter.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | [`word`](featuresbynodetype.md#word-nodes) [`chapter`](featuresbynodetype.md#chapter-nodes) [`verse`](featuresbynodetype.md#verse-nodes) |  Chapter number inside book | `1` `2` ...
