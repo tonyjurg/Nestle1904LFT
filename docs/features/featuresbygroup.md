@@ -62,7 +62,7 @@ Name | Feature type | Available on node | Description | Examples
 --- | --- | --- | --- | ---
 [markafter](markafter.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-`, `)`, `]` , `]]`
 [markbefore](markbefore.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Text critical marker before word| `-`, `(`, `[`, `[[`
-[markorder](markorder.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Order of punctuation and text critical marker | `0`
+[markorder](markorder.md) | [`Node`](featuresbyfeaturetype.md#node-features) | [`word`](featuresbynodetype.md#word-nodes)| Order of punctuation and text critical marker | `0`, `2`
 
 ## Morphological features
 
