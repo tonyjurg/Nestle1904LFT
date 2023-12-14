@@ -25,9 +25,6 @@ Verbal Copula | vc | 10
 ? | err_clause-complex-met-no-conditionsClCl2 | 1
 ?  | tail | 1
 
-## Notes
-
-See also feature [wgrole](wgrole.md#readme)
 
 ## Source description
 
