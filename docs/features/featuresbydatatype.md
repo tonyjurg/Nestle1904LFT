@@ -3,9 +3,10 @@
 
 This is the key to the meaning of the features in this TextFabric dataset. The available features can be taken together in the following groups: 
 
-* [String datatype features](#string-datatype)
-* [Integer datatype features](#integer-datatype)
-* [Link datatype features](#link-datatype)
+* [String datatype features](#string-datatype): Datatype of feature is string.
+* [Integer datatype features](#integer-datatype): Datatype of feature is integer.
+* [Link datatype features](#link-datatype): Datatype of feature is link.
+* [`configuration`](featuresbydatatype.md#configuration-data): Configuration data.
 
 *note: still to be sorted*
 
