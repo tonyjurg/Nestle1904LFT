@@ -10,7 +10,7 @@ Sentence number (counted per chapter).
 
 ## See also
 
-Related feature [headverse](headverse.md).
+Related feature [headverse](headverse.md#readme).
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#readme), [feature group](featuresbygroup.md#readme) or [feature type](featuresbyfeaturetype.md#readme).*
