@@ -10,14 +10,14 @@ Text critical marker after word.
 
 ## Feature values 
 
-markafter | Description | Frequency
----  | --- | ---
-`` | no mark | 137728
-`—` | Dash | 31
-`)` | Closing round bracket| 11
-`]]` |Double closing square brackets | 7
-`(` | Opening round bracket|1 
-`]` |Single closing square bracket | 1
+markafter | Description | Unicode codepoint | Frequency
+---  | --- | --- | ---
+`` | no mark | - | 137728
+`—` | Em dash |  [`&#8212`](https://www.codetable.net/decimal/8212) | 31
+`)` | Right Parenthesis [`&#41`](https://www.codetable.net/decimal/41) | 11
+`]]` | Right Square Bracket (2x) | [`&#93`](https://www.codetable.net/decimal/91) (2x) | 7
+`(` | Left Parenthesis  | [`&#40`](https://www.codetable.net/decimal/40) | 1 
+`]` | Right Square Bracket | [`&#93`](https://www.codetable.net/decimal/93) | 1
 
 ## Notes
 
