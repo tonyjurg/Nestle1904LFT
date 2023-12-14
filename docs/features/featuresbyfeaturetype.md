@@ -28,7 +28,7 @@ Name | Feature group | Data type | Availble for node types | Description | Examp
 [ln](ln.md#readme) | [`Lexical`](featuresbygroup.md#lexical-features) | [`word`](featuresbynodetype.md#word-nodes) | Louw-Nida lexical classification | `93.169a`
 [markafter](markafter.md#readme) | [`Orthographic`](featuresbygroup.md#orthographic-features) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker after word | `-` `)`
 [markbefore](markbefore.md#readme) | [`Orthographic`](featuresbygroup.md#orthographic-features) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Text critical marker before word| `-` `(`
-[markorder](markorder.md#readme) | [`Orthographic`](featuresbygroup.md#orthographic-features) | [`word`](featuresbynodetype.md#word-nodes) | Order of punctuation and text critical marker | ` ` `0` 
+[markorder](markorder.md#readme) | [`Orthographic`](featuresbygroup.md#orthographic-features) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Order of punctuation and text critical marker | ` ` `0` 
 [monad](monad.md#readme) | [`Sectional`](featuresbygroup.md#sectional-features) | `integer` | [`word`](featuresbynodetype.md#word-nodes)  | Monad (word order in corpus)| `1` .. `137779`
 [mood](mood.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | [`word`](featuresbynodetype.md#word-nodes) | Gramatical mood of a verb | `indicative` `optative `
 [morhp](morph.md#readme) | [`Morphological`](featuresbygroup.md#morphological-features) | `string` | [`word`](featuresbynodetype.md#word-nodes) |  Morphological tag | `V-AAI-3S` `N-GSF`
