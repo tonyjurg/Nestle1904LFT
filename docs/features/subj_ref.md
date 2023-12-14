@@ -5,7 +5,7 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 [`Lexical`](featuresbygroup.md#lexical-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes) | 🆗
 
 ## Feature description: 
-Subject reference (to [nodeID](nodeID.md#readme).
+Subject reference (to [nodeID](nodeID.md#readme)).
 
 ## Source description
 
