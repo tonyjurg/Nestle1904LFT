@@ -1,5 +1,5 @@
 # Text-Fabric features Nestle1904LFT (sorted by feature type)
-###### *(or browse by [node type](featuresbynodetype.md#readme) or [feature group](featuresbygroup.md#readme))*
+###### *(or browse by [node type](featuresbynodetype.md#readme), [data type](featuresbydatatype.md#readme), or [feature group](featuresbygroup.md#readme))*
 
 The features of this Text-Fabric dataset:
 
