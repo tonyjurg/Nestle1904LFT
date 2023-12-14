@@ -10,7 +10,7 @@ Syntactical role of the word (abbreviated)
 
 ## Feature values
 
-Value (this feature) | Description (feature [wordrolelong](wordrolelong.md#readme) | Frequency
+Value (this feature) | Description (feature [wordrolelong](wordrolelong.md#readme)) | Frequency
 --- | --- | ---
 adv | Adverbial	| 41598
 v | Verbal | 25817
