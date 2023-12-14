@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes)
+[`Morphological`](featuresbygroup.md#morphological-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype) | [`word`](featuresbynodetype.md#word-nodes) | ✅ 
 
 ## Feature description
 Gramatical number of a noun.
@@ -17,7 +17,7 @@ singular | Singular gramatical number | 69846
 
 ## Note
 
-See also related feature [person](person.md).
+See also related feature [person](person.md#readme).
 
 ## Source description
 
