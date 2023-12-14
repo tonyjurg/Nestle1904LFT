@@ -10,7 +10,7 @@ Syntactical role of the wordgroup (abbreviated).
 
 ## Feature values
 
-Value (this feature) | Description (feature [wgrolelong](wgrolelong.md#readme) | Frequency
+Value (this feature) | Description (feature [wgrolelong](wgrolelong.md#readme)) | Frequency
 --- |  --- | ---
 adv | Adverbial | 16710
 o | Object | 9329
