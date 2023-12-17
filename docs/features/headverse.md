@@ -8,6 +8,12 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 Starting location of a sentence (verse number in current chapter).
 
+## Notes
+
+This feature is also used add a label to a syntax tree displaying the verse where the shown sentence started: 
+
+<img src="images/headverse.png" width="500" >
+
 ## Source description
 
 Calculated from XML attribute `ref` of tag `w` (word) belonging to first word in sentence.
