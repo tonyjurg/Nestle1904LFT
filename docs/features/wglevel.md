@@ -10,6 +10,10 @@ Number of the parent wordgroups for a wordgroup.
 
 ## Notes
 
+The following image (part of the syntax tree of John 1 verse 1) demonstrates the function of feature wglevel:
+
+<img src="images/wordgrouplevel.png" width="500">
+
 See also the following related features:
    * [wgrule](wgrule.md#start): Class of the wordgroup.
    * [wgclass](wgclass.md#start): All material found before a word.
@@ -17,10 +21,6 @@ See also the following related features:
    * [wgrole](wgrole.md#start): Syntactical role of the word (abbreviated).
    * [wglevel](wglevel.md#start): Number of the parent wordgroups for a wordgroup.
    * [roleclausedistance](roleclausedistance.md#start): Distance to wordgroup defining the role of this word.
-
-The following image (part of the syntax tree of John 1 verse 1) demonstrates their relationship:
-
-<img src="images/clause_wg_wordrole.png" width="550">
 
 See also this [Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/relation_clause_wg_word.ipynb) for more details.
 
