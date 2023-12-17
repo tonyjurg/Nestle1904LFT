@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Grid`](featuresbygroup.md#grid-features) | [`Config`](featuresbyfeaturetype.md#config-features) | Text configuration | Not applicable | ✅
+[`Grid`](featuresbygroup.md#grid-features) | [`Config`](featuresbyfeaturetype.md#config-features) | Text configuration | Not applicable | [✅](featuresbystatus.md#Trustworthy "Trustworthy")
 
 ## Feature description
 

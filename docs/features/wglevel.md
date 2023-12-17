@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype)  | [`wg`](featuresbynodetype.md#wordgroup-nodes) | 🆗
+[`Syntactic`](featuresbygroup.md#syntactic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`integer`](featuresbydatatype.md#integer-datatype)  | [`wg`](featuresbynodetype.md#wordgroup-nodes) | [🆗](featuresbystatus.md#Reasonable "Reasonable")
 
 ## Feature description 
 

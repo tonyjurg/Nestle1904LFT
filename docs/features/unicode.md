@@ -2,7 +2,8 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Orthographic`](featuresbygroup.md#orthographic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes) | ✅
+[`Orthographic`](featuresbygroup.md#orthographic-features) | [`Node`](featuresbyfeaturetype.md#node-features) | [`string`](featuresbydatatype.md#string-datatype)  | [`word`](featuresbynodetype.md#word-nodes) | [✅](featuresbystatus.md#Trustworthy "Trustworthy")
+
 
 ## Feature description 
 
@@ -17,6 +18,9 @@ See also the following related features:
    * [wordunacc](wordunacc.md#start): Word without accents
 
 The following table will show the difference between these features using Mark 1:1 as example:
+
+![](images/textfeatures.png "Overview Textfeatures")
+
 
 <img src="images/textfeatures.png" width="600">
 
