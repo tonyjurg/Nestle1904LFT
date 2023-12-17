@@ -5,9 +5,9 @@ The status of the data related to each feature is indicated by one of the follow
 
 ## ✅ - Trustworthy
 
-## [🆗](featuresbystatus.md#Reasonable "Reasonable") - Reasonable
+## 🆗 - Reasonable
 
-## 
+## ❓ - Unknown
 
-## [⚠️](featuresbystatus.md#Caution "Caution") - Caution
+## ⚠️ - Caution
 
