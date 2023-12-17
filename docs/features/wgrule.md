@@ -51,7 +51,7 @@ See also the following related features:
 
 The following image (part of the syntax tree of John 1 verse 1) demonstrates their relationship:
 
-<img src="images/clause_wg_wordrole.png" width="500">
+<img src="images/clause_wg_wordrole.png" width="600">
 
 See also this [Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/relation_clause_wg_word.ipynb) for more details.
 
