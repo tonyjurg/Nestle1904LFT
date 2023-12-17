@@ -17,3 +17,6 @@ This icon is used when the reliability of the data is uncertain. It indicates th
 ## ⚠️ - Caution
 
 The caution icon is a warning that the data associated with the feature may have known issues or discrepancies. Users are advised to use this data with a high degree of caution and to critically evaluate it in the context of other available information. 
+
+---
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
