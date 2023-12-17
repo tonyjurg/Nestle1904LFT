@@ -8,6 +8,10 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 Number of the parent wordgroups for a wordgroup.
 
+## Feature values
+
+An integer indicating the distance between current wordgroup and the root of the sentence.
+
 ## Notes
 
 The following image (part of the syntax tree of John 1 verse 1) demonstrates the function of feature wglevel:
@@ -26,7 +30,7 @@ See also this [Jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904
 
 ## Source description
 
-calculated
+Calculated value.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
