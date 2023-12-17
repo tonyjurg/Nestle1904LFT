@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 ## Feature description
 
-Clause type information 
+Clause type information. The content of this feature (when pressent) is included in wordgroup label. 
 
 ## Feature values
 
@@ -16,6 +16,12 @@ Value | Description | Frequency
 `VerbElided` | Verb Elided Clause: contains no verbal function (implied or carried over) | 1009
 `Verbless` | Verbless Clause: relational clause without explicit verbal colula | 929
 `Minor`	| Minor Clause: without any predication |  830
+
+## Notes
+
+The following image shows an example of two `VerbElided` clauses, showing the absence of a verb:
+
+<img src="images/verbelidedclause.png" width="600">
 
 ## Additional information
 
