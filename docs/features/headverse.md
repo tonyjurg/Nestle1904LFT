@@ -16,7 +16,7 @@ This feature is also used add a label to a syntax tree displaying the verse wher
 
 ## Source description
 
-Calculated from XML attribute `ref` of tag `w` (word) belonging to first word in sentence.
+Calculated from XML attribute `ref` of tag `w` (word) belonging to first word in the sentence.
 
 ---
 ###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
