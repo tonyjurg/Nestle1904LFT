@@ -16,6 +16,9 @@ See also the following related features:
    * [wordtranslit](wordtranslit.md#start): Word transliterated to Latin characters	
    * [wordunacc](wordunacc.md#start): Word without accents
 
+The following table will show the difference between these features using Mark 1:1 as example:
+
+<img src="images/textfeatures.png" width="600">
 
 Use the option `fmt='text-normalized'` to print results in transliterated format. Following example will print Mark 1:1 in normalized format:
 
@@ -24,11 +27,11 @@ T.text(139200,fmt='text-normalized')
 Ἀρχή τοῦ εὐαγγελίου Ἰησοῦ Χριστοῦ Υἱοῦ Θεοῦ. 
 </pre>
 
-See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb#bullet3x3).
+See this [jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb#bullet3x2) for usage examples.
 
 ## Source description
 
 Taken from XML attribute `normalized` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

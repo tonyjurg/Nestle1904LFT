@@ -56,4 +56,4 @@ Linguistic types correspond to syntactical entities such as sentences, clauses a
 The functional object types in this dataset are `sentence` and `wg`; where a wordgroup can function either as a phrase or a clause.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

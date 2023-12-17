@@ -8,9 +8,13 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 English gloss.
 
+## Feature values
+
+The gloss also considers grammatical aspects such as tense, mood, case, gender, and number.
+
 ## Source description
 
 Taken from XML attribute `gloss` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

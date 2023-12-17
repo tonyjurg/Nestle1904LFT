@@ -10,11 +10,11 @@ Lexical lemma according to Bible Dictionary of Ancient Greek (BDAG) and/or ANLEX
 
 ## Feature values
 
-A string (Greek text).
+The dictionairy form of the Greek word (encoded in Unicode).
 
 ## Source description
 
 Taken from XML attribute `lemma` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 ## Feature description 
 
-The word as it appears in the text (excl. [punctuations](after.md#start) and [critical markers](featuresbygroup.md#textcritical-features)). 
+The word as it appears in the text excluding [punctuations](after.md#start) and [critical markers](featuresbygroup.md#textcritical-features)). In terms of the synatax tree this is considered the terminal node.
 
 ## Notes
 
@@ -15,12 +15,14 @@ See also the following related features:
    * [unicode](unicode.md#start): Word as it appears in the text (in unicode)
    * [wordtranslit](wordtranslit.md#start): Word transliterated to Latin characters	
    * [wordunacc](wordunacc.md#start): Word without accents
+   
+The following table will show the difference between these features using Mark 1:1 as example:
 
-In terms of the synatax tree this is considered the terminal node.
+<img src="images/textfeatures.png" width="600">
 
 ## Source description
 
 Taken from the data of XML tag `w`.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

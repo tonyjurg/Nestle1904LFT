@@ -42,7 +42,7 @@ Rev | Revelation | 27
 
 ## Source description
 
-Taken from XML attribute `id` of tag `book`.
+Based (converted) upon XML attribute `id` of tag `book`.
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*

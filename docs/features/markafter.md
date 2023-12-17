@@ -24,7 +24,11 @@ markafter | Description | Frequency
 See also the following related features:
    * [markbefore](markbefore.md#start): Text critical marker before word.
    * [markorder](markorder.md#start): Order of punctuation and text critical marker.
-    
+
+The following image shows the relation between these features:
+
+<img src="images/criticalsigns.png" width="450">
+
 Use the option `fmt='text-critical'` to print the text including text critical marks, see following example from Mark 1:1.
 
 <pre>
@@ -39,4 +43,4 @@ See also the following [Jupyter Notebook](https://nbviewer.org/github/tonyjurg/N
 Computed based upon from XML attribute `unicode` of tag `w` (word).
 
 ---
-###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [Datatype](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
+###### *Browse all features by [node type](featuresbynodetype.md#start), [feature group](featuresbygroup.md#start), [data type](featuresbydatatype.md#start)  or [feature type](featuresbyfeaturetype.md#start).*
