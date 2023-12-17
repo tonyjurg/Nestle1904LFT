@@ -40,7 +40,7 @@ value | explanation | Frequency
 `Np2CL` | | 781
 `NpPp` | | 676
 
-## Note
+## Notes
 See also the following related features:
    * [wgrule](wgrule.md#start): Class of the wordgroup.
    * [wgclass](wgclass.md#start): All material found before a word.
