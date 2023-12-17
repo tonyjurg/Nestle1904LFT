@@ -19,9 +19,6 @@ See also the following related features:
 
 The following table will show the difference between these features using Mark 1:1 as example:
 
-![](images/textfeatures.png "Overview Textfeatures")
-
-
 <img src="images/textfeatures.png" width="600">
 
 See this [jupyter notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/various_text_formats.ipynb#bullet3x2) for usage examples.
