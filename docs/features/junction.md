@@ -18,6 +18,11 @@ value | Description | Frequency
 ` `  | Empty | 93392
 
 ## Note
+
+See the following image for an example apposition:
+
+<img src="images/apposition.png" width="600">
+
 See also the related feature [wgrule](wgrule.md#start).
 
 ## Source description
