@@ -1,4 +1,4 @@
-# Feature Status <a name="start"></a>
+# Feature Status Indicators <a name="start"></a>
 
 When working with a text-fabric dataset, understanding the status of data related to each feature is essential for accurate analysis and interpretation. In this Text-Fabric dataset, each feature's status is indicated by specific icons, providing a quick and intuitive understanding of the data's reliability and quality. These icons, along with their meanings, are as follows:
 
