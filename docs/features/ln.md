@@ -17,9 +17,9 @@ xx.yy  | one or more entries for the Louw-Nida references | 126756
 
 ## Note
 
-Lookup values for feature ln in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
+The Louw-Nida Lexical Classification, by Johannes P. Louw and Eugene A. Nida, is a system for organizing New Testament Greek vocabulary. It categorizes words into 93 semantic domains based on meaning and context, emphasizing the importance of context in understanding word nuances. Lookup of values for feature ln can be performed in [Louw-Nida Lexicon](https://www.laparola.net/greco/louwnida.php).
 
-See also the related feature [lex_dom](lex_dom.md#start)
+See also the related feature [lex_dom](lex_dom.md#start).
 
 ## Source description
 
