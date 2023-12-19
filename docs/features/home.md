@@ -15,7 +15,7 @@ The full featureset of this Text-Fabric dataset can be viewed by different group
      * [`Textcritical`](featuresbygroup.md#textcritical-features): deals with features related to textual critical issue.
      * [`Morphological`](featuresbygroup.md#morphological-features):  involves attributes that describe the internal structure and form of words.
      * [`Syntactic`](featuresbygroup.md#syntactic-features): covers properties related to the arrangement of words and phrases to form meaningful sentences and phrases. 
-     * [`Relational`](featuresbygroup.md#relational-features):  encompasses attributes that describe various relationships or connections between elements in the text.
+     * [`Relational`](featuresbygroup.md#relational-features): encompasses attributes that describe relationships or connections between nodes.
 * [Grouped by node type](featuresbynodetype.md#start):
      * [`word`](featuresbynodetype.md#word-nodes): represents individual words in the text.
      * [`wg`](featuresbynodetype.md#wordgroup-nodes) (wordgroup): refers to a collection or grouping of words that form a cohesive unit.
