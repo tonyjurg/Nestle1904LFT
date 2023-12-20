@@ -19,6 +19,10 @@ Also in this directory are a few Jupyter Notebooks related to handling of the so
  * [Splitting ref into parts](splitting_ref_into_parts.ipynb)
  * [Test XML import LowFat](test_xml_import_low_fat.ipynb)
  * [Testloading smallbuild](testloading_smallbuild.ipynb)
+ * [Position of generaly postpositive conjunctions](position_generally_postpositive_conjunctions.ipynb)
+ * [Swapping of wordorders in XML source files](swap_of_wordorder.ipynb)
+ * [setting up a local playground to test TF](LocalPlayGround.ipynb)
+ * [Difference between feature 'word' and 'unicode'](compare_word_and_unicode.ipynb)
 
 Some additonal notes regarding the LowFat XML source:
  * [Notes on the \<P\> tag in LowFat Trees XML](notes/the_p_tag.md)
