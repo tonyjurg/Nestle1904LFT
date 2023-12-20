@@ -8,10 +8,8 @@ This section contains the following:
 Also in this directory are a few Jupyter Notebooks related to handling of the source data:
  * [Check the feature monad](Check_feature_monad.ipynb)
  * [Compare content of two XML files](CompareTwoXMLfiles.ipynb).
- * [Examining the differences between features 'word' and 'normalized'](differences_word_normalized.ipynb).
  * [Find duplicate structure headings](duplicate.ipynb).
  * [Identifying the use of critical signs in the text](identifying_critical_signs.ipynb).
- * [Comparing attributes 'unicode', 'normalized' in the XML data](unicode_normalized_tagvalue_comparison.ipynb).
  * [Stylesheeting input XML data](Stylesheeting_input_XML_data.ipynb)
  * [Compare class morph](compare_class_morph.ipynb)
  * [Feature unaccented transliterated](feature_unaccented_transliterated.ipynb)
