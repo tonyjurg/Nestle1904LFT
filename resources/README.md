@@ -1,7 +1,7 @@
 # Repository of resources
 
 This section contains the following:
-  * [Converter](converter#readme): The various jupyter notebooks used for the two-step conversion (XML->pickle->TF)
+  * [converter](converter#readme): The various jupyter notebooks used for the two-step conversion (XML->pickle->TF)
   * [xml](xml#readme): The various versions of the XML data (used as input to the first step of the conversion, i.e. XML -> pickle).
   * [pickle](pickle#readme): The various versions of the (zipped) pickle files (=output step 1) used for creating the Text-Fabric files.
 
@@ -19,7 +19,7 @@ Also in this directory are a few Jupyter Notebooks related to handling of the so
  * [Testloading smallbuild](testloading_smallbuild.ipynb)
  * [Position of generaly postpositive conjunctions](position_generally_postpositive_conjunctions.ipynb)
  * [Swapping of wordorders in XML source files](swap_of_wordorder.ipynb)
- * [setting up a local playground to test TF](LocalPlayGround.ipynb)
+ * [Setting up a local playground to test TF](LocalPlayGround.ipynb)
  * [Difference between feature 'word' and 'unicode'](compare_word_and_unicode.ipynb)
 
 Some additonal notes regarding the LowFat XML source:
