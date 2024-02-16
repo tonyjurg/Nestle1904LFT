@@ -7,6 +7,7 @@ The following are local copies of the source data which was obtained from the fo
 * [XML data Mar 21, 2023](20230321/README.md)
 * [XML data Jun 28, 2023](20230628/README.md)
 * [XML data Aug 16, 2023](20230816/README.md) - [source commit details](https://github.com/Clear-Bible/macula-greek/commit/0e0c2fbcd63d25270fe6ada8b662f8c06f291879)
+* [XML data Feb 10, 2024](20240210/README.md) 
 
 # Attribution and legal notices
 
