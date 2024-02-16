@@ -57,7 +57,7 @@ provenanceSpec:
   corpus: "Nestle 1904 (Low Fat Tree)"
   org: "tonyjurg"
   repro: "Nestle1904LFT"
-  version: "0.6"
+  version: "0.7"
   doi: "10.5281/zenodo.10182594"
   webBase: https://learner.bible/text/show_text/nestle1904/
   webHint: Show this on the Bible Online Learner website
