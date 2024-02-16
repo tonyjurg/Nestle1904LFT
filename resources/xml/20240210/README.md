@@ -1,6 +1,6 @@
-# XML source data (Aug 16, 2023)
+# XML source data (Feb 10, 2024)
 
-This is a local copy of the source data obtained from the following [Clear-Bible GitHub page](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat).
+This is a local copy of the source data obtained from the following [Clear-Bible GitHub page](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat). The main difference between this source and the previous relates to feature 'strongs' (corrections and splitting of composed words - e.g., "ἐκπερισσῶς" from "4057" to "1537+4053").
 
 # Attribution and legal notices
 
