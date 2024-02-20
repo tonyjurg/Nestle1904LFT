@@ -14,7 +14,7 @@
 @xmlSourceDate=February 10, 2024
 @xmlSourceLocation=https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml/20240210
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-20T13:52:34Z
+@dateWritten=2024-02-20T14:47:20Z
 
 1-137779	word
 137780-137806	book
