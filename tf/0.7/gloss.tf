@@ -15,7 +15,7 @@
 @xmlSourceDate=February 10, 2024
 @xmlSourceLocation=https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml/20240210
 @writtenBy=Text-Fabric
-@dateWritten=2024-02-20T18:06:58Z
+@dateWritten=2024-02-20T18:19:54Z
 
 [The] book
 of [the] genealogy
