@@ -12,7 +12,7 @@
 
 This repository contains (a copy of) the sourcedata, conversion tools and final dataset of a Text-Fabric implementation of the Nestle 1904 Greek New Testament (based on LowFat XML node).
 
-The source data for the conversion are the XML LowFat files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testament (British Foreign Bible Society 1904). The starting dataset is formatted according to Syntax diagram markupinitially prepared by the Asia Bible Society and currently made available by [Biblica, Inc](https://www.biblica.com/). The most recent source data can be found on [GitHub](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat).
+The source data for the conversion are the XML LowFat files representing the macula-greek version of Eberhard Nestle's 1904 Greek New Testament (British Foreign Bible Society 1904, 7th edition 1913). The starting dataset is formatted according to Syntax diagram markupinitially prepared by the Asia Bible Society and currently made available by [Biblica, Inc](https://www.biblica.com/). The most recent source data can be found on [GitHub](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/lowfat).
 
 The following directories contain the actual (base) Text-Fabric featureset:
  * [app](app#readme): app config data.
