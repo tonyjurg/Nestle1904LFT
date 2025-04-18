@@ -3,6 +3,10 @@
 
 # Text-Fabric Nestle 1904 Greek New Testament (based on LowFat XML node)
 
+<div class="box" style="border: 1px solid #333;">
+<b>Important:</b>b>This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904‑TF</A> dataset. This repository is archived as a reference implementation.
+</div>
+
 ## Quick starters
 * [Install, load and use Text-Fabric in Jupyter Notebook](https://nbviewer.org/github/tonyjurg/Nestle1904LFT/blob/main/docs/usecases/load_text_fabric.ipynb)
 * [Read about Text-Fabric, the project, this dataset, and the features](https://tonyjurg.github.io/Nestle1904LFT/)
