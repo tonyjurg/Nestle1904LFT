@@ -1,3 +1,8 @@
+[![status: superseded](https://img.shields.io/badge/status-superseded-red?logo=github&logoColor=white)](https://github.com/CenterBLC/N1904) 
+
+> [!IMPORTANT]
+> This Text-Fabric version has been superseded by the functionaly enhanced <A HREF="https://centerblc.github.io/N1904/">N1904‑TF</A> dataset. This repository is archived as an earlier reference implementation.
+
 # About this dataset
 
 This repository is part of a set of repositories dedicated to storing the code and data generated for the 'Nestle 1904 Text-Fabric conversion project'. One of the objectives of this project is to create a high-quality Text-Fabric presentation of the Treebank Nestle 1904 Greek New Testament, resembling the Text-Fabric implementation of the Hebrew Old Testament ([BHSA](https://github.com/ETCBC/bhsa)). The project is a collaboration between [ETCBC](https://github.com/ETCBC) (Vrije Universiteit Amsterdam) and [CBLC](https://github.com/CenterBLC) (Andrews University). 
@@ -38,7 +43,7 @@ Text-Fabric implementation | Source data | Production tool | Syntactic informati
 [Nestle1904GBI](https://tonyjurg.github.io/Nestle1904GBI/) | [‘GBI nodes’](https://github.com/tonyjurg/Nestle1904GBI/tree/main/resources/sourcedata) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | ‘Basic’ | 'interpretation' 
 [Nestle1904LFT](https://tonyjurg.github.io/Nestle1904LFT/) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.walker](https://annotation.github.io/text-fabric/tf/convert/walker.html#tf.convert.walker) | 'Full' | ‘as found’ 
 [tfgreek2](https://github.com/saulocantanhede/tfgreek2) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml) | 'Full' | 'hybrid'
-[Nestle1904](https://github.com/ETCBC/nestle1904) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml) | 'Full' | 'hybrid'
+[N1904-TF](https://github.com/CenterBLC/N1904) | [‘Low Fat Tree’](https://github.com/tonyjurg/Nestle1904LFT/tree/main/resources/xml) | [tf.convert.xml](https://annotation.github.io/text-fabric/tf/convert/xml.html#tf.convert.xml) | 'Full' | 'hybrid'
 
 ## Syntax tree presentation
 
@@ -61,7 +66,7 @@ The Nestle1904GBI implementation presents the syntactical structure in its most 
 The Nestle1904LFT implementation stays very close to the underlying XML source data. Interpretation and modification of data has been limited to the bare minimum. The Nestle1904LFT implementation lacks the explict use of concepts like 'clause' or 'phrases' and only  uses the concept 'word group'. These 'word groups' can function as 'clause', 'phrase', a combination of conjunctions and clauses or other groups like apposition containers.
 <img src="assets/images/john1v1LFT.jpg" alt="John 1v1 in Nestle1904LFT Text-Fabric">
 
-### The tfgreek2 / Nestle1904 (future ETCBC) implementation
+### The tfgreek2 / N1904-TF (future CenterBLC) implementation
 
 This Text-Fabric dataset includes both the original 'wg' nodes containing word group data from the source XML, as well as the interpreted forms where each 'wg' node has been transformed into either a 'clause', 'phrase', or 'subphrase' node based on the original 'wg' data. By means of this interpretation, this dataset provides extensive additional information. Consequently, various syntax tree displays are possible. The subsequent subsections illustrate the three distinct views,  highlighting their fundamental differences
 
@@ -87,9 +92,3 @@ When the display of 'clauses', 'phrases' and 'subphrases' is switched off, the t
 ## Validity of data
 
 When using a dataset for analysis or research, it is essential to assess whether it is fit for the intended purpose. In the case of this dataset, there is a crucial aspect to keep in mind. The dataset is based on an open-source project and utilizes the [Nestle 1904 edition](https://archive.org/details/the-greek-new-testament-nestle-1904-us-edition) of the Greek text of the New Testament (or more accurately, [the 1913 reprint](https://archive.org/details/hkainediathekete00lond). See also [this FAQ](https://sites.google.com/site/nestle1904/faq)). This version was chosen because its copyright has expired, making it available in the Public Domain. It is worth noting that the current standard version used in academic settings is the [Nestle-Aland edition 28](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/). Despite this, the Nestle 1904 provided by this Text-Fabric implementation, is the closest version in terms of the ‘principal text’ available in the public domain which is suitable to perform syntactical analysis. 
-
-
-
-
-
-
