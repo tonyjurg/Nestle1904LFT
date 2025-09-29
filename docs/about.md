@@ -11,7 +11,7 @@ The 'Nestle 1904 Text-Fabric conversion project' produced various Text-Fabric pr
 * Nestle1904GBI: [`Webpage`](https://tonyjurg.github.io/Nestle1904GBI/) [`Github`](https://github.com/tonyjurg/Nestle1904GBI)
 * Nestle1904LFT: [`Webpage`](https://tonyjurg.github.io/Nestle1904LFT/) [`Github`](https://github.com/tonyjurg/Nestle1904LFT)
 * tfgreek2 (test version for final product): [`Github`](https://github.com/saulocantanhede/tfgreek2)
-* Nestle1904 (CBLC version): [`Github`](https://github.com/CenterBLC/N1904)
+* N1904-TF (CenterBLC version): [`Github`](https://github.com/CenterBLC/N1904)
 
 Each version utilizes a different conversion method and/or employs different source data, resulting in a distinct set of features that have been tailored to its specific intended use.
 
